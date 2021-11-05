@@ -1,10 +1,9 @@
-name: the magic of Github Actions
 on: [push]
+
 jobs:
-  name: Update README with Info
-  description: Update the README with cool information
-  Explore-GitHub-Actions:
+  update_readme:
     runs-on: ubuntu-latest
+    name: Update README with Info
     steps:
       - name: can i get a heya
         run: |
