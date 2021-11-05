@@ -41,18 +41,27 @@ const octokit = new Octokit({
     auth: GH_PERSONAL_TOKEN,
 });
 
-const { data: { sha } } = await octokit.request('GET /repos/{owner}/{repo}/contents/{file_path}', {
-    owner: "PatheticMustan",
-    repo: "testReadme",
-    file_path: "README.md"
-});
+let sha = "";
+try {
+    const readmeFile = await octokit.request('GET /repos/{owner}/{repo}/contents/{file_path}', {
+        owner: "PatheticMustan",
+        repo: "testReadme",
+        file_path: "README.md"
+    });
+    // file already exists, get SHA
+    sha = readmeFile.data.sha;
+} catch (e) {
+    // file doesn't exist, leave SHA blank
+    console.log("ouch! file doesn't already exist");
+}
+
 
 
 const { response } = await octokit.repos.createOrUpdateFileContents({
     // replace the owner and email with your own details
     owner: "PatheticMustan",
     repo: "testReadme",
-    path: "README.md",
+    path: "eee.md",
     message: "updated README through Github Actions!",
     sha: sha,
     content: Buffer.from(readmeText).toString("base64"),
