@@ -30,7 +30,12 @@ Oh yeah, the latest and greatest songs listened to!
 
 ${
     songList
-        .map(v => `- [${v.name}](${v.url}), by ${v.artist["#text"]} (streamed ${v.date["#text"]})`)
+        .map(v => {
+            let playtime = "";
+            playtime = (v?.["@attr"]?.nowplaying === true)? "streaming Now" : `streamed ${v.date["#text"]}`;
+            
+            return `- [${v.name}](${v.url}), by ${v.artist["#text"]} (${playtime})`
+        })
         .join("\n")
 }
 `;
