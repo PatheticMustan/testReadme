@@ -1,0 +1,22 @@
+{
+  "name": "testreadme",
+  "version": "1.0.0",
+  "description": "ahhhh is it the latest updated one?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatheticMustan/testReadme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PatheticMustan/testReadme/issues"
+  },
+  "homepage": "https://github.com/PatheticMustan/testReadme#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
