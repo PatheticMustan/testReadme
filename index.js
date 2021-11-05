@@ -1,4 +1,5 @@
 require('dotenv').config();
+const fetch = require("node-fetch");
 const { LASTFM_API_KEY, GH_PERSONAL_TOKEN } = process.env;
 
 // all i wanted was top level async
