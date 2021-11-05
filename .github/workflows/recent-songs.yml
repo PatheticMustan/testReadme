@@ -1,16 +1,10 @@
-on: [push]
+on: [workflow_dispatch]
 
 jobs:
   update_readme:
     runs-on: ubuntu-latest
     name: Update README with Info
     steps:
-      - name: insert .env
-        run: |
-          touch .env
-          echo GH_PERSONAL_TOKEN=${{secrets.GH_PERSONAL_TOKEN}} >> .env
-          echo LASTFM_API_KEY=${{secrets.LASTFM_API_KEY}} >> .env
-
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2
         with:
@@ -18,3 +12,6 @@ jobs:
       - run: npm install
 
       - run: node ./index.js
+        env:
+          GH_PERSONAL_TOKEN: ${{secrets.GH_PERSONAL_TOKEN}}
+          LASTFM_API_KEY: ${{secrets.LASTFM_API_KEY}}
