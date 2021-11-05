@@ -61,7 +61,7 @@ const { response } = await octokit.repos.createOrUpdateFileContents({
     // replace the owner and email with your own details
     owner: "PatheticMustan",
     repo: "testReadme",
-    path: "eee.md",
+    path: "README.md",
     message: "updated README through Github Actions!",
     sha: sha,
     content: Buffer.from(readmeText).toString("base64"),
