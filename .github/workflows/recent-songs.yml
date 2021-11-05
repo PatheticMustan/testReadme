@@ -5,9 +5,16 @@ jobs:
     runs-on: ubuntu-latest
     name: Update README with Info
     steps:
-      - name: can i get a heya
+      - name: insert .env
         run: |
           touch .env
           echo GH_PERSONAL_TOKEN=${{secrets.GH_PERSONAL_TOKEN}} >> .env
           echo LASTFM_API_KEY=${{secrets.LASTFM_API_KEY}} >> .env
-          node index.js
+
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+        node-version: '14'
+      - run: npm install
+      
+      - run: node ./index.js
