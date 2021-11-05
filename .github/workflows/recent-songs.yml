@@ -1,5 +1,6 @@
-name: 'Update README with Info'
-description: 'Update the README with cool information'
+name: Update README with Info
+description: Update the README with cool information
+on: push
 jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
