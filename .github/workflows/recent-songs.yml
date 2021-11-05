@@ -1,7 +1,8 @@
-name: Update README with Info
-description: Update the README with cool information
-on: push
+name: the magic of Github Actions
+on: [push]
 jobs:
+  name: Update README with Info
+  description: Update the README with cool information
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
     steps:
