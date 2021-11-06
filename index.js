@@ -30,16 +30,15 @@ Oh yeah, the latest and greatest songs listened to!
 
 ${
     songList
-        .map(v => {
+        .map((v, i) => {
             let playtime = "";
-            playtime = (v?.["@attr"]?.nowplaying === true)? "streaming Now" : `streamed ${v.date["#text"]}`;
+            playtime = v?.date?.["#text"] || "streaming now";
             
             return `- [${v.name}](${v.url}), by ${v.artist["#text"]} (${playtime})`
         })
         .join("\n")
 }
 `;
-
 
 
 const octokit = new Octokit({
