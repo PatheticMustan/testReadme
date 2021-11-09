@@ -1,9 +1,14 @@
 
 # Spotify Stats
-## Last Updated Tue Nov 09 2021 18:40:07 GMT+0000 (Coordinated Universal Time))
+## Last Updated Tue Nov 09 2021 20:34:29 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [2010](https://www.last.fm/music/The+Keystones/_/2010), by The Keystones (streaming now)
+- [stick around](https://www.last.fm/music/brotherkenzie/_/stick+around), by brotherkenzie (09 Nov 2021, 20:28)
+- [Mother Mary](https://www.last.fm/music/Tom+Auton/_/Mother+Mary), by Tom Auton (09 Nov 2021, 20:26)
+- [Hand Me My Shovel, I'm Going In!](https://www.last.fm/music/Will+Wood+and+the+Tapeworms/_/Hand+Me+My+Shovel,+I%27m+Going+In!), by Will Wood and the Tapeworms (09 Nov 2021, 20:20)
+- [Клише](https://www.last.fm/music/%D0%92%D0%BE%D0%BA%D1%80%D1%83%D0%B3+%D0%A4%D0%BE%D0%BD%D0%B0%D1%80%D0%BD%D0%BE%D0%B3%D0%BE+%D0%A1%D1%82%D0%BE%D0%BB%D0%B1%D0%B0/_/%D0%9A%D0%BB%D0%B8%D1%88%D0%B5), by Вокруг Фонарного Столба (09 Nov 2021, 12:42)
 - [I Will Never (Be Your Friend)](https://www.last.fm/music/Irish+Stew+of+Sindidun/_/I+Will+Never+(Be+Your+Friend)), by Irish Stew of Sindidun (09 Nov 2021, 12:37)
 - [Cover Me in Roses](https://www.last.fm/music/Holden+Laurence/_/Cover+Me+in+Roses), by Holden Laurence (09 Nov 2021, 12:32)
 - [The Woods](https://www.last.fm/music/San+Fermin/_/The+Woods), by San Fermin (09 Nov 2021, 12:28)
@@ -48,9 +53,5 @@ Oh yeah, the latest and greatest songs listened to!
 - [Falling Off](https://www.last.fm/music/The+People%27s+Thieves/_/Falling+Off), by The People's Thieves (09 Nov 2021, 04:44)
 - [Astronaut in the Ocean](https://www.last.fm/music/Masked+Wolf/_/Astronaut+in+the+Ocean), by Masked Wolf (09 Nov 2021, 04:41)
 - [Can't Go To Hell](https://www.last.fm/music/Sin+Shake+Sin/_/Can%27t+Go+To+Hell), by Sin Shake Sin (09 Nov 2021, 04:37)
+- [Next to You](https://www.last.fm/music/Flavors/_/Next+to+You), by Flavors (09 Nov 2021, 04:33)
 - [Cooler Than Me](https://www.last.fm/music/First+to+Eleven/_/Cooler+Than+Me), by First to Eleven (09 Nov 2021, 04:33)
-- [Next to You](https://www.last.fm/music/Flavors/_/Next+to+You), by Flavors (09 Nov 2021, 04:30)
-- [Fireflies](https://www.last.fm/music/Chris+Garneau/_/Fireflies), by Chris Garneau (09 Nov 2021, 04:27)
-- [Lonely Vampire](https://www.last.fm/music/Weathers/_/Lonely+Vampire), by Weathers (09 Nov 2021, 04:25)
-- [Prime](https://www.last.fm/music/Roan+Martin/_/Prime), by Roan Martin (09 Nov 2021, 04:19)
-- [Goat's Milk](https://www.last.fm/music/Ezra+Bell/_/Goat%27s+Milk), by Ezra Bell (09 Nov 2021, 04:16)
