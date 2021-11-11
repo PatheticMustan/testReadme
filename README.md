@@ -1,9 +1,12 @@
 
 # Spotify Stats
-## Last Updated Thu Nov 11 2021 18:40:02 GMT+0000 (Coordinated Universal Time))
+## Last Updated Thu Nov 11 2021 20:34:41 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Ode to the Mets](https://www.last.fm/music/The+Strokes/_/Ode+to+the+Mets), by The Strokes (11 Nov 2021, 19:27)
+- [pretty poison](https://www.last.fm/music/Nessa+Barrett/_/pretty+poison), by Nessa Barrett (11 Nov 2021, 19:24)
+- [Moanin'](https://www.last.fm/music/Mingus+Big+Band/_/Moanin%27), by Mingus Big Band (11 Nov 2021, 18:14)
 - [Next to You](https://www.last.fm/music/Flavors/_/Next+to+You), by Flavors (11 Nov 2021, 09:11)
 - [delight days](https://www.last.fm/music/BROCKBEATS/_/delight+days), by BROCKBEATS (11 Nov 2021, 09:09)
 - [Stray Italian Greyhound](https://www.last.fm/music/Vienna+Teng/_/Stray+Italian+Greyhound), by Vienna Teng (10 Nov 2021, 04:11)
@@ -51,6 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Alphabet Soup](https://www.last.fm/music/The+Losing+Score/_/Alphabet+Soup), by The Losing Score (09 Nov 2021, 12:10)
 - [Sick Crowd](https://www.last.fm/music/Teddy+Hyde/_/Sick+Crowd), by Teddy Hyde (09 Nov 2021, 12:06)
 - [i don't really mind](https://www.last.fm/music/DJ+PoolBoi/_/i+don%27t+really+mind), by DJ PoolBoi (09 Nov 2021, 12:00)
-- [Disconnected](https://www.last.fm/music/Joe+Hertler+&+the+Rainbow+Seekers/_/Disconnected), by Joe Hertler & the Rainbow Seekers (09 Nov 2021, 11:55)
-- [Sophie](https://www.last.fm/music/The+Altogether/_/Sophie), by The Altogether (09 Nov 2021, 11:46)
-- [Be Afraid](https://www.last.fm/music/Daniel+Knox/_/Be+Afraid), by Daniel Knox (09 Nov 2021, 11:41)
