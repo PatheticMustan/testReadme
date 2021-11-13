@@ -1,9 +1,10 @@
 
 # Spotify Stats
-## Last Updated Sat Nov 13 2021 16:54:21 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sat Nov 13 2021 18:38:59 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Out Like a Light 2](https://www.last.fm/music/The+Honeysticks/_/Out+Like+a+Light+2), by The Honeysticks (13 Nov 2021, 05:51)
 - [Lazy Nina](https://www.last.fm/music/Greg+Phillinganes/_/Lazy+Nina), by Greg Phillinganes (13 Nov 2021, 05:46)
 - [Stay With Me](https://www.last.fm/music/Better+Love/_/Stay+With+Me), by Better Love (13 Nov 2021, 05:42)
 - [We Grew Up So Well](https://www.last.fm/music/Jack+Conte/_/We+Grew+Up+So+Well), by Jack Conte (13 Nov 2021, 05:40)
@@ -53,4 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [End of It](https://www.last.fm/music/Friday+Pilots+Club/_/End+of+It), by Friday Pilots Club (12 Nov 2021, 02:10)
 - [Grilled Cheese](https://www.last.fm/music/Peach+Face/_/Grilled+Cheese), by Peach Face (12 Nov 2021, 02:06)
 - [White Noise Boys](https://www.last.fm/music/Airways/_/White+Noise+Boys), by Airways (12 Nov 2021, 02:02)
-- [It's Ok to Be Lonely](https://www.last.fm/music/Moth%C3%A9/_/It%27s+Ok+to+Be+Lonely), by Mothé (12 Nov 2021, 01:59)
