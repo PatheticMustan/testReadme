@@ -1,9 +1,11 @@
 
 # Spotify Stats
-## Last Updated Mon Nov 15 2021 12:52:54 GMT+0000 (Coordinated Universal Time))
+## Last Updated Mon Nov 15 2021 14:32:36 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Telling Myself](https://www.last.fm/music/Nicholas+Podany/_/Telling+Myself), by Nicholas Podany (15 Nov 2021, 12:54)
+- [Spiders](https://www.last.fm/music/Run+River+North/_/Spiders), by Run River North (15 Nov 2021, 12:47)
 - [As the World Caves In - Acoustic](https://www.last.fm/music/Matt+Maltese/_/As+the+World+Caves+In+-+Acoustic), by Matt Maltese (15 Nov 2021, 07:40)
 - [Keep Two-Stepping](https://www.last.fm/music/Pretoria/_/Keep+Two-Stepping), by Pretoria (15 Nov 2021, 07:36)
 - [I Could Do Better](https://www.last.fm/music/Aviv/_/I+Could+Do+Better), by Aviv (15 Nov 2021, 07:32)
@@ -52,5 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Distance](https://www.last.fm/music/The+Velvet+Cab/_/Distance), by The Velvet Cab (14 Nov 2021, 20:42)
 - [Lazy Nina](https://www.last.fm/music/Greg+Phillinganes/_/Lazy+Nina), by Greg Phillinganes (14 Nov 2021, 20:36)
 - [Grow Back](https://www.last.fm/music/The+Happy+Fits/_/Grow+Back), by The Happy Fits (14 Nov 2021, 20:31)
-- [the golden hour](https://www.last.fm/music/Louie+Zong/_/the+golden+hour), by Louie Zong (14 Nov 2021, 20:29)
-- [I Wanna Boi](https://www.last.fm/music/PWR+BTTM/_/I+Wanna+Boi), by PWR BTTM (14 Nov 2021, 20:27)
