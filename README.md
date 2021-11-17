@@ -1,9 +1,14 @@
 
 # Spotify Stats
-## Last Updated Wed Nov 17 2021 18:33:55 GMT+0000 (Coordinated Universal Time))
+## Last Updated Wed Nov 17 2021 20:34:48 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Vampire Chick](https://www.last.fm/music/Shawlin+Supreme+&+the+Kick+Back+Boys/_/Vampire+Chick), by Shawlin Supreme & the Kick Back Boys (17 Nov 2021, 20:21)
+- [A Child's Tale](https://www.last.fm/music/Bukahara/_/A+Child%27s+Tale), by Bukahara (17 Nov 2021, 20:18)
+- [What Do You Want From Me Tonight?](https://www.last.fm/music/Sidney+Gish/_/What+Do+You+Want+From+Me+Tonight%3F), by Sidney Gish (17 Nov 2021, 20:16)
+- [Culling](https://www.last.fm/music/Fein/_/Culling), by Fein (17 Nov 2021, 20:12)
+- [Next to You](https://www.last.fm/music/Flavors/_/Next+to+You), by Flavors (17 Nov 2021, 20:12)
 - [6Am](https://www.last.fm/music/Fitz+and+the+Tantrums/_/6Am), by Fitz and the Tantrums (17 Nov 2021, 04:31)
 - [Prologue](https://www.last.fm/music/Chase+Petra/_/Prologue), by Chase Petra (17 Nov 2021, 04:29)
 - [What Do You Want From Me Tonight?](https://www.last.fm/music/Sidney+Gish/_/What+Do+You+Want+From+Me+Tonight%3F), by Sidney Gish (17 Nov 2021, 04:27)
@@ -49,8 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Reverse](https://www.last.fm/music/minimall/_/Reverse), by minimall (16 Nov 2021, 22:09)
 - [Yeah Yeah Yeah (V2)](https://www.last.fm/music/Jack+Conte/_/Yeah+Yeah+Yeah+(V2)), by Jack Conte (16 Nov 2021, 22:06)
 - [City Of Stars - From "La La Land" Soundtrack](https://www.last.fm/music/Ryan+Gosling/_/City+Of+Stars+-+From+%22La+La+Land%22+Soundtrack), by Ryan Gosling (16 Nov 2021, 22:04)
-- [In the Morning](https://www.last.fm/music/Johnny+Manchild+and+the+Poor+Bastards/_/In+the+Morning), by Johnny Manchild and the Poor Bastards (16 Nov 2021, 22:01)
-- [Aristotle's Denial](https://www.last.fm/music/Joe+Hawley/_/Aristotle%27s+Denial), by Joe Hawley (16 Nov 2021, 05:02)
-- [Songbird](https://www.last.fm/music/The+Brummies/_/Songbird), by The Brummies (16 Nov 2021, 05:00)
-- [Devil Dressed in Blue](https://www.last.fm/music/Right+Away,+Great+Captain!/_/Devil+Dressed+in+Blue), by Right Away, Great Captain! (16 Nov 2021, 04:58)
-- [Mountain Man](https://www.last.fm/music/Yabadum/_/Mountain+Man), by Yabadum (16 Nov 2021, 04:52)
