@@ -1,9 +1,10 @@
 
 # Spotify Stats
-## Last Updated Fri Nov 19 2021 12:51:41 GMT+0000 (Coordinated Universal Time))
+## Last Updated Fri Nov 19 2021 14:32:14 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Medusa in Chains](https://www.last.fm/music/The+Fratellis/_/Medusa+in+Chains), by The Fratellis (19 Nov 2021, 12:53)
 - [A Friend](https://www.last.fm/music/Say+Yes+Dog/_/A+Friend), by Say Yes Dog (19 Nov 2021, 02:50)
 - [Better Off Without You](https://www.last.fm/music/Mallory+Knox/_/Better+Off+Without+You), by Mallory Knox (19 Nov 2021, 02:47)
 - [These Drugs](https://www.last.fm/music/Sugar+Pine+7/_/These+Drugs), by Sugar Pine 7 (19 Nov 2021, 02:44)
@@ -53,4 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Natural](https://www.last.fm/music/Imagine+Dragons/_/Natural), by Imagine Dragons (17 Nov 2021, 21:46)
 - [Bones](https://www.last.fm/music/Culture+Wars/_/Bones), by Culture Wars (17 Nov 2021, 21:42)
 - [Medicine](https://www.last.fm/music/Artist+vs.+Poet/_/Medicine), by Artist vs. Poet (17 Nov 2021, 21:40)
-- [10 Simple Murders](https://www.last.fm/music/The+Future+Kings+of+Nowhere/_/10+Simple+Murders), by The Future Kings of Nowhere (17 Nov 2021, 21:36)
