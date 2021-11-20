@@ -1,9 +1,17 @@
 
 # Spotify Stats
-## Last Updated Sat Nov 20 2021 18:38:53 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sat Nov 20 2021 20:33:48 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Topography](https://www.last.fm/music/Civilian/_/Topography), by Civilian (20 Nov 2021, 19:49)
+- [I Told You](https://www.last.fm/music/Civilian/_/I+Told+You), by Civilian (20 Nov 2021, 19:45)
+- [Michael](https://www.last.fm/music/Civilian/_/Michael), by Civilian (20 Nov 2021, 19:40)
+- [Patience](https://www.last.fm/music/Civilian/_/Patience), by Civilian (20 Nov 2021, 19:36)
+- [Caroline](https://www.last.fm/music/Civilian/_/Caroline), by Civilian (20 Nov 2021, 19:31)
+- [Cut & Run](https://www.last.fm/music/Civilian/_/Cut+&+Run), by Civilian (20 Nov 2021, 19:26)
+- [New Love](https://www.last.fm/music/Civilian/_/New+Love), by Civilian (20 Nov 2021, 19:21)
+- [Borrowed](https://www.last.fm/music/Civilian/_/Borrowed), by Civilian (20 Nov 2021, 18:13)
 - [Reasons](https://www.last.fm/music/Civilian/_/Reasons), by Civilian (20 Nov 2021, 18:08)
 - [Skulls](https://www.last.fm/music/Civilian/_/Skulls), by Civilian (20 Nov 2021, 18:02)
 - [These Drugs](https://www.last.fm/music/Sugar+Pine+7/_/These+Drugs), by Sugar Pine 7 (20 Nov 2021, 17:36)
@@ -46,11 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [These Drugs](https://www.last.fm/music/Sugar+Pine+7/_/These+Drugs), by Sugar Pine 7 (19 Nov 2021, 02:44)
 - [Kiss You](https://www.last.fm/music/Moons+of+Mars/_/Kiss+You), by Moons of Mars (19 Nov 2021, 02:41)
 - [Boots Worn Through](https://www.last.fm/music/Shayfer+James/_/Boots+Worn+Through), by Shayfer James (19 Nov 2021, 02:38)
-- [Pretty Dirty (In The Fading Light)](https://www.last.fm/music/Ripe/_/Pretty+Dirty+(In+The+Fading+Light)), by Ripe (19 Nov 2021, 02:32)
-- [Pass the Vino](https://www.last.fm/music/Mathien/_/Pass+the+Vino), by Mathien (19 Nov 2021, 02:27)
-- [Burnt](https://www.last.fm/music/James+DeAngelis/_/Burnt), by James DeAngelis (19 Nov 2021, 02:25)
-- [Breezeblocks](https://www.last.fm/music/alt-J/_/Breezeblocks), by alt-J (19 Nov 2021, 02:21)
-- [Out Like a Light 2](https://www.last.fm/music/The+Honeysticks/_/Out+Like+a+Light+2), by The Honeysticks (19 Nov 2021, 02:17)
-- [Sunshine](https://www.last.fm/music/The+Velvet+Cab/_/Sunshine), by The Velvet Cab (19 Nov 2021, 02:11)
-- [Egg](https://www.last.fm/music/Shoe/_/Egg), by Shoe (19 Nov 2021, 02:07)
-- [Expert](https://www.last.fm/music/Pretoria/_/Expert), by Pretoria (19 Nov 2021, 02:04)
