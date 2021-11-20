@@ -1,9 +1,13 @@
 
 # Spotify Stats
-## Last Updated Sat Nov 20 2021 16:54:41 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sat Nov 20 2021 18:38:53 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Reasons](https://www.last.fm/music/Civilian/_/Reasons), by Civilian (20 Nov 2021, 18:08)
+- [Skulls](https://www.last.fm/music/Civilian/_/Skulls), by Civilian (20 Nov 2021, 18:02)
+- [These Drugs](https://www.last.fm/music/Sugar+Pine+7/_/These+Drugs), by Sugar Pine 7 (20 Nov 2021, 17:36)
+- [Astronaut](https://www.last.fm/music/Future+Crib/_/Astronaut), by Future Crib (20 Nov 2021, 04:06)
 - [A Friend](https://www.last.fm/music/Say+Yes+Dog/_/A+Friend), by Say Yes Dog (20 Nov 2021, 02:50)
 - [Nice House](https://www.last.fm/music/Joywave/_/Nice+House), by Joywave (20 Nov 2021, 02:45)
 - [Big Enough](https://www.last.fm/music/Keni/_/Big+Enough), by Keni (20 Nov 2021, 00:18)
@@ -50,7 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Sunshine](https://www.last.fm/music/The+Velvet+Cab/_/Sunshine), by The Velvet Cab (19 Nov 2021, 02:11)
 - [Egg](https://www.last.fm/music/Shoe/_/Egg), by Shoe (19 Nov 2021, 02:07)
 - [Expert](https://www.last.fm/music/Pretoria/_/Expert), by Pretoria (19 Nov 2021, 02:04)
-- [Point to Prove (I Was an Ugly Kid)](https://www.last.fm/music/Bug+Hunter/_/Point+to+Prove+(I+Was+an+Ugly+Kid)), by Bug Hunter (19 Nov 2021, 02:00)
-- [The Woods](https://www.last.fm/music/San+Fermin/_/The+Woods), by San Fermin (19 Nov 2021, 01:57)
-- [Vacation](https://www.last.fm/music/Attica+Riots/_/Vacation), by Attica Riots (19 Nov 2021, 01:53)
-- [Hustle](https://www.last.fm/music/Rocket+Surgeons/_/Hustle), by Rocket Surgeons (19 Nov 2021, 01:50)
