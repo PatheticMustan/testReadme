@@ -1,9 +1,12 @@
 
 # Spotify Stats
-## Last Updated Sun Nov 21 2021 12:50:48 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sun Nov 21 2021 14:31:36 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [These Drugs](https://www.last.fm/music/Sugar+Pine+7/_/These+Drugs), by Sugar Pine 7 (21 Nov 2021, 13:57)
+- [Soda](https://www.last.fm/music/Nothing+But+Thieves/_/Soda), by Nothing But Thieves (21 Nov 2021, 13:53)
+- [Horns](https://www.last.fm/music/Bryce+Fox/_/Horns), by Bryce Fox (21 Nov 2021, 05:37)
 - [Lies](https://www.last.fm/music/Will+Jay/_/Lies), by Will Jay (21 Nov 2021, 05:34)
 - [The Squip Song](https://www.last.fm/music/Gerard+Canonico/_/The+Squip+Song), by Gerard Canonico (21 Nov 2021, 05:30)
 - [Michael](https://www.last.fm/music/Civilian/_/Michael), by Civilian (21 Nov 2021, 05:25)
@@ -51,6 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Sound the Alarm (feat. Rivers Cuomo of Weezer & Royal & the Serpent)](https://www.last.fm/music/The+Knocks/_/Sound+the+Alarm+(feat.+Rivers+Cuomo+of+Weezer+&+Royal+&+the+Serpent)), by The Knocks (21 Nov 2021, 02:11)
 - [Cut & Run](https://www.last.fm/music/Civilian/_/Cut+&+Run), by Civilian (21 Nov 2021, 02:06)
 - [Dancing In The Moonlight](https://www.last.fm/music/King+Harvest/_/Dancing+In+The+Moonlight), by King Harvest (21 Nov 2021, 02:03)
-- [Burnt](https://www.last.fm/music/James+DeAngelis/_/Burnt), by James DeAngelis (21 Nov 2021, 02:01)
-- [Dust](https://www.last.fm/music/Childcare/_/Dust), by Childcare (21 Nov 2021, 01:57)
-- [Songbird](https://www.last.fm/music/The+Brummies/_/Songbird), by The Brummies (21 Nov 2021, 01:55)
