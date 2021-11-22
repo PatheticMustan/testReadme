@@ -1,10 +1,15 @@
 
 # Spotify Stats
-## Last Updated Mon Nov 22 2021 05:43:19 GMT+0000 (Coordinated Universal Time))
+## Last Updated Mon Nov 22 2021 06:51:55 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [i don't really mind](https://www.last.fm/music/DJ+PoolBoi/_/i+don%27t+really+mind), by DJ PoolBoi (streaming now)
+- [All I Ever Wanted](https://www.last.fm/music/Futurist/_/All+I+Ever+Wanted), by Futurist (22 Nov 2021, 05:58)
+- [Close Enough](https://www.last.fm/music/Arrows+in+Action/_/Close+Enough), by Arrows in Action (22 Nov 2021, 05:56)
+- [Alter ego](https://www.last.fm/music/Caramel+Column/_/Alter+ego), by Caramel Column (22 Nov 2021, 05:53)
+- [Noises](https://www.last.fm/music/Mike+Mains+&+The+Branches/_/Noises), by Mike Mains & The Branches (22 Nov 2021, 05:50)
+- [Grow Back](https://www.last.fm/music/The+Happy+Fits/_/Grow+Back), by The Happy Fits (22 Nov 2021, 05:43)
+- [i don't really mind](https://www.last.fm/music/DJ+PoolBoi/_/i+don%27t+really+mind), by DJ PoolBoi (22 Nov 2021, 05:39)
 - [It's Ok to Be Lonely](https://www.last.fm/music/Moth%C3%A9/_/It%27s+Ok+to+Be+Lonely), by Mothé (22 Nov 2021, 05:35)
 - [L.V.S. (Your Lady Waits)](https://www.last.fm/music/Shayfer+James/_/L.V.S.+(Your+Lady+Waits)), by Shayfer James (22 Nov 2021, 05:31)
 - [Autoportrait](https://www.last.fm/music/Demob+Happy/_/Autoportrait), by Demob Happy (22 Nov 2021, 05:28)
@@ -49,9 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Deafening Red](https://www.last.fm/music/Clarence+Clarity/_/Deafening+Red), by Clarence Clarity (22 Nov 2021, 02:49)
 - [Elon Musk Is Making Me Sad](https://www.last.fm/music/The+Rentals/_/Elon+Musk+Is+Making+Me+Sad), by The Rentals (22 Nov 2021, 02:42)
 - [Where Did I Go](https://www.last.fm/music/rei+brown/_/Where+Did+I+Go), by rei brown (22 Nov 2021, 02:39)
-- [Outside](https://www.last.fm/music/Les+Gold/_/Outside), by Les Gold (22 Nov 2021, 02:36)
-- [Unamused](https://www.last.fm/music/Made+Violent/_/Unamused), by Made Violent (22 Nov 2021, 02:33)
-- [Christopher Robin](https://www.last.fm/music/Good+Luck+Finding+Iris/_/Christopher+Robin), by Good Luck Finding Iris (22 Nov 2021, 02:30)
-- [Horny Hippies](https://www.last.fm/music/The+Dodos/_/Horny+Hippies), by The Dodos (22 Nov 2021, 02:27)
-- [Winter](https://www.last.fm/music/Bryce+Bishop/_/Winter), by Bryce Bishop (22 Nov 2021, 02:25)
-- [Eat a Piece of Fruit, You Piece of Shit](https://www.last.fm/music/Netherfriends/_/Eat+a+Piece+of+Fruit,+You+Piece+of+Shit), by Netherfriends (22 Nov 2021, 02:22)
