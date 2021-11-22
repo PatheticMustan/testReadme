@@ -1,9 +1,16 @@
 
 # Spotify Stats
-## Last Updated Mon Nov 22 2021 10:46:16 GMT+0000 (Coordinated Universal Time))
+## Last Updated Mon Nov 22 2021 11:43:27 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Till I Die](https://www.last.fm/music/A+Love+Like+Pi/_/Till+I+Die), by A Love Like Pi (streaming now)
+- [Backyard Boy](https://www.last.fm/music/Claire+Rosinkranz/_/Backyard+Boy), by Claire Rosinkranz (22 Nov 2021, 11:37)
+- [Judy Byrd](https://www.last.fm/music/Juniper+Avenue/_/Judy+Byrd), by Juniper Avenue (22 Nov 2021, 11:34)
+- [Can't Feel the Distance](https://www.last.fm/music/Floyd%27s+Boys/_/Can%27t+Feel+the+Distance), by Floyd's Boys (22 Nov 2021, 11:29)
+- [Names Fjord, the J Is Silent](https://www.last.fm/music/Autumn+Orange/_/Names+Fjord,+the+J+Is+Silent), by Autumn Orange (22 Nov 2021, 11:26)
+- [Nightmares & Flare Guns](https://www.last.fm/music/Seb+Adams/_/Nightmares+&+Flare+Guns), by Seb Adams (22 Nov 2021, 11:24)
+- [Mother Mary](https://www.last.fm/music/Tom+Auton/_/Mother+Mary), by Tom Auton (22 Nov 2021, 06:03)
 - [All I Ever Wanted](https://www.last.fm/music/Futurist/_/All+I+Ever+Wanted), by Futurist (22 Nov 2021, 05:58)
 - [Close Enough](https://www.last.fm/music/Arrows+in+Action/_/Close+Enough), by Arrows in Action (22 Nov 2021, 05:56)
 - [Alter ego](https://www.last.fm/music/Caramel+Column/_/Alter+ego), by Caramel Column (22 Nov 2021, 05:53)
@@ -48,9 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Bipolar Ball](https://www.last.fm/music/Sylmar/_/Bipolar+Ball), by Sylmar (22 Nov 2021, 03:07)
 - [Blue](https://www.last.fm/music/Chaos+Chaos/_/Blue), by Chaos Chaos (22 Nov 2021, 03:04)
 - [21st Century Schizoid Man](https://www.last.fm/music/Fuzz/_/21st+Century+Schizoid+Man), by Fuzz (22 Nov 2021, 03:02)
-- [Leave It In My Dreams](https://www.last.fm/music/The+Voidz/_/Leave+It+In+My+Dreams), by The Voidz (22 Nov 2021, 02:58)
-- [I'm In Your Mind](https://www.last.fm/music/King+Gizzard+&+The+Lizard+Wizard/_/I%27m+In+Your+Mind), by King Gizzard & The Lizard Wizard (22 Nov 2021, 02:54)
-- [Space Worm](https://www.last.fm/music/Don%27t+Stop+Or+We%27ll+Die/_/Space+Worm), by Don't Stop Or We'll Die (22 Nov 2021, 02:52)
-- [Deafening Red](https://www.last.fm/music/Clarence+Clarity/_/Deafening+Red), by Clarence Clarity (22 Nov 2021, 02:49)
-- [Elon Musk Is Making Me Sad](https://www.last.fm/music/The+Rentals/_/Elon+Musk+Is+Making+Me+Sad), by The Rentals (22 Nov 2021, 02:42)
-- [Where Did I Go](https://www.last.fm/music/rei+brown/_/Where+Did+I+Go), by rei brown (22 Nov 2021, 02:39)
