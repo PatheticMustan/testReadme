@@ -1,9 +1,10 @@
 
 # Spotify Stats
-## Last Updated Mon Nov 22 2021 21:43:22 GMT+0000 (Coordinated Universal Time))
+## Last Updated Mon Nov 22 2021 22:43:52 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Great Vacation](https://www.last.fm/music/Dirt+Poor+Robins/_/Great+Vacation), by Dirt Poor Robins (22 Nov 2021, 12:44)
 - [Cringe](https://www.last.fm/music/Matt+Maeson/_/Cringe), by Matt Maeson (22 Nov 2021, 12:41)
 - [Finale](https://www.last.fm/music/Patina+Miller/_/Finale), by Patina Miller (22 Nov 2021, 12:33)
 - [The Dismemberment Song](https://www.last.fm/music/Blue+Kid/_/The+Dismemberment+Song), by Blue Kid (22 Nov 2021, 12:29)
@@ -53,4 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Bayonnettes](https://www.last.fm/music/Shayfer+James/_/Bayonnettes), by Shayfer James (22 Nov 2021, 04:25)
 - [Alter ego](https://www.last.fm/music/Caramel+Column/_/Alter+ego), by Caramel Column (22 Nov 2021, 04:23)
 - [Kyouran Hey Kids!!](https://www.last.fm/music/THE+ORAL+CIGARETTES/_/Kyouran+Hey+Kids!!), by THE ORAL CIGARETTES (22 Nov 2021, 04:19)
-- [Moanin'](https://www.last.fm/music/Mingus+Big+Band/_/Moanin%27), by Mingus Big Band (22 Nov 2021, 04:10)
