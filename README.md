@@ -1,9 +1,11 @@
 
 # Spotify Stats
-## Last Updated Tue Nov 23 2021 02:51:37 GMT+0000 (Coordinated Universal Time))
+## Last Updated Tue Nov 23 2021 03:45:35 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Distance](https://www.last.fm/music/The+Velvet+Cab/_/Distance), by The Velvet Cab (streaming now)
+- [(They Long to Be) Close to You](https://www.last.fm/music/Carpenters/_/(They+Long+to+Be)+Close+to+You), by Carpenters (23 Nov 2021, 03:42)
 - [Great Vacation](https://www.last.fm/music/Dirt+Poor+Robins/_/Great+Vacation), by Dirt Poor Robins (22 Nov 2021, 12:44)
 - [Cringe](https://www.last.fm/music/Matt+Maeson/_/Cringe), by Matt Maeson (22 Nov 2021, 12:41)
 - [Finale](https://www.last.fm/music/Patina+Miller/_/Finale), by Patina Miller (22 Nov 2021, 12:33)
@@ -28,6 +30,14 @@ Oh yeah, the latest and greatest songs listened to!
 - [Can't Feel the Distance](https://www.last.fm/music/Floyd%27s+Boys/_/Can%27t+Feel+the+Distance), by Floyd's Boys (22 Nov 2021, 11:29)
 - [Names Fjord, the J Is Silent](https://www.last.fm/music/Autumn+Orange/_/Names+Fjord,+the+J+Is+Silent), by Autumn Orange (22 Nov 2021, 11:26)
 - [Nightmares & Flare Guns](https://www.last.fm/music/Seb+Adams/_/Nightmares+&+Flare+Guns), by Seb Adams (22 Nov 2021, 11:24)
+- [See Below](https://www.last.fm/music/The+Ghost+Club/_/See+Below), by The Ghost Club (22 Nov 2021, 06:36)
+- [See Below](https://www.last.fm/music/The+Ghost+Club/_/See+Below), by The Ghost Club (22 Nov 2021, 06:32)
+- [See Below](https://www.last.fm/music/The+Ghost+Club/_/See+Below), by The Ghost Club (22 Nov 2021, 06:28)
+- [See Below](https://www.last.fm/music/The+Ghost+Club/_/See+Below), by The Ghost Club (22 Nov 2021, 06:24)
+- [See Below](https://www.last.fm/music/The+Ghost+Club/_/See+Below), by The Ghost Club (22 Nov 2021, 06:21)
+- [See Below](https://www.last.fm/music/The+Ghost+Club/_/See+Below), by The Ghost Club (22 Nov 2021, 06:17)
+- [See Below](https://www.last.fm/music/The+Ghost+Club/_/See+Below), by The Ghost Club (22 Nov 2021, 06:13)
+- [See Below](https://www.last.fm/music/The+Ghost+Club/_/See+Below), by The Ghost Club (22 Nov 2021, 06:09)
 - [Mother Mary](https://www.last.fm/music/Tom+Auton/_/Mother+Mary), by Tom Auton (22 Nov 2021, 06:03)
 - [All I Ever Wanted](https://www.last.fm/music/Futurist/_/All+I+Ever+Wanted), by Futurist (22 Nov 2021, 05:58)
 - [Close Enough](https://www.last.fm/music/Arrows+in+Action/_/Close+Enough), by Arrows in Action (22 Nov 2021, 05:56)
@@ -45,12 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Horns](https://www.last.fm/music/Bryce+Fox/_/Horns), by Bryce Fox (22 Nov 2021, 05:08)
 - [R U Mine?](https://www.last.fm/music/Arctic+Monkeys/_/R+U+Mine%3F), by Arctic Monkeys (22 Nov 2021, 05:05)
 - [These Drugs](https://www.last.fm/music/Sugar+Pine+7/_/These+Drugs), by Sugar Pine 7 (22 Nov 2021, 05:01)
-- [Dyin' when I See Ya](https://www.last.fm/music/Sleep+State/_/Dyin%27+when+I+See+Ya), by Sleep State (22 Nov 2021, 04:57)
-- [Dancing In The Moonlight](https://www.last.fm/music/King+Harvest/_/Dancing+In+The+Moonlight), by King Harvest (22 Nov 2021, 04:54)
-- [Curl up & Die](https://www.last.fm/music/Matt+Maltese/_/Curl+up+&+Die), by Matt Maltese (22 Nov 2021, 04:52)
-- [The Goodbye Song](https://www.last.fm/music/George+Salazar/_/The+Goodbye+Song), by George Salazar (22 Nov 2021, 04:36)
-- [When You're Evil - 2020 Remastered](https://www.last.fm/music/Aurelio+Voltaire/_/When+You%27re+Evil+-+2020+Remastered), by Aurelio Voltaire (22 Nov 2021, 04:32)
-- [Go Easy - Petey Remix](https://www.last.fm/music/Matt+Maeson/_/Go+Easy+-+Petey+Remix), by Matt Maeson (22 Nov 2021, 04:29)
-- [Bayonnettes](https://www.last.fm/music/Shayfer+James/_/Bayonnettes), by Shayfer James (22 Nov 2021, 04:25)
-- [Alter ego](https://www.last.fm/music/Caramel+Column/_/Alter+ego), by Caramel Column (22 Nov 2021, 04:23)
-- [Kyouran Hey Kids!!](https://www.last.fm/music/THE+ORAL+CIGARETTES/_/Kyouran+Hey+Kids!!), by THE ORAL CIGARETTES (22 Nov 2021, 04:19)
