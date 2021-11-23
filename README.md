@@ -1,9 +1,19 @@
 
 # Spotify Stats
-## Last Updated Tue Nov 23 2021 21:43:23 GMT+0000 (Coordinated Universal Time))
+## Last Updated Tue Nov 23 2021 22:43:43 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Alter ego](https://www.last.fm/music/Caramel+Column/_/Alter+ego), by Caramel Column (23 Nov 2021, 22:28)
+- [Kiss You](https://www.last.fm/music/Moons+of+Mars/_/Kiss+You), by Moons of Mars (23 Nov 2021, 22:26)
+- [Fear & Delight](https://www.last.fm/music/The+Correspondents/_/Fear+&+Delight), by The Correspondents (23 Nov 2021, 22:23)
+- [Trampoline](https://www.last.fm/music/Airways/_/Trampoline), by Airways (23 Nov 2021, 22:20)
+- [It's Not Like I Like You!!](https://www.last.fm/music/Static-P/_/It%27s+Not+Like+I+Like+You!!), by Static-P (23 Nov 2021, 22:15)
+- [Skulls](https://www.last.fm/music/Civilian/_/Skulls), by Civilian (23 Nov 2021, 22:11)
+- [This is Our Life](https://www.last.fm/music/Des+Rocs/_/This+is+Our+Life), by Des Rocs (23 Nov 2021, 22:08)
+- [Let Me Live / Let Me Die](https://www.last.fm/music/Des+Rocs/_/Let+Me+Live+%2F+Let+Me+Die), by Des Rocs (23 Nov 2021, 22:04)
+- [Used to the Darkness](https://www.last.fm/music/Des+Rocs/_/Used+to+the+Darkness), by Des Rocs (23 Nov 2021, 22:00)
+- [I Don't Want No Champagne](https://www.last.fm/music/Chimmi/_/I+Don%27t+Want+No+Champagne), by Chimmi (23 Nov 2021, 21:56)
 - [Poor George](https://www.last.fm/music/James+Supercave/_/Poor+George), by James Supercave (23 Nov 2021, 21:25)
 - [Grow Back](https://www.last.fm/music/The+Happy+Fits/_/Grow+Back), by The Happy Fits (23 Nov 2021, 12:59)
 - [Never Wanna Fall in Love With U](https://www.last.fm/music/Nelward/_/Never+Wanna+Fall+in+Love+With+U), by Nelward (23 Nov 2021, 12:55)
@@ -44,13 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Closet Lunatic](https://www.last.fm/music/Caro/_/Closet+Lunatic), by Caro (23 Nov 2021, 04:09)
 - [Better Off Without You](https://www.last.fm/music/Mallory+Knox/_/Better+Off+Without+You), by Mallory Knox (23 Nov 2021, 04:06)
 - [Starcrossed Losers](https://www.last.fm/music/The+Fratellis/_/Starcrossed+Losers), by The Fratellis (23 Nov 2021, 04:02)
-- [Trampoline](https://www.last.fm/music/Airways/_/Trampoline), by Airways (23 Nov 2021, 03:59)
-- [the golden hour](https://www.last.fm/music/Louie+Zong/_/the+golden+hour), by Louie Zong (23 Nov 2021, 03:57)
-- [Lovescene](https://www.last.fm/music/Daniel+Knox/_/Lovescene), by Daniel Knox (23 Nov 2021, 03:53)
-- [Bayonnettes](https://www.last.fm/music/Shayfer+James/_/Bayonnettes), by Shayfer James (23 Nov 2021, 03:49)
-- [Reckless Tongue](https://www.last.fm/music/Airways/_/Reckless+Tongue), by Airways (23 Nov 2021, 03:46)
-- [Distance](https://www.last.fm/music/The+Velvet+Cab/_/Distance), by The Velvet Cab (23 Nov 2021, 03:42)
-- [(They Long to Be) Close to You](https://www.last.fm/music/Carpenters/_/(They+Long+to+Be)+Close+to+You), by Carpenters (23 Nov 2021, 03:42)
-- [Great Vacation](https://www.last.fm/music/Dirt+Poor+Robins/_/Great+Vacation), by Dirt Poor Robins (22 Nov 2021, 12:44)
-- [Cringe](https://www.last.fm/music/Matt+Maeson/_/Cringe), by Matt Maeson (22 Nov 2021, 12:41)
-- [Finale](https://www.last.fm/music/Patina+Miller/_/Finale), by Patina Miller (22 Nov 2021, 12:33)
