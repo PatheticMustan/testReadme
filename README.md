@@ -1,9 +1,11 @@
 
 # Spotify Stats
-## Last Updated Tue Nov 23 2021 20:44:01 GMT+0000 (Coordinated Universal Time))
+## Last Updated Tue Nov 23 2021 21:43:23 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Poor George](https://www.last.fm/music/James+Supercave/_/Poor+George), by James Supercave (23 Nov 2021, 21:25)
+- [Grow Back](https://www.last.fm/music/The+Happy+Fits/_/Grow+Back), by The Happy Fits (23 Nov 2021, 12:59)
 - [Never Wanna Fall in Love With U](https://www.last.fm/music/Nelward/_/Never+Wanna+Fall+in+Love+With+U), by Nelward (23 Nov 2021, 12:55)
 - [Pass the Vino](https://www.last.fm/music/Mathien/_/Pass+the+Vino), by Mathien (23 Nov 2021, 12:51)
 - [Poor George](https://www.last.fm/music/James+Supercave/_/Poor+George), by James Supercave (23 Nov 2021, 09:05)
@@ -52,5 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Great Vacation](https://www.last.fm/music/Dirt+Poor+Robins/_/Great+Vacation), by Dirt Poor Robins (22 Nov 2021, 12:44)
 - [Cringe](https://www.last.fm/music/Matt+Maeson/_/Cringe), by Matt Maeson (22 Nov 2021, 12:41)
 - [Finale](https://www.last.fm/music/Patina+Miller/_/Finale), by Patina Miller (22 Nov 2021, 12:33)
-- [The Dismemberment Song](https://www.last.fm/music/Blue+Kid/_/The+Dismemberment+Song), by Blue Kid (22 Nov 2021, 12:29)
-- [Breaking Even](https://www.last.fm/music/Larry+and+His+Flask/_/Breaking+Even), by Larry and His Flask (22 Nov 2021, 12:25)
