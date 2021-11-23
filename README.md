@@ -1,9 +1,13 @@
 
 # Spotify Stats
-## Last Updated Tue Nov 23 2021 11:43:43 GMT+0000 (Coordinated Universal Time))
+## Last Updated Tue Nov 23 2021 13:02:04 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Grow Back](https://www.last.fm/music/The+Happy+Fits/_/Grow+Back), by The Happy Fits (streaming now)
+- [Never Wanna Fall in Love With U](https://www.last.fm/music/Nelward/_/Never+Wanna+Fall+in+Love+With+U), by Nelward (23 Nov 2021, 12:55)
+- [Pass the Vino](https://www.last.fm/music/Mathien/_/Pass+the+Vino), by Mathien (23 Nov 2021, 12:51)
+- [Poor George](https://www.last.fm/music/James+Supercave/_/Poor+George), by James Supercave (23 Nov 2021, 09:05)
 - [Songbirds](https://www.last.fm/music/Ben+Thornewill/_/Songbirds), by Ben Thornewill (23 Nov 2021, 09:01)
 - [Soda](https://www.last.fm/music/Nothing+But+Thieves/_/Soda), by Nothing But Thieves (23 Nov 2021, 08:57)
 - [Egg](https://www.last.fm/music/Shoe/_/Egg), by Shoe (23 Nov 2021, 08:55)
@@ -51,6 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Finale](https://www.last.fm/music/Patina+Miller/_/Finale), by Patina Miller (22 Nov 2021, 12:33)
 - [The Dismemberment Song](https://www.last.fm/music/Blue+Kid/_/The+Dismemberment+Song), by Blue Kid (22 Nov 2021, 12:29)
 - [Breaking Even](https://www.last.fm/music/Larry+and+His+Flask/_/Breaking+Even), by Larry and His Flask (22 Nov 2021, 12:25)
-- [We No Speak Americano (edit)](https://www.last.fm/music/Yolanda+Be+Cool/_/We+No+Speak+Americano+(edit)), by Yolanda Be Cool (22 Nov 2021, 12:22)
-- [The Woods](https://www.last.fm/music/San+Fermin/_/The+Woods), by San Fermin (22 Nov 2021, 12:19)
-- [Sex with a Ghost](https://www.last.fm/music/Teddy+Hyde/_/Sex+with+a+Ghost), by Teddy Hyde (22 Nov 2021, 12:15)
