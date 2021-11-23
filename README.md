@@ -1,9 +1,13 @@
 
 # Spotify Stats
-## Last Updated Tue Nov 23 2021 06:51:15 GMT+0000 (Coordinated Universal Time))
+## Last Updated Tue Nov 23 2021 07:43:30 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [At the Crossing Sign](https://www.last.fm/music/St.Arnaud/_/At+the+Crossing+Sign), by St.Arnaud (streaming now)
+- [Saint Bernard](https://www.last.fm/music/Lincoln/_/Saint+Bernard), by Lincoln (23 Nov 2021, 07:40)
+- [Bremen](https://www.last.fm/music/Pigpen+Theatre+Co./_/Bremen), by Pigpen Theatre Co. (23 Nov 2021, 07:36)
+- [Help Let Me Go](https://www.last.fm/music/Danny+Gonzalez/_/Help+Let+Me+Go), by Danny Gonzalez (23 Nov 2021, 04:48)
 - [Literal Legend](https://www.last.fm/music/Ayesha+Erotica/_/Literal+Legend), by Ayesha Erotica (23 Nov 2021, 04:45)
 - [Nice House](https://www.last.fm/music/Joywave/_/Nice+House), by Joywave (23 Nov 2021, 04:38)
 - [Fear & Delight](https://www.last.fm/music/The+Correspondents/_/Fear+&+Delight), by The Correspondents (23 Nov 2021, 04:35)
@@ -51,6 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [See Below](https://www.last.fm/music/The+Ghost+Club/_/See+Below), by The Ghost Club (22 Nov 2021, 06:32)
 - [See Below](https://www.last.fm/music/The+Ghost+Club/_/See+Below), by The Ghost Club (22 Nov 2021, 06:28)
 - [See Below](https://www.last.fm/music/The+Ghost+Club/_/See+Below), by The Ghost Club (22 Nov 2021, 06:24)
-- [See Below](https://www.last.fm/music/The+Ghost+Club/_/See+Below), by The Ghost Club (22 Nov 2021, 06:21)
-- [See Below](https://www.last.fm/music/The+Ghost+Club/_/See+Below), by The Ghost Club (22 Nov 2021, 06:17)
-- [See Below](https://www.last.fm/music/The+Ghost+Club/_/See+Below), by The Ghost Club (22 Nov 2021, 06:13)
