@@ -1,10 +1,9 @@
 
 # Spotify Stats
-## Last Updated Tue Nov 23 2021 13:02:04 GMT+0000 (Coordinated Universal Time))
+## Last Updated Tue Nov 23 2021 13:43:37 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Grow Back](https://www.last.fm/music/The+Happy+Fits/_/Grow+Back), by The Happy Fits (streaming now)
 - [Never Wanna Fall in Love With U](https://www.last.fm/music/Nelward/_/Never+Wanna+Fall+in+Love+With+U), by Nelward (23 Nov 2021, 12:55)
 - [Pass the Vino](https://www.last.fm/music/Mathien/_/Pass+the+Vino), by Mathien (23 Nov 2021, 12:51)
 - [Poor George](https://www.last.fm/music/James+Supercave/_/Poor+George), by James Supercave (23 Nov 2021, 09:05)
