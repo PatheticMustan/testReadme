@@ -1,10 +1,14 @@
 
 # Spotify Stats
-## Last Updated Tue Nov 23 2021 08:47:23 GMT+0000 (Coordinated Universal Time))
+## Last Updated Tue Nov 23 2021 09:45:18 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Once upon Another Time](https://www.last.fm/music/Sara+Bareilles/_/Once+upon+Another+Time), by Sara Bareilles (streaming now)
+- [Songbirds](https://www.last.fm/music/Ben+Thornewill/_/Songbirds), by Ben Thornewill (23 Nov 2021, 09:01)
+- [Soda](https://www.last.fm/music/Nothing+But+Thieves/_/Soda), by Nothing But Thieves (23 Nov 2021, 08:57)
+- [Egg](https://www.last.fm/music/Shoe/_/Egg), by Shoe (23 Nov 2021, 08:55)
+- [In My Head](https://www.last.fm/music/Bedroom/_/In+My+Head), by Bedroom (23 Nov 2021, 08:49)
+- [Once upon Another Time](https://www.last.fm/music/Sara+Bareilles/_/Once+upon+Another+Time), by Sara Bareilles (23 Nov 2021, 08:43)
 - [Dancing In The Moonlight](https://www.last.fm/music/King+Harvest/_/Dancing+In+The+Moonlight), by King Harvest (23 Nov 2021, 08:40)
 - [Would You Mind](https://www.last.fm/music/Friday+Pilots+Club/_/Would+You+Mind), by Friday Pilots Club (23 Nov 2021, 08:35)
 - [Trampoline](https://www.last.fm/music/Airways/_/Trampoline), by Airways (23 Nov 2021, 08:32)
@@ -50,8 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [We No Speak Americano (edit)](https://www.last.fm/music/Yolanda+Be+Cool/_/We+No+Speak+Americano+(edit)), by Yolanda Be Cool (22 Nov 2021, 12:22)
 - [The Woods](https://www.last.fm/music/San+Fermin/_/The+Woods), by San Fermin (22 Nov 2021, 12:19)
 - [Sex with a Ghost](https://www.last.fm/music/Teddy+Hyde/_/Sex+with+a+Ghost), by Teddy Hyde (22 Nov 2021, 12:15)
-- [Mister Glassman](https://www.last.fm/music/Scotty+Sire/_/Mister+Glassman), by Scotty Sire (22 Nov 2021, 12:10)
-- [I Know You're Out There](https://www.last.fm/music/Stephanie+Mabey/_/I+Know+You%27re+Out+There), by Stephanie Mabey (22 Nov 2021, 12:07)
-- [Subaru Crosstrek XV](https://www.last.fm/music/Hobo+Johnson/_/Subaru+Crosstrek+XV), by Hobo Johnson (22 Nov 2021, 12:05)
-- [Lovestruck](https://www.last.fm/music/Alex+Ernst/_/Lovestruck), by Alex Ernst (22 Nov 2021, 12:01)
-- [Close Your Eyes](https://www.last.fm/music/The+Midnight+Club/_/Close+Your+Eyes), by The Midnight Club (22 Nov 2021, 11:58)
