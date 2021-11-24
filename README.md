@@ -1,9 +1,10 @@
 
 # Spotify Stats
-## Last Updated Wed Nov 24 2021 11:43:24 GMT+0000 (Coordinated Universal Time))
+## Last Updated Wed Nov 24 2021 13:02:27 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Songbirds](https://www.last.fm/music/Ben+Thornewill/_/Songbirds), by Ben Thornewill (24 Nov 2021, 01:28)
 - [White Noise Boys](https://www.last.fm/music/Airways/_/White+Noise+Boys), by Airways (24 Nov 2021, 01:24)
 - [Fashion Forward (Acoustic)](https://www.last.fm/music/The+Home+Team/_/Fashion+Forward+(Acoustic)), by The Home Team (24 Nov 2021, 01:21)
 - [Impress Your Creators](https://www.last.fm/music/Tub+Ring/_/Impress+Your+Creators), by Tub Ring (24 Nov 2021, 01:19)
@@ -53,4 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Bremen](https://www.last.fm/music/Pigpen+Theatre+Co./_/Bremen), by Pigpen Theatre Co. (23 Nov 2021, 07:40)
 - [Saint Bernard](https://www.last.fm/music/Lincoln/_/Saint+Bernard), by Lincoln (23 Nov 2021, 07:40)
 - [Bremen](https://www.last.fm/music/Pigpen+Theatre+Co./_/Bremen), by Pigpen Theatre Co. (23 Nov 2021, 07:36)
-- [Help Let Me Go](https://www.last.fm/music/Danny+Gonzalez/_/Help+Let+Me+Go), by Danny Gonzalez (23 Nov 2021, 04:48)
