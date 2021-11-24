@@ -1,12 +1,14 @@
 
 # Spotify Stats
-## Last Updated Wed Nov 24 2021 13:02:27 GMT+0000 (Coordinated Universal Time))
+## Last Updated Wed Nov 24 2021 13:43:55 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Punk Rock Kids](https://www.last.fm/music/Huxlxy/_/Punk+Rock+Kids), by Huxlxy (24 Nov 2021, 04:09)
 - [Songbirds](https://www.last.fm/music/Ben+Thornewill/_/Songbirds), by Ben Thornewill (24 Nov 2021, 01:28)
 - [White Noise Boys](https://www.last.fm/music/Airways/_/White+Noise+Boys), by Airways (24 Nov 2021, 01:24)
 - [Fashion Forward (Acoustic)](https://www.last.fm/music/The+Home+Team/_/Fashion+Forward+(Acoustic)), by The Home Team (24 Nov 2021, 01:21)
+- [Poor George](https://www.last.fm/music/James+Supercave/_/Poor+George), by James Supercave (24 Nov 2021, 01:19)
 - [Impress Your Creators](https://www.last.fm/music/Tub+Ring/_/Impress+Your+Creators), by Tub Ring (24 Nov 2021, 01:19)
 - [Cover Me in Roses](https://www.last.fm/music/Holden+Laurence/_/Cover+Me+in+Roses), by Holden Laurence (24 Nov 2021, 01:14)
 - [Would You Mind](https://www.last.fm/music/Friday+Pilots+Club/_/Would+You+Mind), by Friday Pilots Club (24 Nov 2021, 01:10)
@@ -52,5 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [The Woods](https://www.last.fm/music/San+Fermin/_/The+Woods), by San Fermin (23 Nov 2021, 07:45)
 - [At the Crossing Sign](https://www.last.fm/music/St.Arnaud/_/At+the+Crossing+Sign), by St.Arnaud (23 Nov 2021, 07:41)
 - [Bremen](https://www.last.fm/music/Pigpen+Theatre+Co./_/Bremen), by Pigpen Theatre Co. (23 Nov 2021, 07:40)
-- [Saint Bernard](https://www.last.fm/music/Lincoln/_/Saint+Bernard), by Lincoln (23 Nov 2021, 07:40)
-- [Bremen](https://www.last.fm/music/Pigpen+Theatre+Co./_/Bremen), by Pigpen Theatre Co. (23 Nov 2021, 07:36)
