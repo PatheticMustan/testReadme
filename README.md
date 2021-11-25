@@ -1,9 +1,12 @@
 
 # Spotify Stats
-## Last Updated Thu Nov 25 2021 01:41:20 GMT+0000 (Coordinated Universal Time))
+## Last Updated Thu Nov 25 2021 02:52:45 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Welcome to the End of Your Life](https://www.last.fm/music/The+Driver+Era/_/Welcome+to+the+End+of+Your+Life), by The Driver Era (streaming now)
+- [My Smile is Extinct](https://www.last.fm/music/Kane+Strang/_/My+Smile+is+Extinct), by Kane Strang (25 Nov 2021, 02:46)
+- [Curl up & Die](https://www.last.fm/music/Matt+Maltese/_/Curl+up+&+Die), by Matt Maltese (25 Nov 2021, 00:49)
 - [No One Really Wants Me](https://www.last.fm/music/hunter+&+wolfe/_/No+One+Really+Wants+Me), by hunter & wolfe (25 Nov 2021, 00:45)
 - [Vacation](https://www.last.fm/music/Attica+Riots/_/Vacation), by Attica Riots (25 Nov 2021, 00:42)
 - [Breezeblocks](https://www.last.fm/music/alt-J/_/Breezeblocks), by alt-J (25 Nov 2021, 00:38)
@@ -52,5 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Pass the Vino](https://www.last.fm/music/Mathien/_/Pass+the+Vino), by Mathien (23 Nov 2021, 12:51)
 - [Poor George](https://www.last.fm/music/James+Supercave/_/Poor+George), by James Supercave (23 Nov 2021, 09:05)
 - [Songbirds](https://www.last.fm/music/Ben+Thornewill/_/Songbirds), by Ben Thornewill (23 Nov 2021, 09:01)
-- [Soda](https://www.last.fm/music/Nothing+But+Thieves/_/Soda), by Nothing But Thieves (23 Nov 2021, 08:57)
-- [Egg](https://www.last.fm/music/Shoe/_/Egg), by Shoe (23 Nov 2021, 08:55)
