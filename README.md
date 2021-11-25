@@ -1,10 +1,12 @@
 
 # Spotify Stats
-## Last Updated Thu Nov 25 2021 22:43:33 GMT+0000 (Coordinated Universal Time))
+## Last Updated Thu Nov 25 2021 23:43:40 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [High Enough](https://www.last.fm/music/K.Flay/_/High+Enough), by K.Flay (streaming now)
+- [Better Off Without You](https://www.last.fm/music/Mallory+Knox/_/Better+Off+Without+You), by Mallory Knox (25 Nov 2021, 22:47)
+- [Expert](https://www.last.fm/music/Pretoria/_/Expert), by Pretoria (25 Nov 2021, 22:45)
+- [High Enough](https://www.last.fm/music/K.Flay/_/High+Enough), by K.Flay (25 Nov 2021, 22:41)
 - [Sunshine](https://www.last.fm/music/The+Brummies/_/Sunshine), by The Brummies (25 Nov 2021, 22:38)
 - [Sing When No One's Around](https://www.last.fm/music/The+Reign+Of+Kindo/_/Sing+When+No+One%27s+Around), by The Reign Of Kindo (25 Nov 2021, 22:34)
 - [Songbird](https://www.last.fm/music/The+Technicolors/_/Songbird), by The Technicolors (25 Nov 2021, 22:31)
@@ -52,6 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Culling](https://www.last.fm/music/Fein/_/Culling), by Fein (25 Nov 2021, 04:26)
 - [I Wanna Boi](https://www.last.fm/music/PWR+BTTM/_/I+Wanna+Boi), by PWR BTTM (25 Nov 2021, 04:24)
 - [Bremen](https://www.last.fm/music/Pigpen+Theatre+Co./_/Bremen), by Pigpen Theatre Co. (25 Nov 2021, 04:21)
-- [Starcrossed Losers](https://www.last.fm/music/The+Fratellis/_/Starcrossed+Losers), by The Fratellis (25 Nov 2021, 04:16)
-- [Starchild](https://www.last.fm/music/Ghost+Quartet/_/Starchild), by Ghost Quartet (25 Nov 2021, 04:13)
-- [Bayonnettes](https://www.last.fm/music/Shayfer+James/_/Bayonnettes), by Shayfer James (25 Nov 2021, 04:10)
