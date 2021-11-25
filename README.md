@@ -1,9 +1,17 @@
 
 # Spotify Stats
-## Last Updated Thu Nov 25 2021 19:43:37 GMT+0000 (Coordinated Universal Time))
+## Last Updated Thu Nov 25 2021 20:43:54 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [stick around](https://www.last.fm/music/brotherkenzie/_/stick+around), by brotherkenzie (streaming now)
+- [Reckless Tongue](https://www.last.fm/music/Airways/_/Reckless+Tongue), by Airways (25 Nov 2021, 20:40)
+- [At the Crossing Sign](https://www.last.fm/music/St.Arnaud/_/At+the+Crossing+Sign), by St.Arnaud (25 Nov 2021, 20:36)
+- [Smokey Eyes](https://www.last.fm/music/Lincoln/_/Smokey+Eyes), by Lincoln (25 Nov 2021, 20:33)
+- [Pass the Vino](https://www.last.fm/music/Mathien/_/Pass+the+Vino), by Mathien (25 Nov 2021, 20:28)
+- [End of It](https://www.last.fm/music/Friday+Pilots+Club/_/End+of+It), by Friday Pilots Club (25 Nov 2021, 20:24)
+- [Strangers](https://www.last.fm/music/Fizzy+Blood/_/Strangers), by Fizzy Blood (25 Nov 2021, 20:24)
+- [Dyin' when I See Ya](https://www.last.fm/music/Sleep+State/_/Dyin%27+when+I+See+Ya), by Sleep State (25 Nov 2021, 04:37)
 - [Distance](https://www.last.fm/music/The+Velvet+Cab/_/Distance), by The Velvet Cab (25 Nov 2021, 04:33)
 - [It's Ok to Be Lonely](https://www.last.fm/music/Moth%C3%A9/_/It%27s+Ok+to+Be+Lonely), by Mothé (25 Nov 2021, 04:30)
 - [Culling](https://www.last.fm/music/Fein/_/Culling), by Fein (25 Nov 2021, 04:26)
@@ -47,10 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Die Like This](https://www.last.fm/music/Mourners/_/Die+Like+This), by Mourners (25 Nov 2021, 00:07)
 - [Break the spell](https://www.last.fm/music/Akeboshi/_/Break+the+spell), by Akeboshi (25 Nov 2021, 00:03)
 - [Once upon Another Time](https://www.last.fm/music/Sara+Bareilles/_/Once+upon+Another+Time), by Sara Bareilles (24 Nov 2021, 23:58)
-- [Never Wanna Fall in Love With U](https://www.last.fm/music/Nelward/_/Never+Wanna+Fall+in+Love+With+U), by Nelward (24 Nov 2021, 23:54)
-- [The Room Is Filled With People That Love You](https://www.last.fm/music/Foresight/_/The+Room+Is+Filled+With+People+That+Love+You), by Foresight (24 Nov 2021, 23:50)
-- [Mint Leaf](https://www.last.fm/music/Vincent+Mango/_/Mint+Leaf), by Vincent Mango (24 Nov 2021, 13:02)
-- [Mint Leaf](https://www.last.fm/music/Vincent+Mango/_/Mint+Leaf), by Vincent Mango (24 Nov 2021, 12:58)
-- [Sunshine](https://www.last.fm/music/The+Velvet+Cab/_/Sunshine), by The Velvet Cab (24 Nov 2021, 12:44)
-- [Punk Rock Kids](https://www.last.fm/music/Huxlxy/_/Punk+Rock+Kids), by Huxlxy (24 Nov 2021, 04:09)
-- [Songbirds](https://www.last.fm/music/Ben+Thornewill/_/Songbirds), by Ben Thornewill (24 Nov 2021, 01:28)
