@@ -1,10 +1,21 @@
 
 # Spotify Stats
-## Last Updated Fri Nov 26 2021 02:52:15 GMT+0000 (Coordinated Universal Time))
+## Last Updated Fri Nov 26 2021 03:45:47 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Used to the Darkness](https://www.last.fm/music/Des+Rocs/_/Used+to+the+Darkness), by Des Rocs (streaming now)
+- [R U Mine?](https://www.last.fm/music/Arctic+Monkeys/_/R+U+Mine%3F), by Arctic Monkeys (streaming now)
+- [The Room Is Filled With People That Love You](https://www.last.fm/music/Foresight/_/The+Room+Is+Filled+With+People+That+Love+You), by Foresight (26 Nov 2021, 03:41)
+- [Animals Crying](https://www.last.fm/music/Statues+of+Cats/_/Animals+Crying), by Statues of Cats (26 Nov 2021, 03:36)
+- [Curl up & Die](https://www.last.fm/music/Matt+Maltese/_/Curl+up+&+Die), by Matt Maltese (26 Nov 2021, 03:32)
+- [Bayonnettes](https://www.last.fm/music/Shayfer+James/_/Bayonnettes), by Shayfer James (26 Nov 2021, 03:29)
+- [Hustle](https://www.last.fm/music/Rocket+Surgeons/_/Hustle), by Rocket Surgeons (26 Nov 2021, 03:29)
+- [Strangers](https://www.last.fm/music/Fizzy+Blood/_/Strangers), by Fizzy Blood (26 Nov 2021, 03:08)
+- [Sleeping Through the End of the World](https://www.last.fm/music/PuffHost/_/Sleeping+Through+the+End+of+the+World), by PuffHost (26 Nov 2021, 03:05)
+- [Constellations](https://www.last.fm/music/The+Oh+Hellos/_/Constellations), by The Oh Hellos (26 Nov 2021, 03:01)
+- [Alter ego](https://www.last.fm/music/Caramel+Column/_/Alter+ego), by Caramel Column (26 Nov 2021, 02:59)
+- [Grilled Cheese](https://www.last.fm/music/Peach+Face/_/Grilled+Cheese), by Peach Face (26 Nov 2021, 02:54)
+- [Used to the Darkness](https://www.last.fm/music/Des+Rocs/_/Used+to+the+Darkness), by Des Rocs (26 Nov 2021, 02:50)
 - [No One Really Wants Me](https://www.last.fm/music/hunter+&+wolfe/_/No+One+Really+Wants+Me), by hunter & wolfe (26 Nov 2021, 02:46)
 - [We Grew Up So Well](https://www.last.fm/music/Jack+Conte/_/We+Grew+Up+So+Well), by Jack Conte (26 Nov 2021, 02:43)
 - [Burnt](https://www.last.fm/music/James+DeAngelis/_/Burnt), by James DeAngelis (26 Nov 2021, 02:41)
@@ -44,14 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [R U Mine?](https://www.last.fm/music/Arctic+Monkeys/_/R+U+Mine%3F), by Arctic Monkeys (25 Nov 2021, 21:52)
 - [Constellations](https://www.last.fm/music/The+Oh+Hellos/_/Constellations), by The Oh Hellos (25 Nov 2021, 21:49)
 - [Lies](https://www.last.fm/music/Will+Jay/_/Lies), by Will Jay (25 Nov 2021, 21:45)
-- [Cut & Run](https://www.last.fm/music/Civilian/_/Cut+&+Run), by Civilian (25 Nov 2021, 21:41)
-- [Kiss You](https://www.last.fm/music/Moons+of+Mars/_/Kiss+You), by Moons of Mars (25 Nov 2021, 21:38)
-- [suicide romantics](https://www.last.fm/music/Des+Rocs/_/suicide+romantics), by Des Rocs (25 Nov 2021, 21:35)
-- [Autoportrait](https://www.last.fm/music/Demob+Happy/_/Autoportrait), by Demob Happy (25 Nov 2021, 21:31)
-- [Kool Girl](https://www.last.fm/music/Seasalt/_/Kool+Girl), by Seasalt (25 Nov 2021, 21:27)
-- [Soulless Friends](https://www.last.fm/music/Peter+Cat+Recording+Co./_/Soulless+Friends), by Peter Cat Recording Co. (25 Nov 2021, 21:24)
-- [Pretty Dirty (In The Fading Light)](https://www.last.fm/music/Ripe/_/Pretty+Dirty+(In+The+Fading+Light)), by Ripe (25 Nov 2021, 21:18)
-- [Reasons](https://www.last.fm/music/Civilian/_/Reasons), by Civilian (25 Nov 2021, 21:13)
-- [Cryptid](https://www.last.fm/music/LUCAS+LEX/_/Cryptid), by LUCAS LEX (25 Nov 2021, 21:11)
-- [Sleeping Through the End of the World](https://www.last.fm/music/PuffHost/_/Sleeping+Through+the+End+of+the+World), by PuffHost (25 Nov 2021, 21:08)
-- [i don't really mind](https://www.last.fm/music/DJ+PoolBoi/_/i+don%27t+really+mind), by DJ PoolBoi (25 Nov 2021, 21:05)
