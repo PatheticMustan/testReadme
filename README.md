@@ -1,9 +1,16 @@
 
 # Spotify Stats
-## Last Updated Fri Nov 26 2021 02:15:23 GMT+0000 (Coordinated Universal Time))
+## Last Updated Fri Nov 26 2021 02:52:15 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Used to the Darkness](https://www.last.fm/music/Des+Rocs/_/Used+to+the+Darkness), by Des Rocs (streaming now)
+- [No One Really Wants Me](https://www.last.fm/music/hunter+&+wolfe/_/No+One+Really+Wants+Me), by hunter & wolfe (26 Nov 2021, 02:46)
+- [We Grew Up So Well](https://www.last.fm/music/Jack+Conte/_/We+Grew+Up+So+Well), by Jack Conte (26 Nov 2021, 02:43)
+- [Burnt](https://www.last.fm/music/James+DeAngelis/_/Burnt), by James DeAngelis (26 Nov 2021, 02:41)
+- [Blood On My Name](https://www.last.fm/music/The+Brothers+Bright/_/Blood+On+My+Name), by The Brothers Bright (26 Nov 2021, 02:35)
+- [Terrible Things](https://www.last.fm/music/Brick%252BMortar/_/Terrible+Things), by Brick+Mortar (26 Nov 2021, 02:32)
+- [Outta My Mind](https://www.last.fm/music/Des+Rocs/_/Outta+My+Mind), by Des Rocs (26 Nov 2021, 01:31)
 - [I'm Not Ok](https://www.last.fm/music/Weathers/_/I%27m+Not+Ok), by Weathers (26 Nov 2021, 01:28)
 - [Let Me Live / Let Me Die](https://www.last.fm/music/Des+Rocs/_/Let+Me+Live+%2F+Let+Me+Die), by Des Rocs (26 Nov 2021, 01:25)
 - [Fake Love](https://www.last.fm/music/Cemetery+Sun/_/Fake+Love), by Cemetery Sun (26 Nov 2021, 01:21)
@@ -48,9 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Cryptid](https://www.last.fm/music/LUCAS+LEX/_/Cryptid), by LUCAS LEX (25 Nov 2021, 21:11)
 - [Sleeping Through the End of the World](https://www.last.fm/music/PuffHost/_/Sleeping+Through+the+End+of+the+World), by PuffHost (25 Nov 2021, 21:08)
 - [i don't really mind](https://www.last.fm/music/DJ+PoolBoi/_/i+don%27t+really+mind), by DJ PoolBoi (25 Nov 2021, 21:05)
-- [Gum](https://www.last.fm/music/Have+A+Good+Season/_/Gum), by Have A Good Season (25 Nov 2021, 21:00)
-- [What You Say](https://www.last.fm/music/Cold+War+Kids/_/What+You+Say), by Cold War Kids (25 Nov 2021, 20:57)
-- [These Drugs](https://www.last.fm/music/Sugar+Pine+7/_/These+Drugs), by Sugar Pine 7 (25 Nov 2021, 20:53)
-- [Used to the Darkness](https://www.last.fm/music/Des+Rocs/_/Used+to+the+Darkness), by Des Rocs (25 Nov 2021, 20:49)
-- [Close Enough](https://www.last.fm/music/Arrows+in+Action/_/Close+Enough), by Arrows in Action (25 Nov 2021, 20:46)
-- [stick around](https://www.last.fm/music/brotherkenzie/_/stick+around), by brotherkenzie (25 Nov 2021, 20:43)
