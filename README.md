@@ -1,9 +1,21 @@
 
 # Spotify Stats
-## Last Updated Thu Nov 25 2021 23:43:40 GMT+0000 (Coordinated Universal Time))
+## Last Updated Fri Nov 26 2021 01:39:38 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [I'm Not Ok](https://www.last.fm/music/Weathers/_/I%27m+Not+Ok), by Weathers (26 Nov 2021, 01:28)
+- [Let Me Live / Let Me Die](https://www.last.fm/music/Des+Rocs/_/Let+Me+Live+%2F+Let+Me+Die), by Des Rocs (26 Nov 2021, 01:25)
+- [Fake Love](https://www.last.fm/music/Cemetery+Sun/_/Fake+Love), by Cemetery Sun (26 Nov 2021, 01:21)
+- [Violence](https://www.last.fm/music/The+Unlikely+Candidates/_/Violence), by The Unlikely Candidates (26 Nov 2021, 01:19)
+- [Let Me Live / Let Me Die](https://www.last.fm/music/Des+Rocs/_/Let+Me+Live+%2F+Let+Me+Die), by Des Rocs (26 Nov 2021, 01:17)
+- [Used to the Darkness](https://www.last.fm/music/Des+Rocs/_/Used+to+the+Darkness), by Des Rocs (26 Nov 2021, 01:12)
+- [Used to the Darkness](https://www.last.fm/music/Des+Rocs/_/Used+to+the+Darkness), by Des Rocs (26 Nov 2021, 01:08)
+- [Used to the Darkness](https://www.last.fm/music/Des+Rocs/_/Used+to+the+Darkness), by Des Rocs (26 Nov 2021, 01:04)
+- [Used to the Darkness](https://www.last.fm/music/Des+Rocs/_/Used+to+the+Darkness), by Des Rocs (26 Nov 2021, 01:00)
+- [Cryptid](https://www.last.fm/music/LUCAS+LEX/_/Cryptid), by LUCAS LEX (26 Nov 2021, 00:57)
+- [Cryptid](https://www.last.fm/music/LUCAS+LEX/_/Cryptid), by LUCAS LEX (26 Nov 2021, 00:55)
+- [Used to the Darkness](https://www.last.fm/music/Des+Rocs/_/Used+to+the+Darkness), by Des Rocs (26 Nov 2021, 00:51)
 - [Better Off Without You](https://www.last.fm/music/Mallory+Knox/_/Better+Off+Without+You), by Mallory Knox (25 Nov 2021, 22:47)
 - [Expert](https://www.last.fm/music/Pretoria/_/Expert), by Pretoria (25 Nov 2021, 22:45)
 - [High Enough](https://www.last.fm/music/K.Flay/_/High+Enough), by K.Flay (25 Nov 2021, 22:41)
@@ -42,15 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Used to the Darkness](https://www.last.fm/music/Des+Rocs/_/Used+to+the+Darkness), by Des Rocs (25 Nov 2021, 20:49)
 - [Close Enough](https://www.last.fm/music/Arrows+in+Action/_/Close+Enough), by Arrows in Action (25 Nov 2021, 20:46)
 - [stick around](https://www.last.fm/music/brotherkenzie/_/stick+around), by brotherkenzie (25 Nov 2021, 20:43)
-- [Reckless Tongue](https://www.last.fm/music/Airways/_/Reckless+Tongue), by Airways (25 Nov 2021, 20:40)
-- [At the Crossing Sign](https://www.last.fm/music/St.Arnaud/_/At+the+Crossing+Sign), by St.Arnaud (25 Nov 2021, 20:36)
-- [Smokey Eyes](https://www.last.fm/music/Lincoln/_/Smokey+Eyes), by Lincoln (25 Nov 2021, 20:33)
-- [Pass the Vino](https://www.last.fm/music/Mathien/_/Pass+the+Vino), by Mathien (25 Nov 2021, 20:28)
-- [End of It](https://www.last.fm/music/Friday+Pilots+Club/_/End+of+It), by Friday Pilots Club (25 Nov 2021, 20:24)
-- [Strangers](https://www.last.fm/music/Fizzy+Blood/_/Strangers), by Fizzy Blood (25 Nov 2021, 20:24)
-- [Dyin' when I See Ya](https://www.last.fm/music/Sleep+State/_/Dyin%27+when+I+See+Ya), by Sleep State (25 Nov 2021, 04:37)
-- [Distance](https://www.last.fm/music/The+Velvet+Cab/_/Distance), by The Velvet Cab (25 Nov 2021, 04:33)
-- [It's Ok to Be Lonely](https://www.last.fm/music/Moth%C3%A9/_/It%27s+Ok+to+Be+Lonely), by Mothé (25 Nov 2021, 04:30)
-- [Culling](https://www.last.fm/music/Fein/_/Culling), by Fein (25 Nov 2021, 04:26)
-- [I Wanna Boi](https://www.last.fm/music/PWR+BTTM/_/I+Wanna+Boi), by PWR BTTM (25 Nov 2021, 04:24)
-- [Bremen](https://www.last.fm/music/Pigpen+Theatre+Co./_/Bremen), by Pigpen Theatre Co. (25 Nov 2021, 04:21)
