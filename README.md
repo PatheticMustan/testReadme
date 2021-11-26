@@ -1,10 +1,19 @@
 
 # Spotify Stats
-## Last Updated Fri Nov 26 2021 03:45:47 GMT+0000 (Coordinated Universal Time))
+## Last Updated Fri Nov 26 2021 04:54:15 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [R U Mine?](https://www.last.fm/music/Arctic+Monkeys/_/R+U+Mine%3F), by Arctic Monkeys (streaming now)
+- [Burning Pile](https://www.last.fm/music/Mother+Mother/_/Burning+Pile), by Mother Mother (26 Nov 2021, 04:20)
+- [Egg](https://www.last.fm/music/Shoe/_/Egg), by Shoe (26 Nov 2021, 04:16)
+- [Cover Me in Roses](https://www.last.fm/music/Holden+Laurence/_/Cover+Me+in+Roses), by Holden Laurence (26 Nov 2021, 04:11)
+- [Prime](https://www.last.fm/music/Roan+Martin/_/Prime), by Roan Martin (26 Nov 2021, 04:06)
+- [Kool Girl](https://www.last.fm/music/Seasalt/_/Kool+Girl), by Seasalt (26 Nov 2021, 04:02)
+- [Smokey Eyes](https://www.last.fm/music/Lincoln/_/Smokey+Eyes), by Lincoln (26 Nov 2021, 03:59)
+- [Medusa in Chains](https://www.last.fm/music/The+Fratellis/_/Medusa+in+Chains), by The Fratellis (26 Nov 2021, 03:55)
+- [Dancing In The Moonlight](https://www.last.fm/music/King+Harvest/_/Dancing+In+The+Moonlight), by King Harvest (26 Nov 2021, 03:52)
+- [Culling](https://www.last.fm/music/Fein/_/Culling), by Fein (26 Nov 2021, 03:48)
+- [R U Mine?](https://www.last.fm/music/Arctic+Monkeys/_/R+U+Mine%3F), by Arctic Monkeys (26 Nov 2021, 03:45)
 - [The Room Is Filled With People That Love You](https://www.last.fm/music/Foresight/_/The+Room+Is+Filled+With+People+That+Love+You), by Foresight (26 Nov 2021, 03:41)
 - [Animals Crying](https://www.last.fm/music/Statues+of+Cats/_/Animals+Crying), by Statues of Cats (26 Nov 2021, 03:36)
 - [Curl up & Die](https://www.last.fm/music/Matt+Maltese/_/Curl+up+&+Die), by Matt Maltese (26 Nov 2021, 03:32)
@@ -45,13 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Whistle](https://www.last.fm/music/Rocket+Surgeons/_/Whistle), by Rocket Surgeons (25 Nov 2021, 22:21)
 - [Alter ego](https://www.last.fm/music/Caramel+Column/_/Alter+ego), by Caramel Column (25 Nov 2021, 22:19)
 - [Hustle](https://www.last.fm/music/Rocket+Surgeons/_/Hustle), by Rocket Surgeons (25 Nov 2021, 22:16)
-- [Mary](https://www.last.fm/music/The+Happy+Fits/_/Mary), by The Happy Fits (25 Nov 2021, 22:12)
-- [pretty poison](https://www.last.fm/music/Nessa+Barrett/_/pretty+poison), by Nessa Barrett (25 Nov 2021, 22:10)
-- [Close Your Eyes](https://www.last.fm/music/The+Midnight+Club/_/Close+Your+Eyes), by The Midnight Club (25 Nov 2021, 22:07)
-- [Stay With Me](https://www.last.fm/music/Better+Love/_/Stay+With+Me), by Better Love (25 Nov 2021, 22:03)
-- [Dancing In The Moonlight](https://www.last.fm/music/King+Harvest/_/Dancing+In+The+Moonlight), by King Harvest (25 Nov 2021, 22:00)
-- [the golden hour](https://www.last.fm/music/Louie+Zong/_/the+golden+hour), by Louie Zong (25 Nov 2021, 21:59)
-- [Astronaut](https://www.last.fm/music/Future+Crib/_/Astronaut), by Future Crib (25 Nov 2021, 21:56)
-- [R U Mine?](https://www.last.fm/music/Arctic+Monkeys/_/R+U+Mine%3F), by Arctic Monkeys (25 Nov 2021, 21:52)
-- [Constellations](https://www.last.fm/music/The+Oh+Hellos/_/Constellations), by The Oh Hellos (25 Nov 2021, 21:49)
-- [Lies](https://www.last.fm/music/Will+Jay/_/Lies), by Will Jay (25 Nov 2021, 21:45)
