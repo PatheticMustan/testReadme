@@ -1,9 +1,18 @@
 
 # Spotify Stats
-## Last Updated Sat Nov 27 2021 19:43:25 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sat Nov 27 2021 23:49:01 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- […well, better than the alternative](https://www.last.fm/music/Will+Wood/_/%E2%80%A6well,+better+than+the+alternative), by Will Wood (27 Nov 2021, 23:37)
+- [Role Model](https://www.last.fm/music/Daysormay/_/Role+Model), by Daysormay (27 Nov 2021, 23:34)
+- [Beach Bones (Feat. Ryan Ross)](https://www.last.fm/music/More+Amor/_/Beach+Bones+(Feat.+Ryan+Ross)), by More Amor (27 Nov 2021, 23:34)
+- [Speak](https://www.last.fm/music/Jake+Bardin/_/Speak), by Jake Bardin (27 Nov 2021, 23:30)
+- [Tongue Tied](https://www.last.fm/music/Tomtsu/_/Tongue+Tied), by Tomtsu (27 Nov 2021, 23:28)
+- [Die Like This](https://www.last.fm/music/Mourners/_/Die+Like+This), by Mourners (27 Nov 2021, 20:32)
+- [These Drugs](https://www.last.fm/music/Sugar+Pine+7/_/These+Drugs), by Sugar Pine 7 (27 Nov 2021, 20:29)
+- [See You Again](https://www.last.fm/music/Jmsey/_/See+You+Again), by Jmsey (27 Nov 2021, 20:07)
+- [Older](https://www.last.fm/music/Brother+Moses/_/Older), by Brother Moses (27 Nov 2021, 20:04)
 - [Cover Me in Roses](https://www.last.fm/music/Holden+Laurence/_/Cover+Me+in+Roses), by Holden Laurence (27 Nov 2021, 19:02)
 - [See Below](https://www.last.fm/music/The+Ghost+Club/_/See+Below), by The Ghost Club (27 Nov 2021, 18:58)
 - [White Noise Boys](https://www.last.fm/music/Airways/_/White+Noise+Boys), by Airways (27 Nov 2021, 18:55)
@@ -45,12 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Stand Up Tragedy](https://www.last.fm/music/The+Fratellis/_/Stand+Up+Tragedy), by The Fratellis (27 Nov 2021, 02:00)
 - [The Bidding](https://www.last.fm/music/Tally+Hall/_/The+Bidding), by Tally Hall (27 Nov 2021, 01:57)
 - [Dancing in the Light of a Burning City (Phoenixes)](https://www.last.fm/music/Flobots/_/Dancing+in+the+Light+of+a+Burning+City+(Phoenixes)), by Flobots (27 Nov 2021, 01:53)
-- [Breezeblocks](https://www.last.fm/music/alt-J/_/Breezeblocks), by alt-J (27 Nov 2021, 01:50)
-- [The Room Is Filled With People That Love You](https://www.last.fm/music/Foresight/_/The+Room+Is+Filled+With+People+That+Love+You), by Foresight (27 Nov 2021, 01:46)
-- [i don't really mind](https://www.last.fm/music/DJ+PoolBoi/_/i+don%27t+really+mind), by DJ PoolBoi (27 Nov 2021, 01:42)
-- [Take Me to Church](https://www.last.fm/music/Hozier/_/Take+Me+to+Church), by Hozier (27 Nov 2021, 01:37)
-- [Mary](https://www.last.fm/music/The+Happy+Fits/_/Mary), by The Happy Fits (27 Nov 2021, 01:34)
-- [Every Little Thing](https://www.last.fm/music/CyberGirlfriend/_/Every+Little+Thing), by CyberGirlfriend (27 Nov 2021, 01:33)
-- [Ghosting](https://www.last.fm/music/Mother+Mother/_/Ghosting), by Mother Mother (27 Nov 2021, 01:25)
-- [(They Long to Be) Close to You](https://www.last.fm/music/Carpenters/_/(They+Long+to+Be)+Close+to+You), by Carpenters (27 Nov 2021, 01:20)
-- [We Broke the World](https://www.last.fm/music/Fast+Friends/_/We+Broke+the+World), by Fast Friends (27 Nov 2021, 01:17)
