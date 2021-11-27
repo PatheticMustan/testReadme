@@ -1,9 +1,10 @@
 
 # Spotify Stats
-## Last Updated Sat Nov 27 2021 05:43:25 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sat Nov 27 2021 06:50:35 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Smokey Eyes](https://www.last.fm/music/Lincoln/_/Smokey+Eyes), by Lincoln (27 Nov 2021, 03:40)
 - [Strangers](https://www.last.fm/music/Fizzy+Blood/_/Strangers), by Fizzy Blood (27 Nov 2021, 03:36)
 - [Alright](https://www.last.fm/music/Johnny+Manchild+and+the+Poor+Bastards/_/Alright), by Johnny Manchild and the Poor Bastards (27 Nov 2021, 03:32)
 - [Watch Tv](https://www.last.fm/music/Stoop+Kids/_/Watch+Tv), by Stoop Kids (27 Nov 2021, 02:07)
@@ -53,4 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Point to Prove (I Was an Ugly Kid)](https://www.last.fm/music/Bug+Hunter/_/Point+to+Prove+(I+Was+an+Ugly+Kid)), by Bug Hunter (26 Nov 2021, 23:22)
 - [Noises](https://www.last.fm/music/Mike+Mains+&+The+Branches/_/Noises), by Mike Mains & The Branches (26 Nov 2021, 23:18)
 - [Break the spell](https://www.last.fm/music/Akeboshi/_/Break+the+spell), by Akeboshi (26 Nov 2021, 23:15)
-- [Cover Me in Roses](https://www.last.fm/music/Holden+Laurence/_/Cover+Me+in+Roses), by Holden Laurence (26 Nov 2021, 23:11)
