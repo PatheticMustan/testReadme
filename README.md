@@ -1,9 +1,17 @@
 
 # Spotify Stats
-## Last Updated Sat Nov 27 2021 06:50:35 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sat Nov 27 2021 07:43:41 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Stay With Me](https://www.last.fm/music/Better+Love/_/Stay+With+Me), by Better Love (27 Nov 2021, 07:23)
+- [stick around](https://www.last.fm/music/brotherkenzie/_/stick+around), by brotherkenzie (27 Nov 2021, 07:20)
+- [Out Like a Light 2](https://www.last.fm/music/The+Honeysticks/_/Out+Like+a+Light+2), by The Honeysticks (27 Nov 2021, 07:15)
+- [Better Off Without You](https://www.last.fm/music/Mallory+Knox/_/Better+Off+Without+You), by Mallory Knox (27 Nov 2021, 07:12)
+- [No One Really Wants Me](https://www.last.fm/music/hunter+&+wolfe/_/No+One+Really+Wants+Me), by hunter & wolfe (27 Nov 2021, 07:09)
+- [Mother Mary](https://www.last.fm/music/Tom+Auton/_/Mother+Mary), by Tom Auton (27 Nov 2021, 07:07)
+- [Noises](https://www.last.fm/music/Mike+Mains+&+The+Branches/_/Noises), by Mike Mains & The Branches (27 Nov 2021, 07:03)
+- [Breezeblocks](https://www.last.fm/music/alt-J/_/Breezeblocks), by alt-J (27 Nov 2021, 06:27)
 - [Smokey Eyes](https://www.last.fm/music/Lincoln/_/Smokey+Eyes), by Lincoln (27 Nov 2021, 03:40)
 - [Strangers](https://www.last.fm/music/Fizzy+Blood/_/Strangers), by Fizzy Blood (27 Nov 2021, 03:36)
 - [Alright](https://www.last.fm/music/Johnny+Manchild+and+the+Poor+Bastards/_/Alright), by Johnny Manchild and the Poor Bastards (27 Nov 2021, 03:32)
@@ -46,11 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Once upon Another Time](https://www.last.fm/music/Sara+Bareilles/_/Once+upon+Another+Time), by Sara Bareilles (26 Nov 2021, 23:54)
 - [Fear & Delight](https://www.last.fm/music/The+Correspondents/_/Fear+&+Delight), by The Correspondents (26 Nov 2021, 23:48)
 - [suicide romantics](https://www.last.fm/music/Des+Rocs/_/suicide+romantics), by Des Rocs (26 Nov 2021, 23:45)
-- [Prime](https://www.last.fm/music/Roan+Martin/_/Prime), by Roan Martin (26 Nov 2021, 23:41)
-- [Cryptid](https://www.last.fm/music/LUCAS+LEX/_/Cryptid), by LUCAS LEX (26 Nov 2021, 23:36)
-- [End of It](https://www.last.fm/music/Friday+Pilots+Club/_/End+of+It), by Friday Pilots Club (26 Nov 2021, 23:34)
-- [Typical Story](https://www.last.fm/music/Hobo+Johnson/_/Typical+Story), by Hobo Johnson (26 Nov 2021, 23:30)
-- [Alright](https://www.last.fm/music/Johnny+Manchild+and+the+Poor+Bastards/_/Alright), by Johnny Manchild and the Poor Bastards (26 Nov 2021, 23:27)
-- [Point to Prove (I Was an Ugly Kid)](https://www.last.fm/music/Bug+Hunter/_/Point+to+Prove+(I+Was+an+Ugly+Kid)), by Bug Hunter (26 Nov 2021, 23:22)
-- [Noises](https://www.last.fm/music/Mike+Mains+&+The+Branches/_/Noises), by Mike Mains & The Branches (26 Nov 2021, 23:18)
-- [Break the spell](https://www.last.fm/music/Akeboshi/_/Break+the+spell), by Akeboshi (26 Nov 2021, 23:15)
