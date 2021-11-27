@@ -1,10 +1,18 @@
 
 # Spotify Stats
-## Last Updated Sat Nov 27 2021 01:38:31 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sat Nov 27 2021 02:16:40 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Take Me to Church](https://www.last.fm/music/Hozier/_/Take+Me+to+Church), by Hozier (streaming now)
+- [Watch Tv](https://www.last.fm/music/Stoop+Kids/_/Watch+Tv), by Stoop Kids (27 Nov 2021, 02:07)
+- [Sex with a Ghost](https://www.last.fm/music/Teddy+Hyde/_/Sex+with+a+Ghost), by Teddy Hyde (27 Nov 2021, 02:03)
+- [Stand Up Tragedy](https://www.last.fm/music/The+Fratellis/_/Stand+Up+Tragedy), by The Fratellis (27 Nov 2021, 02:00)
+- [The Bidding](https://www.last.fm/music/Tally+Hall/_/The+Bidding), by Tally Hall (27 Nov 2021, 01:57)
+- [Dancing in the Light of a Burning City (Phoenixes)](https://www.last.fm/music/Flobots/_/Dancing+in+the+Light+of+a+Burning+City+(Phoenixes)), by Flobots (27 Nov 2021, 01:53)
+- [Breezeblocks](https://www.last.fm/music/alt-J/_/Breezeblocks), by alt-J (27 Nov 2021, 01:50)
+- [The Room Is Filled With People That Love You](https://www.last.fm/music/Foresight/_/The+Room+Is+Filled+With+People+That+Love+You), by Foresight (27 Nov 2021, 01:46)
+- [i don't really mind](https://www.last.fm/music/DJ+PoolBoi/_/i+don%27t+really+mind), by DJ PoolBoi (27 Nov 2021, 01:42)
+- [Take Me to Church](https://www.last.fm/music/Hozier/_/Take+Me+to+Church), by Hozier (27 Nov 2021, 01:37)
 - [Mary](https://www.last.fm/music/The+Happy+Fits/_/Mary), by The Happy Fits (27 Nov 2021, 01:34)
 - [Every Little Thing](https://www.last.fm/music/CyberGirlfriend/_/Every+Little+Thing), by CyberGirlfriend (27 Nov 2021, 01:33)
 - [Ghosting](https://www.last.fm/music/Mother+Mother/_/Ghosting), by Mother Mother (27 Nov 2021, 01:25)
@@ -46,12 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Cover Me in Roses](https://www.last.fm/music/Holden+Laurence/_/Cover+Me+in+Roses), by Holden Laurence (26 Nov 2021, 23:11)
 - [Trampoline](https://www.last.fm/music/Airways/_/Trampoline), by Airways (26 Nov 2021, 23:06)
 - [All I Ever Wanted](https://www.last.fm/music/Futurist/_/All+I+Ever+Wanted), by Futurist (26 Nov 2021, 23:03)
-- [Punk Rock Kids](https://www.last.fm/music/Huxlxy/_/Punk+Rock+Kids), by Huxlxy (26 Nov 2021, 22:58)
-- [A Friend](https://www.last.fm/music/Say+Yes+Dog/_/A+Friend), by Say Yes Dog (26 Nov 2021, 22:55)
-- [Hustle](https://www.last.fm/music/Rocket+Surgeons/_/Hustle), by Rocket Surgeons (26 Nov 2021, 22:51)
-- [Pretty Dirty (In The Fading Light)](https://www.last.fm/music/Ripe/_/Pretty+Dirty+(In+The+Fading+Light)), by Ripe (26 Nov 2021, 22:48)
-- [Better Off Without You](https://www.last.fm/music/Mallory+Knox/_/Better+Off+Without+You), by Mallory Knox (26 Nov 2021, 22:42)
-- [Boots Worn Through](https://www.last.fm/music/Shayfer+James/_/Boots+Worn+Through), by Shayfer James (26 Nov 2021, 22:39)
-- [Sunshine](https://www.last.fm/music/The+Brummies/_/Sunshine), by The Brummies (26 Nov 2021, 22:33)
-- [At the Crossing Sign](https://www.last.fm/music/St.Arnaud/_/At+the+Crossing+Sign), by St.Arnaud (26 Nov 2021, 22:29)
-- [stick around](https://www.last.fm/music/brotherkenzie/_/stick+around), by brotherkenzie (26 Nov 2021, 22:25)
