@@ -1,10 +1,15 @@
 
 # Spotify Stats
-## Last Updated Sat Nov 27 2021 18:48:38 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sat Nov 27 2021 19:43:25 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Impress Your Creators](https://www.last.fm/music/Tub+Ring/_/Impress+Your+Creators), by Tub Ring (streaming now)
+- [Cover Me in Roses](https://www.last.fm/music/Holden+Laurence/_/Cover+Me+in+Roses), by Holden Laurence (27 Nov 2021, 19:02)
+- [See Below](https://www.last.fm/music/The+Ghost+Club/_/See+Below), by The Ghost Club (27 Nov 2021, 18:58)
+- [White Noise Boys](https://www.last.fm/music/Airways/_/White+Noise+Boys), by Airways (27 Nov 2021, 18:55)
+- [Bremen](https://www.last.fm/music/Pigpen+Theatre+Co./_/Bremen), by Pigpen Theatre Co. (27 Nov 2021, 18:52)
+- [Songbird](https://www.last.fm/music/The+Technicolors/_/Songbird), by The Technicolors (27 Nov 2021, 18:49)
+- [Impress Your Creators](https://www.last.fm/music/Tub+Ring/_/Impress+Your+Creators), by Tub Ring (27 Nov 2021, 18:47)
 - [L.V.S. (Your Lady Waits)](https://www.last.fm/music/Shayfer+James/_/L.V.S.+(Your+Lady+Waits)), by Shayfer James (27 Nov 2021, 18:43)
 - [My Smile is Extinct](https://www.last.fm/music/Kane+Strang/_/My+Smile+is+Extinct), by Kane Strang (27 Nov 2021, 18:39)
 - [Starchild](https://www.last.fm/music/Ghost+Quartet/_/Starchild), by Ghost Quartet (27 Nov 2021, 18:37)
@@ -49,9 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Ghosting](https://www.last.fm/music/Mother+Mother/_/Ghosting), by Mother Mother (27 Nov 2021, 01:25)
 - [(They Long to Be) Close to You](https://www.last.fm/music/Carpenters/_/(They+Long+to+Be)+Close+to+You), by Carpenters (27 Nov 2021, 01:20)
 - [We Broke the World](https://www.last.fm/music/Fast+Friends/_/We+Broke+the+World), by Fast Friends (27 Nov 2021, 01:17)
-- [It gets better](https://www.last.fm/music/Aliceband/_/It+gets+better), by Aliceband (27 Nov 2021, 01:13)
-- [The Consequence Of Imagination Is Fear](https://www.last.fm/music/Junie+&+TheHutFriends/_/The+Consequence+Of+Imagination+Is+Fear), by Junie & TheHutFriends (27 Nov 2021, 01:10)
-- [Let It Go](https://www.last.fm/music/Sam+Astor/_/Let+It+Go), by Sam Astor (27 Nov 2021, 01:06)
-- [Close Your Eyes](https://www.last.fm/music/The+Midnight+Club/_/Close+Your+Eyes), by The Midnight Club (27 Nov 2021, 01:03)
-- [Answer in My Head](https://www.last.fm/music/Fastest+Land+Animal/_/Answer+in+My+Head), by Fastest Land Animal (27 Nov 2021, 01:00)
-- [Cooler Than Me](https://www.last.fm/music/First+to+Eleven/_/Cooler+Than+Me), by First to Eleven (27 Nov 2021, 00:57)
