@@ -1,9 +1,11 @@
 
 # Spotify Stats
-## Last Updated Sat Nov 27 2021 02:53:02 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sat Nov 27 2021 03:45:26 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Strangers](https://www.last.fm/music/Fizzy+Blood/_/Strangers), by Fizzy Blood (27 Nov 2021, 03:36)
+- [Alright](https://www.last.fm/music/Johnny+Manchild+and+the+Poor+Bastards/_/Alright), by Johnny Manchild and the Poor Bastards (27 Nov 2021, 03:32)
 - [Watch Tv](https://www.last.fm/music/Stoop+Kids/_/Watch+Tv), by Stoop Kids (27 Nov 2021, 02:07)
 - [Sex with a Ghost](https://www.last.fm/music/Teddy+Hyde/_/Sex+with+a+Ghost), by Teddy Hyde (27 Nov 2021, 02:03)
 - [Stand Up Tragedy](https://www.last.fm/music/The+Fratellis/_/Stand+Up+Tragedy), by The Fratellis (27 Nov 2021, 02:00)
@@ -52,5 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Noises](https://www.last.fm/music/Mike+Mains+&+The+Branches/_/Noises), by Mike Mains & The Branches (26 Nov 2021, 23:18)
 - [Break the spell](https://www.last.fm/music/Akeboshi/_/Break+the+spell), by Akeboshi (26 Nov 2021, 23:15)
 - [Cover Me in Roses](https://www.last.fm/music/Holden+Laurence/_/Cover+Me+in+Roses), by Holden Laurence (26 Nov 2021, 23:11)
-- [Trampoline](https://www.last.fm/music/Airways/_/Trampoline), by Airways (26 Nov 2021, 23:06)
-- [All I Ever Wanted](https://www.last.fm/music/Futurist/_/All+I+Ever+Wanted), by Futurist (26 Nov 2021, 23:03)
