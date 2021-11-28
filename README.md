@@ -1,9 +1,15 @@
 
 # Spotify Stats
-## Last Updated Sun Nov 28 2021 04:53:33 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sun Nov 28 2021 05:43:17 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [The Cult of Dionysus](https://www.last.fm/music/The+Orion+Experience/_/The+Cult+of+Dionysus), by The Orion Experience (streaming now)
+- [Touch](https://www.last.fm/music/DEAD+POET+SOCIETY/_/Touch), by DEAD POET SOCIETY (28 Nov 2021, 05:38)
+- [23, Never Me](https://www.last.fm/music/Dead+Pony/_/23,+Never+Me), by Dead Pony (28 Nov 2021, 05:35)
+- [Dust and Ashes](https://www.last.fm/music/Josh+Groban/_/Dust+and+Ashes), by Josh Groban (28 Nov 2021, 05:02)
+- [Anxiety, My Best Friend](https://www.last.fm/music/La+Bouquet/_/Anxiety,+My+Best+Friend), by La Bouquet (28 Nov 2021, 04:59)
+- [So Serious](https://www.last.fm/music/The+Survival+Code/_/So+Serious), by The Survival Code (28 Nov 2021, 04:55)
 - [My House](https://www.last.fm/music/Flo+Rida/_/My+House), by Flo Rida (28 Nov 2021, 02:44)
 - [Dirty Rotten Scum](https://www.last.fm/music/Cruel+Hearts+Club/_/Dirty+Rotten+Scum), by Cruel Hearts Club (28 Nov 2021, 02:40)
 - [Michael](https://www.last.fm/music/Civilian/_/Michael), by Civilian (28 Nov 2021, 02:35)
@@ -49,8 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Cryptid](https://www.last.fm/music/LUCAS+LEX/_/Cryptid), by LUCAS LEX (27 Nov 2021, 18:02)
 - [Sunshine](https://www.last.fm/music/The+Velvet+Cab/_/Sunshine), by The Velvet Cab (27 Nov 2021, 17:56)
 - [Fear & Delight](https://www.last.fm/music/The+Correspondents/_/Fear+&+Delight), by The Correspondents (27 Nov 2021, 17:53)
-- [Breezeblocks](https://www.last.fm/music/alt-J/_/Breezeblocks), by alt-J (27 Nov 2021, 17:50)
-- [Noises](https://www.last.fm/music/Mike+Mains+&+The+Branches/_/Noises), by Mike Mains & The Branches (27 Nov 2021, 17:50)
-- [See You Again](https://www.last.fm/music/Jmsey/_/See+You+Again), by Jmsey (27 Nov 2021, 07:26)
-- [Stay With Me](https://www.last.fm/music/Better+Love/_/Stay+With+Me), by Better Love (27 Nov 2021, 07:23)
-- [stick around](https://www.last.fm/music/brotherkenzie/_/stick+around), by brotherkenzie (27 Nov 2021, 07:20)
