@@ -1,9 +1,12 @@
 
 # Spotify Stats
-## Last Updated Sun Nov 28 2021 17:45:55 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sun Nov 28 2021 18:48:31 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Maybe](https://www.last.fm/music/Woman+Believer/_/Maybe), by Woman Believer (streaming now)
+- [Clouds](https://www.last.fm/music/Paper+Idol/_/Clouds), by Paper Idol (28 Nov 2021, 18:45)
+- [Loud](https://www.last.fm/music/Feed+The+Biirds/_/Loud), by Feed The Biirds (28 Nov 2021, 06:21)
 - [Less Than I Do](https://www.last.fm/music/The+Band+CAMINO/_/Less+Than+I+Do), by The Band CAMINO (28 Nov 2021, 06:18)
 - [Kill The Lights](https://www.last.fm/music/Set+It+Off/_/Kill+The+Lights), by Set It Off (28 Nov 2021, 06:15)
 - [My Smile is Extinct](https://www.last.fm/music/Kane+Strang/_/My+Smile+is+Extinct), by Kane Strang (28 Nov 2021, 06:12)
@@ -52,5 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [L.V.S. (Your Lady Waits)](https://www.last.fm/music/Shayfer+James/_/L.V.S.+(Your+Lady+Waits)), by Shayfer James (27 Nov 2021, 18:43)
 - [My Smile is Extinct](https://www.last.fm/music/Kane+Strang/_/My+Smile+is+Extinct), by Kane Strang (27 Nov 2021, 18:39)
 - [Starchild](https://www.last.fm/music/Ghost+Quartet/_/Starchild), by Ghost Quartet (27 Nov 2021, 18:37)
-- [Destruction](https://www.last.fm/music/Joywave/_/Destruction), by Joywave (27 Nov 2021, 18:34)
-- [Prime](https://www.last.fm/music/Roan+Martin/_/Prime), by Roan Martin (27 Nov 2021, 18:28)
