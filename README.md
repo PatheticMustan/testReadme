@@ -1,9 +1,17 @@
 
 # Spotify Stats
-## Last Updated Sat Nov 27 2021 23:49:01 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sun Nov 28 2021 02:17:19 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Famous Prophets (Stars)](https://www.last.fm/music/Car+Seat+Headrest/_/Famous+Prophets+(Stars)), by Car Seat Headrest (streaming now)
+- [Rock Star Skinny](https://www.last.fm/music/The+Real+Zebos/_/Rock+Star+Skinny), by The Real Zebos (28 Nov 2021, 01:53)
+- [Horny Hippies](https://www.last.fm/music/The+Dodos/_/Horny+Hippies), by The Dodos (28 Nov 2021, 01:51)
+- [Hands Down Olivia](https://www.last.fm/music/Super+American/_/Hands+Down+Olivia), by Super American (28 Nov 2021, 01:48)
+- [Alrighty Aphrodite](https://www.last.fm/music/Peach+Pit/_/Alrighty+Aphrodite), by Peach Pit (28 Nov 2021, 01:44)
+- [I Guess This Is My Life Now](https://www.last.fm/music/Roan+Martin/_/I+Guess+This+Is+My+Life+Now), by Roan Martin (28 Nov 2021, 01:41)
+- [I Can Get Back Up Now](https://www.last.fm/music/You,+Me,+and+Everyone+We+Know/_/I+Can+Get+Back+Up+Now), by You, Me, and Everyone We Know (28 Nov 2021, 01:38)
+- [Masochist](https://www.last.fm/music/Mourners/_/Masochist), by Mourners (28 Nov 2021, 01:35)
 - […well, better than the alternative](https://www.last.fm/music/Will+Wood/_/%E2%80%A6well,+better+than+the+alternative), by Will Wood (27 Nov 2021, 23:37)
 - [Role Model](https://www.last.fm/music/Daysormay/_/Role+Model), by Daysormay (27 Nov 2021, 23:34)
 - [Beach Bones (Feat. Ryan Ross)](https://www.last.fm/music/More+Amor/_/Beach+Bones+(Feat.+Ryan+Ross)), by More Amor (27 Nov 2021, 23:34)
@@ -47,10 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Noises](https://www.last.fm/music/Mike+Mains+&+The+Branches/_/Noises), by Mike Mains & The Branches (27 Nov 2021, 07:03)
 - [Breezeblocks](https://www.last.fm/music/alt-J/_/Breezeblocks), by alt-J (27 Nov 2021, 06:27)
 - [Smokey Eyes](https://www.last.fm/music/Lincoln/_/Smokey+Eyes), by Lincoln (27 Nov 2021, 03:40)
-- [Strangers](https://www.last.fm/music/Fizzy+Blood/_/Strangers), by Fizzy Blood (27 Nov 2021, 03:36)
-- [Alright](https://www.last.fm/music/Johnny+Manchild+and+the+Poor+Bastards/_/Alright), by Johnny Manchild and the Poor Bastards (27 Nov 2021, 03:32)
-- [Watch Tv](https://www.last.fm/music/Stoop+Kids/_/Watch+Tv), by Stoop Kids (27 Nov 2021, 02:07)
-- [Sex with a Ghost](https://www.last.fm/music/Teddy+Hyde/_/Sex+with+a+Ghost), by Teddy Hyde (27 Nov 2021, 02:03)
-- [Stand Up Tragedy](https://www.last.fm/music/The+Fratellis/_/Stand+Up+Tragedy), by The Fratellis (27 Nov 2021, 02:00)
-- [The Bidding](https://www.last.fm/music/Tally+Hall/_/The+Bidding), by Tally Hall (27 Nov 2021, 01:57)
-- [Dancing in the Light of a Burning City (Phoenixes)](https://www.last.fm/music/Flobots/_/Dancing+in+the+Light+of+a+Burning+City+(Phoenixes)), by Flobots (27 Nov 2021, 01:53)
