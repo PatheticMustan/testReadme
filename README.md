@@ -1,10 +1,17 @@
 
 # Spotify Stats
-## Last Updated Sun Nov 28 2021 18:48:31 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sun Nov 28 2021 19:43:40 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Maybe](https://www.last.fm/music/Woman+Believer/_/Maybe), by Woman Believer (streaming now)
+- [Cocoon](https://www.last.fm/music/Catfish+and+the+Bottlemen/_/Cocoon), by Catfish and the Bottlemen (28 Nov 2021, 19:10)
+- [Feel Good](https://www.last.fm/music/Weathers/_/Feel+Good), by Weathers (28 Nov 2021, 19:08)
+- [Perfect](https://www.last.fm/music/Rob+Cantor/_/Perfect), by Rob Cantor (28 Nov 2021, 19:04)
+- [Home to Me](https://www.last.fm/music/DEVIL+AND+THE+DEEP+BLUE+SEA/_/Home+to+Me), by DEVIL AND THE DEEP BLUE SEA (28 Nov 2021, 19:01)
+- [Black Day in December](https://www.last.fm/music/Said+the+Whale/_/Black+Day+in+December), by Said the Whale (28 Nov 2021, 18:58)
+- [Luxton](https://www.last.fm/music/Nonfiction/_/Luxton), by Nonfiction (28 Nov 2021, 18:55)
+- [Luxton](https://www.last.fm/music/Nonfiction/_/Luxton), by Nonfiction (28 Nov 2021, 18:52)
+- [Cough Syrup](https://www.last.fm/music/Young+the+Giant/_/Cough+Syrup), by Young the Giant (28 Nov 2021, 18:48)
 - [Clouds](https://www.last.fm/music/Paper+Idol/_/Clouds), by Paper Idol (28 Nov 2021, 18:45)
 - [Loud](https://www.last.fm/music/Feed+The+Biirds/_/Loud), by Feed The Biirds (28 Nov 2021, 06:21)
 - [Less Than I Do](https://www.last.fm/music/The+Band+CAMINO/_/Less+Than+I+Do), by The Band CAMINO (28 Nov 2021, 06:18)
@@ -47,11 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [See You Again](https://www.last.fm/music/Jmsey/_/See+You+Again), by Jmsey (27 Nov 2021, 20:07)
 - [Older](https://www.last.fm/music/Brother+Moses/_/Older), by Brother Moses (27 Nov 2021, 20:04)
 - [Cover Me in Roses](https://www.last.fm/music/Holden+Laurence/_/Cover+Me+in+Roses), by Holden Laurence (27 Nov 2021, 19:02)
-- [See Below](https://www.last.fm/music/The+Ghost+Club/_/See+Below), by The Ghost Club (27 Nov 2021, 18:58)
-- [White Noise Boys](https://www.last.fm/music/Airways/_/White+Noise+Boys), by Airways (27 Nov 2021, 18:55)
-- [Bremen](https://www.last.fm/music/Pigpen+Theatre+Co./_/Bremen), by Pigpen Theatre Co. (27 Nov 2021, 18:52)
-- [Songbird](https://www.last.fm/music/The+Technicolors/_/Songbird), by The Technicolors (27 Nov 2021, 18:49)
-- [Impress Your Creators](https://www.last.fm/music/Tub+Ring/_/Impress+Your+Creators), by Tub Ring (27 Nov 2021, 18:47)
-- [L.V.S. (Your Lady Waits)](https://www.last.fm/music/Shayfer+James/_/L.V.S.+(Your+Lady+Waits)), by Shayfer James (27 Nov 2021, 18:43)
-- [My Smile is Extinct](https://www.last.fm/music/Kane+Strang/_/My+Smile+is+Extinct), by Kane Strang (27 Nov 2021, 18:39)
-- [Starchild](https://www.last.fm/music/Ghost+Quartet/_/Starchild), by Ghost Quartet (27 Nov 2021, 18:37)
