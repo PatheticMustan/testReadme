@@ -1,9 +1,18 @@
 
 # Spotify Stats
-## Last Updated Sun Nov 28 2021 20:43:29 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sun Nov 28 2021 21:43:37 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [The Earth](https://www.last.fm/music/Isaac+Turner/_/The+Earth), by Isaac Turner (28 Nov 2021, 21:22)
+- [August](https://www.last.fm/music/Flipturn/_/August), by Flipturn (28 Nov 2021, 21:18)
+- [Turn The Lights Off](https://www.last.fm/music/Tally+Hall/_/Turn+The+Lights+Off), by Tally Hall (28 Nov 2021, 21:01)
+- [Turn The Lights Off](https://www.last.fm/music/Tally+Hall/_/Turn+The+Lights+Off), by Tally Hall (28 Nov 2021, 20:58)
+- [Turn The Lights Off](https://www.last.fm/music/Tally+Hall/_/Turn+The+Lights+Off), by Tally Hall (28 Nov 2021, 20:55)
+- [Love You Better](https://www.last.fm/music/The+Haunt/_/Love+You+Better), by The Haunt (28 Nov 2021, 20:48)
+- [Olde World](https://www.last.fm/music/Crying/_/Olde+World), by Crying (28 Nov 2021, 20:46)
+- [Seven Circles](https://www.last.fm/music/Statues+of+Cats/_/Seven+Circles), by Statues of Cats (28 Nov 2021, 20:41)
+- [Human](https://www.last.fm/music/Christina+Perri/_/Human), by Christina Perri (28 Nov 2021, 20:36)
 - [it gets better](https://www.last.fm/music/Daniel+Knox/_/it+gets+better), by Daniel Knox (28 Nov 2021, 20:32)
 - [Until I Found You](https://www.last.fm/music/Who%27s+Molly%3F/_/Until+I+Found+You), by Who's Molly? (28 Nov 2021, 19:14)
 - [Cocoon](https://www.last.fm/music/Catfish+and+the+Bottlemen/_/Cocoon), by Catfish and the Bottlemen (28 Nov 2021, 19:10)
@@ -45,12 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Hands Down Olivia](https://www.last.fm/music/Super+American/_/Hands+Down+Olivia), by Super American (28 Nov 2021, 01:48)
 - [Alrighty Aphrodite](https://www.last.fm/music/Peach+Pit/_/Alrighty+Aphrodite), by Peach Pit (28 Nov 2021, 01:44)
 - [I Guess This Is My Life Now](https://www.last.fm/music/Roan+Martin/_/I+Guess+This+Is+My+Life+Now), by Roan Martin (28 Nov 2021, 01:41)
-- [I Can Get Back Up Now](https://www.last.fm/music/You,+Me,+and+Everyone+We+Know/_/I+Can+Get+Back+Up+Now), by You, Me, and Everyone We Know (28 Nov 2021, 01:38)
-- [Masochist](https://www.last.fm/music/Mourners/_/Masochist), by Mourners (28 Nov 2021, 01:35)
-- […well, better than the alternative](https://www.last.fm/music/Will+Wood/_/%E2%80%A6well,+better+than+the+alternative), by Will Wood (27 Nov 2021, 23:37)
-- [Role Model](https://www.last.fm/music/Daysormay/_/Role+Model), by Daysormay (27 Nov 2021, 23:34)
-- [Beach Bones (Feat. Ryan Ross)](https://www.last.fm/music/More+Amor/_/Beach+Bones+(Feat.+Ryan+Ross)), by More Amor (27 Nov 2021, 23:34)
-- [Speak](https://www.last.fm/music/Jake+Bardin/_/Speak), by Jake Bardin (27 Nov 2021, 23:30)
-- [Tongue Tied](https://www.last.fm/music/Tomtsu/_/Tongue+Tied), by Tomtsu (27 Nov 2021, 23:28)
-- [Die Like This](https://www.last.fm/music/Mourners/_/Die+Like+This), by Mourners (27 Nov 2021, 20:32)
-- [These Drugs](https://www.last.fm/music/Sugar+Pine+7/_/These+Drugs), by Sugar Pine 7 (27 Nov 2021, 20:29)
