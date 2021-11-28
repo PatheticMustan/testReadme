@@ -1,10 +1,16 @@
 
 # Spotify Stats
-## Last Updated Sun Nov 28 2021 02:17:19 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sun Nov 28 2021 02:52:49 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Famous Prophets (Stars)](https://www.last.fm/music/Car+Seat+Headrest/_/Famous+Prophets+(Stars)), by Car Seat Headrest (streaming now)
+- [My House](https://www.last.fm/music/Flo+Rida/_/My+House), by Flo Rida (28 Nov 2021, 02:44)
+- [Dirty Rotten Scum](https://www.last.fm/music/Cruel+Hearts+Club/_/Dirty+Rotten+Scum), by Cruel Hearts Club (28 Nov 2021, 02:40)
+- [Michael](https://www.last.fm/music/Civilian/_/Michael), by Civilian (28 Nov 2021, 02:35)
+- [Kiss You](https://www.last.fm/music/Moons+of+Mars/_/Kiss+You), by Moons of Mars (28 Nov 2021, 02:32)
+- [Fireball (feat. John Ryan)](https://www.last.fm/music/Pitbull/_/Fireball+(feat.+John+Ryan)), by Pitbull (28 Nov 2021, 02:28)
+- [It's Only Sex](https://www.last.fm/music/Car+Seat+Headrest/_/It%27s+Only+Sex), by Car Seat Headrest (28 Nov 2021, 02:24)
+- [Famous Prophets (Stars)](https://www.last.fm/music/Car+Seat+Headrest/_/Famous+Prophets+(Stars)), by Car Seat Headrest (28 Nov 2021, 01:58)
 - [Rock Star Skinny](https://www.last.fm/music/The+Real+Zebos/_/Rock+Star+Skinny), by The Real Zebos (28 Nov 2021, 01:53)
 - [Horny Hippies](https://www.last.fm/music/The+Dodos/_/Horny+Hippies), by The Dodos (28 Nov 2021, 01:51)
 - [Hands Down Olivia](https://www.last.fm/music/Super+American/_/Hands+Down+Olivia), by Super American (28 Nov 2021, 01:48)
@@ -48,10 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [See You Again](https://www.last.fm/music/Jmsey/_/See+You+Again), by Jmsey (27 Nov 2021, 07:26)
 - [Stay With Me](https://www.last.fm/music/Better+Love/_/Stay+With+Me), by Better Love (27 Nov 2021, 07:23)
 - [stick around](https://www.last.fm/music/brotherkenzie/_/stick+around), by brotherkenzie (27 Nov 2021, 07:20)
-- [Out Like a Light 2](https://www.last.fm/music/The+Honeysticks/_/Out+Like+a+Light+2), by The Honeysticks (27 Nov 2021, 07:15)
-- [Better Off Without You](https://www.last.fm/music/Mallory+Knox/_/Better+Off+Without+You), by Mallory Knox (27 Nov 2021, 07:12)
-- [No One Really Wants Me](https://www.last.fm/music/hunter+&+wolfe/_/No+One+Really+Wants+Me), by hunter & wolfe (27 Nov 2021, 07:09)
-- [Mother Mary](https://www.last.fm/music/Tom+Auton/_/Mother+Mary), by Tom Auton (27 Nov 2021, 07:07)
-- [Noises](https://www.last.fm/music/Mike+Mains+&+The+Branches/_/Noises), by Mike Mains & The Branches (27 Nov 2021, 07:03)
-- [Breezeblocks](https://www.last.fm/music/alt-J/_/Breezeblocks), by alt-J (27 Nov 2021, 06:27)
-- [Smokey Eyes](https://www.last.fm/music/Lincoln/_/Smokey+Eyes), by Lincoln (27 Nov 2021, 03:40)
