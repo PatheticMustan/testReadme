@@ -1,9 +1,11 @@
 
 # Spotify Stats
-## Last Updated Sun Nov 28 2021 19:43:40 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sun Nov 28 2021 20:43:29 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [it gets better](https://www.last.fm/music/Daniel+Knox/_/it+gets+better), by Daniel Knox (28 Nov 2021, 20:32)
+- [Until I Found You](https://www.last.fm/music/Who%27s+Molly%3F/_/Until+I+Found+You), by Who's Molly? (28 Nov 2021, 19:14)
 - [Cocoon](https://www.last.fm/music/Catfish+and+the+Bottlemen/_/Cocoon), by Catfish and the Bottlemen (28 Nov 2021, 19:10)
 - [Feel Good](https://www.last.fm/music/Weathers/_/Feel+Good), by Weathers (28 Nov 2021, 19:08)
 - [Perfect](https://www.last.fm/music/Rob+Cantor/_/Perfect), by Rob Cantor (28 Nov 2021, 19:04)
@@ -17,6 +19,7 @@ Oh yeah, the latest and greatest songs listened to!
 - [Less Than I Do](https://www.last.fm/music/The+Band+CAMINO/_/Less+Than+I+Do), by The Band CAMINO (28 Nov 2021, 06:18)
 - [Kill The Lights](https://www.last.fm/music/Set+It+Off/_/Kill+The+Lights), by Set It Off (28 Nov 2021, 06:15)
 - [My Smile is Extinct](https://www.last.fm/music/Kane+Strang/_/My+Smile+is+Extinct), by Kane Strang (28 Nov 2021, 06:12)
+- [Art School Wannabe](https://www.last.fm/music/Sorority+Noise/_/Art+School+Wannabe), by Sorority Noise (28 Nov 2021, 06:12)
 - [Art School Wannabe](https://www.last.fm/music/Sorority+Noise/_/Art+School+Wannabe), by Sorority Noise (28 Nov 2021, 06:06)
 - [lover boy](https://www.last.fm/music/Tabby/_/lover+boy), by Tabby (28 Nov 2021, 05:56)
 - [Deafening Red](https://www.last.fm/music/Clarence+Clarity/_/Deafening+Red), by Clarence Clarity (28 Nov 2021, 05:52)
@@ -51,6 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Tongue Tied](https://www.last.fm/music/Tomtsu/_/Tongue+Tied), by Tomtsu (27 Nov 2021, 23:28)
 - [Die Like This](https://www.last.fm/music/Mourners/_/Die+Like+This), by Mourners (27 Nov 2021, 20:32)
 - [These Drugs](https://www.last.fm/music/Sugar+Pine+7/_/These+Drugs), by Sugar Pine 7 (27 Nov 2021, 20:29)
-- [See You Again](https://www.last.fm/music/Jmsey/_/See+You+Again), by Jmsey (27 Nov 2021, 20:07)
-- [Older](https://www.last.fm/music/Brother+Moses/_/Older), by Brother Moses (27 Nov 2021, 20:04)
-- [Cover Me in Roses](https://www.last.fm/music/Holden+Laurence/_/Cover+Me+in+Roses), by Holden Laurence (27 Nov 2021, 19:02)
