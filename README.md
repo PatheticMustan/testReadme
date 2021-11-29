@@ -1,10 +1,19 @@
 
 # Spotify Stats
-## Last Updated Sun Nov 28 2021 23:43:39 GMT+0000 (Coordinated Universal Time))
+## Last Updated Mon Nov 29 2021 01:40:55 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [So Serious](https://www.last.fm/music/The+Survival+Code/_/So+Serious), by The Survival Code (streaming now)
+- [Kiss Me You Animal](https://www.last.fm/music/Burn+the+Ballroom/_/Kiss+Me+You+Animal), by Burn the Ballroom (streaming now)
+- [Thank God I'm Not You](https://www.last.fm/music/Himalayas/_/Thank+God+I%27m+Not+You), by Himalayas (29 Nov 2021, 01:35)
+- [Brighter Than The Sun](https://www.last.fm/music/Brick%252BMortar/_/Brighter+Than+The+Sun), by Brick+Mortar (29 Nov 2021, 01:28)
+- [Stone Cold Classic](https://www.last.fm/music/George+Barnett/_/Stone+Cold+Classic), by George Barnett (29 Nov 2021, 01:25)
+- [Less Is More](https://www.last.fm/music/Demob+Happy/_/Less+Is+More), by Demob Happy (29 Nov 2021, 00:18)
+- [Used to the Darkness](https://www.last.fm/music/Des+Rocs/_/Used+to+the+Darkness), by Des Rocs (29 Nov 2021, 00:14)
+- [Hills Have Eyes](https://www.last.fm/music/POORSTACY/_/Hills+Have+Eyes), by POORSTACY (28 Nov 2021, 23:58)
+- [Caroline](https://www.last.fm/music/Civilian/_/Caroline), by Civilian (28 Nov 2021, 23:55)
+- [Divine Loser](https://www.last.fm/music/Clem+Turner/_/Divine+Loser), by Clem Turner (28 Nov 2021, 23:51)
+- [So Serious](https://www.last.fm/music/The+Survival+Code/_/So+Serious), by The Survival Code (28 Nov 2021, 23:41)
 - [Stand Up Tragedy](https://www.last.fm/music/The+Fratellis/_/Stand+Up+Tragedy), by The Fratellis (28 Nov 2021, 23:38)
 - [Dust](https://www.last.fm/music/Childcare/_/Dust), by Childcare (28 Nov 2021, 23:34)
 - [Little Bird](https://www.last.fm/music/Livingmore/_/Little+Bird), by Livingmore (28 Nov 2021, 23:31)
@@ -46,12 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Less Than I Do](https://www.last.fm/music/The+Band+CAMINO/_/Less+Than+I+Do), by The Band CAMINO (28 Nov 2021, 06:18)
 - [Kill The Lights](https://www.last.fm/music/Set+It+Off/_/Kill+The+Lights), by Set It Off (28 Nov 2021, 06:15)
 - [My Smile is Extinct](https://www.last.fm/music/Kane+Strang/_/My+Smile+is+Extinct), by Kane Strang (28 Nov 2021, 06:12)
-- [Art School Wannabe](https://www.last.fm/music/Sorority+Noise/_/Art+School+Wannabe), by Sorority Noise (28 Nov 2021, 06:12)
-- [Art School Wannabe](https://www.last.fm/music/Sorority+Noise/_/Art+School+Wannabe), by Sorority Noise (28 Nov 2021, 06:06)
-- [lover boy](https://www.last.fm/music/Tabby/_/lover+boy), by Tabby (28 Nov 2021, 05:56)
-- [Deafening Red](https://www.last.fm/music/Clarence+Clarity/_/Deafening+Red), by Clarence Clarity (28 Nov 2021, 05:52)
-- [One Foot](https://www.last.fm/music/Airways/_/One+Foot), by Airways (28 Nov 2021, 05:49)
-- [what am i supposed to do](https://www.last.fm/music/Sven+Johnson/_/what+am+i+supposed+to+do), by Sven Johnson (28 Nov 2021, 05:46)
-- [Black Day in December](https://www.last.fm/music/Said+the+Whale/_/Black+Day+in+December), by Said the Whale (28 Nov 2021, 05:44)
-- [The Cult of Dionysus](https://www.last.fm/music/The+Orion+Experience/_/The+Cult+of+Dionysus), by The Orion Experience (28 Nov 2021, 05:40)
-- [Touch](https://www.last.fm/music/DEAD+POET+SOCIETY/_/Touch), by DEAD POET SOCIETY (28 Nov 2021, 05:38)
