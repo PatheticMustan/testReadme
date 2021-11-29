@@ -1,10 +1,12 @@
 
 # Spotify Stats
-## Last Updated Mon Nov 29 2021 05:43:19 GMT+0000 (Coordinated Universal Time))
+## Last Updated Mon Nov 29 2021 06:51:59 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Cryptid](https://www.last.fm/music/LUCAS+LEX/_/Cryptid), by LUCAS LEX (streaming now)
+- [A Friend](https://www.last.fm/music/Say+Yes+Dog/_/A+Friend), by Say Yes Dog (29 Nov 2021, 06:02)
+- [The Villain I Appear to Be](https://www.last.fm/music/Connor+Spiotto/_/The+Villain+I+Appear+to+Be), by Connor Spiotto (29 Nov 2021, 05:44)
+- [Cryptid](https://www.last.fm/music/LUCAS+LEX/_/Cryptid), by LUCAS LEX (29 Nov 2021, 05:41)
 - [Human](https://www.last.fm/music/Anavae/_/Human), by Anavae (29 Nov 2021, 05:38)
 - [Heart of a Dancer](https://www.last.fm/music/The+Happy+Fits/_/Heart+of+a+Dancer), by The Happy Fits (29 Nov 2021, 05:34)
 - [Used to the Darkness](https://www.last.fm/music/Des+Rocs/_/Used+to+the+Darkness), by Des Rocs (29 Nov 2021, 05:30)
@@ -52,6 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Luxton](https://www.last.fm/music/Nonfiction/_/Luxton), by Nonfiction (29 Nov 2021, 02:22)
 - [Maintain the Madness](https://www.last.fm/music/The+Jane+Austen+Argument/_/Maintain+the+Madness), by The Jane Austen Argument (29 Nov 2021, 02:18)
 - [Mercurial](https://www.last.fm/music/Picture+Atlantic/_/Mercurial), by Picture Atlantic (29 Nov 2021, 02:14)
-- [Sing When No One's Around](https://www.last.fm/music/The+Reign+Of+Kindo/_/Sing+When+No+One%27s+Around), by The Reign Of Kindo (29 Nov 2021, 02:10)
-- [Sometimes](https://www.last.fm/music/Nick+Lutsko/_/Sometimes), by Nick Lutsko (29 Nov 2021, 02:06)
-- [Dance You Back to Life](https://www.last.fm/music/Justin+Kuritzkes/_/Dance+You+Back+to+Life), by Justin Kuritzkes (29 Nov 2021, 02:01)
