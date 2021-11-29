@@ -1,10 +1,12 @@
 
 # Spotify Stats
-## Last Updated Mon Nov 29 2021 22:43:47 GMT+0000 (Coordinated Universal Time))
+## Last Updated Mon Nov 29 2021 23:44:13 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Once upon Another Time](https://www.last.fm/music/Sara+Bareilles/_/Once+upon+Another+Time), by Sara Bareilles (streaming now)
+- [Animals Crying](https://www.last.fm/music/Statues+of+Cats/_/Animals+Crying), by Statues of Cats (29 Nov 2021, 22:52)
+- [Egg](https://www.last.fm/music/Shoe/_/Egg), by Shoe (29 Nov 2021, 22:48)
+- [Once upon Another Time](https://www.last.fm/music/Sara+Bareilles/_/Once+upon+Another+Time), by Sara Bareilles (29 Nov 2021, 22:43)
 - [Sometimes](https://www.last.fm/music/Nick+Lutsko/_/Sometimes), by Nick Lutsko (29 Nov 2021, 22:39)
 - [Horny Hippies](https://www.last.fm/music/The+Dodos/_/Horny+Hippies), by The Dodos (29 Nov 2021, 22:36)
 - [Horny Hippies](https://www.last.fm/music/The+Dodos/_/Horny+Hippies), by The Dodos (29 Nov 2021, 12:59)
@@ -52,6 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [A Dream](https://www.last.fm/music/Denver+Pike/_/A+Dream), by Denver Pike (29 Nov 2021, 03:06)
 - [Culling](https://www.last.fm/music/Fein/_/Culling), by Fein (29 Nov 2021, 03:02)
 - [Reason for Dreaming](https://www.last.fm/music/The+Happy+Fits/_/Reason+for+Dreaming), by The Happy Fits (29 Nov 2021, 02:58)
-- [Skeleton](https://www.last.fm/music/FewJar/_/Skeleton), by FewJar (29 Nov 2021, 02:53)
-- [Smokey Eyes](https://www.last.fm/music/Lincoln/_/Smokey+Eyes), by Lincoln (29 Nov 2021, 02:50)
-- [Keep Two-Stepping](https://www.last.fm/music/Pretoria/_/Keep+Two-Stepping), by Pretoria (29 Nov 2021, 02:46)
