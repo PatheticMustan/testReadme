@@ -1,10 +1,18 @@
 
 # Spotify Stats
-## Last Updated Mon Nov 29 2021 02:17:14 GMT+0000 (Coordinated Universal Time))
+## Last Updated Mon Nov 29 2021 02:52:44 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Mercurial](https://www.last.fm/music/Picture+Atlantic/_/Mercurial), by Picture Atlantic (streaming now)
+- [Smokey Eyes](https://www.last.fm/music/Lincoln/_/Smokey+Eyes), by Lincoln (streaming now)
+- [Keep Two-Stepping](https://www.last.fm/music/Pretoria/_/Keep+Two-Stepping), by Pretoria (29 Nov 2021, 02:46)
+- [Mint Leaf](https://www.last.fm/music/Vincent+Mango/_/Mint+Leaf), by Vincent Mango (29 Nov 2021, 02:39)
+- [Last Words of a Shooting Star](https://www.last.fm/music/Mitski/_/Last+Words+of+a+Shooting+Star), by Mitski (29 Nov 2021, 02:37)
+- [Boots Worn Through](https://www.last.fm/music/Shayfer+James/_/Boots+Worn+Through), by Shayfer James (29 Nov 2021, 02:34)
+- [Mountain Man](https://www.last.fm/music/Yabadum/_/Mountain+Man), by Yabadum (29 Nov 2021, 02:28)
+- [Luxton](https://www.last.fm/music/Nonfiction/_/Luxton), by Nonfiction (29 Nov 2021, 02:22)
+- [Maintain the Madness](https://www.last.fm/music/The+Jane+Austen+Argument/_/Maintain+the+Madness), by The Jane Austen Argument (29 Nov 2021, 02:18)
+- [Mercurial](https://www.last.fm/music/Picture+Atlantic/_/Mercurial), by Picture Atlantic (29 Nov 2021, 02:14)
 - [Sing When No One's Around](https://www.last.fm/music/The+Reign+Of+Kindo/_/Sing+When+No+One%27s+Around), by The Reign Of Kindo (29 Nov 2021, 02:10)
 - [Sometimes](https://www.last.fm/music/Nick+Lutsko/_/Sometimes), by Nick Lutsko (29 Nov 2021, 02:06)
 - [Dance You Back to Life](https://www.last.fm/music/Justin+Kuritzkes/_/Dance+You+Back+to+Life), by Justin Kuritzkes (29 Nov 2021, 02:01)
@@ -47,11 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [it gets better](https://www.last.fm/music/Daniel+Knox/_/it+gets+better), by Daniel Knox (28 Nov 2021, 20:32)
 - [Until I Found You](https://www.last.fm/music/Who%27s+Molly%3F/_/Until+I+Found+You), by Who's Molly? (28 Nov 2021, 19:14)
 - [Cocoon](https://www.last.fm/music/Catfish+and+the+Bottlemen/_/Cocoon), by Catfish and the Bottlemen (28 Nov 2021, 19:10)
-- [Feel Good](https://www.last.fm/music/Weathers/_/Feel+Good), by Weathers (28 Nov 2021, 19:08)
-- [Perfect](https://www.last.fm/music/Rob+Cantor/_/Perfect), by Rob Cantor (28 Nov 2021, 19:04)
-- [Home to Me](https://www.last.fm/music/DEVIL+AND+THE+DEEP+BLUE+SEA/_/Home+to+Me), by DEVIL AND THE DEEP BLUE SEA (28 Nov 2021, 19:01)
-- [Black Day in December](https://www.last.fm/music/Said+the+Whale/_/Black+Day+in+December), by Said the Whale (28 Nov 2021, 18:58)
-- [Luxton](https://www.last.fm/music/Nonfiction/_/Luxton), by Nonfiction (28 Nov 2021, 18:55)
-- [Luxton](https://www.last.fm/music/Nonfiction/_/Luxton), by Nonfiction (28 Nov 2021, 18:52)
-- [Cough Syrup](https://www.last.fm/music/Young+the+Giant/_/Cough+Syrup), by Young the Giant (28 Nov 2021, 18:48)
-- [Clouds](https://www.last.fm/music/Paper+Idol/_/Clouds), by Paper Idol (28 Nov 2021, 18:45)
