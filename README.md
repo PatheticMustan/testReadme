@@ -1,9 +1,13 @@
 
 # Spotify Stats
-## Last Updated Mon Nov 29 2021 21:43:43 GMT+0000 (Coordinated Universal Time))
+## Last Updated Mon Nov 29 2021 22:43:47 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Once upon Another Time](https://www.last.fm/music/Sara+Bareilles/_/Once+upon+Another+Time), by Sara Bareilles (streaming now)
+- [Sometimes](https://www.last.fm/music/Nick+Lutsko/_/Sometimes), by Nick Lutsko (29 Nov 2021, 22:39)
+- [Horny Hippies](https://www.last.fm/music/The+Dodos/_/Horny+Hippies), by The Dodos (29 Nov 2021, 22:36)
+- [Horny Hippies](https://www.last.fm/music/The+Dodos/_/Horny+Hippies), by The Dodos (29 Nov 2021, 12:59)
 - [Close Enough](https://www.last.fm/music/Arrows+in+Action/_/Close+Enough), by Arrows in Action (29 Nov 2021, 12:57)
 - [Expert](https://www.last.fm/music/Pretoria/_/Expert), by Pretoria (29 Nov 2021, 12:54)
 - [stick around](https://www.last.fm/music/brotherkenzie/_/stick+around), by brotherkenzie (29 Nov 2021, 12:50)
@@ -51,6 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Skeleton](https://www.last.fm/music/FewJar/_/Skeleton), by FewJar (29 Nov 2021, 02:53)
 - [Smokey Eyes](https://www.last.fm/music/Lincoln/_/Smokey+Eyes), by Lincoln (29 Nov 2021, 02:50)
 - [Keep Two-Stepping](https://www.last.fm/music/Pretoria/_/Keep+Two-Stepping), by Pretoria (29 Nov 2021, 02:46)
-- [Mint Leaf](https://www.last.fm/music/Vincent+Mango/_/Mint+Leaf), by Vincent Mango (29 Nov 2021, 02:39)
-- [Last Words of a Shooting Star](https://www.last.fm/music/Mitski/_/Last+Words+of+a+Shooting+Star), by Mitski (29 Nov 2021, 02:37)
-- [Boots Worn Through](https://www.last.fm/music/Shayfer+James/_/Boots+Worn+Through), by Shayfer James (29 Nov 2021, 02:34)
