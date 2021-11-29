@@ -1,10 +1,14 @@
 
 # Spotify Stats
-## Last Updated Mon Nov 29 2021 01:40:55 GMT+0000 (Coordinated Universal Time))
+## Last Updated Mon Nov 29 2021 02:17:14 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Kiss Me You Animal](https://www.last.fm/music/Burn+the+Ballroom/_/Kiss+Me+You+Animal), by Burn the Ballroom (streaming now)
+- [Mercurial](https://www.last.fm/music/Picture+Atlantic/_/Mercurial), by Picture Atlantic (streaming now)
+- [Sing When No One's Around](https://www.last.fm/music/The+Reign+Of+Kindo/_/Sing+When+No+One%27s+Around), by The Reign Of Kindo (29 Nov 2021, 02:10)
+- [Sometimes](https://www.last.fm/music/Nick+Lutsko/_/Sometimes), by Nick Lutsko (29 Nov 2021, 02:06)
+- [Dance You Back to Life](https://www.last.fm/music/Justin+Kuritzkes/_/Dance+You+Back+to+Life), by Justin Kuritzkes (29 Nov 2021, 02:01)
+- [Kiss Me You Animal](https://www.last.fm/music/Burn+the+Ballroom/_/Kiss+Me+You+Animal), by Burn the Ballroom (29 Nov 2021, 01:38)
 - [Thank God I'm Not You](https://www.last.fm/music/Himalayas/_/Thank+God+I%27m+Not+You), by Himalayas (29 Nov 2021, 01:35)
 - [Brighter Than The Sun](https://www.last.fm/music/Brick%252BMortar/_/Brighter+Than+The+Sun), by Brick+Mortar (29 Nov 2021, 01:28)
 - [Stone Cold Classic](https://www.last.fm/music/George+Barnett/_/Stone+Cold+Classic), by George Barnett (29 Nov 2021, 01:25)
@@ -51,7 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Luxton](https://www.last.fm/music/Nonfiction/_/Luxton), by Nonfiction (28 Nov 2021, 18:52)
 - [Cough Syrup](https://www.last.fm/music/Young+the+Giant/_/Cough+Syrup), by Young the Giant (28 Nov 2021, 18:48)
 - [Clouds](https://www.last.fm/music/Paper+Idol/_/Clouds), by Paper Idol (28 Nov 2021, 18:45)
-- [Loud](https://www.last.fm/music/Feed+The+Biirds/_/Loud), by Feed The Biirds (28 Nov 2021, 06:21)
-- [Less Than I Do](https://www.last.fm/music/The+Band+CAMINO/_/Less+Than+I+Do), by The Band CAMINO (28 Nov 2021, 06:18)
-- [Kill The Lights](https://www.last.fm/music/Set+It+Off/_/Kill+The+Lights), by Set It Off (28 Nov 2021, 06:15)
-- [My Smile is Extinct](https://www.last.fm/music/Kane+Strang/_/My+Smile+is+Extinct), by Kane Strang (28 Nov 2021, 06:12)
