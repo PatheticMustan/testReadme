@@ -1,9 +1,14 @@
 
 # Spotify Stats
-## Last Updated Mon Nov 29 2021 11:43:29 GMT+0000 (Coordinated Universal Time))
+## Last Updated Mon Nov 29 2021 13:02:38 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Horny Hippies](https://www.last.fm/music/The+Dodos/_/Horny+Hippies), by The Dodos (streaming now)
+- [Close Enough](https://www.last.fm/music/Arrows+in+Action/_/Close+Enough), by Arrows in Action (29 Nov 2021, 12:57)
+- [Expert](https://www.last.fm/music/Pretoria/_/Expert), by Pretoria (29 Nov 2021, 12:54)
+- [stick around](https://www.last.fm/music/brotherkenzie/_/stick+around), by brotherkenzie (29 Nov 2021, 12:50)
+- [Famous Prophets (Stars)](https://www.last.fm/music/Car+Seat+Headrest/_/Famous+Prophets+(Stars)), by Car Seat Headrest (29 Nov 2021, 06:07)
 - [A Friend](https://www.last.fm/music/Say+Yes+Dog/_/A+Friend), by Say Yes Dog (29 Nov 2021, 06:02)
 - [The Villain I Appear to Be](https://www.last.fm/music/Connor+Spiotto/_/The+Villain+I+Appear+to+Be), by Connor Spiotto (29 Nov 2021, 05:44)
 - [Cryptid](https://www.last.fm/music/LUCAS+LEX/_/Cryptid), by LUCAS LEX (29 Nov 2021, 05:41)
@@ -50,7 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Mint Leaf](https://www.last.fm/music/Vincent+Mango/_/Mint+Leaf), by Vincent Mango (29 Nov 2021, 02:39)
 - [Last Words of a Shooting Star](https://www.last.fm/music/Mitski/_/Last+Words+of+a+Shooting+Star), by Mitski (29 Nov 2021, 02:37)
 - [Boots Worn Through](https://www.last.fm/music/Shayfer+James/_/Boots+Worn+Through), by Shayfer James (29 Nov 2021, 02:34)
-- [Mountain Man](https://www.last.fm/music/Yabadum/_/Mountain+Man), by Yabadum (29 Nov 2021, 02:28)
-- [Luxton](https://www.last.fm/music/Nonfiction/_/Luxton), by Nonfiction (29 Nov 2021, 02:22)
-- [Maintain the Madness](https://www.last.fm/music/The+Jane+Austen+Argument/_/Maintain+the+Madness), by The Jane Austen Argument (29 Nov 2021, 02:18)
-- [Mercurial](https://www.last.fm/music/Picture+Atlantic/_/Mercurial), by Picture Atlantic (29 Nov 2021, 02:14)
