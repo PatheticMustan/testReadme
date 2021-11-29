@@ -1,10 +1,9 @@
 
 # Spotify Stats
-## Last Updated Mon Nov 29 2021 13:02:38 GMT+0000 (Coordinated Universal Time))
+## Last Updated Mon Nov 29 2021 13:44:23 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Horny Hippies](https://www.last.fm/music/The+Dodos/_/Horny+Hippies), by The Dodos (streaming now)
 - [Close Enough](https://www.last.fm/music/Arrows+in+Action/_/Close+Enough), by Arrows in Action (29 Nov 2021, 12:57)
 - [Expert](https://www.last.fm/music/Pretoria/_/Expert), by Pretoria (29 Nov 2021, 12:54)
 - [stick around](https://www.last.fm/music/brotherkenzie/_/stick+around), by brotherkenzie (29 Nov 2021, 12:50)
