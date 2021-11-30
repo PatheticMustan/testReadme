@@ -1,14 +1,17 @@
 
 # Spotify Stats
-## Last Updated Tue Nov 30 2021 11:43:23 GMT+0000 (Coordinated Universal Time))
+## Last Updated Tue Nov 30 2021 12:53:38 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Nice House](https://www.last.fm/music/Joywave/_/Nice+House), by Joywave (29 Nov 2021, 22:57)
 - [Animals Crying](https://www.last.fm/music/Statues+of+Cats/_/Animals+Crying), by Statues of Cats (29 Nov 2021, 22:52)
 - [Egg](https://www.last.fm/music/Shoe/_/Egg), by Shoe (29 Nov 2021, 22:48)
 - [Once upon Another Time](https://www.last.fm/music/Sara+Bareilles/_/Once+upon+Another+Time), by Sara Bareilles (29 Nov 2021, 22:43)
 - [Sometimes](https://www.last.fm/music/Nick+Lutsko/_/Sometimes), by Nick Lutsko (29 Nov 2021, 22:39)
 - [Horny Hippies](https://www.last.fm/music/The+Dodos/_/Horny+Hippies), by The Dodos (29 Nov 2021, 22:36)
+- [Until I Found You](https://www.last.fm/music/Who%27s+Molly%3F/_/Until+I+Found+You), by Who's Molly? (29 Nov 2021, 22:14)
+- [Kiss Me You Animal](https://www.last.fm/music/Burn+the+Ballroom/_/Kiss+Me+You+Animal), by Burn the Ballroom (29 Nov 2021, 22:14)
 - [Horny Hippies](https://www.last.fm/music/The+Dodos/_/Horny+Hippies), by The Dodos (29 Nov 2021, 12:59)
 - [Close Enough](https://www.last.fm/music/Arrows+in+Action/_/Close+Enough), by Arrows in Action (29 Nov 2021, 12:57)
 - [Expert](https://www.last.fm/music/Pretoria/_/Expert), by Pretoria (29 Nov 2021, 12:54)
@@ -51,6 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [I Don't Care](https://www.last.fm/music/Fall+Out+Boy/_/I+Don%27t+Care), by Fall Out Boy (29 Nov 2021, 03:16)
 - [Sweet Tangerine](https://www.last.fm/music/The+Hush+Sound/_/Sweet+Tangerine), by The Hush Sound (29 Nov 2021, 03:13)
 - [White Oaks Mall](https://www.last.fm/music/Daniel+Knox/_/White+Oaks+Mall), by Daniel Knox (29 Nov 2021, 03:10)
-- [A Dream](https://www.last.fm/music/Denver+Pike/_/A+Dream), by Denver Pike (29 Nov 2021, 03:06)
-- [Culling](https://www.last.fm/music/Fein/_/Culling), by Fein (29 Nov 2021, 03:02)
-- [Reason for Dreaming](https://www.last.fm/music/The+Happy+Fits/_/Reason+for+Dreaming), by The Happy Fits (29 Nov 2021, 02:58)
