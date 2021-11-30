@@ -1,9 +1,13 @@
 
 # Spotify Stats
-## Last Updated Tue Nov 30 2021 20:44:26 GMT+0000 (Coordinated Universal Time))
+## Last Updated Tue Nov 30 2021 21:43:25 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Horns](https://www.last.fm/music/Bryce+Fox/_/Horns), by Bryce Fox (streaming now)
+- [Lovescene](https://www.last.fm/music/Daniel+Knox/_/Lovescene), by Daniel Knox (30 Nov 2021, 21:36)
+- [I Wanna Boi](https://www.last.fm/music/PWR+BTTM/_/I+Wanna+Boi), by PWR BTTM (30 Nov 2021, 21:34)
+- [I Wanna Boi](https://www.last.fm/music/PWR+BTTM/_/I+Wanna+Boi), by PWR BTTM (30 Nov 2021, 12:47)
 - [Nice House](https://www.last.fm/music/Joywave/_/Nice+House), by Joywave (29 Nov 2021, 22:57)
 - [Animals Crying](https://www.last.fm/music/Statues+of+Cats/_/Animals+Crying), by Statues of Cats (29 Nov 2021, 22:52)
 - [Egg](https://www.last.fm/music/Shoe/_/Egg), by Shoe (29 Nov 2021, 22:48)
@@ -51,6 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Mercurial](https://www.last.fm/music/Picture+Atlantic/_/Mercurial), by Picture Atlantic (29 Nov 2021, 03:27)
 - [Fucked Up](https://www.last.fm/music/Camp+Howard/_/Fucked+Up), by Camp Howard (29 Nov 2021, 03:23)
 - [suicide romantics](https://www.last.fm/music/Des+Rocs/_/suicide+romantics), by Des Rocs (29 Nov 2021, 03:20)
-- [I Don't Care](https://www.last.fm/music/Fall+Out+Boy/_/I+Don%27t+Care), by Fall Out Boy (29 Nov 2021, 03:16)
-- [Sweet Tangerine](https://www.last.fm/music/The+Hush+Sound/_/Sweet+Tangerine), by The Hush Sound (29 Nov 2021, 03:13)
-- [White Oaks Mall](https://www.last.fm/music/Daniel+Knox/_/White+Oaks+Mall), by Daniel Knox (29 Nov 2021, 03:10)
