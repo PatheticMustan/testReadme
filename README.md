@@ -1,9 +1,16 @@
 
 # Spotify Stats
-## Last Updated Wed Dec 01 2021 19:43:32 GMT+0000 (Coordinated Universal Time))
+## Last Updated Wed Dec 01 2021 20:44:32 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [I Wanna Boi](https://www.last.fm/music/PWR+BTTM/_/I+Wanna+Boi), by PWR BTTM (01 Dec 2021, 20:29)
+- [Pumpkin](https://www.last.fm/music/The+Regrettes/_/Pumpkin), by The Regrettes (01 Dec 2021, 20:25)
+- [On Ex-Husbands and Wives](https://www.last.fm/music/Quiet+Company/_/On+Ex-Husbands+and+Wives), by Quiet Company (01 Dec 2021, 20:22)
+- [Kool Girl](https://www.last.fm/music/Seasalt/_/Kool+Girl), by Seasalt (01 Dec 2021, 20:18)
+- [Whistle](https://www.last.fm/music/Rocket+Surgeons/_/Whistle), by Rocket Surgeons (01 Dec 2021, 20:14)
+- [Noises](https://www.last.fm/music/Mike+Mains+&+The+Branches/_/Noises), by Mike Mains & The Branches (01 Dec 2021, 20:10)
+- [Free the Beautiful](https://www.last.fm/music/Harletson/_/Free+the+Beautiful), by Harletson (01 Dec 2021, 12:43)
 - [Owo You're So Warm](https://www.last.fm/music/senzawa/_/Owo+You%27re+So+Warm), by senzawa (01 Dec 2021, 12:42)
 - [Burnt](https://www.last.fm/music/James+DeAngelis/_/Burnt), by James DeAngelis (01 Dec 2021, 12:40)
 - [Hustle](https://www.last.fm/music/Rocket+Surgeons/_/Hustle), by Rocket Surgeons (01 Dec 2021, 12:37)
@@ -47,10 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [pretty poison](https://www.last.fm/music/Nessa+Barrett/_/pretty+poison), by Nessa Barrett (01 Dec 2021, 04:10)
 - [Typical Story](https://www.last.fm/music/Hobo+Johnson/_/Typical+Story), by Hobo Johnson (01 Dec 2021, 04:07)
 - [Punk Rock Kids](https://www.last.fm/music/Huxlxy/_/Punk+Rock+Kids), by Huxlxy (01 Dec 2021, 04:04)
-- [Kool Girl](https://www.last.fm/music/Seasalt/_/Kool+Girl), by Seasalt (01 Dec 2021, 04:00)
-- [Bayonnettes](https://www.last.fm/music/Shayfer+James/_/Bayonnettes), by Shayfer James (01 Dec 2021, 03:56)
-- [Starcrossed Losers](https://www.last.fm/music/The+Fratellis/_/Starcrossed+Losers), by The Fratellis (01 Dec 2021, 03:52)
-- [Cover Me in Roses](https://www.last.fm/music/Holden+Laurence/_/Cover+Me+in+Roses), by Holden Laurence (01 Dec 2021, 03:47)
-- [Famous Prophets (Stars)](https://www.last.fm/music/Car+Seat+Headrest/_/Famous+Prophets+(Stars)), by Car Seat Headrest (01 Dec 2021, 03:17)
-- [Constellations](https://www.last.fm/music/The+Oh+Hellos/_/Constellations), by The Oh Hellos (01 Dec 2021, 03:13)
-- [Lies](https://www.last.fm/music/Will+Jay/_/Lies), by Will Jay (01 Dec 2021, 03:10)
