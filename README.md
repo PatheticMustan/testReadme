@@ -1,10 +1,18 @@
 
 # Spotify Stats
-## Last Updated Wed Dec 01 2021 02:55:47 GMT+0000 (Coordinated Universal Time))
+## Last Updated Wed Dec 01 2021 03:46:26 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [No One Really Wants Me](https://www.last.fm/music/hunter+&+wolfe/_/No+One+Really+Wants+Me), by hunter & wolfe (streaming now)
+- [Famous Prophets (Stars)](https://www.last.fm/music/Car+Seat+Headrest/_/Famous+Prophets+(Stars)), by Car Seat Headrest (streaming now)
+- [Constellations](https://www.last.fm/music/The+Oh+Hellos/_/Constellations), by The Oh Hellos (01 Dec 2021, 03:13)
+- [Lies](https://www.last.fm/music/Will+Jay/_/Lies), by Will Jay (01 Dec 2021, 03:10)
+- [Owo You're So Warm](https://www.last.fm/music/senzawa/_/Owo+You%27re+So+Warm), by senzawa (01 Dec 2021, 03:09)
+- [Cryptid](https://www.last.fm/music/LUCAS+LEX/_/Cryptid), by LUCAS LEX (01 Dec 2021, 03:07)
+- [Older](https://www.last.fm/music/Brother+Moses/_/Older), by Brother Moses (01 Dec 2021, 03:04)
+- [Impress Your Creators](https://www.last.fm/music/Tub+Ring/_/Impress+Your+Creators), by Tub Ring (01 Dec 2021, 03:02)
+- [It's Ok to Be Lonely](https://www.last.fm/music/Moth%C3%A9/_/It%27s+Ok+to+Be+Lonely), by Mothé (01 Dec 2021, 02:58)
+- [No One Really Wants Me](https://www.last.fm/music/hunter+&+wolfe/_/No+One+Really+Wants+Me), by hunter & wolfe (01 Dec 2021, 02:54)
 - [High Enough](https://www.last.fm/music/K.Flay/_/High+Enough), by K.Flay (01 Dec 2021, 02:50)
 - [Curl up & Die](https://www.last.fm/music/Matt+Maltese/_/Curl+up+&+Die), by Matt Maltese (01 Dec 2021, 02:46)
 - [Would You Mind](https://www.last.fm/music/Friday+Pilots+Club/_/Would+You+Mind), by Friday Pilots Club (01 Dec 2021, 02:42)
@@ -47,11 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Cryptid](https://www.last.fm/music/LUCAS+LEX/_/Cryptid), by LUCAS LEX (29 Nov 2021, 05:41)
 - [Human](https://www.last.fm/music/Anavae/_/Human), by Anavae (29 Nov 2021, 05:38)
 - [Heart of a Dancer](https://www.last.fm/music/The+Happy+Fits/_/Heart+of+a+Dancer), by The Happy Fits (29 Nov 2021, 05:34)
-- [Used to the Darkness](https://www.last.fm/music/Des+Rocs/_/Used+to+the+Darkness), by Des Rocs (29 Nov 2021, 05:30)
-- [Sleeping Through the End of the World](https://www.last.fm/music/PuffHost/_/Sleeping+Through+the+End+of+the+World), by PuffHost (29 Nov 2021, 05:27)
-- [No One Really Wants Me](https://www.last.fm/music/hunter+&+wolfe/_/No+One+Really+Wants+Me), by hunter & wolfe (29 Nov 2021, 05:23)
-- [Medusa in Chains](https://www.last.fm/music/The+Fratellis/_/Medusa+in+Chains), by The Fratellis (29 Nov 2021, 05:20)
-- [Die Like This](https://www.last.fm/music/Mourners/_/Die+Like+This), by Mourners (29 Nov 2021, 05:13)
-- [Cough Syrup](https://www.last.fm/music/Young+the+Giant/_/Cough+Syrup), by Young the Giant (29 Nov 2021, 05:09)
-- [The Woods](https://www.last.fm/music/San+Fermin/_/The+Woods), by San Fermin (29 Nov 2021, 05:05)
-- [Older](https://www.last.fm/music/Brother+Moses/_/Older), by Brother Moses (29 Nov 2021, 05:02)
