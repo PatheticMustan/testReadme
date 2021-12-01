@@ -1,10 +1,12 @@
 
 # Spotify Stats
-## Last Updated Wed Dec 01 2021 22:44:01 GMT+0000 (Coordinated Universal Time))
+## Last Updated Wed Dec 01 2021 23:44:04 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [One Big Beautiful Sound](https://www.last.fm/music/Johnny+Manchild+and+the+Poor+Bastards/_/One+Big+Beautiful+Sound), by Johnny Manchild and the Poor Bastards (streaming now)
+- [Dancing In The Moonlight](https://www.last.fm/music/King+Harvest/_/Dancing+In+The+Moonlight), by King Harvest (01 Dec 2021, 22:49)
+- [Bayonnettes](https://www.last.fm/music/Shayfer+James/_/Bayonnettes), by Shayfer James (01 Dec 2021, 22:45)
+- [One Big Beautiful Sound](https://www.last.fm/music/Johnny+Manchild+and+the+Poor+Bastards/_/One+Big+Beautiful+Sound), by Johnny Manchild and the Poor Bastards (01 Dec 2021, 22:42)
 - […well, better than the alternative](https://www.last.fm/music/Will+Wood/_/%E2%80%A6well,+better+than+the+alternative), by Will Wood (01 Dec 2021, 22:38)
 - [Stand Up Tragedy](https://www.last.fm/music/The+Fratellis/_/Stand+Up+Tragedy), by The Fratellis (01 Dec 2021, 22:34)
 - [Fear & Delight](https://www.last.fm/music/The+Correspondents/_/Fear+&+Delight), by The Correspondents (01 Dec 2021, 22:31)
@@ -52,6 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Burnt](https://www.last.fm/music/James+DeAngelis/_/Burnt), by James DeAngelis (01 Dec 2021, 05:21)
 - [L.V.S. (Your Lady Waits)](https://www.last.fm/music/Shayfer+James/_/L.V.S.+(Your+Lady+Waits)), by Shayfer James (01 Dec 2021, 05:16)
 - [Prime](https://www.last.fm/music/Roan+Martin/_/Prime), by Roan Martin (01 Dec 2021, 05:11)
-- [Skulls](https://www.last.fm/music/Civilian/_/Skulls), by Civilian (01 Dec 2021, 05:07)
-- [Better Off Without You](https://www.last.fm/music/Mallory+Knox/_/Better+Off+Without+You), by Mallory Knox (01 Dec 2021, 05:04)
-- [Cut & Run](https://www.last.fm/music/Civilian/_/Cut+&+Run), by Civilian (01 Dec 2021, 04:59)
