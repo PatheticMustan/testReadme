@@ -1,10 +1,14 @@
 
 # Spotify Stats
-## Last Updated Wed Dec 01 2021 05:43:29 GMT+0000 (Coordinated Universal Time))
+## Last Updated Wed Dec 01 2021 06:52:05 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Autoportrait](https://www.last.fm/music/Demob+Happy/_/Autoportrait), by Demob Happy (streaming now)
+- [Misery](https://www.last.fm/music/Attica+Riots/_/Misery), by Attica Riots (01 Dec 2021, 05:57)
+- [Pretty Dirty (In The Fading Light)](https://www.last.fm/music/Ripe/_/Pretty+Dirty+(In+The+Fading+Light)), by Ripe (01 Dec 2021, 05:51)
+- [Die Like This](https://www.last.fm/music/Mourners/_/Die+Like+This), by Mourners (01 Dec 2021, 05:48)
+- [Starchild](https://www.last.fm/music/Ghost+Quartet/_/Starchild), by Ghost Quartet (01 Dec 2021, 05:46)
+- [Autoportrait](https://www.last.fm/music/Demob+Happy/_/Autoportrait), by Demob Happy (01 Dec 2021, 05:42)
 - [Out Like a Light 2](https://www.last.fm/music/The+Honeysticks/_/Out+Like+a+Light+2), by The Honeysticks (01 Dec 2021, 05:38)
 - [See You Again](https://www.last.fm/music/Jmsey/_/See+You+Again), by Jmsey (01 Dec 2021, 05:35)
 - [Sing When No One's Around](https://www.last.fm/music/The+Reign+Of+Kindo/_/Sing+When+No+One%27s+Around), by The Reign Of Kindo (01 Dec 2021, 05:31)
@@ -50,8 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [No One Really Wants Me](https://www.last.fm/music/hunter+&+wolfe/_/No+One+Really+Wants+Me), by hunter & wolfe (01 Dec 2021, 02:28)
 - [See Below](https://www.last.fm/music/The+Ghost+Club/_/See+Below), by The Ghost Club (30 Nov 2021, 22:26)
 - [Sleeping Through the End of the World](https://www.last.fm/music/PuffHost/_/Sleeping+Through+the+End+of+the+World), by PuffHost (30 Nov 2021, 22:23)
-- [Typical Story](https://www.last.fm/music/Hobo+Johnson/_/Typical+Story), by Hobo Johnson (30 Nov 2021, 22:20)
-- [The Louisville Shuffle (RIP)](https://www.last.fm/music/Sarah+and+the+Safe+Word/_/The+Louisville+Shuffle+(RIP)), by Sarah and the Safe Word (30 Nov 2021, 22:17)
-- [Egg](https://www.last.fm/music/Shoe/_/Egg), by Shoe (30 Nov 2021, 22:13)
-- [Sing When No One's Around](https://www.last.fm/music/The+Reign+Of+Kindo/_/Sing+When+No+One%27s+Around), by The Reign Of Kindo (30 Nov 2021, 22:09)
-- [All the Best](https://www.last.fm/music/Siames/_/All+the+Best), by Siames (30 Nov 2021, 22:06)
