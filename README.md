@@ -1,9 +1,18 @@
 
 # Spotify Stats
-## Last Updated Wed Dec 01 2021 01:46:05 GMT+0000 (Coordinated Universal Time))
+## Last Updated Wed Dec 01 2021 02:55:47 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [No One Really Wants Me](https://www.last.fm/music/hunter+&+wolfe/_/No+One+Really+Wants+Me), by hunter & wolfe (streaming now)
+- [High Enough](https://www.last.fm/music/K.Flay/_/High+Enough), by K.Flay (01 Dec 2021, 02:50)
+- [Curl up & Die](https://www.last.fm/music/Matt+Maltese/_/Curl+up+&+Die), by Matt Maltese (01 Dec 2021, 02:46)
+- [Would You Mind](https://www.last.fm/music/Friday+Pilots+Club/_/Would+You+Mind), by Friday Pilots Club (01 Dec 2021, 02:42)
+- [Sophie](https://www.last.fm/music/The+Altogether/_/Sophie), by The Altogether (01 Dec 2021, 02:38)
+- [Perfect](https://www.last.fm/music/Rob+Cantor/_/Perfect), by Rob Cantor (01 Dec 2021, 02:35)
+- [The Louisville Shuffle (RIP)](https://www.last.fm/music/Sarah+and+the+Safe+Word/_/The+Louisville+Shuffle+(RIP)), by Sarah and the Safe Word (01 Dec 2021, 02:31)
+- [No One Really Wants Me](https://www.last.fm/music/hunter+&+wolfe/_/No+One+Really+Wants+Me), by hunter & wolfe (01 Dec 2021, 02:28)
+- [See Below](https://www.last.fm/music/The+Ghost+Club/_/See+Below), by The Ghost Club (30 Nov 2021, 22:26)
 - [Sleeping Through the End of the World](https://www.last.fm/music/PuffHost/_/Sleeping+Through+the+End+of+the+World), by PuffHost (30 Nov 2021, 22:23)
 - [Typical Story](https://www.last.fm/music/Hobo+Johnson/_/Typical+Story), by Hobo Johnson (30 Nov 2021, 22:20)
 - [The Louisville Shuffle (RIP)](https://www.last.fm/music/Sarah+and+the+Safe+Word/_/The+Louisville+Shuffle+(RIP)), by Sarah and the Safe Word (30 Nov 2021, 22:17)
@@ -46,11 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Cough Syrup](https://www.last.fm/music/Young+the+Giant/_/Cough+Syrup), by Young the Giant (29 Nov 2021, 05:09)
 - [The Woods](https://www.last.fm/music/San+Fermin/_/The+Woods), by San Fermin (29 Nov 2021, 05:05)
 - [Older](https://www.last.fm/music/Brother+Moses/_/Older), by Brother Moses (29 Nov 2021, 05:02)
-- [We Broke the World](https://www.last.fm/music/Fast+Friends/_/We+Broke+the+World), by Fast Friends (29 Nov 2021, 04:59)
-- [Starchild](https://www.last.fm/music/Ghost+Quartet/_/Starchild), by Ghost Quartet (29 Nov 2021, 04:57)
-- [Stay With Me](https://www.last.fm/music/Better+Love/_/Stay+With+Me), by Better Love (29 Nov 2021, 04:53)
-- [Mint Leaf](https://www.last.fm/music/Vincent+Mango/_/Mint+Leaf), by Vincent Mango (29 Nov 2021, 04:28)
-- [Soda](https://www.last.fm/music/Nothing+But+Thieves/_/Soda), by Nothing But Thieves (29 Nov 2021, 04:24)
-- [I Think I Like When It Rains](https://www.last.fm/music/Willis/_/I+Think+I+Like+When+It+Rains), by Willis (29 Nov 2021, 04:19)
-- [Soulless Friends](https://www.last.fm/music/Peter+Cat+Recording+Co./_/Soulless+Friends), by Peter Cat Recording Co. (29 Nov 2021, 04:15)
-- [Expert](https://www.last.fm/music/Pretoria/_/Expert), by Pretoria (29 Nov 2021, 04:13)
