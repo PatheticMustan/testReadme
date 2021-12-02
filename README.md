@@ -1,9 +1,12 @@
 
 # Spotify Stats
-## Last Updated Thu Dec 02 2021 04:54:31 GMT+0000 (Coordinated Universal Time))
+## Last Updated Thu Dec 02 2021 05:43:15 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Raging on a Sunday](https://www.last.fm/music/bohnes/_/Raging+on+a+Sunday), by bohnes (streaming now)
+- [It's Ok to Be Lonely](https://www.last.fm/music/Moth%C3%A9/_/It%27s+Ok+to+Be+Lonely), by Mothé (02 Dec 2021, 05:37)
+- [Point to Prove (I Was an Ugly Kid)](https://www.last.fm/music/Bug+Hunter/_/Point+to+Prove+(I+Was+an+Ugly+Kid)), by Bug Hunter (02 Dec 2021, 01:35)
 - [Lazy Nina](https://www.last.fm/music/Greg+Phillinganes/_/Lazy+Nina), by Greg Phillinganes (02 Dec 2021, 01:29)
 - [Destruction](https://www.last.fm/music/Joywave/_/Destruction), by Joywave (02 Dec 2021, 01:26)
 - [Soulless Friends](https://www.last.fm/music/Peter+Cat+Recording+Co./_/Soulless+Friends), by Peter Cat Recording Co. (02 Dec 2021, 01:23)
@@ -52,5 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Dyin' when I See Ya](https://www.last.fm/music/Sleep+State/_/Dyin%27+when+I+See+Ya), by Sleep State (01 Dec 2021, 12:09)
 - [One Big Beautiful Sound](https://www.last.fm/music/Johnny+Manchild+and+the+Poor+Bastards/_/One+Big+Beautiful+Sound), by Johnny Manchild and the Poor Bastards (01 Dec 2021, 12:05)
 - [Lies](https://www.last.fm/music/Will+Jay/_/Lies), by Will Jay (01 Dec 2021, 12:02)
-- [Strangers](https://www.last.fm/music/Fizzy+Blood/_/Strangers), by Fizzy Blood (01 Dec 2021, 11:58)
-- [Fashion Forward (Acoustic)](https://www.last.fm/music/The+Home+Team/_/Fashion+Forward+(Acoustic)), by The Home Team (01 Dec 2021, 11:55)
