@@ -1,15 +1,17 @@
 
 # Spotify Stats
-## Last Updated Thu Dec 02 2021 22:44:39 GMT+0000 (Coordinated Universal Time))
+## Last Updated Thu Dec 02 2021 23:44:06 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Nice House](https://www.last.fm/music/Joywave/_/Nice+House), by Joywave (02 Dec 2021, 22:28)
 - [Sunshine](https://www.last.fm/music/The+Brummies/_/Sunshine), by The Brummies (02 Dec 2021, 22:25)
 - [Perfect](https://www.last.fm/music/Rob+Cantor/_/Perfect), by Rob Cantor (02 Dec 2021, 22:22)
 - [Starcrossed Losers](https://www.last.fm/music/The+Fratellis/_/Starcrossed+Losers), by The Fratellis (02 Dec 2021, 22:17)
 - [We Grew Up So Well](https://www.last.fm/music/Jack+Conte/_/We+Grew+Up+So+Well), by Jack Conte (02 Dec 2021, 22:14)
 - [Would You Mind](https://www.last.fm/music/Friday+Pilots+Club/_/Would+You+Mind), by Friday Pilots Club (02 Dec 2021, 22:10)
 - [Egg](https://www.last.fm/music/Shoe/_/Egg), by Shoe (02 Dec 2021, 22:07)
+- [Gum](https://www.last.fm/music/Have+A+Good+Season/_/Gum), by Have A Good Season (02 Dec 2021, 21:13)
 - [Autoportrait](https://www.last.fm/music/Demob+Happy/_/Autoportrait), by Demob Happy (02 Dec 2021, 06:04)
 - [Famous Prophets (Stars)](https://www.last.fm/music/Car+Seat+Headrest/_/Famous+Prophets+(Stars)), by Car Seat Headrest (02 Dec 2021, 05:47)
 - [See Below](https://www.last.fm/music/The+Ghost+Club/_/See+Below), by The Ghost Club (02 Dec 2021, 05:44)
@@ -52,5 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Whistle](https://www.last.fm/music/Rocket+Surgeons/_/Whistle), by Rocket Surgeons (01 Dec 2021, 20:14)
 - [Noises](https://www.last.fm/music/Mike+Mains+&+The+Branches/_/Noises), by Mike Mains & The Branches (01 Dec 2021, 20:10)
 - [Free the Beautiful](https://www.last.fm/music/Harletson/_/Free+the+Beautiful), by Harletson (01 Dec 2021, 12:43)
-- [Owo You're So Warm](https://www.last.fm/music/senzawa/_/Owo+You%27re+So+Warm), by senzawa (01 Dec 2021, 12:42)
-- [Burnt](https://www.last.fm/music/James+DeAngelis/_/Burnt), by James DeAngelis (01 Dec 2021, 12:40)
