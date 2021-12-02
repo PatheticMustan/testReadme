@@ -1,9 +1,16 @@
 
 # Spotify Stats
-## Last Updated Thu Dec 02 2021 21:43:28 GMT+0000 (Coordinated Universal Time))
+## Last Updated Thu Dec 02 2021 22:44:39 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Sunshine](https://www.last.fm/music/The+Brummies/_/Sunshine), by The Brummies (02 Dec 2021, 22:25)
+- [Perfect](https://www.last.fm/music/Rob+Cantor/_/Perfect), by Rob Cantor (02 Dec 2021, 22:22)
+- [Starcrossed Losers](https://www.last.fm/music/The+Fratellis/_/Starcrossed+Losers), by The Fratellis (02 Dec 2021, 22:17)
+- [We Grew Up So Well](https://www.last.fm/music/Jack+Conte/_/We+Grew+Up+So+Well), by Jack Conte (02 Dec 2021, 22:14)
+- [Would You Mind](https://www.last.fm/music/Friday+Pilots+Club/_/Would+You+Mind), by Friday Pilots Club (02 Dec 2021, 22:10)
+- [Egg](https://www.last.fm/music/Shoe/_/Egg), by Shoe (02 Dec 2021, 22:07)
+- [Autoportrait](https://www.last.fm/music/Demob+Happy/_/Autoportrait), by Demob Happy (02 Dec 2021, 06:04)
 - [Famous Prophets (Stars)](https://www.last.fm/music/Car+Seat+Headrest/_/Famous+Prophets+(Stars)), by Car Seat Headrest (02 Dec 2021, 05:47)
 - [See Below](https://www.last.fm/music/The+Ghost+Club/_/See+Below), by The Ghost Club (02 Dec 2021, 05:44)
 - [Raging on a Sunday](https://www.last.fm/music/bohnes/_/Raging+on+a+Sunday), by bohnes (02 Dec 2021, 05:40)
@@ -47,10 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Free the Beautiful](https://www.last.fm/music/Harletson/_/Free+the+Beautiful), by Harletson (01 Dec 2021, 12:43)
 - [Owo You're So Warm](https://www.last.fm/music/senzawa/_/Owo+You%27re+So+Warm), by senzawa (01 Dec 2021, 12:42)
 - [Burnt](https://www.last.fm/music/James+DeAngelis/_/Burnt), by James DeAngelis (01 Dec 2021, 12:40)
-- [Hustle](https://www.last.fm/music/Rocket+Surgeons/_/Hustle), by Rocket Surgeons (01 Dec 2021, 12:37)
-- [Cut & Run](https://www.last.fm/music/Civilian/_/Cut+&+Run), by Civilian (01 Dec 2021, 12:32)
-- [Nice House](https://www.last.fm/music/Joywave/_/Nice+House), by Joywave (01 Dec 2021, 12:26)
-- [L.V.S. (Your Lady Waits)](https://www.last.fm/music/Shayfer+James/_/L.V.S.+(Your+Lady+Waits)), by Shayfer James (01 Dec 2021, 12:22)
-- [Perfect](https://www.last.fm/music/Rob+Cantor/_/Perfect), by Rob Cantor (01 Dec 2021, 12:19)
-- [I want a dog](https://www.last.fm/music/Hobo+Johnson/_/I+want+a+dog), by Hobo Johnson (01 Dec 2021, 12:16)
-- [The Room Is Filled With People That Love You](https://www.last.fm/music/Foresight/_/The+Room+Is+Filled+With+People+That+Love+You), by Foresight (01 Dec 2021, 12:13)
