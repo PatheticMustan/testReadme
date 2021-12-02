@@ -1,10 +1,12 @@
 
 # Spotify Stats
-## Last Updated Thu Dec 02 2021 05:43:15 GMT+0000 (Coordinated Universal Time))
+## Last Updated Thu Dec 02 2021 06:51:40 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Raging on a Sunday](https://www.last.fm/music/bohnes/_/Raging+on+a+Sunday), by bohnes (streaming now)
+- [Famous Prophets (Stars)](https://www.last.fm/music/Car+Seat+Headrest/_/Famous+Prophets+(Stars)), by Car Seat Headrest (02 Dec 2021, 05:47)
+- [See Below](https://www.last.fm/music/The+Ghost+Club/_/See+Below), by The Ghost Club (02 Dec 2021, 05:44)
+- [Raging on a Sunday](https://www.last.fm/music/bohnes/_/Raging+on+a+Sunday), by bohnes (02 Dec 2021, 05:40)
 - [It's Ok to Be Lonely](https://www.last.fm/music/Moth%C3%A9/_/It%27s+Ok+to+Be+Lonely), by Mothé (02 Dec 2021, 05:37)
 - [Point to Prove (I Was an Ugly Kid)](https://www.last.fm/music/Bug+Hunter/_/Point+to+Prove+(I+Was+an+Ugly+Kid)), by Bug Hunter (02 Dec 2021, 01:35)
 - [Lazy Nina](https://www.last.fm/music/Greg+Phillinganes/_/Lazy+Nina), by Greg Phillinganes (02 Dec 2021, 01:29)
@@ -52,6 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Perfect](https://www.last.fm/music/Rob+Cantor/_/Perfect), by Rob Cantor (01 Dec 2021, 12:19)
 - [I want a dog](https://www.last.fm/music/Hobo+Johnson/_/I+want+a+dog), by Hobo Johnson (01 Dec 2021, 12:16)
 - [The Room Is Filled With People That Love You](https://www.last.fm/music/Foresight/_/The+Room+Is+Filled+With+People+That+Love+You), by Foresight (01 Dec 2021, 12:13)
-- [Dyin' when I See Ya](https://www.last.fm/music/Sleep+State/_/Dyin%27+when+I+See+Ya), by Sleep State (01 Dec 2021, 12:09)
-- [One Big Beautiful Sound](https://www.last.fm/music/Johnny+Manchild+and+the+Poor+Bastards/_/One+Big+Beautiful+Sound), by Johnny Manchild and the Poor Bastards (01 Dec 2021, 12:05)
-- [Lies](https://www.last.fm/music/Will+Jay/_/Lies), by Will Jay (01 Dec 2021, 12:02)
