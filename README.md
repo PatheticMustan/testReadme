@@ -1,9 +1,20 @@
 
 # Spotify Stats
-## Last Updated Fri Dec 03 2021 05:43:27 GMT+0000 (Coordinated Universal Time))
+## Last Updated Fri Dec 03 2021 06:51:59 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Grow Back](https://www.last.fm/music/The+Happy+Fits/_/Grow+Back), by The Happy Fits (03 Dec 2021, 03:22)
+- [Zombie](https://www.last.fm/music/Bad+Pony/_/Zombie), by Bad Pony (03 Dec 2021, 03:21)
+- [Pink Wednesday](https://www.last.fm/music/Canadian+Softball/_/Pink+Wednesday), by Canadian Softball (03 Dec 2021, 03:16)
+- [Silver Platters](https://www.last.fm/music/Les+Gold/_/Silver+Platters), by Les Gold (03 Dec 2021, 03:11)
+- [Churches](https://www.last.fm/music/Flipturn/_/Churches), by Flipturn (03 Dec 2021, 03:07)
+- [Circulation](https://www.last.fm/music/Hotel+Mira/_/Circulation), by Hotel Mira (03 Dec 2021, 03:03)
+- [Don't Go](https://www.last.fm/music/The+Greeting+Committee/_/Don%27t+Go), by The Greeting Committee (03 Dec 2021, 02:58)
+- [Conversation](https://www.last.fm/music/Mom+Rock/_/Conversation), by Mom Rock (03 Dec 2021, 02:54)
+- [High](https://www.last.fm/music/Lokki/_/High), by Lokki (03 Dec 2021, 02:51)
+- [Crumbs](https://www.last.fm/music/Belaganas/_/Crumbs), by Belaganas (03 Dec 2021, 02:47)
+- [Zombie](https://www.last.fm/music/Bad+Pony/_/Zombie), by Bad Pony (03 Dec 2021, 02:43)
 - [Red Wine](https://www.last.fm/music/Follies+&+Vices/_/Red+Wine), by Follies & Vices (03 Dec 2021, 02:35)
 - [Speaking Off the Record](https://www.last.fm/music/Hotel+Mira/_/Speaking+Off+the+Record), by Hotel Mira (03 Dec 2021, 02:32)
 - [Loser Geek Whatever](https://www.last.fm/music/Will+Roland/_/Loser+Geek+Whatever), by Will Roland (03 Dec 2021, 02:25)
@@ -43,14 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Perfect](https://www.last.fm/music/Rob+Cantor/_/Perfect), by Rob Cantor (02 Dec 2021, 22:22)
 - [Starcrossed Losers](https://www.last.fm/music/The+Fratellis/_/Starcrossed+Losers), by The Fratellis (02 Dec 2021, 22:17)
 - [We Grew Up So Well](https://www.last.fm/music/Jack+Conte/_/We+Grew+Up+So+Well), by Jack Conte (02 Dec 2021, 22:14)
-- [Would You Mind](https://www.last.fm/music/Friday+Pilots+Club/_/Would+You+Mind), by Friday Pilots Club (02 Dec 2021, 22:10)
-- [Egg](https://www.last.fm/music/Shoe/_/Egg), by Shoe (02 Dec 2021, 22:07)
-- [Gum](https://www.last.fm/music/Have+A+Good+Season/_/Gum), by Have A Good Season (02 Dec 2021, 21:13)
-- [Autoportrait](https://www.last.fm/music/Demob+Happy/_/Autoportrait), by Demob Happy (02 Dec 2021, 06:04)
-- [Famous Prophets (Stars)](https://www.last.fm/music/Car+Seat+Headrest/_/Famous+Prophets+(Stars)), by Car Seat Headrest (02 Dec 2021, 05:47)
-- [See Below](https://www.last.fm/music/The+Ghost+Club/_/See+Below), by The Ghost Club (02 Dec 2021, 05:44)
-- [Raging on a Sunday](https://www.last.fm/music/bohnes/_/Raging+on+a+Sunday), by bohnes (02 Dec 2021, 05:40)
-- [It's Ok to Be Lonely](https://www.last.fm/music/Moth%C3%A9/_/It%27s+Ok+to+Be+Lonely), by Mothé (02 Dec 2021, 05:37)
-- [Point to Prove (I Was an Ugly Kid)](https://www.last.fm/music/Bug+Hunter/_/Point+to+Prove+(I+Was+an+Ugly+Kid)), by Bug Hunter (02 Dec 2021, 01:35)
-- [Lazy Nina](https://www.last.fm/music/Greg+Phillinganes/_/Lazy+Nina), by Greg Phillinganes (02 Dec 2021, 01:29)
-- [Destruction](https://www.last.fm/music/Joywave/_/Destruction), by Joywave (02 Dec 2021, 01:26)
