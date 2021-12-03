@@ -1,9 +1,20 @@
 
 # Spotify Stats
-## Last Updated Fri Dec 03 2021 01:41:25 GMT+0000 (Coordinated Universal Time))
+## Last Updated Fri Dec 03 2021 02:53:09 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Red Wine](https://www.last.fm/music/Follies+&+Vices/_/Red+Wine), by Follies & Vices (03 Dec 2021, 02:35)
+- [Speaking Off the Record](https://www.last.fm/music/Hotel+Mira/_/Speaking+Off+the+Record), by Hotel Mira (03 Dec 2021, 02:32)
+- [Loser Geek Whatever](https://www.last.fm/music/Will+Roland/_/Loser+Geek+Whatever), by Will Roland (03 Dec 2021, 02:25)
+- [Michael in the Bathroom](https://www.last.fm/music/George+Salazar/_/Michael+in+the+Bathroom), by George Salazar (03 Dec 2021, 02:21)
+- [The Squip Song](https://www.last.fm/music/Gerard+Canonico/_/The+Squip+Song), by Gerard Canonico (03 Dec 2021, 02:15)
+- [Egg](https://www.last.fm/music/Shoe/_/Egg), by Shoe (03 Dec 2021, 02:13)
+- [suicide romantics](https://www.last.fm/music/Des+Rocs/_/suicide+romantics), by Des Rocs (03 Dec 2021, 02:09)
+- [Sunshine](https://www.last.fm/music/The+Brummies/_/Sunshine), by The Brummies (03 Dec 2021, 02:06)
+- [Medusa in Chains](https://www.last.fm/music/The+Fratellis/_/Medusa+in+Chains), by The Fratellis (03 Dec 2021, 02:03)
+- [Trampoline](https://www.last.fm/music/Airways/_/Trampoline), by Airways (03 Dec 2021, 02:00)
+- [Halloween](https://www.last.fm/music/%27Be+More+Chill%27+Ensemble/_/Halloween), by 'Be More Chill' Ensemble (03 Dec 2021, 01:23)
 - [Fear & Delight](https://www.last.fm/music/The+Correspondents/_/Fear+&+Delight), by The Correspondents (03 Dec 2021, 01:20)
 - [R U Mine?](https://www.last.fm/music/Arctic+Monkeys/_/R+U+Mine%3F), by Arctic Monkeys (03 Dec 2021, 01:16)
 - [My Smile is Extinct](https://www.last.fm/music/Kane+Strang/_/My+Smile+is+Extinct), by Kane Strang (03 Dec 2021, 01:13)
@@ -43,14 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Point to Prove (I Was an Ugly Kid)](https://www.last.fm/music/Bug+Hunter/_/Point+to+Prove+(I+Was+an+Ugly+Kid)), by Bug Hunter (02 Dec 2021, 01:35)
 - [Lazy Nina](https://www.last.fm/music/Greg+Phillinganes/_/Lazy+Nina), by Greg Phillinganes (02 Dec 2021, 01:29)
 - [Destruction](https://www.last.fm/music/Joywave/_/Destruction), by Joywave (02 Dec 2021, 01:26)
-- [Soulless Friends](https://www.last.fm/music/Peter+Cat+Recording+Co./_/Soulless+Friends), by Peter Cat Recording Co. (02 Dec 2021, 01:23)
-- [Culling](https://www.last.fm/music/Fein/_/Culling), by Fein (02 Dec 2021, 01:19)
-- [Burnt](https://www.last.fm/music/James+DeAngelis/_/Burnt), by James DeAngelis (02 Dec 2021, 01:17)
-- [Gum](https://www.last.fm/music/Have+A+Good+Season/_/Gum), by Have A Good Season (02 Dec 2021, 01:12)
-- [Rivers and Roads](https://www.last.fm/music/The+Head+and+the+Heart/_/Rivers+and+Roads), by The Head and the Heart (02 Dec 2021, 01:01)
-- [The Night We Met](https://www.last.fm/music/Lord+Huron/_/The+Night+We+Met), by Lord Huron (02 Dec 2021, 00:37)
-- [Hurt](https://www.last.fm/music/Johnny+Cash/_/Hurt), by Johnny Cash (02 Dec 2021, 00:33)
-- [Where's My Love - Alternate Version](https://www.last.fm/music/SYML/_/Where%27s+My+Love+-+Alternate+Version), by SYML (02 Dec 2021, 00:29)
-- [Re: Your Brains](https://www.last.fm/music/Jonathan+Coulton/_/Re:+Your+Brains), by Jonathan Coulton (02 Dec 2021, 00:24)
-- [Reasons](https://www.last.fm/music/Civilian/_/Reasons), by Civilian (02 Dec 2021, 00:15)
-- [Mary](https://www.last.fm/music/The+Happy+Fits/_/Mary), by The Happy Fits (02 Dec 2021, 00:12)
