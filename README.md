@@ -1,9 +1,12 @@
 
 # Spotify Stats
-## Last Updated Sat Dec 04 2021 05:43:19 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sat Dec 04 2021 06:52:00 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [In Park](https://www.last.fm/music/Gestures+&+Sounds/_/In+Park), by Gestures & Sounds (streaming now)
+- [Awkward](https://www.last.fm/music/Sleep+State/_/Awkward), by Sleep State (04 Dec 2021, 06:46)
+- [Victoria](https://www.last.fm/music/Jukebox+the+Ghost/_/Victoria), by Jukebox the Ghost (04 Dec 2021, 04:41)
 - [The Edge](https://www.last.fm/music/Panicland/_/The+Edge), by Panicland (04 Dec 2021, 04:38)
 - [In Park](https://www.last.fm/music/Gestures+&+Sounds/_/In+Park), by Gestures & Sounds (04 Dec 2021, 04:35)
 - [What Have They Done To You Now](https://www.last.fm/music/Daniel+Knox/_/What+Have+They+Done+To+You+Now), by Daniel Knox (04 Dec 2021, 04:31)
@@ -52,5 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Culling](https://www.last.fm/music/Fein/_/Culling), by Fein (03 Dec 2021, 00:19)
 - [Medusa in Chains](https://www.last.fm/music/The+Fratellis/_/Medusa+in+Chains), by The Fratellis (03 Dec 2021, 00:16)
 - [Luxton](https://www.last.fm/music/Nonfiction/_/Luxton), by Nonfiction (03 Dec 2021, 00:13)
-- [Skulls](https://www.last.fm/music/Civilian/_/Skulls), by Civilian (03 Dec 2021, 00:09)
-- [Perfect](https://www.last.fm/music/Rob+Cantor/_/Perfect), by Rob Cantor (03 Dec 2021, 00:05)
