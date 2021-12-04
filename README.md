@@ -1,10 +1,14 @@
 
 # Spotify Stats
-## Last Updated Sat Dec 04 2021 06:52:00 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sat Dec 04 2021 07:43:24 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [In Park](https://www.last.fm/music/Gestures+&+Sounds/_/In+Park), by Gestures & Sounds (streaming now)
+- [Sad Songs](https://www.last.fm/music/Kyd+the+Band/_/Sad+Songs), by Kyd the Band (04 Dec 2021, 07:05)
+- [Lyrics](https://www.last.fm/music/Kyd+the+Band/_/Lyrics), by Kyd the Band (04 Dec 2021, 07:01)
+- [I'll Stay](https://www.last.fm/music/Kyd+the+Band/_/I%27ll+Stay), by Kyd the Band (04 Dec 2021, 06:59)
+- [Speaking Off the Record](https://www.last.fm/music/Hotel+Mira/_/Speaking+Off+the+Record), by Hotel Mira (04 Dec 2021, 06:54)
+- [In Park](https://www.last.fm/music/Gestures+&+Sounds/_/In+Park), by Gestures & Sounds (04 Dec 2021, 06:50)
 - [Awkward](https://www.last.fm/music/Sleep+State/_/Awkward), by Sleep State (04 Dec 2021, 06:46)
 - [Victoria](https://www.last.fm/music/Jukebox+the+Ghost/_/Victoria), by Jukebox the Ghost (04 Dec 2021, 04:41)
 - [The Edge](https://www.last.fm/music/Panicland/_/The+Edge), by Panicland (04 Dec 2021, 04:38)
@@ -50,8 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Feel Good](https://www.last.fm/music/Weathers/_/Feel+Good), by Weathers (03 Dec 2021, 00:45)
 - [Grilled Cheese](https://www.last.fm/music/Peach+Face/_/Grilled+Cheese), by Peach Face (03 Dec 2021, 00:41)
 - [Feel Good](https://www.last.fm/music/Weathers/_/Feel+Good), by Weathers (03 Dec 2021, 00:41)
-- [Cryptid](https://www.last.fm/music/LUCAS+LEX/_/Cryptid), by LUCAS LEX (03 Dec 2021, 00:30)
-- [High Enough](https://www.last.fm/music/K.Flay/_/High+Enough), by K.Flay (03 Dec 2021, 00:26)
-- [Culling](https://www.last.fm/music/Fein/_/Culling), by Fein (03 Dec 2021, 00:19)
-- [Medusa in Chains](https://www.last.fm/music/The+Fratellis/_/Medusa+in+Chains), by The Fratellis (03 Dec 2021, 00:16)
-- [Luxton](https://www.last.fm/music/Nonfiction/_/Luxton), by Nonfiction (03 Dec 2021, 00:13)
