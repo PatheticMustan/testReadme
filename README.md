@@ -1,9 +1,14 @@
 
 # Spotify Stats
-## Last Updated Sat Dec 04 2021 19:43:19 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sat Dec 04 2021 20:44:43 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Achey Bones](https://www.last.fm/music/The+Happy+Fits/_/Achey+Bones), by The Happy Fits (04 Dec 2021, 20:36)
+- [Absolutely Smitten](https://www.last.fm/music/dodie/_/Absolutely+Smitten), by dodie (04 Dec 2021, 20:33)
+- [Sophie](https://www.last.fm/music/The+Altogether/_/Sophie), by The Altogether (04 Dec 2021, 20:30)
+- [Hollywood](https://www.last.fm/music/Jukebox+the+Ghost/_/Hollywood), by Jukebox the Ghost (04 Dec 2021, 20:27)
+- [Run Away With Me](https://www.last.fm/music/San+Fermin/_/Run+Away+With+Me), by San Fermin (04 Dec 2021, 07:08)
 - [Sad Songs](https://www.last.fm/music/Kyd+the+Band/_/Sad+Songs), by Kyd the Band (04 Dec 2021, 07:05)
 - [Lyrics](https://www.last.fm/music/Kyd+the+Band/_/Lyrics), by Kyd the Band (04 Dec 2021, 07:01)
 - [I'll Stay](https://www.last.fm/music/Kyd+the+Band/_/I%27ll+Stay), by Kyd the Band (04 Dec 2021, 06:59)
@@ -49,8 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Sleeping Through the End of the World](https://www.last.fm/music/PuffHost/_/Sleeping+Through+the+End+of+the+World), by PuffHost (03 Dec 2021, 01:04)
 - [Sophie](https://www.last.fm/music/The+Altogether/_/Sophie), by The Altogether (03 Dec 2021, 01:00)
 - [Michael](https://www.last.fm/music/Civilian/_/Michael), by Civilian (03 Dec 2021, 00:55)
-- [All the Best](https://www.last.fm/music/Siames/_/All+the+Best), by Siames (03 Dec 2021, 00:51)
-- [One Big Beautiful Sound](https://www.last.fm/music/Johnny+Manchild+and+the+Poor+Bastards/_/One+Big+Beautiful+Sound), by Johnny Manchild and the Poor Bastards (03 Dec 2021, 00:48)
-- [Feel Good](https://www.last.fm/music/Weathers/_/Feel+Good), by Weathers (03 Dec 2021, 00:45)
-- [Grilled Cheese](https://www.last.fm/music/Peach+Face/_/Grilled+Cheese), by Peach Face (03 Dec 2021, 00:41)
-- [Feel Good](https://www.last.fm/music/Weathers/_/Feel+Good), by Weathers (03 Dec 2021, 00:41)
