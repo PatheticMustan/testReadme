@@ -1,9 +1,17 @@
 
 # Spotify Stats
-## Last Updated Sat Dec 04 2021 03:45:49 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sat Dec 04 2021 04:55:20 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [The Edge](https://www.last.fm/music/Panicland/_/The+Edge), by Panicland (04 Dec 2021, 04:38)
+- [In Park](https://www.last.fm/music/Gestures+&+Sounds/_/In+Park), by Gestures & Sounds (04 Dec 2021, 04:35)
+- [What Have They Done To You Now](https://www.last.fm/music/Daniel+Knox/_/What+Have+They+Done+To+You+Now), by Daniel Knox (04 Dec 2021, 04:31)
+- [Michael](https://www.last.fm/music/Civilian/_/Michael), by Civilian (04 Dec 2021, 04:26)
+- [Better](https://www.last.fm/music/The+Honeysticks/_/Better), by The Honeysticks (04 Dec 2021, 04:22)
+- [A Friend](https://www.last.fm/music/Say+Yes+Dog/_/A+Friend), by Say Yes Dog (04 Dec 2021, 04:18)
+- [Red Wine](https://www.last.fm/music/Follies+&+Vices/_/Red+Wine), by Follies & Vices (03 Dec 2021, 22:26)
+- [Grow Back](https://www.last.fm/music/The+Happy+Fits/_/Grow+Back), by The Happy Fits (03 Dec 2021, 05:58)
 - [Grow Back](https://www.last.fm/music/The+Happy+Fits/_/Grow+Back), by The Happy Fits (03 Dec 2021, 03:22)
 - [Zombie](https://www.last.fm/music/Bad+Pony/_/Zombie), by Bad Pony (03 Dec 2021, 03:21)
 - [Pink Wednesday](https://www.last.fm/music/Canadian+Softball/_/Pink+Wednesday), by Canadian Softball (03 Dec 2021, 03:16)
@@ -46,11 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Luxton](https://www.last.fm/music/Nonfiction/_/Luxton), by Nonfiction (03 Dec 2021, 00:13)
 - [Skulls](https://www.last.fm/music/Civilian/_/Skulls), by Civilian (03 Dec 2021, 00:09)
 - [Perfect](https://www.last.fm/music/Rob+Cantor/_/Perfect), by Rob Cantor (03 Dec 2021, 00:05)
-- [Lazy Nina](https://www.last.fm/music/Greg+Phillinganes/_/Lazy+Nina), by Greg Phillinganes (03 Dec 2021, 00:00)
-- [Gold](https://www.last.fm/music/Honorary+Astronaut/_/Gold), by Honorary Astronaut (02 Dec 2021, 23:57)
-- [The Horror Of Our Love](https://www.last.fm/music/Ludo/_/The+Horror+Of+Our+Love), by Ludo (02 Dec 2021, 23:39)
-- [Nice House](https://www.last.fm/music/Joywave/_/Nice+House), by Joywave (02 Dec 2021, 22:28)
-- [Sunshine](https://www.last.fm/music/The+Brummies/_/Sunshine), by The Brummies (02 Dec 2021, 22:25)
-- [Perfect](https://www.last.fm/music/Rob+Cantor/_/Perfect), by Rob Cantor (02 Dec 2021, 22:22)
-- [Starcrossed Losers](https://www.last.fm/music/The+Fratellis/_/Starcrossed+Losers), by The Fratellis (02 Dec 2021, 22:17)
-- [We Grew Up So Well](https://www.last.fm/music/Jack+Conte/_/We+Grew+Up+So+Well), by Jack Conte (02 Dec 2021, 22:14)
