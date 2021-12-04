@@ -1,9 +1,18 @@
 
 # Spotify Stats
-## Last Updated Sat Dec 04 2021 21:44:05 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sat Dec 04 2021 22:45:43 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [1922](https://www.last.fm/music/Box+The+Oxford/_/1922), by Box The Oxford (04 Dec 2021, 22:30)
+- [People and Their Bits](https://www.last.fm/music/Shoe/_/People+and+Their+Bits), by Shoe (04 Dec 2021, 22:25)
+- [Parking Garage](https://www.last.fm/music/Tommy+Bravos/_/Parking+Garage), by Tommy Bravos (04 Dec 2021, 22:21)
+- [Miss Connection](https://www.last.fm/music/The+Keystones/_/Miss+Connection), by The Keystones (04 Dec 2021, 22:18)
+- [Special](https://www.last.fm/music/Joe+Hawley/_/Special), by Joe Hawley (04 Dec 2021, 22:10)
+- [Keia](https://www.last.fm/music/Colliding+With+Mars/_/Keia), by Colliding With Mars (04 Dec 2021, 22:06)
+- [Run Away With Me](https://www.last.fm/music/San+Fermin/_/Run+Away+With+Me), by San Fermin (04 Dec 2021, 22:02)
+- [Moscow](https://www.last.fm/music/Autoheart/_/Moscow), by Autoheart (04 Dec 2021, 21:54)
+- [Girl](https://www.last.fm/music/Jukebox+the+Ghost/_/Girl), by Jukebox the Ghost (04 Dec 2021, 20:40)
 - [Achey Bones](https://www.last.fm/music/The+Happy+Fits/_/Achey+Bones), by The Happy Fits (04 Dec 2021, 20:36)
 - [Absolutely Smitten](https://www.last.fm/music/dodie/_/Absolutely+Smitten), by dodie (04 Dec 2021, 20:33)
 - [Sophie](https://www.last.fm/music/The+Altogether/_/Sophie), by The Altogether (04 Dec 2021, 20:30)
@@ -45,12 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Sunshine](https://www.last.fm/music/The+Brummies/_/Sunshine), by The Brummies (03 Dec 2021, 02:06)
 - [Medusa in Chains](https://www.last.fm/music/The+Fratellis/_/Medusa+in+Chains), by The Fratellis (03 Dec 2021, 02:03)
 - [Trampoline](https://www.last.fm/music/Airways/_/Trampoline), by Airways (03 Dec 2021, 02:00)
-- [Halloween](https://www.last.fm/music/%27Be+More+Chill%27+Ensemble/_/Halloween), by 'Be More Chill' Ensemble (03 Dec 2021, 01:23)
-- [Fear & Delight](https://www.last.fm/music/The+Correspondents/_/Fear+&+Delight), by The Correspondents (03 Dec 2021, 01:20)
-- [R U Mine?](https://www.last.fm/music/Arctic+Monkeys/_/R+U+Mine%3F), by Arctic Monkeys (03 Dec 2021, 01:16)
-- [My Smile is Extinct](https://www.last.fm/music/Kane+Strang/_/My+Smile+is+Extinct), by Kane Strang (03 Dec 2021, 01:13)
-- [Stay With Me](https://www.last.fm/music/Better+Love/_/Stay+With+Me), by Better Love (03 Dec 2021, 01:10)
-- [Typical Story](https://www.last.fm/music/Hobo+Johnson/_/Typical+Story), by Hobo Johnson (03 Dec 2021, 01:07)
-- [Sleeping Through the End of the World](https://www.last.fm/music/PuffHost/_/Sleeping+Through+the+End+of+the+World), by PuffHost (03 Dec 2021, 01:04)
-- [Sophie](https://www.last.fm/music/The+Altogether/_/Sophie), by The Altogether (03 Dec 2021, 01:00)
-- [Michael](https://www.last.fm/music/Civilian/_/Michael), by Civilian (03 Dec 2021, 00:55)
