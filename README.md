@@ -1,10 +1,14 @@
 
 # Spotify Stats
-## Last Updated Sun Dec 05 2021 06:51:15 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sun Dec 05 2021 07:43:18 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [You Don't Have To Walk A Begonia](https://www.last.fm/music/Mort+Garson/_/You+Don%27t+Have+To+Walk+A+Begonia), by Mort Garson (streaming now)
+- [Swingin' Spathiphyllums](https://www.last.fm/music/Mort+Garson/_/Swingin%27+Spathiphyllums), by Mort Garson (05 Dec 2021, 07:04)
+- [Rhapsody in Green](https://www.last.fm/music/Mort+Garson/_/Rhapsody+in+Green), by Mort Garson (05 Dec 2021, 07:00)
+- [Music To Soothe The Savage Snake Plant](https://www.last.fm/music/Mort+Garson/_/Music+To+Soothe+The+Savage+Snake+Plant), by Mort Garson (05 Dec 2021, 06:56)
+- [A Mellow Mood for Maidenhair](https://www.last.fm/music/Mort+Garson/_/A+Mellow+Mood+for+Maidenhair), by Mort Garson (05 Dec 2021, 06:53)
+- [You Don't Have To Walk A Begonia](https://www.last.fm/music/Mort+Garson/_/You+Don%27t+Have+To+Walk+A+Begonia), by Mort Garson (05 Dec 2021, 06:51)
 - [Swingin' Spathiphyllums](https://www.last.fm/music/Mort+Garson/_/Swingin%27+Spathiphyllums), by Mort Garson (05 Dec 2021, 06:48)
 - [Rhapsody in Green](https://www.last.fm/music/Mort+Garson/_/Rhapsody+in+Green), by Mort Garson (05 Dec 2021, 06:44)
 - [Concerto for Philodendron & Pothos](https://www.last.fm/music/Mort+Garson/_/Concerto+for+Philodendron+&+Pothos), by Mort Garson (05 Dec 2021, 06:41)
@@ -50,8 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [People and Their Bits](https://www.last.fm/music/Shoe/_/People+and+Their+Bits), by Shoe (04 Dec 2021, 22:25)
 - [Parking Garage](https://www.last.fm/music/Tommy+Bravos/_/Parking+Garage), by Tommy Bravos (04 Dec 2021, 22:21)
 - [Miss Connection](https://www.last.fm/music/The+Keystones/_/Miss+Connection), by The Keystones (04 Dec 2021, 22:18)
-- [Special](https://www.last.fm/music/Joe+Hawley/_/Special), by Joe Hawley (04 Dec 2021, 22:10)
-- [Keia](https://www.last.fm/music/Colliding+With+Mars/_/Keia), by Colliding With Mars (04 Dec 2021, 22:06)
-- [Run Away With Me](https://www.last.fm/music/San+Fermin/_/Run+Away+With+Me), by San Fermin (04 Dec 2021, 22:02)
-- [Moscow](https://www.last.fm/music/Autoheart/_/Moscow), by Autoheart (04 Dec 2021, 21:54)
-- [Girl](https://www.last.fm/music/Jukebox+the+Ghost/_/Girl), by Jukebox the Ghost (04 Dec 2021, 20:40)
