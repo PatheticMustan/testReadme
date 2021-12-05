@@ -1,9 +1,21 @@
 
 # Spotify Stats
-## Last Updated Sun Dec 05 2021 04:55:04 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sun Dec 05 2021 05:43:17 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Out Like a Light 2](https://www.last.fm/music/The+Honeysticks/_/Out+Like+a+Light+2), by The Honeysticks (streaming now)
+- [Old Ghost](https://www.last.fm/music/Beatnik+Bandits/_/Old+Ghost), by Beatnik Bandits (05 Dec 2021, 05:38)
+- [suicide romantics](https://www.last.fm/music/Des+Rocs/_/suicide+romantics), by Des Rocs (05 Dec 2021, 05:35)
+- [See Below](https://www.last.fm/music/The+Ghost+Club/_/See+Below), by The Ghost Club (05 Dec 2021, 05:31)
+- [Pain Killer](https://www.last.fm/music/Ruby+Rose+Fox/_/Pain+Killer), by Ruby Rose Fox (05 Dec 2021, 05:27)
+- [I was in New York](https://www.last.fm/music/Shy+Kids/_/I+was+in+New+York), by Shy Kids (05 Dec 2021, 05:17)
+- [Lonesome Wolf](https://www.last.fm/music/Dawson+Hollow/_/Lonesome+Wolf), by Dawson Hollow (05 Dec 2021, 05:13)
+- [Brighter Than The Sun](https://www.last.fm/music/Brick%252BMortar/_/Brighter+Than+The+Sun), by Brick+Mortar (05 Dec 2021, 05:10)
+- [R U Mine?](https://www.last.fm/music/Arctic+Monkeys/_/R+U+Mine%3F), by Arctic Monkeys (05 Dec 2021, 05:05)
+- [It's Not Like I Like You!!](https://www.last.fm/music/Static-P/_/It%27s+Not+Like+I+Like+You!!), by Static-P (05 Dec 2021, 05:00)
+- [Egg](https://www.last.fm/music/Shoe/_/Egg), by Shoe (05 Dec 2021, 04:57)
+- [Everything's Changin'](https://www.last.fm/music/St.Arnaud/_/Everything%27s+Changin%27), by St.Arnaud (05 Dec 2021, 04:42)
 - [Circulation](https://www.last.fm/music/Hotel+Mira/_/Circulation), by Hotel Mira (05 Dec 2021, 04:34)
 - [Parrot](https://www.last.fm/music/Stepdad/_/Parrot), by Stepdad (05 Dec 2021, 04:31)
 - [Look Like People](https://www.last.fm/music/Blue+Rain+Boots/_/Look+Like+People), by Blue Rain Boots (05 Dec 2021, 04:25)
@@ -43,14 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Better](https://www.last.fm/music/The+Honeysticks/_/Better), by The Honeysticks (04 Dec 2021, 04:22)
 - [A Friend](https://www.last.fm/music/Say+Yes+Dog/_/A+Friend), by Say Yes Dog (04 Dec 2021, 04:18)
 - [Red Wine](https://www.last.fm/music/Follies+&+Vices/_/Red+Wine), by Follies & Vices (03 Dec 2021, 22:26)
-- [Grow Back](https://www.last.fm/music/The+Happy+Fits/_/Grow+Back), by The Happy Fits (03 Dec 2021, 05:58)
-- [Grow Back](https://www.last.fm/music/The+Happy+Fits/_/Grow+Back), by The Happy Fits (03 Dec 2021, 03:22)
-- [Zombie](https://www.last.fm/music/Bad+Pony/_/Zombie), by Bad Pony (03 Dec 2021, 03:21)
-- [Pink Wednesday](https://www.last.fm/music/Canadian+Softball/_/Pink+Wednesday), by Canadian Softball (03 Dec 2021, 03:16)
-- [Silver Platters](https://www.last.fm/music/Les+Gold/_/Silver+Platters), by Les Gold (03 Dec 2021, 03:11)
-- [Churches](https://www.last.fm/music/Flipturn/_/Churches), by Flipturn (03 Dec 2021, 03:07)
-- [Circulation](https://www.last.fm/music/Hotel+Mira/_/Circulation), by Hotel Mira (03 Dec 2021, 03:03)
-- [Don't Go](https://www.last.fm/music/The+Greeting+Committee/_/Don%27t+Go), by The Greeting Committee (03 Dec 2021, 02:58)
-- [Conversation](https://www.last.fm/music/Mom+Rock/_/Conversation), by Mom Rock (03 Dec 2021, 02:54)
-- [High](https://www.last.fm/music/Lokki/_/High), by Lokki (03 Dec 2021, 02:51)
-- [Crumbs](https://www.last.fm/music/Belaganas/_/Crumbs), by Belaganas (03 Dec 2021, 02:47)
