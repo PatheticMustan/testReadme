@@ -1,10 +1,12 @@
 
 # Spotify Stats
-## Last Updated Sun Dec 05 2021 21:44:02 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sun Dec 05 2021 22:43:34 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Broken Soul](https://www.last.fm/music/Pax+Impera/_/Broken+Soul), by Pax Impera (streaming now)
+- [WICKED](https://www.last.fm/music/Aviva/_/WICKED), by Aviva (05 Dec 2021, 21:50)
+- [Stronger](https://www.last.fm/music/Long+Purple/_/Stronger), by Long Purple (05 Dec 2021, 21:45)
+- [Broken Soul](https://www.last.fm/music/Pax+Impera/_/Broken+Soul), by Pax Impera (05 Dec 2021, 21:42)
 - [Angels](https://www.last.fm/music/DJVI/_/Angels), by DJVI (05 Dec 2021, 21:38)
 - [purple circles](https://www.last.fm/music/Jades+Goudreault/_/purple+circles), by Jades Goudreault (05 Dec 2021, 21:34)
 - [Waiting](https://www.last.fm/music/Vicetone/_/Waiting), by Vicetone (05 Dec 2021, 21:30)
@@ -52,6 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [L.V.S. (Your Lady Waits)](https://www.last.fm/music/Shayfer+James/_/L.V.S.+(Your+Lady+Waits)), by Shayfer James (05 Dec 2021, 05:51)
 - [Masochist](https://www.last.fm/music/Mourners/_/Masochist), by Mourners (05 Dec 2021, 05:47)
 - [Out Like a Light 2](https://www.last.fm/music/The+Honeysticks/_/Out+Like+a+Light+2), by The Honeysticks (05 Dec 2021, 05:42)
-- [Old Ghost](https://www.last.fm/music/Beatnik+Bandits/_/Old+Ghost), by Beatnik Bandits (05 Dec 2021, 05:38)
-- [suicide romantics](https://www.last.fm/music/Des+Rocs/_/suicide+romantics), by Des Rocs (05 Dec 2021, 05:35)
-- [See Below](https://www.last.fm/music/The+Ghost+Club/_/See+Below), by The Ghost Club (05 Dec 2021, 05:31)
