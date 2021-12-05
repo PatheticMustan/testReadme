@@ -1,9 +1,16 @@
 
 # Spotify Stats
-## Last Updated Sun Dec 05 2021 20:43:47 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sun Dec 05 2021 21:44:02 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Broken Soul](https://www.last.fm/music/Pax+Impera/_/Broken+Soul), by Pax Impera (streaming now)
+- [Angels](https://www.last.fm/music/DJVI/_/Angels), by DJVI (05 Dec 2021, 21:38)
+- [purple circles](https://www.last.fm/music/Jades+Goudreault/_/purple+circles), by Jades Goudreault (05 Dec 2021, 21:34)
+- [Waiting](https://www.last.fm/music/Vicetone/_/Waiting), by Vicetone (05 Dec 2021, 21:30)
+- [Give A Fuck](https://www.last.fm/music/TeZATalks/_/Give+A+Fuck), by TeZATalks (05 Dec 2021, 21:28)
+- [Drown](https://www.last.fm/music/Zabo/_/Drown), by Zabo (05 Dec 2021, 21:25)
+- [Higher (feat. iann dior) - Dimitri Vegas & Like Mike Remix](https://www.last.fm/music/Clean+Bandit/_/Higher+(feat.+iann+dior)+-+Dimitri+Vegas+&+Like+Mike+Remix), by Clean Bandit (05 Dec 2021, 20:09)
 - [The Crazy Ones](https://www.last.fm/music/Rezz/_/The+Crazy+Ones), by Rezz (05 Dec 2021, 20:05)
 - [Our Moving Picture](https://www.last.fm/music/Skybreak/_/Our+Moving+Picture), by Skybreak (05 Dec 2021, 20:01)
 - [Royal Leash](https://www.last.fm/music/Processor/_/Royal+Leash), by Processor (05 Dec 2021, 19:58)
@@ -48,9 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Old Ghost](https://www.last.fm/music/Beatnik+Bandits/_/Old+Ghost), by Beatnik Bandits (05 Dec 2021, 05:38)
 - [suicide romantics](https://www.last.fm/music/Des+Rocs/_/suicide+romantics), by Des Rocs (05 Dec 2021, 05:35)
 - [See Below](https://www.last.fm/music/The+Ghost+Club/_/See+Below), by The Ghost Club (05 Dec 2021, 05:31)
-- [Pain Killer](https://www.last.fm/music/Ruby+Rose+Fox/_/Pain+Killer), by Ruby Rose Fox (05 Dec 2021, 05:27)
-- [I was in New York](https://www.last.fm/music/Shy+Kids/_/I+was+in+New+York), by Shy Kids (05 Dec 2021, 05:17)
-- [Lonesome Wolf](https://www.last.fm/music/Dawson+Hollow/_/Lonesome+Wolf), by Dawson Hollow (05 Dec 2021, 05:13)
-- [Brighter Than The Sun](https://www.last.fm/music/Brick%252BMortar/_/Brighter+Than+The+Sun), by Brick+Mortar (05 Dec 2021, 05:10)
-- [R U Mine?](https://www.last.fm/music/Arctic+Monkeys/_/R+U+Mine%3F), by Arctic Monkeys (05 Dec 2021, 05:05)
-- [It's Not Like I Like You!!](https://www.last.fm/music/Static-P/_/It%27s+Not+Like+I+Like+You!!), by Static-P (05 Dec 2021, 05:00)
