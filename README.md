@@ -1,9 +1,12 @@
 
 # Spotify Stats
-## Last Updated Sun Dec 05 2021 15:48:12 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sun Dec 05 2021 17:02:14 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Best Tears](https://www.last.fm/music/The+Happy+Fits/_/Best+Tears), by The Happy Fits (streaming now)
+- [Legends Never Die](https://www.last.fm/music/League+of+Legends/_/Legends+Never+Die), by League of Legends (05 Dec 2021, 16:57)
+- [Swingin' Spathiphyllums](https://www.last.fm/music/Mort+Garson/_/Swingin%27+Spathiphyllums), by Mort Garson (05 Dec 2021, 07:08)
 - [Swingin' Spathiphyllums](https://www.last.fm/music/Mort+Garson/_/Swingin%27+Spathiphyllums), by Mort Garson (05 Dec 2021, 07:04)
 - [Rhapsody in Green](https://www.last.fm/music/Mort+Garson/_/Rhapsody+in+Green), by Mort Garson (05 Dec 2021, 07:00)
 - [Music To Soothe The Savage Snake Plant](https://www.last.fm/music/Mort+Garson/_/Music+To+Soothe+The+Savage+Snake+Plant), by Mort Garson (05 Dec 2021, 06:56)
@@ -52,5 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Gold and Bones](https://www.last.fm/music/Friday+Pilots+Club/_/Gold+and+Bones), by Friday Pilots Club (04 Dec 2021, 22:34)
 - [1922](https://www.last.fm/music/Box+The+Oxford/_/1922), by Box The Oxford (04 Dec 2021, 22:30)
 - [People and Their Bits](https://www.last.fm/music/Shoe/_/People+and+Their+Bits), by Shoe (04 Dec 2021, 22:25)
-- [Parking Garage](https://www.last.fm/music/Tommy+Bravos/_/Parking+Garage), by Tommy Bravos (04 Dec 2021, 22:21)
-- [Miss Connection](https://www.last.fm/music/The+Keystones/_/Miss+Connection), by The Keystones (04 Dec 2021, 22:18)
