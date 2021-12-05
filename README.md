@@ -1,9 +1,12 @@
 
 # Spotify Stats
-## Last Updated Sat Dec 04 2021 23:45:30 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sun Dec 05 2021 01:48:20 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Sky Is a Bed](https://www.last.fm/music/The+Humble+Cheaters/_/Sky+Is+a+Bed), by The Humble Cheaters (05 Dec 2021, 00:28)
+- [Only One Not Smiling](https://www.last.fm/music/The+Correspondents/_/Only+One+Not+Smiling), by The Correspondents (05 Dec 2021, 00:14)
+- [Gold and Bones](https://www.last.fm/music/Friday+Pilots+Club/_/Gold+and+Bones), by Friday Pilots Club (04 Dec 2021, 22:34)
 - [1922](https://www.last.fm/music/Box+The+Oxford/_/1922), by Box The Oxford (04 Dec 2021, 22:30)
 - [People and Their Bits](https://www.last.fm/music/Shoe/_/People+and+Their+Bits), by Shoe (04 Dec 2021, 22:25)
 - [Parking Garage](https://www.last.fm/music/Tommy+Bravos/_/Parking+Garage), by Tommy Bravos (04 Dec 2021, 22:21)
@@ -51,6 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [The Squip Song](https://www.last.fm/music/Gerard+Canonico/_/The+Squip+Song), by Gerard Canonico (03 Dec 2021, 02:15)
 - [Egg](https://www.last.fm/music/Shoe/_/Egg), by Shoe (03 Dec 2021, 02:13)
 - [suicide romantics](https://www.last.fm/music/Des+Rocs/_/suicide+romantics), by Des Rocs (03 Dec 2021, 02:09)
-- [Sunshine](https://www.last.fm/music/The+Brummies/_/Sunshine), by The Brummies (03 Dec 2021, 02:06)
-- [Medusa in Chains](https://www.last.fm/music/The+Fratellis/_/Medusa+in+Chains), by The Fratellis (03 Dec 2021, 02:03)
-- [Trampoline](https://www.last.fm/music/Airways/_/Trampoline), by Airways (03 Dec 2021, 02:00)
