@@ -1,9 +1,17 @@
 
 # Spotify Stats
-## Last Updated Sun Dec 05 2021 19:43:18 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sun Dec 05 2021 20:43:47 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [The Crazy Ones](https://www.last.fm/music/Rezz/_/The+Crazy+Ones), by Rezz (05 Dec 2021, 20:05)
+- [Our Moving Picture](https://www.last.fm/music/Skybreak/_/Our+Moving+Picture), by Skybreak (05 Dec 2021, 20:01)
+- [Royal Leash](https://www.last.fm/music/Processor/_/Royal+Leash), by Processor (05 Dec 2021, 19:58)
+- [Tainted Love](https://www.last.fm/music/Perfect+Pitch/_/Tainted+Love), by Perfect Pitch (05 Dec 2021, 19:55)
+- [End of Slaphouse](https://www.last.fm/music/Vize/_/End+of+Slaphouse), by Vize (05 Dec 2021, 19:52)
+- [Armageddon](https://www.last.fm/music/Despotem/_/Armageddon), by Despotem (05 Dec 2021, 19:50)
+- [Damsel](https://www.last.fm/music/Effin/_/Damsel), by Effin (05 Dec 2021, 19:46)
+- [Blood Hunter](https://www.last.fm/music/Varien/_/Blood+Hunter), by Varien (05 Dec 2021, 17:29)
 - [Isolate](https://www.last.fm/music/Sub+Urban/_/Isolate), by Sub Urban (05 Dec 2021, 17:26)
 - [Heaven's Gate](https://www.last.fm/music/SAVAS/_/Heaven%27s+Gate), by SAVAS (05 Dec 2021, 17:21)
 - [This Is the End.](https://www.last.fm/music/Swarm/_/This+Is+the+End.), by Swarm (05 Dec 2021, 17:16)
@@ -46,11 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Brighter Than The Sun](https://www.last.fm/music/Brick%252BMortar/_/Brighter+Than+The+Sun), by Brick+Mortar (05 Dec 2021, 05:10)
 - [R U Mine?](https://www.last.fm/music/Arctic+Monkeys/_/R+U+Mine%3F), by Arctic Monkeys (05 Dec 2021, 05:05)
 - [It's Not Like I Like You!!](https://www.last.fm/music/Static-P/_/It%27s+Not+Like+I+Like+You!!), by Static-P (05 Dec 2021, 05:00)
-- [Egg](https://www.last.fm/music/Shoe/_/Egg), by Shoe (05 Dec 2021, 04:57)
-- [Everything's Changin'](https://www.last.fm/music/St.Arnaud/_/Everything%27s+Changin%27), by St.Arnaud (05 Dec 2021, 04:42)
-- [Circulation](https://www.last.fm/music/Hotel+Mira/_/Circulation), by Hotel Mira (05 Dec 2021, 04:34)
-- [Parrot](https://www.last.fm/music/Stepdad/_/Parrot), by Stepdad (05 Dec 2021, 04:31)
-- [Look Like People](https://www.last.fm/music/Blue+Rain+Boots/_/Look+Like+People), by Blue Rain Boots (05 Dec 2021, 04:25)
-- [The Fall](https://www.last.fm/music/half%E2%80%A2alive/_/The+Fall), by half•alive (05 Dec 2021, 04:22)
-- [I Don't Wanna Party](https://www.last.fm/music/The+Polarity/_/I+Don%27t+Wanna+Party), by The Polarity (05 Dec 2021, 04:19)
-- [Native Tongue](https://www.last.fm/music/My+Kid+Brother/_/Native+Tongue), by My Kid Brother (05 Dec 2021, 04:14)
