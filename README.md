@@ -1,9 +1,19 @@
 
 # Spotify Stats
-## Last Updated Sun Dec 05 2021 22:43:34 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sun Dec 05 2021 23:43:47 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Speaking Off the Record](https://www.last.fm/music/Hotel+Mira/_/Speaking+Off+the+Record), by Hotel Mira (streaming now)
+- [Michael](https://www.last.fm/music/Civilian/_/Michael), by Civilian (05 Dec 2021, 23:36)
+- [Would You Mind](https://www.last.fm/music/Friday+Pilots+Club/_/Would+You+Mind), by Friday Pilots Club (05 Dec 2021, 23:32)
+- [Animals Crying](https://www.last.fm/music/Statues+of+Cats/_/Animals+Crying), by Statues of Cats (05 Dec 2021, 23:27)
+- [Only One Not Smiling](https://www.last.fm/music/The+Correspondents/_/Only+One+Not+Smiling), by The Correspondents (05 Dec 2021, 23:25)
+- [Fool In The Heart](https://www.last.fm/music/Daniel+Knox/_/Fool+In+The+Heart), by Daniel Knox (05 Dec 2021, 23:19)
+- [Sometimes](https://www.last.fm/music/Nick+Lutsko/_/Sometimes), by Nick Lutsko (05 Dec 2021, 23:15)
+- [Brighter Than The Sun](https://www.last.fm/music/Brick%252BMortar/_/Brighter+Than+The+Sun), by Brick+Mortar (05 Dec 2021, 23:12)
+- [Culling](https://www.last.fm/music/Fein/_/Culling), by Fein (05 Dec 2021, 23:08)
+- [Fairweather](https://www.last.fm/music/Faodail/_/Fairweather), by Faodail (05 Dec 2021, 22:04)
 - [WICKED](https://www.last.fm/music/Aviva/_/WICKED), by Aviva (05 Dec 2021, 21:50)
 - [Stronger](https://www.last.fm/music/Long+Purple/_/Stronger), by Long Purple (05 Dec 2021, 21:45)
 - [Broken Soul](https://www.last.fm/music/Pax+Impera/_/Broken+Soul), by Pax Impera (05 Dec 2021, 21:42)
@@ -45,12 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Backwards](https://www.last.fm/music/Forrest./_/Backwards), by Forrest. (05 Dec 2021, 06:24)
 - [Birthday Suit](https://www.last.fm/music/Cosmo+Sheldrake/_/Birthday+Suit), by Cosmo Sheldrake (05 Dec 2021, 06:23)
 - [Analog Boy](https://www.last.fm/music/Dbmk/_/Analog+Boy), by Dbmk (05 Dec 2021, 06:20)
-- [Night Life](https://www.last.fm/music/Hello+Atlantic/_/Night+Life), by Hello Atlantic (05 Dec 2021, 06:17)
-- [Karma](https://www.last.fm/music/AJR/_/Karma), by AJR (05 Dec 2021, 06:13)
-- [The Villain I Appear to Be](https://www.last.fm/music/Connor+Spiotto/_/The+Villain+I+Appear+to+Be), by Connor Spiotto (05 Dec 2021, 06:10)
-- [Boots Worn Through](https://www.last.fm/music/Shayfer+James/_/Boots+Worn+Through), by Shayfer James (05 Dec 2021, 06:05)
-- [High](https://www.last.fm/music/Lokki/_/High), by Lokki (05 Dec 2021, 06:00)
-- [Dance You Back to Life](https://www.last.fm/music/Justin+Kuritzkes/_/Dance+You+Back+to+Life), by Justin Kuritzkes (05 Dec 2021, 05:55)
-- [L.V.S. (Your Lady Waits)](https://www.last.fm/music/Shayfer+James/_/L.V.S.+(Your+Lady+Waits)), by Shayfer James (05 Dec 2021, 05:51)
-- [Masochist](https://www.last.fm/music/Mourners/_/Masochist), by Mourners (05 Dec 2021, 05:47)
-- [Out Like a Light 2](https://www.last.fm/music/The+Honeysticks/_/Out+Like+a+Light+2), by The Honeysticks (05 Dec 2021, 05:42)
