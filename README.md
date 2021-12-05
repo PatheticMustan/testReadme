@@ -1,9 +1,17 @@
 
 # Spotify Stats
-## Last Updated Sun Dec 05 2021 03:46:23 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sun Dec 05 2021 04:55:04 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Circulation](https://www.last.fm/music/Hotel+Mira/_/Circulation), by Hotel Mira (05 Dec 2021, 04:34)
+- [Parrot](https://www.last.fm/music/Stepdad/_/Parrot), by Stepdad (05 Dec 2021, 04:31)
+- [Look Like People](https://www.last.fm/music/Blue+Rain+Boots/_/Look+Like+People), by Blue Rain Boots (05 Dec 2021, 04:25)
+- [The Fall](https://www.last.fm/music/half%E2%80%A2alive/_/The+Fall), by half•alive (05 Dec 2021, 04:22)
+- [I Don't Wanna Party](https://www.last.fm/music/The+Polarity/_/I+Don%27t+Wanna+Party), by The Polarity (05 Dec 2021, 04:19)
+- [Native Tongue](https://www.last.fm/music/My+Kid+Brother/_/Native+Tongue), by My Kid Brother (05 Dec 2021, 04:14)
+- [Fool In The Heart](https://www.last.fm/music/Daniel+Knox/_/Fool+In+The+Heart), by Daniel Knox (05 Dec 2021, 04:09)
+- [Absinthe](https://www.last.fm/music/I+DONT+KNOW+HOW+BUT+THEY+FOUND+ME/_/Absinthe), by I DONT KNOW HOW BUT THEY FOUND ME (05 Dec 2021, 01:28)
 - [Sky Is a Bed](https://www.last.fm/music/The+Humble+Cheaters/_/Sky+Is+a+Bed), by The Humble Cheaters (05 Dec 2021, 00:28)
 - [Only One Not Smiling](https://www.last.fm/music/The+Correspondents/_/Only+One+Not+Smiling), by The Correspondents (05 Dec 2021, 00:14)
 - [Gold and Bones](https://www.last.fm/music/Friday+Pilots+Club/_/Gold+and+Bones), by Friday Pilots Club (04 Dec 2021, 22:34)
@@ -46,11 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Conversation](https://www.last.fm/music/Mom+Rock/_/Conversation), by Mom Rock (03 Dec 2021, 02:54)
 - [High](https://www.last.fm/music/Lokki/_/High), by Lokki (03 Dec 2021, 02:51)
 - [Crumbs](https://www.last.fm/music/Belaganas/_/Crumbs), by Belaganas (03 Dec 2021, 02:47)
-- [Zombie](https://www.last.fm/music/Bad+Pony/_/Zombie), by Bad Pony (03 Dec 2021, 02:43)
-- [Red Wine](https://www.last.fm/music/Follies+&+Vices/_/Red+Wine), by Follies & Vices (03 Dec 2021, 02:35)
-- [Speaking Off the Record](https://www.last.fm/music/Hotel+Mira/_/Speaking+Off+the+Record), by Hotel Mira (03 Dec 2021, 02:32)
-- [Loser Geek Whatever](https://www.last.fm/music/Will+Roland/_/Loser+Geek+Whatever), by Will Roland (03 Dec 2021, 02:25)
-- [Michael in the Bathroom](https://www.last.fm/music/George+Salazar/_/Michael+in+the+Bathroom), by George Salazar (03 Dec 2021, 02:21)
-- [The Squip Song](https://www.last.fm/music/Gerard+Canonico/_/The+Squip+Song), by Gerard Canonico (03 Dec 2021, 02:15)
-- [Egg](https://www.last.fm/music/Shoe/_/Egg), by Shoe (03 Dec 2021, 02:13)
-- [suicide romantics](https://www.last.fm/music/Des+Rocs/_/suicide+romantics), by Des Rocs (03 Dec 2021, 02:09)
