@@ -1,10 +1,16 @@
 
 # Spotify Stats
-## Last Updated Sun Dec 05 2021 17:02:14 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sun Dec 05 2021 17:46:37 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Best Tears](https://www.last.fm/music/The+Happy+Fits/_/Best+Tears), by The Happy Fits (streaming now)
+- [Isolate](https://www.last.fm/music/Sub+Urban/_/Isolate), by Sub Urban (05 Dec 2021, 17:26)
+- [Heaven's Gate](https://www.last.fm/music/SAVAS/_/Heaven%27s+Gate), by SAVAS (05 Dec 2021, 17:21)
+- [This Is the End.](https://www.last.fm/music/Swarm/_/This+Is+the+End.), by Swarm (05 Dec 2021, 17:16)
+- [pretty poison](https://www.last.fm/music/Nessa+Barrett/_/pretty+poison), by Nessa Barrett (05 Dec 2021, 17:14)
+- [Medicine](https://www.last.fm/music/EQRIC/_/Medicine), by EQRIC (05 Dec 2021, 17:10)
+- [Ballistic Funk](https://www.last.fm/music/Creo/_/Ballistic+Funk), by Creo (05 Dec 2021, 17:07)
+- [I Burn](https://www.last.fm/music/Autodidakt/_/I+Burn), by Autodidakt (05 Dec 2021, 17:04)
 - [Legends Never Die](https://www.last.fm/music/League+of+Legends/_/Legends+Never+Die), by League of Legends (05 Dec 2021, 16:57)
 - [Swingin' Spathiphyllums](https://www.last.fm/music/Mort+Garson/_/Swingin%27+Spathiphyllums), by Mort Garson (05 Dec 2021, 07:08)
 - [Swingin' Spathiphyllums](https://www.last.fm/music/Mort+Garson/_/Swingin%27+Spathiphyllums), by Mort Garson (05 Dec 2021, 07:04)
@@ -48,10 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [The Fall](https://www.last.fm/music/half%E2%80%A2alive/_/The+Fall), by half•alive (05 Dec 2021, 04:22)
 - [I Don't Wanna Party](https://www.last.fm/music/The+Polarity/_/I+Don%27t+Wanna+Party), by The Polarity (05 Dec 2021, 04:19)
 - [Native Tongue](https://www.last.fm/music/My+Kid+Brother/_/Native+Tongue), by My Kid Brother (05 Dec 2021, 04:14)
-- [Fool In The Heart](https://www.last.fm/music/Daniel+Knox/_/Fool+In+The+Heart), by Daniel Knox (05 Dec 2021, 04:09)
-- [Absinthe](https://www.last.fm/music/I+DONT+KNOW+HOW+BUT+THEY+FOUND+ME/_/Absinthe), by I DONT KNOW HOW BUT THEY FOUND ME (05 Dec 2021, 01:28)
-- [Sky Is a Bed](https://www.last.fm/music/The+Humble+Cheaters/_/Sky+Is+a+Bed), by The Humble Cheaters (05 Dec 2021, 00:28)
-- [Only One Not Smiling](https://www.last.fm/music/The+Correspondents/_/Only+One+Not+Smiling), by The Correspondents (05 Dec 2021, 00:14)
-- [Gold and Bones](https://www.last.fm/music/Friday+Pilots+Club/_/Gold+and+Bones), by Friday Pilots Club (04 Dec 2021, 22:34)
-- [1922](https://www.last.fm/music/Box+The+Oxford/_/1922), by Box The Oxford (04 Dec 2021, 22:30)
-- [People and Their Bits](https://www.last.fm/music/Shoe/_/People+and+Their+Bits), by Shoe (04 Dec 2021, 22:25)
