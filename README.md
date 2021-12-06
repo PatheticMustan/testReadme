@@ -1,10 +1,9 @@
 
 # Spotify Stats
-## Last Updated Mon Dec 06 2021 02:55:12 GMT+0000 (Coordinated Universal Time))
+## Last Updated Mon Dec 06 2021 03:46:10 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Pretty Dirty (In The Fading Light)](https://www.last.fm/music/Ripe/_/Pretty+Dirty+(In+The+Fading+Light)), by Ripe (streaming now)
 - [Sophie](https://www.last.fm/music/The+Altogether/_/Sophie), by The Altogether (06 Dec 2021, 02:48)
 - [Stand Up Tragedy](https://www.last.fm/music/The+Fratellis/_/Stand+Up+Tragedy), by The Fratellis (06 Dec 2021, 02:44)
 - [Lovescene](https://www.last.fm/music/Daniel+Knox/_/Lovescene), by Daniel Knox (06 Dec 2021, 02:37)
