@@ -1,9 +1,18 @@
 
 # Spotify Stats
-## Last Updated Mon Dec 06 2021 04:55:02 GMT+0000 (Coordinated Universal Time))
+## Last Updated Mon Dec 06 2021 05:43:18 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [the golden hour](https://www.last.fm/music/Louie+Zong/_/the+golden+hour), by Louie Zong (06 Dec 2021, 05:26)
+- [Absinthe](https://www.last.fm/music/I+DONT+KNOW+HOW+BUT+THEY+FOUND+ME/_/Absinthe), by I DONT KNOW HOW BUT THEY FOUND ME (06 Dec 2021, 05:23)
+- [Fear & Delight](https://www.last.fm/music/The+Correspondents/_/Fear+&+Delight), by The Correspondents (06 Dec 2021, 05:20)
+- [Skulls](https://www.last.fm/music/Civilian/_/Skulls), by Civilian (06 Dec 2021, 05:16)
+- [The Room Is Filled With People That Love You](https://www.last.fm/music/Foresight/_/The+Room+Is+Filled+With+People+That+Love+You), by Foresight (06 Dec 2021, 05:12)
+- [Girl](https://www.last.fm/music/Jukebox+the+Ghost/_/Girl), by Jukebox the Ghost (06 Dec 2021, 05:08)
+- [Perfect](https://www.last.fm/music/Rob+Cantor/_/Perfect), by Rob Cantor (06 Dec 2021, 05:05)
+- [Kiss You](https://www.last.fm/music/Moons+of+Mars/_/Kiss+You), by Moons of Mars (06 Dec 2021, 05:02)
+- [Pretty Dirty (In The Fading Light)](https://www.last.fm/music/Ripe/_/Pretty+Dirty+(In+The+Fading+Light)), by Ripe (06 Dec 2021, 02:52)
 - [Sophie](https://www.last.fm/music/The+Altogether/_/Sophie), by The Altogether (06 Dec 2021, 02:48)
 - [Stand Up Tragedy](https://www.last.fm/music/The+Fratellis/_/Stand+Up+Tragedy), by The Fratellis (06 Dec 2021, 02:44)
 - [Lovescene](https://www.last.fm/music/Daniel+Knox/_/Lovescene), by Daniel Knox (06 Dec 2021, 02:37)
@@ -45,12 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Angels](https://www.last.fm/music/DJVI/_/Angels), by DJVI (05 Dec 2021, 21:38)
 - [purple circles](https://www.last.fm/music/Jades+Goudreault/_/purple+circles), by Jades Goudreault (05 Dec 2021, 21:34)
 - [Waiting](https://www.last.fm/music/Vicetone/_/Waiting), by Vicetone (05 Dec 2021, 21:30)
-- [Give A Fuck](https://www.last.fm/music/TeZATalks/_/Give+A+Fuck), by TeZATalks (05 Dec 2021, 21:28)
-- [Drown](https://www.last.fm/music/Zabo/_/Drown), by Zabo (05 Dec 2021, 21:25)
-- [Higher (feat. iann dior) - Dimitri Vegas & Like Mike Remix](https://www.last.fm/music/Clean+Bandit/_/Higher+(feat.+iann+dior)+-+Dimitri+Vegas+&+Like+Mike+Remix), by Clean Bandit (05 Dec 2021, 20:09)
-- [The Crazy Ones](https://www.last.fm/music/Rezz/_/The+Crazy+Ones), by Rezz (05 Dec 2021, 20:05)
-- [Our Moving Picture](https://www.last.fm/music/Skybreak/_/Our+Moving+Picture), by Skybreak (05 Dec 2021, 20:01)
-- [Royal Leash](https://www.last.fm/music/Processor/_/Royal+Leash), by Processor (05 Dec 2021, 19:58)
-- [Tainted Love](https://www.last.fm/music/Perfect+Pitch/_/Tainted+Love), by Perfect Pitch (05 Dec 2021, 19:55)
-- [End of Slaphouse](https://www.last.fm/music/Vize/_/End+of+Slaphouse), by Vize (05 Dec 2021, 19:52)
-- [Armageddon](https://www.last.fm/music/Despotem/_/Armageddon), by Despotem (05 Dec 2021, 19:50)
