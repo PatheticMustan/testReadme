@@ -1,9 +1,10 @@
 
 # Spotify Stats
-## Last Updated Tue Dec 07 2021 19:43:23 GMT+0000 (Coordinated Universal Time))
+## Last Updated Tue Dec 07 2021 20:45:27 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Smokey Eyes](https://www.last.fm/music/Lincoln/_/Smokey+Eyes), by Lincoln (07 Dec 2021, 12:57)
 - [Sunshine](https://www.last.fm/music/The+Velvet+Cab/_/Sunshine), by The Velvet Cab (07 Dec 2021, 12:47)
 - [Sing When No One's Around](https://www.last.fm/music/The+Reign+Of+Kindo/_/Sing+When+No+One%27s+Around), by The Reign Of Kindo (07 Dec 2021, 09:31)
 - [Strangers](https://www.last.fm/music/Fizzy+Blood/_/Strangers), by Fizzy Blood (07 Dec 2021, 09:27)
@@ -53,4 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Native Tongue](https://www.last.fm/music/My+Kid+Brother/_/Native+Tongue), by My Kid Brother (07 Dec 2021, 06:47)
 - [Alter ego](https://www.last.fm/music/Caramel+Column/_/Alter+ego), by Caramel Column (07 Dec 2021, 06:44)
 - [Point to Prove (I Was an Ugly Kid)](https://www.last.fm/music/Bug+Hunter/_/Point+to+Prove+(I+Was+an+Ugly+Kid)), by Bug Hunter (07 Dec 2021, 06:40)
-- [Sleeping Through the End of the World](https://www.last.fm/music/PuffHost/_/Sleeping+Through+the+End+of+the+World), by PuffHost (07 Dec 2021, 06:37)
