@@ -1,9 +1,11 @@
 
 # Spotify Stats
-## Last Updated Tue Dec 07 2021 11:43:23 GMT+0000 (Coordinated Universal Time))
+## Last Updated Tue Dec 07 2021 13:06:50 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Sunshine](https://www.last.fm/music/The+Velvet+Cab/_/Sunshine), by The Velvet Cab (07 Dec 2021, 12:47)
+- [Sing When No One's Around](https://www.last.fm/music/The+Reign+Of+Kindo/_/Sing+When+No+One%27s+Around), by The Reign Of Kindo (07 Dec 2021, 09:31)
 - [Strangers](https://www.last.fm/music/Fizzy+Blood/_/Strangers), by Fizzy Blood (07 Dec 2021, 09:27)
 - [The Woods](https://www.last.fm/music/San+Fermin/_/The+Woods), by San Fermin (07 Dec 2021, 09:24)
 - [Raging on a Sunday](https://www.last.fm/music/bohnes/_/Raging+on+a+Sunday), by bohnes (07 Dec 2021, 09:20)
@@ -52,5 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Alter ego](https://www.last.fm/music/Caramel+Column/_/Alter+ego), by Caramel Column (07 Dec 2021, 06:44)
 - [Point to Prove (I Was an Ugly Kid)](https://www.last.fm/music/Bug+Hunter/_/Point+to+Prove+(I+Was+an+Ugly+Kid)), by Bug Hunter (07 Dec 2021, 06:40)
 - [Sleeping Through the End of the World](https://www.last.fm/music/PuffHost/_/Sleeping+Through+the+End+of+the+World), by PuffHost (07 Dec 2021, 06:37)
-- [Better Off Without You](https://www.last.fm/music/Mallory+Knox/_/Better+Off+Without+You), by Mallory Knox (07 Dec 2021, 06:34)
-- [On Ex-Husbands and Wives](https://www.last.fm/music/Quiet+Company/_/On+Ex-Husbands+and+Wives), by Quiet Company (07 Dec 2021, 06:31)
