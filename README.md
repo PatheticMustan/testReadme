@@ -1,10 +1,19 @@
 
 # Spotify Stats
-## Last Updated Wed Dec 08 2021 04:55:11 GMT+0000 (Coordinated Universal Time))
+## Last Updated Wed Dec 08 2021 05:43:17 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Shy](https://www.last.fm/music/Hether/_/Shy), by Hether (streaming now)
+- [Drugs](https://www.last.fm/music/M.A.G.S./_/Drugs), by M.A.G.S. (08 Dec 2021, 05:29)
+- [Parking Lots](https://www.last.fm/music/The+Plums/_/Parking+Lots), by The Plums (08 Dec 2021, 05:26)
+- [Bookstore Girl](https://www.last.fm/music/Charlie+Burg/_/Bookstore+Girl), by Charlie Burg (08 Dec 2021, 05:22)
+- [Amoeba](https://www.last.fm/music/Clairo/_/Amoeba), by Clairo (08 Dec 2021, 05:18)
+- [It's Only Sex](https://www.last.fm/music/Car+Seat+Headrest/_/It%27s+Only+Sex), by Car Seat Headrest (08 Dec 2021, 05:13)
+- [Call This # Now](https://www.last.fm/music/The+Garden/_/Call+This+%23+Now), by The Garden (08 Dec 2021, 05:11)
+- [Prune, You Talk Funny](https://www.last.fm/music/Gus+Dapperton/_/Prune,+You+Talk+Funny), by Gus Dapperton (08 Dec 2021, 05:07)
+- [Loretta](https://www.last.fm/music/Ginger+Root/_/Loretta), by Ginger Root (08 Dec 2021, 05:02)
+- [Chateau (Feel Alright)](https://www.last.fm/music/Djo/_/Chateau+(Feel+Alright)), by Djo (08 Dec 2021, 04:58)
+- [Shy](https://www.last.fm/music/Hether/_/Shy), by Hether (08 Dec 2021, 04:54)
 - [Leave It In My Dreams](https://www.last.fm/music/The+Voidz/_/Leave+It+In+My+Dreams), by The Voidz (08 Dec 2021, 04:50)
 - [Chandelier](https://www.last.fm/music/Will+Paquin/_/Chandelier), by Will Paquin (08 Dec 2021, 04:48)
 - [Alien Blues](https://www.last.fm/music/Vundabar/_/Alien+Blues), by Vundabar (08 Dec 2021, 04:45)
@@ -45,13 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Horns](https://www.last.fm/music/Bryce+Fox/_/Horns), by Bryce Fox (07 Dec 2021, 08:53)
 - [Breezeblocks](https://www.last.fm/music/alt-J/_/Breezeblocks), by alt-J (07 Dec 2021, 08:49)
 - [Pumpkin](https://www.last.fm/music/The+Regrettes/_/Pumpkin), by The Regrettes (07 Dec 2021, 08:46)
-- [Don't Go](https://www.last.fm/music/The+Greeting+Committee/_/Don%27t+Go), by The Greeting Committee (07 Dec 2021, 08:42)
-- [Brighter Than The Sun](https://www.last.fm/music/Brick%252BMortar/_/Brighter+Than+The+Sun), by Brick+Mortar (07 Dec 2021, 08:38)
-- [It's Not Like I Like You!!](https://www.last.fm/music/Static-P/_/It%27s+Not+Like+I+Like+You!!), by Static-P (07 Dec 2021, 08:34)
-- [Dyin' when I See Ya](https://www.last.fm/music/Sleep+State/_/Dyin%27+when+I+See+Ya), by Sleep State (07 Dec 2021, 08:30)
-- [Silver Platters](https://www.last.fm/music/Les+Gold/_/Silver+Platters), by Les Gold (07 Dec 2021, 08:26)
-- [Feel Good](https://www.last.fm/music/Weathers/_/Feel+Good), by Weathers (07 Dec 2021, 08:23)
-- [Once upon Another Time](https://www.last.fm/music/Sara+Bareilles/_/Once+upon+Another+Time), by Sara Bareilles (07 Dec 2021, 08:18)
-- [Burning Pile](https://www.last.fm/music/Mother+Mother/_/Burning+Pile), by Mother Mother (07 Dec 2021, 08:13)
-- [Red Wine](https://www.last.fm/music/Follies+&+Vices/_/Red+Wine), by Follies & Vices (07 Dec 2021, 08:10)
-- [Misery](https://www.last.fm/music/Attica+Riots/_/Misery), by Attica Riots (07 Dec 2021, 08:07)
