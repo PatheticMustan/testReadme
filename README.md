@@ -1,9 +1,15 @@
 
 # Spotify Stats
-## Last Updated Wed Dec 08 2021 19:43:26 GMT+0000 (Coordinated Universal Time))
+## Last Updated Wed Dec 08 2021 20:45:07 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Sarah](https://www.last.fm/music/Alex+G/_/Sarah), by Alex G (08 Dec 2021, 20:17)
+- [Lovesong (The Way) [feat. Bluets]](https://www.last.fm/music/Charlie+Burg/_/Lovesong+(The+Way)+%5Bfeat.+Bluets%5D), by Charlie Burg (08 Dec 2021, 20:13)
+- [Little Queenie](https://www.last.fm/music/sadgirl/_/Little+Queenie), by sadgirl (08 Dec 2021, 20:11)
+- [Death of the Phone Call](https://www.last.fm/music/WHATEVER,+DAD/_/Death+of+the+Phone+Call), by WHATEVER, DAD (08 Dec 2021, 20:09)
+- [Out Like a Light](https://www.last.fm/music/The+Honeysticks/_/Out+Like+a+Light), by The Honeysticks (08 Dec 2021, 20:05)
+- [Drugs](https://www.last.fm/music/M.A.G.S./_/Drugs), by M.A.G.S. (08 Dec 2021, 05:34)
 - [Drugs](https://www.last.fm/music/M.A.G.S./_/Drugs), by M.A.G.S. (08 Dec 2021, 05:29)
 - [Parking Lots](https://www.last.fm/music/The+Plums/_/Parking+Lots), by The Plums (08 Dec 2021, 05:26)
 - [Bookstore Girl](https://www.last.fm/music/Charlie+Burg/_/Bookstore+Girl), by Charlie Burg (08 Dec 2021, 05:22)
@@ -48,9 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Trampoline](https://www.last.fm/music/Airways/_/Trampoline), by Airways (07 Dec 2021, 09:16)
 - [Slumber](https://www.last.fm/music/Sl%C3%B8tface/_/Slumber), by Sløtface (07 Dec 2021, 09:10)
 - [Sky Is a Bed](https://www.last.fm/music/The+Humble+Cheaters/_/Sky+Is+a+Bed), by The Humble Cheaters (07 Dec 2021, 09:07)
-- [Parking Garage](https://www.last.fm/music/Tommy+Bravos/_/Parking+Garage), by Tommy Bravos (07 Dec 2021, 09:02)
-- [Summer](https://www.last.fm/music/Circadian+Clock/_/Summer), by Circadian Clock (07 Dec 2021, 08:59)
-- [Expert](https://www.last.fm/music/Pretoria/_/Expert), by Pretoria (07 Dec 2021, 08:57)
-- [Horns](https://www.last.fm/music/Bryce+Fox/_/Horns), by Bryce Fox (07 Dec 2021, 08:53)
-- [Breezeblocks](https://www.last.fm/music/alt-J/_/Breezeblocks), by alt-J (07 Dec 2021, 08:49)
-- [Pumpkin](https://www.last.fm/music/The+Regrettes/_/Pumpkin), by The Regrettes (07 Dec 2021, 08:46)
