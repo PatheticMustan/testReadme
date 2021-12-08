@@ -1,14 +1,20 @@
 
 # Spotify Stats
-## Last Updated Wed Dec 08 2021 20:45:07 GMT+0000 (Coordinated Universal Time))
+## Last Updated Wed Dec 08 2021 21:43:32 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [너 땜에 맘이 맘이 맘이 맘이 괴로워요](https://www.last.fm/music/death%27s+dynamic+shroud/_/%EB%84%88+%EB%95%9C%EC%97%90+%EB%A7%98%EC%9D%B4+%EB%A7%98%EC%9D%B4+%EB%A7%98%EC%9D%B4+%EB%A7%98%EC%9D%B4+%EA%B4%B4%EB%A1%9C%EC%9B%8C%EC%9A%94), by death's dynamic shroud (streaming now)
+- [Restless Song](https://www.last.fm/music/Shadow+Community/_/Restless+Song), by Shadow Community (08 Dec 2021, 21:34)
+- [Why?](https://www.last.fm/music/Mid-Air+Thief/_/Why%3F), by Mid-Air Thief (08 Dec 2021, 21:29)
+- [Good 4 U (Inverted Remix)](https://www.last.fm/music/Joe+Bananas/_/Good+4+U+(Inverted+Remix)), by Joe Bananas (08 Dec 2021, 21:24)
+- [Pop Therapy](https://www.last.fm/music/Video+Age/_/Pop+Therapy), by Video Age (08 Dec 2021, 20:33)
 - [Sarah](https://www.last.fm/music/Alex+G/_/Sarah), by Alex G (08 Dec 2021, 20:17)
 - [Lovesong (The Way) [feat. Bluets]](https://www.last.fm/music/Charlie+Burg/_/Lovesong+(The+Way)+%5Bfeat.+Bluets%5D), by Charlie Burg (08 Dec 2021, 20:13)
 - [Little Queenie](https://www.last.fm/music/sadgirl/_/Little+Queenie), by sadgirl (08 Dec 2021, 20:11)
 - [Death of the Phone Call](https://www.last.fm/music/WHATEVER,+DAD/_/Death+of+the+Phone+Call), by WHATEVER, DAD (08 Dec 2021, 20:09)
 - [Out Like a Light](https://www.last.fm/music/The+Honeysticks/_/Out+Like+a+Light), by The Honeysticks (08 Dec 2021, 20:05)
+- [Personal Lies](https://www.last.fm/music/Djo/_/Personal+Lies), by Djo (08 Dec 2021, 20:05)
 - [Drugs](https://www.last.fm/music/M.A.G.S./_/Drugs), by M.A.G.S. (08 Dec 2021, 05:34)
 - [Drugs](https://www.last.fm/music/M.A.G.S./_/Drugs), by M.A.G.S. (08 Dec 2021, 05:29)
 - [Parking Lots](https://www.last.fm/music/The+Plums/_/Parking+Lots), by The Plums (08 Dec 2021, 05:26)
@@ -49,8 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Sing When No One's Around](https://www.last.fm/music/The+Reign+Of+Kindo/_/Sing+When+No+One%27s+Around), by The Reign Of Kindo (07 Dec 2021, 09:31)
 - [Strangers](https://www.last.fm/music/Fizzy+Blood/_/Strangers), by Fizzy Blood (07 Dec 2021, 09:27)
 - [The Woods](https://www.last.fm/music/San+Fermin/_/The+Woods), by San Fermin (07 Dec 2021, 09:24)
-- [Raging on a Sunday](https://www.last.fm/music/bohnes/_/Raging+on+a+Sunday), by bohnes (07 Dec 2021, 09:20)
-- [Saint Bernard](https://www.last.fm/music/Lincoln/_/Saint+Bernard), by Lincoln (07 Dec 2021, 09:19)
-- [Trampoline](https://www.last.fm/music/Airways/_/Trampoline), by Airways (07 Dec 2021, 09:16)
-- [Slumber](https://www.last.fm/music/Sl%C3%B8tface/_/Slumber), by Sløtface (07 Dec 2021, 09:10)
-- [Sky Is a Bed](https://www.last.fm/music/The+Humble+Cheaters/_/Sky+Is+a+Bed), by The Humble Cheaters (07 Dec 2021, 09:07)
