@@ -1,10 +1,15 @@
 
 # Spotify Stats
-## Last Updated Wed Dec 08 2021 21:43:32 GMT+0000 (Coordinated Universal Time))
+## Last Updated Wed Dec 08 2021 22:44:35 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [너 땜에 맘이 맘이 맘이 맘이 괴로워요](https://www.last.fm/music/death%27s+dynamic+shroud/_/%EB%84%88+%EB%95%9C%EC%97%90+%EB%A7%98%EC%9D%B4+%EB%A7%98%EC%9D%B4+%EB%A7%98%EC%9D%B4+%EB%A7%98%EC%9D%B4+%EA%B4%B4%EB%A1%9C%EC%9B%8C%EC%9A%94), by death's dynamic shroud (streaming now)
+- [Weather](https://www.last.fm/music/Ginger+Root/_/Weather), by Ginger Root (streaming now)
+- [White Seal (Shell & Spine)](https://www.last.fm/music/Candy+Claws/_/White+Seal+(Shell+&+Spine)), by Candy Claws (08 Dec 2021, 22:17)
+- [Somoku](https://www.last.fm/music/hakushi+hasegawa/_/Somoku), by hakushi hasegawa (08 Dec 2021, 21:50)
+- [ナイトクルージング](https://www.last.fm/music/Fishmans/_/%E3%83%8A%E3%82%A4%E3%83%88%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0), by Fishmans (08 Dec 2021, 21:46)
+- [Dump](https://www.last.fm/music/Kero+Kero+Bonito/_/Dump), by Kero Kero Bonito (08 Dec 2021, 21:43)
+- [너 땜에 맘이 맘이 맘이 맘이 괴로워요](https://www.last.fm/music/death%27s+dynamic+shroud/_/%EB%84%88+%EB%95%9C%EC%97%90+%EB%A7%98%EC%9D%B4+%EB%A7%98%EC%9D%B4+%EB%A7%98%EC%9D%B4+%EB%A7%98%EC%9D%B4+%EA%B4%B4%EB%A1%9C%EC%9B%8C%EC%9A%94), by death's dynamic shroud (08 Dec 2021, 21:39)
 - [Restless Song](https://www.last.fm/music/Shadow+Community/_/Restless+Song), by Shadow Community (08 Dec 2021, 21:34)
 - [Why?](https://www.last.fm/music/Mid-Air+Thief/_/Why%3F), by Mid-Air Thief (08 Dec 2021, 21:29)
 - [Good 4 U (Inverted Remix)](https://www.last.fm/music/Joe+Bananas/_/Good+4+U+(Inverted+Remix)), by Joe Bananas (08 Dec 2021, 21:24)
@@ -50,8 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Sing When No One's Around](https://www.last.fm/music/The+Reign+Of+Kindo/_/Sing+When+No+One%27s+Around), by The Reign Of Kindo (08 Dec 2021, 03:14)
 - [Sing When No One's Around](https://www.last.fm/music/The+Reign+Of+Kindo/_/Sing+When+No+One%27s+Around), by The Reign Of Kindo (08 Dec 2021, 02:28)
 - [Birch Tree](https://www.last.fm/music/Strawberry+Guy/_/Birch+Tree), by Strawberry Guy (07 Dec 2021, 20:36)
-- [Smokey Eyes](https://www.last.fm/music/Lincoln/_/Smokey+Eyes), by Lincoln (07 Dec 2021, 12:57)
-- [Sunshine](https://www.last.fm/music/The+Velvet+Cab/_/Sunshine), by The Velvet Cab (07 Dec 2021, 12:47)
-- [Sing When No One's Around](https://www.last.fm/music/The+Reign+Of+Kindo/_/Sing+When+No+One%27s+Around), by The Reign Of Kindo (07 Dec 2021, 09:31)
-- [Strangers](https://www.last.fm/music/Fizzy+Blood/_/Strangers), by Fizzy Blood (07 Dec 2021, 09:27)
-- [The Woods](https://www.last.fm/music/San+Fermin/_/The+Woods), by San Fermin (07 Dec 2021, 09:24)
