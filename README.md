@@ -1,9 +1,16 @@
 
 # Spotify Stats
-## Last Updated Wed Dec 08 2021 02:55:44 GMT+0000 (Coordinated Universal Time))
+## Last Updated Wed Dec 08 2021 03:46:15 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [She Needs Him](https://www.last.fm/music/Her%27s/_/She+Needs+Him), by Her's (streaming now)
+- [Phantom](https://www.last.fm/music/Honors/_/Phantom), by Honors (08 Dec 2021, 03:39)
+- [Blue Lips](https://www.last.fm/music/Her%27s/_/Blue+Lips), by Her's (08 Dec 2021, 03:36)
+- [Phantom](https://www.last.fm/music/Honors/_/Phantom), by Honors (08 Dec 2021, 03:34)
+- [Sing When No One's Around](https://www.last.fm/music/The+Reign+Of+Kindo/_/Sing+When+No+One%27s+Around), by The Reign Of Kindo (08 Dec 2021, 03:14)
+- [Sing When No One's Around](https://www.last.fm/music/The+Reign+Of+Kindo/_/Sing+When+No+One%27s+Around), by The Reign Of Kindo (08 Dec 2021, 02:28)
+- [Birch Tree](https://www.last.fm/music/Strawberry+Guy/_/Birch+Tree), by Strawberry Guy (07 Dec 2021, 20:36)
 - [Smokey Eyes](https://www.last.fm/music/Lincoln/_/Smokey+Eyes), by Lincoln (07 Dec 2021, 12:57)
 - [Sunshine](https://www.last.fm/music/The+Velvet+Cab/_/Sunshine), by The Velvet Cab (07 Dec 2021, 12:47)
 - [Sing When No One's Around](https://www.last.fm/music/The+Reign+Of+Kindo/_/Sing+When+No+One%27s+Around), by The Reign Of Kindo (07 Dec 2021, 09:31)
@@ -48,9 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [I Wanna Boi](https://www.last.fm/music/PWR+BTTM/_/I+Wanna+Boi), by PWR BTTM (07 Dec 2021, 07:09)
 - [Hollywood](https://www.last.fm/music/Jukebox+the+Ghost/_/Hollywood), by Jukebox the Ghost (07 Dec 2021, 07:06)
 - [suicide romantics](https://www.last.fm/music/Des+Rocs/_/suicide+romantics), by Des Rocs (07 Dec 2021, 07:02)
-- [Never Wanna Fall in Love With U](https://www.last.fm/music/Nelward/_/Never+Wanna+Fall+in+Love+With+U), by Nelward (07 Dec 2021, 06:59)
-- [Poor George](https://www.last.fm/music/James+Supercave/_/Poor+George), by James Supercave (07 Dec 2021, 06:54)
-- [Perfect](https://www.last.fm/music/Rob+Cantor/_/Perfect), by Rob Cantor (07 Dec 2021, 06:51)
-- [Native Tongue](https://www.last.fm/music/My+Kid+Brother/_/Native+Tongue), by My Kid Brother (07 Dec 2021, 06:47)
-- [Alter ego](https://www.last.fm/music/Caramel+Column/_/Alter+ego), by Caramel Column (07 Dec 2021, 06:44)
-- [Point to Prove (I Was an Ugly Kid)](https://www.last.fm/music/Bug+Hunter/_/Point+to+Prove+(I+Was+an+Ugly+Kid)), by Bug Hunter (07 Dec 2021, 06:40)
