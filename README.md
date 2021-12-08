@@ -1,10 +1,21 @@
 
 # Spotify Stats
-## Last Updated Wed Dec 08 2021 22:44:35 GMT+0000 (Coordinated Universal Time))
+## Last Updated Wed Dec 08 2021 23:44:36 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Weather](https://www.last.fm/music/Ginger+Root/_/Weather), by Ginger Root (streaming now)
+- [Without Repair](https://www.last.fm/music/Johnny+Manchild/_/Without+Repair), by Johnny Manchild (streaming now)
+- [Dear Dictator](https://www.last.fm/music/Saint+Motel/_/Dear+Dictator), by Saint Motel (08 Dec 2021, 23:39)
+- [Oblivion](https://www.last.fm/music/Grimes/_/Oblivion), by Grimes (08 Dec 2021, 23:12)
+- [Suddenly](https://www.last.fm/music/salami+rose+joe+louis/_/Suddenly), by salami rose joe louis (08 Dec 2021, 23:11)
+- [Come in](https://www.last.fm/music/Weatherday/_/Come+in), by Weatherday (08 Dec 2021, 23:09)
+- [Dump](https://www.last.fm/music/Kero+Kero+Bonito/_/Dump), by Kero Kero Bonito (08 Dec 2021, 23:07)
+- [Bran-New Lovesong](https://www.last.fm/music/The+Pillows/_/Bran-New+Lovesong), by The Pillows (08 Dec 2021, 23:05)
+- [No New World](https://www.last.fm/music/MASS+OF+THE+FERMENTING+DREGS/_/No+New+World), by MASS OF THE FERMENTING DREGS (08 Dec 2021, 23:02)
+- [Судно (Борис Рижий)](https://www.last.fm/music/Molchat+Doma/_/%D0%A1%D1%83%D0%B4%D0%BD%D0%BE+(%D0%91%D0%BE%D1%80%D0%B8%D1%81+%D0%A0%D0%B8%D0%B6%D0%B8%D0%B9)), by Molchat Doma (08 Dec 2021, 22:59)
+- [Pretty Cvnt](https://www.last.fm/music/Sewerslvt/_/Pretty+Cvnt), by Sewerslvt (08 Dec 2021, 22:56)
+- [Juban District](https://www.last.fm/music/Ginger+Root/_/Juban+District), by Ginger Root (08 Dec 2021, 22:50)
+- [Weather](https://www.last.fm/music/Ginger+Root/_/Weather), by Ginger Root (08 Dec 2021, 22:42)
 - [White Seal (Shell & Spine)](https://www.last.fm/music/Candy+Claws/_/White+Seal+(Shell+&+Spine)), by Candy Claws (08 Dec 2021, 22:17)
 - [Somoku](https://www.last.fm/music/hakushi+hasegawa/_/Somoku), by hakushi hasegawa (08 Dec 2021, 21:50)
 - [ナイトクルージング](https://www.last.fm/music/Fishmans/_/%E3%83%8A%E3%82%A4%E3%83%88%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0), by Fishmans (08 Dec 2021, 21:46)
@@ -44,14 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Like Or Like Like](https://www.last.fm/music/Miniature+Tigers/_/Like+Or+Like+Like), by Miniature Tigers (08 Dec 2021, 04:17)
 - [Human Sadness](https://www.last.fm/music/The+Voidz/_/Human+Sadness), by The Voidz (08 Dec 2021, 04:07)
 - [I Think I Like When It Rains](https://www.last.fm/music/Willis/_/I+Think+I+Like+When+It+Rains), by Willis (08 Dec 2021, 04:01)
-- [Case for You](https://www.last.fm/music/Early+Eyes/_/Case+for+You), by Early Eyes (08 Dec 2021, 03:58)
-- [Alrighty Aphrodite](https://www.last.fm/music/Peach+Pit/_/Alrighty+Aphrodite), by Peach Pit (08 Dec 2021, 03:55)
-- [Jane!](https://www.last.fm/music/The+Long+Faces/_/Jane!), by The Long Faces (08 Dec 2021, 03:52)
-- [Birch Tree](https://www.last.fm/music/Strawberry+Guy/_/Birch+Tree), by Strawberry Guy (08 Dec 2021, 03:47)
-- [She Needs Him](https://www.last.fm/music/Her%27s/_/She+Needs+Him), by Her's (08 Dec 2021, 03:42)
-- [Phantom](https://www.last.fm/music/Honors/_/Phantom), by Honors (08 Dec 2021, 03:39)
-- [Blue Lips](https://www.last.fm/music/Her%27s/_/Blue+Lips), by Her's (08 Dec 2021, 03:36)
-- [Phantom](https://www.last.fm/music/Honors/_/Phantom), by Honors (08 Dec 2021, 03:34)
-- [Sing When No One's Around](https://www.last.fm/music/The+Reign+Of+Kindo/_/Sing+When+No+One%27s+Around), by The Reign Of Kindo (08 Dec 2021, 03:14)
-- [Sing When No One's Around](https://www.last.fm/music/The+Reign+Of+Kindo/_/Sing+When+No+One%27s+Around), by The Reign Of Kindo (08 Dec 2021, 02:28)
-- [Birch Tree](https://www.last.fm/music/Strawberry+Guy/_/Birch+Tree), by Strawberry Guy (07 Dec 2021, 20:36)
