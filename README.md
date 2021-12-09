@@ -1,9 +1,17 @@
 
 # Spotify Stats
-## Last Updated Thu Dec 09 2021 22:43:47 GMT+0000 (Coordinated Universal Time))
+## Last Updated Thu Dec 09 2021 23:44:22 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Dyin' when I See Ya](https://www.last.fm/music/Sleep+State/_/Dyin%27+when+I+See+Ya), by Sleep State (streaming now)
+- [Hustle](https://www.last.fm/music/Rocket+Surgeons/_/Hustle), by Rocket Surgeons (09 Dec 2021, 23:40)
+- [Absinthe](https://www.last.fm/music/I+DONT+KNOW+HOW+BUT+THEY+FOUND+ME/_/Absinthe), by I DONT KNOW HOW BUT THEY FOUND ME (09 Dec 2021, 23:37)
+- [All the Best](https://www.last.fm/music/Siames/_/All+the+Best), by Siames (09 Dec 2021, 23:34)
+- [I Think I Like When It Rains](https://www.last.fm/music/Willis/_/I+Think+I+Like+When+It+Rains), by Willis (09 Dec 2021, 23:29)
+- [The Louisville Shuffle (RIP)](https://www.last.fm/music/Sarah+and+the+Safe+Word/_/The+Louisville+Shuffle+(RIP)), by Sarah and the Safe Word (09 Dec 2021, 23:26)
+- [Lovesong (The Way) [feat. Bluets]](https://www.last.fm/music/Charlie+Burg/_/Lovesong+(The+Way)+%5Bfeat.+Bluets%5D), by Charlie Burg (09 Dec 2021, 23:22)
+- [Destruction](https://www.last.fm/music/Joywave/_/Destruction), by Joywave (09 Dec 2021, 23:19)
 - [Esmeralda](https://www.last.fm/music/Adriel+Genet/_/Esmeralda), by Adriel Genet (09 Dec 2021, 22:33)
 - [Sometimes](https://www.last.fm/music/Nick+Lutsko/_/Sometimes), by Nick Lutsko (09 Dec 2021, 22:28)
 - [All the Best](https://www.last.fm/music/Siames/_/All+the+Best), by Siames (09 Dec 2021, 22:25)
@@ -47,10 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Playing Catch With .22](https://www.last.fm/music/I+the+Mighty/_/Playing+Catch+With+.22), by I the Mighty (09 Dec 2021, 04:03)
 - [Conversations](https://www.last.fm/music/Marney/_/Conversations), by Marney (09 Dec 2021, 03:59)
 - [Mean](https://www.last.fm/music/The+NYChillharmonic/_/Mean), by The NYChillharmonic (09 Dec 2021, 03:54)
-- [Sunny December](https://www.last.fm/music/Bombadil/_/Sunny+December), by Bombadil (09 Dec 2021, 03:51)
-- [Desperate Youth](https://www.last.fm/music/Bel+Heir/_/Desperate+Youth), by Bel Heir (09 Dec 2021, 03:48)
-- [Lonesome Terror](https://www.last.fm/music/Kamggarn/_/Lonesome+Terror), by Kamggarn (09 Dec 2021, 03:44)
-- [Desperate Youth](https://www.last.fm/music/Bel+Heir/_/Desperate+Youth), by Bel Heir (09 Dec 2021, 03:41)
-- [Lonesome Terror](https://www.last.fm/music/Kamggarn/_/Lonesome+Terror), by Kamggarn (09 Dec 2021, 03:37)
-- [Tree House](https://www.last.fm/music/Cinders/_/Tree+House), by Cinders (09 Dec 2021, 03:33)
-- [Oh Brother](https://www.last.fm/music/Melt/_/Oh+Brother), by Melt (09 Dec 2021, 03:24)
