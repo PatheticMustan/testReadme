@@ -1,9 +1,11 @@
 
 # Spotify Stats
-## Last Updated Thu Dec 09 2021 20:45:02 GMT+0000 (Coordinated Universal Time))
+## Last Updated Thu Dec 09 2021 21:43:35 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Egg](https://www.last.fm/music/Shoe/_/Egg), by Shoe (streaming now)
+- [Fashion Forward (Acoustic)](https://www.last.fm/music/The+Home+Team/_/Fashion+Forward+(Acoustic)), by The Home Team (09 Dec 2021, 06:03)
 - [Out Like a Light 2](https://www.last.fm/music/The+Honeysticks/_/Out+Like+a+Light+2), by The Honeysticks (09 Dec 2021, 05:59)
 - [Skulls](https://www.last.fm/music/Civilian/_/Skulls), by Civilian (09 Dec 2021, 05:55)
 - [Loretta](https://www.last.fm/music/Ginger+Root/_/Loretta), by Ginger Root (09 Dec 2021, 05:52)
@@ -53,4 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Silo](https://www.last.fm/music/Richy+Mitch+&+The+Coal+Miners/_/Silo), by Richy Mitch & The Coal Miners (09 Dec 2021, 01:53)
 - [A Place For Me](https://www.last.fm/music/I+Hate+Kate/_/A+Place+For+Me), by I Hate Kate (09 Dec 2021, 01:49)
 - [Very few dancers](https://www.last.fm/music/Sons+of+an+Illustrious+Father/_/Very+few+dancers), by Sons of an Illustrious Father (09 Dec 2021, 01:45)
-- [Feeding the Meter](https://www.last.fm/music/Adam+Tell/_/Feeding+the+Meter), by Adam Tell (09 Dec 2021, 01:41)
