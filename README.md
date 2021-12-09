@@ -1,10 +1,15 @@
 
 # Spotify Stats
-## Last Updated Thu Dec 09 2021 05:43:23 GMT+0000 (Coordinated Universal Time))
+## Last Updated Thu Dec 09 2021 06:52:25 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [High Enough](https://www.last.fm/music/K.Flay/_/High+Enough), by K.Flay (streaming now)
+- [Out Like a Light 2](https://www.last.fm/music/The+Honeysticks/_/Out+Like+a+Light+2), by The Honeysticks (09 Dec 2021, 05:59)
+- [Skulls](https://www.last.fm/music/Civilian/_/Skulls), by Civilian (09 Dec 2021, 05:55)
+- [Loretta](https://www.last.fm/music/Ginger+Root/_/Loretta), by Ginger Root (09 Dec 2021, 05:52)
+- [Some](https://www.last.fm/music/Steve+Lacy/_/Some), by Steve Lacy (09 Dec 2021, 05:49)
+- [Vacation](https://www.last.fm/music/Attica+Riots/_/Vacation), by Attica Riots (09 Dec 2021, 05:46)
+- [High Enough](https://www.last.fm/music/K.Flay/_/High+Enough), by K.Flay (09 Dec 2021, 05:42)
 - [Songbirds](https://www.last.fm/music/Ben+Thornewill/_/Songbirds), by Ben Thornewill (09 Dec 2021, 05:39)
 - [Gently](https://www.last.fm/music/Pretoria/_/Gently), by Pretoria (09 Dec 2021, 05:35)
 - [Mint Leaf](https://www.last.fm/music/Vincent+Mango/_/Mint+Leaf), by Vincent Mango (09 Dec 2021, 05:28)
@@ -49,9 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [A Place For Me](https://www.last.fm/music/I+Hate+Kate/_/A+Place+For+Me), by I Hate Kate (09 Dec 2021, 01:49)
 - [Very few dancers](https://www.last.fm/music/Sons+of+an+Illustrious+Father/_/Very+few+dancers), by Sons of an Illustrious Father (09 Dec 2021, 01:45)
 - [Feeding the Meter](https://www.last.fm/music/Adam+Tell/_/Feeding+the+Meter), by Adam Tell (09 Dec 2021, 01:41)
-- [Roots](https://www.last.fm/music/Grumpster/_/Roots), by Grumpster (09 Dec 2021, 01:36)
-- [404](https://www.last.fm/music/One+South+Lark/_/404), by One South Lark (09 Dec 2021, 01:33)
-- [Burn](https://www.last.fm/music/Foxy+Shazam/_/Burn), by Foxy Shazam (09 Dec 2021, 01:29)
-- [Trigger Finger](https://www.last.fm/music/Coyote+Kid/_/Trigger+Finger), by Coyote Kid (09 Dec 2021, 01:26)
-- [Heir of Grief](https://www.last.fm/music/TenseiMusic/_/Heir+of+Grief), by TenseiMusic (09 Dec 2021, 01:21)
-- [Dosed](https://www.last.fm/music/Just+Friends/_/Dosed), by Just Friends (09 Dec 2021, 01:18)
