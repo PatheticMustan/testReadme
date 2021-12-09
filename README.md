@@ -1,9 +1,15 @@
 
 # Spotify Stats
-## Last Updated Thu Dec 09 2021 02:55:07 GMT+0000 (Coordinated Universal Time))
+## Last Updated Thu Dec 09 2021 03:46:05 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Lonesome Terror](https://www.last.fm/music/Kamggarn/_/Lonesome+Terror), by Kamggarn (streaming now)
+- [Desperate Youth](https://www.last.fm/music/Bel+Heir/_/Desperate+Youth), by Bel Heir (09 Dec 2021, 03:41)
+- [Lonesome Terror](https://www.last.fm/music/Kamggarn/_/Lonesome+Terror), by Kamggarn (09 Dec 2021, 03:37)
+- [Tree House](https://www.last.fm/music/Cinders/_/Tree+House), by Cinders (09 Dec 2021, 03:33)
+- [Oh Brother](https://www.last.fm/music/Melt/_/Oh+Brother), by Melt (09 Dec 2021, 03:24)
+- [Angelica's Room](https://www.last.fm/music/War+is+over/_/Angelica%27s+Room), by War is over (09 Dec 2021, 02:38)
 - [Down by the River](https://www.last.fm/music/Walker+and+Wylde/_/Down+by+the+River), by Walker and Wylde (09 Dec 2021, 02:36)
 - [Black Cat White Magic](https://www.last.fm/music/Ben+Rosett/_/Black+Cat+White+Magic), by Ben Rosett (09 Dec 2021, 02:33)
 - [Away](https://www.last.fm/music/Trapdoor+Social/_/Away), by Trapdoor Social (09 Dec 2021, 02:29)
@@ -49,8 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Dump](https://www.last.fm/music/Kero+Kero+Bonito/_/Dump), by Kero Kero Bonito (08 Dec 2021, 21:43)
 - [너 땜에 맘이 맘이 맘이 맘이 괴로워요](https://www.last.fm/music/death%27s+dynamic+shroud/_/%EB%84%88+%EB%95%9C%EC%97%90+%EB%A7%98%EC%9D%B4+%EB%A7%98%EC%9D%B4+%EB%A7%98%EC%9D%B4+%EB%A7%98%EC%9D%B4+%EA%B4%B4%EB%A1%9C%EC%9B%8C%EC%9A%94), by death's dynamic shroud (08 Dec 2021, 21:39)
 - [Restless Song](https://www.last.fm/music/Shadow+Community/_/Restless+Song), by Shadow Community (08 Dec 2021, 21:34)
-- [Why?](https://www.last.fm/music/Mid-Air+Thief/_/Why%3F), by Mid-Air Thief (08 Dec 2021, 21:29)
-- [Good 4 U (Inverted Remix)](https://www.last.fm/music/Joe+Bananas/_/Good+4+U+(Inverted+Remix)), by Joe Bananas (08 Dec 2021, 21:24)
-- [Pop Therapy](https://www.last.fm/music/Video+Age/_/Pop+Therapy), by Video Age (08 Dec 2021, 20:33)
-- [Sarah](https://www.last.fm/music/Alex+G/_/Sarah), by Alex G (08 Dec 2021, 20:17)
-- [Lovesong (The Way) [feat. Bluets]](https://www.last.fm/music/Charlie+Burg/_/Lovesong+(The+Way)+%5Bfeat.+Bluets%5D), by Charlie Burg (08 Dec 2021, 20:13)
