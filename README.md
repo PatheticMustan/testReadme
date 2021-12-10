@@ -1,9 +1,13 @@
 
 # Spotify Stats
-## Last Updated Fri Dec 10 2021 04:54:45 GMT+0000 (Coordinated Universal Time))
+## Last Updated Fri Dec 10 2021 05:43:17 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [What More Can I Say?](https://www.last.fm/music/Christian+Borle/_/What+More+Can+I+Say%3F), by Christian Borle (10 Dec 2021, 05:22)
+- [Birch Tree](https://www.last.fm/music/Strawberry+Guy/_/Birch+Tree), by Strawberry Guy (10 Dec 2021, 05:17)
+- [Cover Me in Roses](https://www.last.fm/music/Holden+Laurence/_/Cover+Me+in+Roses), by Holden Laurence (10 Dec 2021, 05:12)
+- [Michael](https://www.last.fm/music/Civilian/_/Michael), by Civilian (10 Dec 2021, 00:00)
 - [Reasons](https://www.last.fm/music/Civilian/_/Reasons), by Civilian (09 Dec 2021, 23:56)
 - [Autoportrait](https://www.last.fm/music/Demob+Happy/_/Autoportrait), by Demob Happy (09 Dec 2021, 23:52)
 - [Kiss You](https://www.last.fm/music/Moons+of+Mars/_/Kiss+You), by Moons of Mars (09 Dec 2021, 23:50)
@@ -50,7 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Growing Up](https://www.last.fm/music/Cinders/_/Growing+Up), by Cinders (09 Dec 2021, 04:49)
 - [Bremen](https://www.last.fm/music/Pigpen+Theatre+Co./_/Bremen), by Pigpen Theatre Co. (09 Dec 2021, 04:46)
 - [Oh Brother](https://www.last.fm/music/Melt/_/Oh+Brother), by Melt (09 Dec 2021, 04:20)
-- [Angelica's Room](https://www.last.fm/music/War+is+over/_/Angelica%27s+Room), by War is over (09 Dec 2021, 04:16)
-- [Down by the River](https://www.last.fm/music/Walker+and+Wylde/_/Down+by+the+River), by Walker and Wylde (09 Dec 2021, 04:13)
-- [Black Cat White Magic](https://www.last.fm/music/Ben+Rosett/_/Black+Cat+White+Magic), by Ben Rosett (09 Dec 2021, 04:11)
-- [Away](https://www.last.fm/music/Trapdoor+Social/_/Away), by Trapdoor Social (09 Dec 2021, 04:07)
