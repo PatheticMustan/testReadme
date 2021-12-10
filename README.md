@@ -1,9 +1,18 @@
 
 # Spotify Stats
-## Last Updated Fri Dec 10 2021 22:44:09 GMT+0000 (Coordinated Universal Time))
+## Last Updated Fri Dec 10 2021 23:44:16 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Televised](https://www.last.fm/music/Hunny/_/Televised), by Hunny (streaming now)
+- [Sarah Smiles](https://www.last.fm/music/Panic!+at+the+Disco/_/Sarah+Smiles), by Panic! at the Disco (10 Dec 2021, 23:38)
+- [Can't Stand The Rain](https://www.last.fm/music/The+Rescues/_/Can%27t+Stand+The+Rain), by The Rescues (10 Dec 2021, 23:34)
+- [Dream Sweet in Sea Major](https://www.last.fm/music/Miracle+Musical/_/Dream+Sweet+in+Sea+Major), by Miracle Musical (10 Dec 2021, 23:26)
+- [Green Jewels](https://www.last.fm/music/KRIILL/_/Green+Jewels), by KRIILL (10 Dec 2021, 23:23)
+- [Playing Catch With .22](https://www.last.fm/music/I+the+Mighty/_/Playing+Catch+With+.22), by I the Mighty (10 Dec 2021, 23:14)
+- [pretty poison](https://www.last.fm/music/Nessa+Barrett/_/pretty+poison), by Nessa Barrett (10 Dec 2021, 23:11)
+- [Breezeblocks](https://www.last.fm/music/alt-J/_/Breezeblocks), by alt-J (10 Dec 2021, 23:08)
+- [People and Their Bits](https://www.last.fm/music/Shoe/_/People+and+Their+Bits), by Shoe (10 Dec 2021, 05:25)
 - [What More Can I Say?](https://www.last.fm/music/Christian+Borle/_/What+More+Can+I+Say%3F), by Christian Borle (10 Dec 2021, 05:22)
 - [Birch Tree](https://www.last.fm/music/Strawberry+Guy/_/Birch+Tree), by Strawberry Guy (10 Dec 2021, 05:17)
 - [Cover Me in Roses](https://www.last.fm/music/Holden+Laurence/_/Cover+Me+in+Roses), by Holden Laurence (10 Dec 2021, 05:12)
@@ -46,11 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Silver Platters](https://www.last.fm/music/Les+Gold/_/Silver+Platters), by Les Gold (09 Dec 2021, 05:21)
 - [Birch Tree](https://www.last.fm/music/Strawberry+Guy/_/Birch+Tree), by Strawberry Guy (09 Dec 2021, 05:16)
 - [Parking Garage](https://www.last.fm/music/Tommy+Bravos/_/Parking+Garage), by Tommy Bravos (09 Dec 2021, 05:12)
-- [Close Enough](https://www.last.fm/music/Arrows+in+Action/_/Close+Enough), by Arrows in Action (09 Dec 2021, 05:09)
-- [Prime](https://www.last.fm/music/Roan+Martin/_/Prime), by Roan Martin (09 Dec 2021, 05:03)
-- [The Louisville Shuffle (RIP)](https://www.last.fm/music/Sarah+and+the+Safe+Word/_/The+Louisville+Shuffle+(RIP)), by Sarah and the Safe Word (09 Dec 2021, 05:00)
-- [Perfect](https://www.last.fm/music/Rob+Cantor/_/Perfect), by Rob Cantor (09 Dec 2021, 04:57)
-- [See Below](https://www.last.fm/music/The+Ghost+Club/_/See+Below), by The Ghost Club (09 Dec 2021, 04:53)
-- [Growing Up](https://www.last.fm/music/Cinders/_/Growing+Up), by Cinders (09 Dec 2021, 04:49)
-- [Bremen](https://www.last.fm/music/Pigpen+Theatre+Co./_/Bremen), by Pigpen Theatre Co. (09 Dec 2021, 04:46)
-- [Oh Brother](https://www.last.fm/music/Melt/_/Oh+Brother), by Melt (09 Dec 2021, 04:20)
