@@ -1,10 +1,12 @@
 
 # Spotify Stats
-## Last Updated Thu Dec 09 2021 23:44:22 GMT+0000 (Coordinated Universal Time))
+## Last Updated Fri Dec 10 2021 01:42:26 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Dyin' when I See Ya](https://www.last.fm/music/Sleep+State/_/Dyin%27+when+I+See+Ya), by Sleep State (streaming now)
+- [Reasons](https://www.last.fm/music/Civilian/_/Reasons), by Civilian (09 Dec 2021, 23:56)
+- [Autoportrait](https://www.last.fm/music/Demob+Happy/_/Autoportrait), by Demob Happy (09 Dec 2021, 23:52)
+- [Kiss You](https://www.last.fm/music/Moons+of+Mars/_/Kiss+You), by Moons of Mars (09 Dec 2021, 23:50)
 - [Hustle](https://www.last.fm/music/Rocket+Surgeons/_/Hustle), by Rocket Surgeons (09 Dec 2021, 23:40)
 - [Absinthe](https://www.last.fm/music/I+DONT+KNOW+HOW+BUT+THEY+FOUND+ME/_/Absinthe), by I DONT KNOW HOW BUT THEY FOUND ME (09 Dec 2021, 23:37)
 - [All the Best](https://www.last.fm/music/Siames/_/All+the+Best), by Siames (09 Dec 2021, 23:34)
@@ -52,6 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Down by the River](https://www.last.fm/music/Walker+and+Wylde/_/Down+by+the+River), by Walker and Wylde (09 Dec 2021, 04:13)
 - [Black Cat White Magic](https://www.last.fm/music/Ben+Rosett/_/Black+Cat+White+Magic), by Ben Rosett (09 Dec 2021, 04:11)
 - [Away](https://www.last.fm/music/Trapdoor+Social/_/Away), by Trapdoor Social (09 Dec 2021, 04:07)
-- [Playing Catch With .22](https://www.last.fm/music/I+the+Mighty/_/Playing+Catch+With+.22), by I the Mighty (09 Dec 2021, 04:03)
-- [Conversations](https://www.last.fm/music/Marney/_/Conversations), by Marney (09 Dec 2021, 03:59)
-- [Mean](https://www.last.fm/music/The+NYChillharmonic/_/Mean), by The NYChillharmonic (09 Dec 2021, 03:54)
