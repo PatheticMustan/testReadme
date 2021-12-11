@@ -1,10 +1,13 @@
 
 # Spotify Stats
-## Last Updated Fri Dec 10 2021 23:44:16 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sat Dec 11 2021 01:41:48 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Televised](https://www.last.fm/music/Hunny/_/Televised), by Hunny (streaming now)
+- [Animals Crying](https://www.last.fm/music/Statues+of+Cats/_/Animals+Crying), by Statues of Cats (10 Dec 2021, 23:51)
+- [Doa](https://www.last.fm/music/Armors/_/Doa), by Armors (10 Dec 2021, 23:48)
+- [Hey, Runner!](https://www.last.fm/music/The+Arcadian+Wild/_/Hey,+Runner!), by The Arcadian Wild (10 Dec 2021, 23:45)
+- [Televised](https://www.last.fm/music/Hunny/_/Televised), by Hunny (10 Dec 2021, 23:42)
 - [Sarah Smiles](https://www.last.fm/music/Panic!+at+the+Disco/_/Sarah+Smiles), by Panic! at the Disco (10 Dec 2021, 23:38)
 - [Can't Stand The Rain](https://www.last.fm/music/The+Rescues/_/Can%27t+Stand+The+Rain), by The Rescues (10 Dec 2021, 23:34)
 - [Dream Sweet in Sea Major](https://www.last.fm/music/Miracle+Musical/_/Dream+Sweet+in+Sea+Major), by Miracle Musical (10 Dec 2021, 23:26)
@@ -16,6 +19,8 @@ Oh yeah, the latest and greatest songs listened to!
 - [What More Can I Say?](https://www.last.fm/music/Christian+Borle/_/What+More+Can+I+Say%3F), by Christian Borle (10 Dec 2021, 05:22)
 - [Birch Tree](https://www.last.fm/music/Strawberry+Guy/_/Birch+Tree), by Strawberry Guy (10 Dec 2021, 05:17)
 - [Cover Me in Roses](https://www.last.fm/music/Holden+Laurence/_/Cover+Me+in+Roses), by Holden Laurence (10 Dec 2021, 05:12)
+- [Fashion Forward (Acoustic)](https://www.last.fm/music/The+Home+Team/_/Fashion+Forward+(Acoustic)), by The Home Team (10 Dec 2021, 02:03)
+- [Esmeralda](https://www.last.fm/music/Adriel+Genet/_/Esmeralda), by Adriel Genet (10 Dec 2021, 00:41)
 - [Michael](https://www.last.fm/music/Civilian/_/Michael), by Civilian (10 Dec 2021, 00:00)
 - [Reasons](https://www.last.fm/music/Civilian/_/Reasons), by Civilian (09 Dec 2021, 23:56)
 - [Autoportrait](https://www.last.fm/music/Demob+Happy/_/Autoportrait), by Demob Happy (09 Dec 2021, 23:52)
@@ -49,9 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Vacation](https://www.last.fm/music/Attica+Riots/_/Vacation), by Attica Riots (09 Dec 2021, 05:46)
 - [High Enough](https://www.last.fm/music/K.Flay/_/High+Enough), by K.Flay (09 Dec 2021, 05:42)
 - [Songbirds](https://www.last.fm/music/Ben+Thornewill/_/Songbirds), by Ben Thornewill (09 Dec 2021, 05:39)
-- [Gently](https://www.last.fm/music/Pretoria/_/Gently), by Pretoria (09 Dec 2021, 05:35)
-- [Mint Leaf](https://www.last.fm/music/Vincent+Mango/_/Mint+Leaf), by Vincent Mango (09 Dec 2021, 05:28)
-- [Destruction](https://www.last.fm/music/Joywave/_/Destruction), by Joywave (09 Dec 2021, 05:25)
-- [Silver Platters](https://www.last.fm/music/Les+Gold/_/Silver+Platters), by Les Gold (09 Dec 2021, 05:21)
-- [Birch Tree](https://www.last.fm/music/Strawberry+Guy/_/Birch+Tree), by Strawberry Guy (09 Dec 2021, 05:16)
-- [Parking Garage](https://www.last.fm/music/Tommy+Bravos/_/Parking+Garage), by Tommy Bravos (09 Dec 2021, 05:12)
