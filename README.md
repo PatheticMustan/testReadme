@@ -1,9 +1,18 @@
 
 # Spotify Stats
-## Last Updated Sat Dec 11 2021 22:43:31 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sat Dec 11 2021 23:43:48 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Disco](https://www.last.fm/music/Surf+Curse/_/Disco), by Surf Curse (streaming now)
+- [Lights Off](https://www.last.fm/music/Ace+Of+Hearts/_/Lights+Off), by Ace Of Hearts (11 Dec 2021, 23:38)
+- [She Likes Another Boy](https://www.last.fm/music/Oscar+Lang/_/She+Likes+Another+Boy), by Oscar Lang (11 Dec 2021, 23:34)
+- [Heaven Knows I'm Miserable Now - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/Heaven+Knows+I%27m+Miserable+Now+-+2011+Remaster), by The Smiths (11 Dec 2021, 23:27)
+- [She Likes Another Boy](https://www.last.fm/music/Oscar+Lang/_/She+Likes+Another+Boy), by Oscar Lang (11 Dec 2021, 23:22)
+- [Heaven Knows I'm Miserable Now - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/Heaven+Knows+I%27m+Miserable+Now+-+2011+Remaster), by The Smiths (11 Dec 2021, 23:19)
+- [Sedona](https://www.last.fm/music/Houndmouth/_/Sedona), by Houndmouth (11 Dec 2021, 19:15)
+- [Phanta](https://www.last.fm/music/Le+Tigre/_/Phanta), by Le Tigre (11 Dec 2021, 07:00)
+- [Tongue Tied](https://www.last.fm/music/Take+Me+to+Your+Best+Friends+House/_/Tongue+Tied), by Take Me to Your Best Friends House (11 Dec 2021, 06:46)
 - [What Do They Know?](https://www.last.fm/music/Mindless+Self+Indulgence/_/What+Do+They+Know%3F), by Mindless Self Indulgence (11 Dec 2021, 06:43)
 - [Always Forever](https://www.last.fm/music/Cults/_/Always+Forever), by Cults (11 Dec 2021, 06:40)
 - [Sweet Talk](https://www.last.fm/music/Saint+Motel/_/Sweet+Talk), by Saint Motel (11 Dec 2021, 06:37)
@@ -46,11 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Birch Tree](https://www.last.fm/music/Strawberry+Guy/_/Birch+Tree), by Strawberry Guy (10 Dec 2021, 05:17)
 - [Cover Me in Roses](https://www.last.fm/music/Holden+Laurence/_/Cover+Me+in+Roses), by Holden Laurence (10 Dec 2021, 05:12)
 - [Fashion Forward (Acoustic)](https://www.last.fm/music/The+Home+Team/_/Fashion+Forward+(Acoustic)), by The Home Team (10 Dec 2021, 02:03)
-- [Esmeralda](https://www.last.fm/music/Adriel+Genet/_/Esmeralda), by Adriel Genet (10 Dec 2021, 00:41)
-- [Michael](https://www.last.fm/music/Civilian/_/Michael), by Civilian (10 Dec 2021, 00:00)
-- [Reasons](https://www.last.fm/music/Civilian/_/Reasons), by Civilian (09 Dec 2021, 23:56)
-- [Autoportrait](https://www.last.fm/music/Demob+Happy/_/Autoportrait), by Demob Happy (09 Dec 2021, 23:52)
-- [Kiss You](https://www.last.fm/music/Moons+of+Mars/_/Kiss+You), by Moons of Mars (09 Dec 2021, 23:50)
-- [Hustle](https://www.last.fm/music/Rocket+Surgeons/_/Hustle), by Rocket Surgeons (09 Dec 2021, 23:40)
-- [Absinthe](https://www.last.fm/music/I+DONT+KNOW+HOW+BUT+THEY+FOUND+ME/_/Absinthe), by I DONT KNOW HOW BUT THEY FOUND ME (09 Dec 2021, 23:37)
-- [All the Best](https://www.last.fm/music/Siames/_/All+the+Best), by Siames (09 Dec 2021, 23:34)
