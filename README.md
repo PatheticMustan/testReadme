@@ -1,9 +1,16 @@
 
 # Spotify Stats
-## Last Updated Sat Dec 11 2021 04:54:25 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sat Dec 11 2021 05:43:26 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Everybody Talks](https://www.last.fm/music/Neon+Trees/_/Everybody+Talks), by Neon Trees (streaming now)
+- [Mayonaka no Door / Stay With Me](https://www.last.fm/music/Miki+Matsubara/_/Mayonaka+no+Door+%2F+Stay+With+Me), by Miki Matsubara (11 Dec 2021, 05:35)
+- [No Cock Like Horse Cock](https://www.last.fm/music/Pepper+Coyote/_/No+Cock+Like+Horse+Cock), by Pepper Coyote (11 Dec 2021, 05:30)
+- [Some](https://www.last.fm/music/Steve+Lacy/_/Some), by Steve Lacy (11 Dec 2021, 05:28)
+- [Used to the Darkness](https://www.last.fm/music/Des+Rocs/_/Used+to+the+Darkness), by Des Rocs (11 Dec 2021, 05:06)
+- [See You Again](https://www.last.fm/music/Jmsey/_/See+You+Again), by Jmsey (11 Dec 2021, 05:04)
+- [Sedona](https://www.last.fm/music/Houndmouth/_/Sedona), by Houndmouth (10 Dec 2021, 23:53)
 - [Animals Crying](https://www.last.fm/music/Statues+of+Cats/_/Animals+Crying), by Statues of Cats (10 Dec 2021, 23:51)
 - [Doa](https://www.last.fm/music/Armors/_/Doa), by Armors (10 Dec 2021, 23:48)
 - [Hey, Runner!](https://www.last.fm/music/The+Arcadian+Wild/_/Hey,+Runner!), by The Arcadian Wild (10 Dec 2021, 23:45)
@@ -48,9 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Egg](https://www.last.fm/music/Shoe/_/Egg), by Shoe (09 Dec 2021, 21:26)
 - [Fashion Forward (Acoustic)](https://www.last.fm/music/The+Home+Team/_/Fashion+Forward+(Acoustic)), by The Home Team (09 Dec 2021, 06:03)
 - [Out Like a Light 2](https://www.last.fm/music/The+Honeysticks/_/Out+Like+a+Light+2), by The Honeysticks (09 Dec 2021, 05:59)
-- [Skulls](https://www.last.fm/music/Civilian/_/Skulls), by Civilian (09 Dec 2021, 05:55)
-- [Loretta](https://www.last.fm/music/Ginger+Root/_/Loretta), by Ginger Root (09 Dec 2021, 05:52)
-- [Some](https://www.last.fm/music/Steve+Lacy/_/Some), by Steve Lacy (09 Dec 2021, 05:49)
-- [Vacation](https://www.last.fm/music/Attica+Riots/_/Vacation), by Attica Riots (09 Dec 2021, 05:46)
-- [High Enough](https://www.last.fm/music/K.Flay/_/High+Enough), by K.Flay (09 Dec 2021, 05:42)
-- [Songbirds](https://www.last.fm/music/Ben+Thornewill/_/Songbirds), by Ben Thornewill (09 Dec 2021, 05:39)
