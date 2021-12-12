@@ -1,9 +1,11 @@
 
 # Spotify Stats
-## Last Updated Sun Dec 12 2021 21:43:23 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sun Dec 12 2021 22:43:31 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Punk Rock Kids](https://www.last.fm/music/Huxlxy/_/Punk+Rock+Kids), by Huxlxy (12 Dec 2021, 20:53)
+- [Misery](https://www.last.fm/music/Attica+Riots/_/Misery), by Attica Riots (12 Dec 2021, 20:50)
 - [Phantom](https://www.last.fm/music/Honors/_/Phantom), by Honors (12 Dec 2021, 20:47)
 - [Heaven Knows I'm Miserable Now - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/Heaven+Knows+I%27m+Miserable+Now+-+2011+Remaster), by The Smiths (12 Dec 2021, 20:44)
 - [Playing Catch With .22](https://www.last.fm/music/I+the+Mighty/_/Playing+Catch+With+.22), by I the Mighty (12 Dec 2021, 20:40)
@@ -52,5 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [I Just Wanna Feel](https://www.last.fm/music/Brandan+Chen/_/I+Just+Wanna+Feel), by Brandan Chen (12 Dec 2021, 06:43)
 - [Washing Machine Heart](https://www.last.fm/music/Mitski/_/Washing+Machine+Heart), by Mitski (12 Dec 2021, 06:41)
 - [The Less I Know the Better](https://www.last.fm/music/Tame+Impala/_/The+Less+I+Know+the+Better), by Tame Impala (12 Dec 2021, 06:37)
-- [Was It Something I Said (feat. Cavetown)](https://www.last.fm/music/Mykey/_/Was+It+Something+I+Said+(feat.+Cavetown)), by Mykey (12 Dec 2021, 06:34)
-- [Chlorine](https://www.last.fm/music/Twenty+One+Pilots/_/Chlorine), by Twenty One Pilots (12 Dec 2021, 06:28)
