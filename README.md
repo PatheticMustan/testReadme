@@ -1,10 +1,19 @@
 
 # Spotify Stats
-## Last Updated Sat Dec 11 2021 23:43:48 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sun Dec 12 2021 01:46:02 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Disco](https://www.last.fm/music/Surf+Curse/_/Disco), by Surf Curse (streaming now)
+- [STABILISERS FOR BIG BOYS](https://www.last.fm/music/Panchiko/_/STABILISERS+FOR+BIG+BOYS), by Panchiko (12 Dec 2021, 00:15)
+- [Saint Bernard](https://www.last.fm/music/Lincoln/_/Saint+Bernard), by Lincoln (12 Dec 2021, 00:14)
+- [How I Survived Bobby Mackey's Personal Hell](https://www.last.fm/music/Lincoln/_/How+I+Survived+Bobby+Mackey%27s+Personal+Hell), by Lincoln (12 Dec 2021, 00:11)
+- [Bodys](https://www.last.fm/music/Car+Seat+Headrest/_/Bodys), by Car Seat Headrest (12 Dec 2021, 00:04)
+- [Dark Red](https://www.last.fm/music/Steve+Lacy/_/Dark+Red), by Steve Lacy (11 Dec 2021, 23:58)
+- [Just Like A Movie](https://www.last.fm/music/Wallows/_/Just+Like+A+Movie), by Wallows (11 Dec 2021, 23:54)
+- [Looking Out For You](https://www.last.fm/music/Joy+Again/_/Looking+Out+For+You), by Joy Again (11 Dec 2021, 23:51)
+- [Please Don't Cry, They Stopped Hours Ago](https://www.last.fm/music/Brave+Little+Abacus/_/Please+Don%27t+Cry,+They+Stopped+Hours+Ago), by Brave Little Abacus (11 Dec 2021, 23:46)
+- [SUMMER GIRL](https://www.last.fm/music/Ian+Hugel/_/SUMMER+GIRL), by Ian Hugel (11 Dec 2021, 23:44)
+- [Disco](https://www.last.fm/music/Surf+Curse/_/Disco), by Surf Curse (11 Dec 2021, 23:41)
 - [Lights Off](https://www.last.fm/music/Ace+Of+Hearts/_/Lights+Off), by Ace Of Hearts (11 Dec 2021, 23:38)
 - [She Likes Another Boy](https://www.last.fm/music/Oscar+Lang/_/She+Likes+Another+Boy), by Oscar Lang (11 Dec 2021, 23:34)
 - [Heaven Knows I'm Miserable Now - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/Heaven+Knows+I%27m+Miserable+Now+-+2011+Remaster), by The Smiths (11 Dec 2021, 23:27)
@@ -45,13 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Televised](https://www.last.fm/music/Hunny/_/Televised), by Hunny (10 Dec 2021, 23:42)
 - [Sarah Smiles](https://www.last.fm/music/Panic!+at+the+Disco/_/Sarah+Smiles), by Panic! at the Disco (10 Dec 2021, 23:38)
 - [Can't Stand The Rain](https://www.last.fm/music/The+Rescues/_/Can%27t+Stand+The+Rain), by The Rescues (10 Dec 2021, 23:34)
-- [Dream Sweet in Sea Major](https://www.last.fm/music/Miracle+Musical/_/Dream+Sweet+in+Sea+Major), by Miracle Musical (10 Dec 2021, 23:26)
-- [Green Jewels](https://www.last.fm/music/KRIILL/_/Green+Jewels), by KRIILL (10 Dec 2021, 23:23)
-- [Playing Catch With .22](https://www.last.fm/music/I+the+Mighty/_/Playing+Catch+With+.22), by I the Mighty (10 Dec 2021, 23:14)
-- [pretty poison](https://www.last.fm/music/Nessa+Barrett/_/pretty+poison), by Nessa Barrett (10 Dec 2021, 23:11)
-- [Breezeblocks](https://www.last.fm/music/alt-J/_/Breezeblocks), by alt-J (10 Dec 2021, 23:08)
-- [People and Their Bits](https://www.last.fm/music/Shoe/_/People+and+Their+Bits), by Shoe (10 Dec 2021, 05:25)
-- [What More Can I Say?](https://www.last.fm/music/Christian+Borle/_/What+More+Can+I+Say%3F), by Christian Borle (10 Dec 2021, 05:22)
-- [Birch Tree](https://www.last.fm/music/Strawberry+Guy/_/Birch+Tree), by Strawberry Guy (10 Dec 2021, 05:17)
-- [Cover Me in Roses](https://www.last.fm/music/Holden+Laurence/_/Cover+Me+in+Roses), by Holden Laurence (10 Dec 2021, 05:12)
-- [Fashion Forward (Acoustic)](https://www.last.fm/music/The+Home+Team/_/Fashion+Forward+(Acoustic)), by The Home Team (10 Dec 2021, 02:03)
