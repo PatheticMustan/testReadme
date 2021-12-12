@@ -1,10 +1,12 @@
 
 # Spotify Stats
-## Last Updated Sun Dec 12 2021 20:43:48 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sun Dec 12 2021 21:43:23 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Playing Catch With .22](https://www.last.fm/music/I+the+Mighty/_/Playing+Catch+With+.22), by I the Mighty (streaming now)
+- [Phantom](https://www.last.fm/music/Honors/_/Phantom), by Honors (12 Dec 2021, 20:47)
+- [Heaven Knows I'm Miserable Now - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/Heaven+Knows+I%27m+Miserable+Now+-+2011+Remaster), by The Smiths (12 Dec 2021, 20:44)
+- [Playing Catch With .22](https://www.last.fm/music/I+the+Mighty/_/Playing+Catch+With+.22), by I the Mighty (12 Dec 2021, 20:40)
 - [Pass the Vino](https://www.last.fm/music/Mathien/_/Pass+the+Vino), by Mathien (12 Dec 2021, 20:34)
 - [I Just Wanna Feel](https://www.last.fm/music/Brandan+Chen/_/I+Just+Wanna+Feel), by Brandan Chen (12 Dec 2021, 20:31)
 - [See Below](https://www.last.fm/music/The+Ghost+Club/_/See+Below), by The Ghost Club (12 Dec 2021, 20:28)
@@ -52,6 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [The Less I Know the Better](https://www.last.fm/music/Tame+Impala/_/The+Less+I+Know+the+Better), by Tame Impala (12 Dec 2021, 06:37)
 - [Was It Something I Said (feat. Cavetown)](https://www.last.fm/music/Mykey/_/Was+It+Something+I+Said+(feat.+Cavetown)), by Mykey (12 Dec 2021, 06:34)
 - [Chlorine](https://www.last.fm/music/Twenty+One+Pilots/_/Chlorine), by Twenty One Pilots (12 Dec 2021, 06:28)
-- [Level of Concern](https://www.last.fm/music/twenty+one+pilots/_/Level+of+Concern), by twenty one pilots (12 Dec 2021, 06:25)
-- [Level of Concern](https://www.last.fm/music/twenty+one+pilots/_/Level+of+Concern), by twenty one pilots (12 Dec 2021, 06:20)
-- [Dirty Clothes](https://www.last.fm/music/Lo+La/_/Dirty+Clothes), by Lo La (12 Dec 2021, 06:17)
