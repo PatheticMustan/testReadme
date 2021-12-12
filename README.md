@@ -1,9 +1,10 @@
 
 # Spotify Stats
-## Last Updated Sun Dec 12 2021 01:46:02 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sun Dec 12 2021 02:55:01 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Two Trucks](https://www.last.fm/music/Lemon+Demon/_/Two+Trucks), by Lemon Demon (12 Dec 2021, 00:20)
 - [STABILISERS FOR BIG BOYS](https://www.last.fm/music/Panchiko/_/STABILISERS+FOR+BIG+BOYS), by Panchiko (12 Dec 2021, 00:15)
 - [Saint Bernard](https://www.last.fm/music/Lincoln/_/Saint+Bernard), by Lincoln (12 Dec 2021, 00:14)
 - [How I Survived Bobby Mackey's Personal Hell](https://www.last.fm/music/Lincoln/_/How+I+Survived+Bobby+Mackey%27s+Personal+Hell), by Lincoln (12 Dec 2021, 00:11)
@@ -53,4 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Hey, Runner!](https://www.last.fm/music/The+Arcadian+Wild/_/Hey,+Runner!), by The Arcadian Wild (10 Dec 2021, 23:45)
 - [Televised](https://www.last.fm/music/Hunny/_/Televised), by Hunny (10 Dec 2021, 23:42)
 - [Sarah Smiles](https://www.last.fm/music/Panic!+at+the+Disco/_/Sarah+Smiles), by Panic! at the Disco (10 Dec 2021, 23:38)
-- [Can't Stand The Rain](https://www.last.fm/music/The+Rescues/_/Can%27t+Stand+The+Rain), by The Rescues (10 Dec 2021, 23:34)
