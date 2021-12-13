@@ -1,9 +1,15 @@
 
 # Spotify Stats
-## Last Updated Mon Dec 13 2021 02:55:12 GMT+0000 (Coordinated Universal Time))
+## Last Updated Mon Dec 13 2021 03:46:09 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Cryptid](https://www.last.fm/music/LUCAS+LEX/_/Cryptid), by LUCAS LEX (streaming now)
+- [Bayonnettes](https://www.last.fm/music/Shayfer+James/_/Bayonnettes), by Shayfer James (13 Dec 2021, 03:40)
+- [Pleasantries (With Your Lover)](https://www.last.fm/music/Mustard+Service/_/Pleasantries+(With+Your+Lover)), by Mustard Service (13 Dec 2021, 03:37)
+- [Televised](https://www.last.fm/music/Hunny/_/Televised), by Hunny (13 Dec 2021, 03:35)
+- [Songbird](https://www.last.fm/music/The+Brummies/_/Songbird), by The Brummies (13 Dec 2021, 03:32)
+- [Songbird](https://www.last.fm/music/The+Brummies/_/Songbird), by The Brummies (13 Dec 2021, 01:41)
 - [Culling](https://www.last.fm/music/Fein/_/Culling), by Fein (13 Dec 2021, 01:37)
 - [Trampoline](https://www.last.fm/music/Airways/_/Trampoline), by Airways (13 Dec 2021, 01:34)
 - [What You Say](https://www.last.fm/music/Cold+War+Kids/_/What+You+Say), by Cold War Kids (13 Dec 2021, 01:30)
@@ -49,8 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [So Long](https://www.last.fm/music/Fleece/_/So+Long), by Fleece (12 Dec 2021, 20:12)
 - [Boots Worn Through](https://www.last.fm/music/Shayfer+James/_/Boots+Worn+Through), by Shayfer James (12 Dec 2021, 20:09)
 - [Sunshine](https://www.last.fm/music/The+Velvet+Cab/_/Sunshine), by The Velvet Cab (12 Dec 2021, 20:03)
-- [You Don't Know](https://www.last.fm/music/The+Gromble/_/You+Don%27t+Know), by The Gromble (12 Dec 2021, 19:57)
-- [See You Again](https://www.last.fm/music/Jmsey/_/See+You+Again), by Jmsey (12 Dec 2021, 19:55)
-- [Sing When No One's Around](https://www.last.fm/music/The+Reign+Of+Kindo/_/Sing+When+No+One%27s+Around), by The Reign Of Kindo (12 Dec 2021, 19:51)
-- [Gum](https://www.last.fm/music/Have+A+Good+Season/_/Gum), by Have A Good Season (12 Dec 2021, 19:47)
-- [High Enough](https://www.last.fm/music/K.Flay/_/High+Enough), by K.Flay (12 Dec 2021, 08:57)
