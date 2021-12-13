@@ -1,10 +1,10 @@
 
 # Spotify Stats
-## Last Updated Mon Dec 13 2021 06:52:16 GMT+0000 (Coordinated Universal Time))
+## Last Updated Mon Dec 13 2021 07:43:32 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Bookstore Girl](https://www.last.fm/music/Charlie+Burg/_/Bookstore+Girl), by Charlie Burg (streaming now)
+- [Bookstore Girl](https://www.last.fm/music/Charlie+Burg/_/Bookstore+Girl), by Charlie Burg (13 Dec 2021, 06:51)
 - [Welcome to the End of Your Life](https://www.last.fm/music/The+Driver+Era/_/Welcome+to+the+End+of+Your+Life), by The Driver Era (13 Dec 2021, 06:48)
 - [Never Wanna Fall in Love With U](https://www.last.fm/music/Nelward/_/Never+Wanna+Fall+in+Love+With+U), by Nelward (13 Dec 2021, 06:45)
 - [Soulless Friends](https://www.last.fm/music/Peter+Cat+Recording+Co./_/Soulless+Friends), by Peter Cat Recording Co. (13 Dec 2021, 06:40)
@@ -54,4 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [You Don't Know](https://www.last.fm/music/The+Gromble/_/You+Don%27t+Know), by The Gromble (13 Dec 2021, 01:13)
 - [Alien Blues](https://www.last.fm/music/Vundabar/_/Alien+Blues), by Vundabar (13 Dec 2021, 01:10)
 - [Feel Good](https://www.last.fm/music/Weathers/_/Feel+Good), by Weathers (13 Dec 2021, 01:08)
-- [Starchild](https://www.last.fm/music/Ghost+Quartet/_/Starchild), by Ghost Quartet (13 Dec 2021, 01:05)
