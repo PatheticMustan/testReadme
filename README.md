@@ -1,9 +1,17 @@
 
 # Spotify Stats
-## Last Updated Mon Dec 13 2021 11:43:32 GMT+0000 (Coordinated Universal Time))
+## Last Updated Mon Dec 13 2021 13:02:56 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Some](https://www.last.fm/music/Steve+Lacy/_/Some), by Steve Lacy (13 Dec 2021, 12:54)
+- [Girl in Blue](https://www.last.fm/music/Animal+Sun/_/Girl+in+Blue), by Animal Sun (13 Dec 2021, 12:50)
+- [We Grew Up So Well](https://www.last.fm/music/Jack+Conte/_/We+Grew+Up+So+Well), by Jack Conte (13 Dec 2021, 12:47)
+- [Curl up & Die](https://www.last.fm/music/Matt+Maltese/_/Curl+up+&+Die), by Matt Maltese (13 Dec 2021, 12:46)
+- [Sometimes](https://www.last.fm/music/Nick+Lutsko/_/Sometimes), by Nick Lutsko (13 Dec 2021, 12:42)
+- [Impostor Syndrome](https://www.last.fm/music/Sidney+Gish/_/Impostor+Syndrome), by Sidney Gish (13 Dec 2021, 07:11)
+- [It's Not Like I Like You!!](https://www.last.fm/music/Static-P/_/It%27s+Not+Like+I+Like+You!!), by Static-P (13 Dec 2021, 07:01)
+- [Hollywood](https://www.last.fm/music/Jukebox+the+Ghost/_/Hollywood), by Jukebox the Ghost (13 Dec 2021, 06:53)
 - [Bookstore Girl](https://www.last.fm/music/Charlie+Burg/_/Bookstore+Girl), by Charlie Burg (13 Dec 2021, 06:51)
 - [Welcome to the End of Your Life](https://www.last.fm/music/The+Driver+Era/_/Welcome+to+the+End+of+Your+Life), by The Driver Era (13 Dec 2021, 06:48)
 - [Never Wanna Fall in Love With U](https://www.last.fm/music/Nelward/_/Never+Wanna+Fall+in+Love+With+U), by Nelward (13 Dec 2021, 06:45)
@@ -46,11 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Songbird](https://www.last.fm/music/The+Brummies/_/Songbird), by The Brummies (13 Dec 2021, 01:41)
 - [Culling](https://www.last.fm/music/Fein/_/Culling), by Fein (13 Dec 2021, 01:37)
 - [Trampoline](https://www.last.fm/music/Airways/_/Trampoline), by Airways (13 Dec 2021, 01:34)
-- [What You Say](https://www.last.fm/music/Cold+War+Kids/_/What+You+Say), by Cold War Kids (13 Dec 2021, 01:30)
-- [Some](https://www.last.fm/music/Steve+Lacy/_/Some), by Steve Lacy (13 Dec 2021, 01:29)
-- [Reasons](https://www.last.fm/music/Civilian/_/Reasons), by Civilian (13 Dec 2021, 01:24)
-- [Parrot](https://www.last.fm/music/Stepdad/_/Parrot), by Stepdad (13 Dec 2021, 01:21)
-- [See You Again](https://www.last.fm/music/Jmsey/_/See+You+Again), by Jmsey (13 Dec 2021, 01:18)
-- [You Don't Know](https://www.last.fm/music/The+Gromble/_/You+Don%27t+Know), by The Gromble (13 Dec 2021, 01:13)
-- [Alien Blues](https://www.last.fm/music/Vundabar/_/Alien+Blues), by Vundabar (13 Dec 2021, 01:10)
-- [Feel Good](https://www.last.fm/music/Weathers/_/Feel+Good), by Weathers (13 Dec 2021, 01:08)
