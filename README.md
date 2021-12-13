@@ -1,9 +1,16 @@
 
 # Spotify Stats
-## Last Updated Mon Dec 13 2021 05:43:19 GMT+0000 (Coordinated Universal Time))
+## Last Updated Mon Dec 13 2021 06:52:16 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Bookstore Girl](https://www.last.fm/music/Charlie+Burg/_/Bookstore+Girl), by Charlie Burg (streaming now)
+- [Welcome to the End of Your Life](https://www.last.fm/music/The+Driver+Era/_/Welcome+to+the+End+of+Your+Life), by The Driver Era (13 Dec 2021, 06:48)
+- [Never Wanna Fall in Love With U](https://www.last.fm/music/Nelward/_/Never+Wanna+Fall+in+Love+With+U), by Nelward (13 Dec 2021, 06:45)
+- [Soulless Friends](https://www.last.fm/music/Peter+Cat+Recording+Co./_/Soulless+Friends), by Peter Cat Recording Co. (13 Dec 2021, 06:40)
+- [Money Game, Pt. 2](https://www.last.fm/music/Ren/_/Money+Game,+Pt.+2), by Ren (13 Dec 2021, 06:36)
+- [Constellations](https://www.last.fm/music/The+Oh+Hellos/_/Constellations), by The Oh Hellos (13 Dec 2021, 06:34)
+- [Birch Tree](https://www.last.fm/music/Strawberry+Guy/_/Birch+Tree), by Strawberry Guy (13 Dec 2021, 05:30)
 - [She Needs Him](https://www.last.fm/music/Her%27s/_/She+Needs+Him), by Her's (13 Dec 2021, 05:25)
 - [Phantom](https://www.last.fm/music/Honors/_/Phantom), by Honors (13 Dec 2021, 05:22)
 - [Blue Lips](https://www.last.fm/music/Her%27s/_/Blue+Lips), by Her's (13 Dec 2021, 05:19)
@@ -48,9 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Alien Blues](https://www.last.fm/music/Vundabar/_/Alien+Blues), by Vundabar (13 Dec 2021, 01:10)
 - [Feel Good](https://www.last.fm/music/Weathers/_/Feel+Good), by Weathers (13 Dec 2021, 01:08)
 - [Starchild](https://www.last.fm/music/Ghost+Quartet/_/Starchild), by Ghost Quartet (13 Dec 2021, 01:05)
-- [Burn](https://www.last.fm/music/Foxy+Shazam/_/Burn), by Foxy Shazam (13 Dec 2021, 01:01)
-- [Sing When No One's Around](https://www.last.fm/music/The+Reign+Of+Kindo/_/Sing+When+No+One%27s+Around), by The Reign Of Kindo (13 Dec 2021, 00:57)
-- [Boots Worn Through](https://www.last.fm/music/Shayfer+James/_/Boots+Worn+Through), by Shayfer James (13 Dec 2021, 00:54)
-- [You Don't Know](https://www.last.fm/music/The+Gromble/_/You+Don%27t+Know), by The Gromble (13 Dec 2021, 00:49)
-- [Awkward](https://www.last.fm/music/Sleep+State/_/Awkward), by Sleep State (13 Dec 2021, 00:45)
-- [Loaf Boi](https://www.last.fm/music/Mr.+Bill/_/Loaf+Boi), by Mr. Bill (13 Dec 2021, 00:42)
