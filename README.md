@@ -1,9 +1,10 @@
 
 # Spotify Stats
-## Last Updated Mon Dec 13 2021 19:43:43 GMT+0000 (Coordinated Universal Time))
+## Last Updated Mon Dec 13 2021 20:44:32 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [One Big Beautiful Sound](https://www.last.fm/music/Johnny+Manchild+and+the+Poor+Bastards/_/One+Big+Beautiful+Sound), by Johnny Manchild and the Poor Bastards (13 Dec 2021, 12:56)
 - [Some](https://www.last.fm/music/Steve+Lacy/_/Some), by Steve Lacy (13 Dec 2021, 12:54)
 - [Girl in Blue](https://www.last.fm/music/Animal+Sun/_/Girl+in+Blue), by Animal Sun (13 Dec 2021, 12:50)
 - [We Grew Up So Well](https://www.last.fm/music/Jack+Conte/_/We+Grew+Up+So+Well), by Jack Conte (13 Dec 2021, 12:47)
@@ -53,4 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Songbird](https://www.last.fm/music/The+Brummies/_/Songbird), by The Brummies (13 Dec 2021, 03:32)
 - [Songbird](https://www.last.fm/music/The+Brummies/_/Songbird), by The Brummies (13 Dec 2021, 01:41)
 - [Culling](https://www.last.fm/music/Fein/_/Culling), by Fein (13 Dec 2021, 01:37)
-- [Trampoline](https://www.last.fm/music/Airways/_/Trampoline), by Airways (13 Dec 2021, 01:34)
