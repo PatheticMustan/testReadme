@@ -1,10 +1,19 @@
 
 # Spotify Stats
-## Last Updated Mon Dec 13 2021 04:54:54 GMT+0000 (Coordinated Universal Time))
+## Last Updated Mon Dec 13 2021 05:43:19 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Sky Is a Bed](https://www.last.fm/music/The+Humble+Cheaters/_/Sky+Is+a+Bed), by The Humble Cheaters (streaming now)
+- [She Needs Him](https://www.last.fm/music/Her%27s/_/She+Needs+Him), by Her's (13 Dec 2021, 05:25)
+- [Phantom](https://www.last.fm/music/Honors/_/Phantom), by Honors (13 Dec 2021, 05:22)
+- [Blue Lips](https://www.last.fm/music/Her%27s/_/Blue+Lips), by Her's (13 Dec 2021, 05:19)
+- [Karma](https://www.last.fm/music/AJR/_/Karma), by AJR (13 Dec 2021, 05:15)
+- [Brighter Than The Sun](https://www.last.fm/music/Brick%252BMortar/_/Brighter+Than+The+Sun), by Brick+Mortar (13 Dec 2021, 05:11)
+- [Everything's Changin'](https://www.last.fm/music/St.Arnaud/_/Everything%27s+Changin%27), by St.Arnaud (13 Dec 2021, 05:07)
+- [Parrot](https://www.last.fm/music/Stepdad/_/Parrot), by Stepdad (13 Dec 2021, 05:03)
+- [Native Tongue](https://www.last.fm/music/My+Kid+Brother/_/Native+Tongue), by My Kid Brother (13 Dec 2021, 04:59)
+- [Absinthe](https://www.last.fm/music/I+DONT+KNOW+HOW+BUT+THEY+FOUND+ME/_/Absinthe), by I DONT KNOW HOW BUT THEY FOUND ME (13 Dec 2021, 04:56)
+- [Sky Is a Bed](https://www.last.fm/music/The+Humble+Cheaters/_/Sky+Is+a+Bed), by The Humble Cheaters (13 Dec 2021, 04:53)
 - [Only One Not Smiling](https://www.last.fm/music/The+Correspondents/_/Only+One+Not+Smiling), by The Correspondents (13 Dec 2021, 04:50)
 - [Gold and Bones](https://www.last.fm/music/Friday+Pilots+Club/_/Gold+and+Bones), by Friday Pilots Club (13 Dec 2021, 04:47)
 - [Parking Garage](https://www.last.fm/music/Tommy+Bravos/_/Parking+Garage), by Tommy Bravos (13 Dec 2021, 04:40)
@@ -45,13 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [You Don't Know](https://www.last.fm/music/The+Gromble/_/You+Don%27t+Know), by The Gromble (13 Dec 2021, 00:49)
 - [Awkward](https://www.last.fm/music/Sleep+State/_/Awkward), by Sleep State (13 Dec 2021, 00:45)
 - [Loaf Boi](https://www.last.fm/music/Mr.+Bill/_/Loaf+Boi), by Mr. Bill (13 Dec 2021, 00:42)
-- [Close To The Sun](https://www.last.fm/music/TheFatRat/_/Close+To+The+Sun), by TheFatRat (13 Dec 2021, 00:38)
-- [Sophie](https://www.last.fm/music/The+Altogether/_/Sophie), by The Altogether (13 Dec 2021, 00:34)
-- [The Room Is Filled With People That Love You](https://www.last.fm/music/Foresight/_/The+Room+Is+Filled+With+People+That+Love+You), by Foresight (13 Dec 2021, 00:31)
-- [Curl up & Die](https://www.last.fm/music/Matt+Maltese/_/Curl+up+&+Die), by Matt Maltese (13 Dec 2021, 00:27)
-- [Hey, Runner!](https://www.last.fm/music/The+Arcadian+Wild/_/Hey,+Runner!), by The Arcadian Wild (13 Dec 2021, 00:23)
-- [These Drugs](https://www.last.fm/music/Sugar+Pine+7/_/These+Drugs), by Sugar Pine 7 (13 Dec 2021, 00:20)
-- [High](https://www.last.fm/music/Lokki/_/High), by Lokki (13 Dec 2021, 00:16)
-- [Pumpkin](https://www.last.fm/music/The+Regrettes/_/Pumpkin), by The Regrettes (13 Dec 2021, 00:12)
-- [Welcome to the End of Your Life](https://www.last.fm/music/The+Driver+Era/_/Welcome+to+the+End+of+Your+Life), by The Driver Era (13 Dec 2021, 00:09)
-- [Dancing In The Moonlight](https://www.last.fm/music/King+Harvest/_/Dancing+In+The+Moonlight), by King Harvest (13 Dec 2021, 00:06)
