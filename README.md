@@ -1,10 +1,9 @@
 
 # Spotify Stats
-## Last Updated Mon Dec 13 2021 01:43:41 GMT+0000 (Coordinated Universal Time))
+## Last Updated Mon Dec 13 2021 02:55:12 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Songbird](https://www.last.fm/music/The+Brummies/_/Songbird), by The Brummies (streaming now)
 - [Culling](https://www.last.fm/music/Fein/_/Culling), by Fein (13 Dec 2021, 01:37)
 - [Trampoline](https://www.last.fm/music/Airways/_/Trampoline), by Airways (13 Dec 2021, 01:34)
 - [What You Say](https://www.last.fm/music/Cold+War+Kids/_/What+You+Say), by Cold War Kids (13 Dec 2021, 01:30)
