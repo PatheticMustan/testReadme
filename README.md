@@ -1,10 +1,17 @@
 
 # Spotify Stats
-## Last Updated Tue Dec 14 2021 05:43:23 GMT+0000 (Coordinated Universal Time))
+## Last Updated Tue Dec 14 2021 06:50:18 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [monster](https://www.last.fm/music/dodie/_/monster), by dodie (streaming now)
+- [Whistle](https://www.last.fm/music/Rocket+Surgeons/_/Whistle), by Rocket Surgeons (14 Dec 2021, 06:17)
+- [The Wonder Of You](https://www.last.fm/music/Villagers/_/The+Wonder+Of+You), by Villagers (14 Dec 2021, 06:14)
+- [Hymn for the Weekend](https://www.last.fm/music/Coldplay/_/Hymn+for+the+Weekend), by Coldplay (14 Dec 2021, 06:10)
+- [Overwhelmed](https://www.last.fm/music/Royal+&+the+Serpent/_/Overwhelmed), by Royal & the Serpent (14 Dec 2021, 06:07)
+- [Social Disco Dancing](https://www.last.fm/music/MoonDough/_/Social+Disco+Dancing), by MoonDough (14 Dec 2021, 06:02)
+- [Phantom](https://www.last.fm/music/Honors/_/Phantom), by Honors (14 Dec 2021, 06:00)
+- [Bloodlust](https://www.last.fm/music/aeseaes/_/Bloodlust), by aeseaes (14 Dec 2021, 05:57)
+- [monster](https://www.last.fm/music/dodie/_/monster), by dodie (14 Dec 2021, 05:43)
 - [Hills Have Eyes](https://www.last.fm/music/POORSTACY/_/Hills+Have+Eyes), by POORSTACY (14 Dec 2021, 05:40)
 - [Hurt](https://www.last.fm/music/Johnny+Cash/_/Hurt), by Johnny Cash (14 Dec 2021, 05:37)
 - [Dream](https://www.last.fm/music/Imagine+Dragons/_/Dream), by Imagine Dragons (14 Dec 2021, 05:32)
@@ -47,11 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Soulless Friends](https://www.last.fm/music/Peter+Cat+Recording+Co./_/Soulless+Friends), by Peter Cat Recording Co. (13 Dec 2021, 06:40)
 - [Money Game, Pt. 2](https://www.last.fm/music/Ren/_/Money+Game,+Pt.+2), by Ren (13 Dec 2021, 06:36)
 - [Constellations](https://www.last.fm/music/The+Oh+Hellos/_/Constellations), by The Oh Hellos (13 Dec 2021, 06:34)
-- [Birch Tree](https://www.last.fm/music/Strawberry+Guy/_/Birch+Tree), by Strawberry Guy (13 Dec 2021, 05:30)
-- [She Needs Him](https://www.last.fm/music/Her%27s/_/She+Needs+Him), by Her's (13 Dec 2021, 05:25)
-- [Phantom](https://www.last.fm/music/Honors/_/Phantom), by Honors (13 Dec 2021, 05:22)
-- [Blue Lips](https://www.last.fm/music/Her%27s/_/Blue+Lips), by Her's (13 Dec 2021, 05:19)
-- [Karma](https://www.last.fm/music/AJR/_/Karma), by AJR (13 Dec 2021, 05:15)
-- [Brighter Than The Sun](https://www.last.fm/music/Brick%252BMortar/_/Brighter+Than+The+Sun), by Brick+Mortar (13 Dec 2021, 05:11)
-- [Everything's Changin'](https://www.last.fm/music/St.Arnaud/_/Everything%27s+Changin%27), by St.Arnaud (13 Dec 2021, 05:07)
-- [Parrot](https://www.last.fm/music/Stepdad/_/Parrot), by Stepdad (13 Dec 2021, 05:03)
