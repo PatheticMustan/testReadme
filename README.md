@@ -1,9 +1,11 @@
 
 # Spotify Stats
-## Last Updated Tue Dec 14 2021 20:44:36 GMT+0000 (Coordinated Universal Time))
+## Last Updated Tue Dec 14 2021 21:43:26 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Saint Bernard](https://www.last.fm/music/Lincoln/_/Saint+Bernard), by Lincoln (streaming now)
+- [No Instructions](https://www.last.fm/music/The+Happy+Fits/_/No+Instructions), by The Happy Fits (14 Dec 2021, 06:20)
 - [Whistle](https://www.last.fm/music/Rocket+Surgeons/_/Whistle), by Rocket Surgeons (14 Dec 2021, 06:17)
 - [The Wonder Of You](https://www.last.fm/music/Villagers/_/The+Wonder+Of+You), by Villagers (14 Dec 2021, 06:14)
 - [Hymn for the Weekend](https://www.last.fm/music/Coldplay/_/Hymn+for+the+Weekend), by Coldplay (14 Dec 2021, 06:10)
@@ -53,4 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Never Wanna Fall in Love With U](https://www.last.fm/music/Nelward/_/Never+Wanna+Fall+in+Love+With+U), by Nelward (13 Dec 2021, 06:45)
 - [Soulless Friends](https://www.last.fm/music/Peter+Cat+Recording+Co./_/Soulless+Friends), by Peter Cat Recording Co. (13 Dec 2021, 06:40)
 - [Money Game, Pt. 2](https://www.last.fm/music/Ren/_/Money+Game,+Pt.+2), by Ren (13 Dec 2021, 06:36)
-- [Constellations](https://www.last.fm/music/The+Oh+Hellos/_/Constellations), by The Oh Hellos (13 Dec 2021, 06:34)
