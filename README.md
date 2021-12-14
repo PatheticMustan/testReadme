@@ -1,10 +1,18 @@
 
 # Spotify Stats
-## Last Updated Tue Dec 14 2021 02:56:09 GMT+0000 (Coordinated Universal Time))
+## Last Updated Tue Dec 14 2021 03:45:43 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Bodys](https://www.last.fm/music/Car+Seat+Headrest/_/Bodys), by Car Seat Headrest (streaming now)
+- [Misery](https://www.last.fm/music/Attica+Riots/_/Misery), by Attica Riots (14 Dec 2021, 03:30)
+- [Oh Brother](https://www.last.fm/music/Melt/_/Oh+Brother), by Melt (14 Dec 2021, 03:26)
+- [Kool Girl](https://www.last.fm/music/Seasalt/_/Kool+Girl), by Seasalt (14 Dec 2021, 03:22)
+- [Gold](https://www.last.fm/music/Honorary+Astronaut/_/Gold), by Honorary Astronaut (14 Dec 2021, 03:19)
+- [Older](https://www.last.fm/music/Brother+Moses/_/Older), by Brother Moses (14 Dec 2021, 03:16)
+- [Supermassive Black Hole](https://www.last.fm/music/Muse/_/Supermassive+Black+Hole), by Muse (14 Dec 2021, 03:13)
+- [Lazy Nina](https://www.last.fm/music/Greg+Phillinganes/_/Lazy+Nina), by Greg Phillinganes (14 Dec 2021, 03:05)
+- [Pumpkin](https://www.last.fm/music/The+Regrettes/_/Pumpkin), by The Regrettes (14 Dec 2021, 03:02)
+- [Bodys](https://www.last.fm/music/Car+Seat+Headrest/_/Bodys), by Car Seat Headrest (14 Dec 2021, 02:55)
 - [Red Wine](https://www.last.fm/music/Follies+&+Vices/_/Red+Wine), by Follies & Vices (14 Dec 2021, 02:52)
 - [Alright](https://www.last.fm/music/Johnny+Manchild+and+the+Poor+Bastards/_/Alright), by Johnny Manchild and the Poor Bastards (14 Dec 2021, 02:47)
 - [Stay With Me](https://www.last.fm/music/Better+Love/_/Stay+With+Me), by Better Love (14 Dec 2021, 02:44)
@@ -46,12 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Only One Not Smiling](https://www.last.fm/music/The+Correspondents/_/Only+One+Not+Smiling), by The Correspondents (13 Dec 2021, 04:50)
 - [Gold and Bones](https://www.last.fm/music/Friday+Pilots+Club/_/Gold+and+Bones), by Friday Pilots Club (13 Dec 2021, 04:47)
 - [Parking Garage](https://www.last.fm/music/Tommy+Bravos/_/Parking+Garage), by Tommy Bravos (13 Dec 2021, 04:40)
-- [Miss Connection](https://www.last.fm/music/The+Keystones/_/Miss+Connection), by The Keystones (13 Dec 2021, 04:37)
-- [Girl](https://www.last.fm/music/Jukebox+the+Ghost/_/Girl), by Jukebox the Ghost (13 Dec 2021, 04:34)
-- [Hollywood](https://www.last.fm/music/Jukebox+the+Ghost/_/Hollywood), by Jukebox the Ghost (13 Dec 2021, 04:30)
-- [Sad Songs](https://www.last.fm/music/Kyd+the+Band/_/Sad+Songs), by Kyd the Band (13 Dec 2021, 04:27)
-- [What Have They Done To You Now](https://www.last.fm/music/Daniel+Knox/_/What+Have+They+Done+To+You+Now), by Daniel Knox (13 Dec 2021, 04:23)
-- [Better](https://www.last.fm/music/The+Honeysticks/_/Better), by The Honeysticks (13 Dec 2021, 04:19)
-- [Silver Platters](https://www.last.fm/music/Les+Gold/_/Silver+Platters), by Les Gold (13 Dec 2021, 04:16)
-- [Don't Go](https://www.last.fm/music/The+Greeting+Committee/_/Don%27t+Go), by The Greeting Committee (13 Dec 2021, 04:12)
-- [Perfect](https://www.last.fm/music/Rob+Cantor/_/Perfect), by Rob Cantor (13 Dec 2021, 04:05)
