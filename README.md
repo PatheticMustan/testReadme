@@ -1,9 +1,16 @@
 
 # Spotify Stats
-## Last Updated Tue Dec 14 2021 04:54:31 GMT+0000 (Coordinated Universal Time))
+## Last Updated Tue Dec 14 2021 05:43:23 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [monster](https://www.last.fm/music/dodie/_/monster), by dodie (streaming now)
+- [Hills Have Eyes](https://www.last.fm/music/POORSTACY/_/Hills+Have+Eyes), by POORSTACY (14 Dec 2021, 05:40)
+- [Hurt](https://www.last.fm/music/Johnny+Cash/_/Hurt), by Johnny Cash (14 Dec 2021, 05:37)
+- [Dream](https://www.last.fm/music/Imagine+Dragons/_/Dream), by Imagine Dragons (14 Dec 2021, 05:32)
+- [Always Tired](https://www.last.fm/music/Weathers/_/Always+Tired), by Weathers (14 Dec 2021, 05:29)
+- [2010](https://www.last.fm/music/The+Keystones/_/2010), by The Keystones (14 Dec 2021, 05:22)
+- [Can't Feel the Distance](https://www.last.fm/music/Floyd%27s+Boys/_/Can%27t+Feel+the+Distance), by Floyd's Boys (14 Dec 2021, 03:33)
 - [Misery](https://www.last.fm/music/Attica+Riots/_/Misery), by Attica Riots (14 Dec 2021, 03:30)
 - [Oh Brother](https://www.last.fm/music/Melt/_/Oh+Brother), by Melt (14 Dec 2021, 03:26)
 - [Kool Girl](https://www.last.fm/music/Seasalt/_/Kool+Girl), by Seasalt (14 Dec 2021, 03:22)
@@ -48,9 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Brighter Than The Sun](https://www.last.fm/music/Brick%252BMortar/_/Brighter+Than+The+Sun), by Brick+Mortar (13 Dec 2021, 05:11)
 - [Everything's Changin'](https://www.last.fm/music/St.Arnaud/_/Everything%27s+Changin%27), by St.Arnaud (13 Dec 2021, 05:07)
 - [Parrot](https://www.last.fm/music/Stepdad/_/Parrot), by Stepdad (13 Dec 2021, 05:03)
-- [Native Tongue](https://www.last.fm/music/My+Kid+Brother/_/Native+Tongue), by My Kid Brother (13 Dec 2021, 04:59)
-- [Absinthe](https://www.last.fm/music/I+DONT+KNOW+HOW+BUT+THEY+FOUND+ME/_/Absinthe), by I DONT KNOW HOW BUT THEY FOUND ME (13 Dec 2021, 04:56)
-- [Sky Is a Bed](https://www.last.fm/music/The+Humble+Cheaters/_/Sky+Is+a+Bed), by The Humble Cheaters (13 Dec 2021, 04:53)
-- [Only One Not Smiling](https://www.last.fm/music/The+Correspondents/_/Only+One+Not+Smiling), by The Correspondents (13 Dec 2021, 04:50)
-- [Gold and Bones](https://www.last.fm/music/Friday+Pilots+Club/_/Gold+and+Bones), by Friday Pilots Club (13 Dec 2021, 04:47)
-- [Parking Garage](https://www.last.fm/music/Tommy+Bravos/_/Parking+Garage), by Tommy Bravos (13 Dec 2021, 04:40)
