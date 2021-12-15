@@ -1,9 +1,11 @@
 
 # Spotify Stats
-## Last Updated Wed Dec 15 2021 20:44:29 GMT+0000 (Coordinated Universal Time))
+## Last Updated Wed Dec 15 2021 21:43:26 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Rain Drops](https://www.last.fm/music/Dee+Clark/_/Rain+Drops), by Dee Clark (15 Dec 2021, 21:20)
+- [Morning Dreamers](https://www.last.fm/music/St.Arnaud/_/Morning+Dreamers), by St.Arnaud (15 Dec 2021, 20:35)
 - [Alarm](https://www.last.fm/music/Atlas/_/Alarm), by Atlas (15 Dec 2021, 20:33)
 - [Birdland](https://www.last.fm/music/Maynard+Ferguson/_/Birdland), by Maynard Ferguson (15 Dec 2021, 20:26)
 - [Everything's Changin'](https://www.last.fm/music/St.Arnaud/_/Everything%27s+Changin%27), by St.Arnaud (15 Dec 2021, 20:22)
@@ -52,5 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [At the Crossing Sign](https://www.last.fm/music/St.Arnaud/_/At+the+Crossing+Sign), by St.Arnaud (15 Dec 2021, 03:14)
 - [Saint Bernard](https://www.last.fm/music/Lincoln/_/Saint+Bernard), by Lincoln (15 Dec 2021, 03:13)
 - [Silvertongue](https://www.last.fm/music/Young+the+Giant/_/Silvertongue), by Young the Giant (15 Dec 2021, 02:01)
-- [Transylvania Mania](https://www.last.fm/music/Christopher+Fitzgerald/_/Transylvania+Mania), by Christopher Fitzgerald (15 Dec 2021, 01:43)
-- [ラ・ム・ネ](https://www.last.fm/music/Snail%27s+house/_/%E3%83%A9%E3%83%BB%E3%83%A0%E3%83%BB%E3%83%8D), by Snail's house (15 Dec 2021, 01:41)
