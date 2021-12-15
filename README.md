@@ -1,10 +1,11 @@
 
 # Spotify Stats
-## Last Updated Wed Dec 15 2021 05:43:20 GMT+0000 (Coordinated Universal Time))
+## Last Updated Wed Dec 15 2021 06:51:29 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Sex with a Ghost](https://www.last.fm/music/Teddy+Hyde/_/Sex+with+a+Ghost), by Teddy Hyde (streaming now)
+- [Holliday](https://www.last.fm/music/The+Weekend+Run+Club/_/Holliday), by The Weekend Run Club (15 Dec 2021, 05:45)
+- [Sex with a Ghost](https://www.last.fm/music/Teddy+Hyde/_/Sex+with+a+Ghost), by Teddy Hyde (15 Dec 2021, 05:41)
 - [I Know You're Out There](https://www.last.fm/music/Stephanie+Mabey/_/I+Know+You%27re+Out+There), by Stephanie Mabey (15 Dec 2021, 05:40)
 - [Lovestruck](https://www.last.fm/music/Alex+Ernst/_/Lovestruck), by Alex Ernst (15 Dec 2021, 05:36)
 - [Judy Byrd](https://www.last.fm/music/Juniper+Avenue/_/Judy+Byrd), by Juniper Avenue (15 Dec 2021, 05:33)
@@ -53,5 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Youngblood](https://www.last.fm/music/5+Seconds+of+Summer/_/Youngblood), by 5 Seconds of Summer (15 Dec 2021, 01:30)
 - [Marble Machine](https://www.last.fm/music/Wintergatan/_/Marble+Machine), by Wintergatan (15 Dec 2021, 01:26)
 - [Brand New Day](https://www.last.fm/music/Neil+Patrick+Harris/_/Brand+New+Day), by Neil Patrick Harris (15 Dec 2021, 01:24)
-- [Bremen](https://www.last.fm/music/Pigpen+Theatre+Co./_/Bremen), by Pigpen Theatre Co. (14 Dec 2021, 22:42)
-- [The Night We Met](https://www.last.fm/music/Lord+Huron/_/The+Night+We+Met), by Lord Huron (14 Dec 2021, 22:26)
