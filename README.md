@@ -1,10 +1,10 @@
 
 # Spotify Stats
-## Last Updated Wed Dec 15 2021 01:43:29 GMT+0000 (Coordinated Universal Time))
+## Last Updated Wed Dec 15 2021 02:54:48 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Transylvania Mania](https://www.last.fm/music/Christopher+Fitzgerald/_/Transylvania+Mania), by Christopher Fitzgerald (streaming now)
+- [Transylvania Mania](https://www.last.fm/music/Christopher+Fitzgerald/_/Transylvania+Mania), by Christopher Fitzgerald (15 Dec 2021, 01:43)
 - [ラ・ム・ネ](https://www.last.fm/music/Snail%27s+house/_/%E3%83%A9%E3%83%BB%E3%83%A0%E3%83%BB%E3%83%8D), by Snail's house (15 Dec 2021, 01:41)
 - [Killer](https://www.last.fm/music/The+Ready+Set/_/Killer), by The Ready Set (15 Dec 2021, 01:38)
 - [Perfect](https://www.last.fm/music/Rob+Cantor/_/Perfect), by Rob Cantor (15 Dec 2021, 01:35)
@@ -54,4 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Stay With Me](https://www.last.fm/music/Better+Love/_/Stay+With+Me), by Better Love (14 Dec 2021, 02:44)
 - [Mint Leaf](https://www.last.fm/music/Vincent+Mango/_/Mint+Leaf), by Vincent Mango (14 Dec 2021, 02:37)
 - [Soda](https://www.last.fm/music/Nothing+But+Thieves/_/Soda), by Nothing But Thieves (14 Dec 2021, 02:33)
-- [Growing Up](https://www.last.fm/music/Cinders/_/Growing+Up), by Cinders (14 Dec 2021, 02:29)
