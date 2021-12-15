@@ -1,9 +1,17 @@
 
 # Spotify Stats
-## Last Updated Tue Dec 14 2021 23:44:27 GMT+0000 (Coordinated Universal Time))
+## Last Updated Wed Dec 15 2021 01:43:29 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Transylvania Mania](https://www.last.fm/music/Christopher+Fitzgerald/_/Transylvania+Mania), by Christopher Fitzgerald (streaming now)
+- [ラ・ム・ネ](https://www.last.fm/music/Snail%27s+house/_/%E3%83%A9%E3%83%BB%E3%83%A0%E3%83%BB%E3%83%8D), by Snail's house (15 Dec 2021, 01:41)
+- [Killer](https://www.last.fm/music/The+Ready+Set/_/Killer), by The Ready Set (15 Dec 2021, 01:38)
+- [Perfect](https://www.last.fm/music/Rob+Cantor/_/Perfect), by Rob Cantor (15 Dec 2021, 01:35)
+- [Youngblood](https://www.last.fm/music/5+Seconds+of+Summer/_/Youngblood), by 5 Seconds of Summer (15 Dec 2021, 01:30)
+- [Marble Machine](https://www.last.fm/music/Wintergatan/_/Marble+Machine), by Wintergatan (15 Dec 2021, 01:26)
+- [Brand New Day](https://www.last.fm/music/Neil+Patrick+Harris/_/Brand+New+Day), by Neil Patrick Harris (15 Dec 2021, 01:24)
+- [The Night We Met](https://www.last.fm/music/Lord+Huron/_/The+Night+We+Met), by Lord Huron (14 Dec 2021, 22:26)
 - [Dirty Night Clowns](https://www.last.fm/music/Chris+Garneau/_/Dirty+Night+Clowns), by Chris Garneau (14 Dec 2021, 22:23)
 - [Summer Trees](https://www.last.fm/music/Diveo/_/Summer+Trees), by Diveo (14 Dec 2021, 22:19)
 - [恋愛サーキュレーション](https://www.last.fm/music/%E7%89%A9%E8%AA%9E%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/_/%E6%81%8B%E6%84%9B%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3), by 物語シリーズ (14 Dec 2021, 22:14)
@@ -47,10 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Mint Leaf](https://www.last.fm/music/Vincent+Mango/_/Mint+Leaf), by Vincent Mango (14 Dec 2021, 02:37)
 - [Soda](https://www.last.fm/music/Nothing+But+Thieves/_/Soda), by Nothing But Thieves (14 Dec 2021, 02:33)
 - [Growing Up](https://www.last.fm/music/Cinders/_/Growing+Up), by Cinders (14 Dec 2021, 02:29)
-- [Case for You](https://www.last.fm/music/Early+Eyes/_/Case+for+You), by Early Eyes (14 Dec 2021, 02:26)
-- [Reasons](https://www.last.fm/music/Civilian/_/Reasons), by Civilian (14 Dec 2021, 02:22)
-- [Speaking Off the Record](https://www.last.fm/music/Hotel+Mira/_/Speaking+Off+the+Record), by Hotel Mira (14 Dec 2021, 02:18)
-- [All I Ever Wanted](https://www.last.fm/music/Futurist/_/All+I+Ever+Wanted), by Futurist (14 Dec 2021, 02:14)
-- [Slumber](https://www.last.fm/music/Sl%C3%B8tface/_/Slumber), by Sløtface (14 Dec 2021, 02:08)
-- [Starchild](https://www.last.fm/music/Ghost+Quartet/_/Starchild), by Ghost Quartet (13 Dec 2021, 19:50)
-- [One Big Beautiful Sound](https://www.last.fm/music/Johnny+Manchild+and+the+Poor+Bastards/_/One+Big+Beautiful+Sound), by Johnny Manchild and the Poor Bastards (13 Dec 2021, 12:56)
