@@ -1,9 +1,15 @@
 
 # Spotify Stats
-## Last Updated Wed Dec 15 2021 19:43:26 GMT+0000 (Coordinated Universal Time))
+## Last Updated Wed Dec 15 2021 20:44:29 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Alarm](https://www.last.fm/music/Atlas/_/Alarm), by Atlas (15 Dec 2021, 20:33)
+- [Birdland](https://www.last.fm/music/Maynard+Ferguson/_/Birdland), by Maynard Ferguson (15 Dec 2021, 20:26)
+- [Everything's Changin'](https://www.last.fm/music/St.Arnaud/_/Everything%27s+Changin%27), by St.Arnaud (15 Dec 2021, 20:22)
+- [Amnesia](https://www.last.fm/music/Omniboi/_/Amnesia), by Omniboi (15 Dec 2021, 20:20)
+- [Erase Me](https://www.last.fm/music/Ben+Folds+Five/_/Erase+Me), by Ben Folds Five (15 Dec 2021, 20:15)
+- [You & the Cockroach](https://www.last.fm/music/Hobo+Johnson/_/You+&+the+Cockroach), by Hobo Johnson (15 Dec 2021, 05:50)
 - [Holliday](https://www.last.fm/music/The+Weekend+Run+Club/_/Holliday), by The Weekend Run Club (15 Dec 2021, 05:45)
 - [Sex with a Ghost](https://www.last.fm/music/Teddy+Hyde/_/Sex+with+a+Ghost), by Teddy Hyde (15 Dec 2021, 05:41)
 - [I Know You're Out There](https://www.last.fm/music/Stephanie+Mabey/_/I+Know+You%27re+Out+There), by Stephanie Mabey (15 Dec 2021, 05:40)
@@ -48,9 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Silvertongue](https://www.last.fm/music/Young+the+Giant/_/Silvertongue), by Young the Giant (15 Dec 2021, 02:01)
 - [Transylvania Mania](https://www.last.fm/music/Christopher+Fitzgerald/_/Transylvania+Mania), by Christopher Fitzgerald (15 Dec 2021, 01:43)
 - [ラ・ム・ネ](https://www.last.fm/music/Snail%27s+house/_/%E3%83%A9%E3%83%BB%E3%83%A0%E3%83%BB%E3%83%8D), by Snail's house (15 Dec 2021, 01:41)
-- [Killer](https://www.last.fm/music/The+Ready+Set/_/Killer), by The Ready Set (15 Dec 2021, 01:38)
-- [Perfect](https://www.last.fm/music/Rob+Cantor/_/Perfect), by Rob Cantor (15 Dec 2021, 01:35)
-- [Bremen](https://www.last.fm/music/Pigpen+Theatre+Co./_/Bremen), by Pigpen Theatre Co. (15 Dec 2021, 01:34)
-- [Youngblood](https://www.last.fm/music/5+Seconds+of+Summer/_/Youngblood), by 5 Seconds of Summer (15 Dec 2021, 01:30)
-- [Marble Machine](https://www.last.fm/music/Wintergatan/_/Marble+Machine), by Wintergatan (15 Dec 2021, 01:26)
-- [Brand New Day](https://www.last.fm/music/Neil+Patrick+Harris/_/Brand+New+Day), by Neil Patrick Harris (15 Dec 2021, 01:24)
