@@ -1,10 +1,14 @@
 
 # Spotify Stats
-## Last Updated Thu Dec 16 2021 04:54:35 GMT+0000 (Coordinated Universal Time))
+## Last Updated Thu Dec 16 2021 05:43:23 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Pass the Kerosene](https://www.last.fm/music/The+Peculiar+Pretzelmen/_/Pass+the+Kerosene), by The Peculiar Pretzelmen (streaming now)
+- [Death of a Bachelor](https://www.last.fm/music/Panic!+at+the+Disco/_/Death+of+a+Bachelor), by Panic! at the Disco (16 Dec 2021, 05:11)
+- [you were good to me](https://www.last.fm/music/Jeremy+Zucker/_/you+were+good+to+me), by Jeremy Zucker (16 Dec 2021, 05:07)
+- [Keep On Breaking My Heart](https://www.last.fm/music/Seramic/_/Keep+On+Breaking+My+Heart), by Seramic (16 Dec 2021, 05:04)
+- [Fireworks - Recorded at Spotify Studios Stockholm](https://www.last.fm/music/First+Aid+Kit/_/Fireworks+-+Recorded+at+Spotify+Studios+Stockholm), by First Aid Kit (16 Dec 2021, 04:59)
+- [Lua](https://www.last.fm/music/Bright+Eyes/_/Lua), by Bright Eyes (16 Dec 2021, 04:55)
 - [i want it](https://www.last.fm/music/Two+Feet/_/i+want+it), by Two Feet (16 Dec 2021, 04:50)
 - [Hope](https://www.last.fm/music/The+Chainsmokers/_/Hope), by The Chainsmokers (16 Dec 2021, 04:47)
 - [Control](https://www.last.fm/music/Halsey/_/Control), by Halsey (16 Dec 2021, 04:44)
@@ -50,8 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Runaway Baby](https://www.last.fm/music/Bruno+Mars/_/Runaway+Baby), by Bruno Mars (15 Dec 2021, 22:51)
 - [onion boy](https://www.last.fm/music/Isaac+Dunbar/_/onion+boy), by Isaac Dunbar (15 Dec 2021, 22:49)
 - [The Party Troll](https://www.last.fm/music/D1ofaquavibe/_/The+Party+Troll), by D1ofaquavibe (15 Dec 2021, 22:46)
-- [You're Gonna Make Me Lonesome When You Go](https://www.last.fm/music/My+bubba/_/You%27re+Gonna+Make+Me+Lonesome+When+You+Go), by My bubba (15 Dec 2021, 22:41)
-- [Champagne Drops](https://www.last.fm/music/My+bubba/_/Champagne+Drops), by My bubba (15 Dec 2021, 22:37)
-- [Eye Of The Storm](https://www.last.fm/music/Watt+White/_/Eye+Of+The+Storm), by Watt White (15 Dec 2021, 22:34)
-- [The Wanderer](https://www.last.fm/music/Dion/_/The+Wanderer), by Dion (15 Dec 2021, 22:31)
-- [Wanderers Lullaby](https://www.last.fm/music/Adriana+Figueroa/_/Wanderers+Lullaby), by Adriana Figueroa (15 Dec 2021, 22:27)
