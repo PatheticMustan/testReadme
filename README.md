@@ -1,9 +1,10 @@
 
 # Spotify Stats
-## Last Updated Thu Dec 16 2021 19:43:34 GMT+0000 (Coordinated Universal Time))
+## Last Updated Thu Dec 16 2021 20:44:20 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Roaring 20s](https://www.last.fm/music/Panic!+at+the+Disco/_/Roaring+20s), by Panic! at the Disco (16 Dec 2021, 05:14)
 - [Death of a Bachelor](https://www.last.fm/music/Panic!+at+the+Disco/_/Death+of+a+Bachelor), by Panic! at the Disco (16 Dec 2021, 05:11)
 - [you were good to me](https://www.last.fm/music/Jeremy+Zucker/_/you+were+good+to+me), by Jeremy Zucker (16 Dec 2021, 05:07)
 - [Keep On Breaking My Heart](https://www.last.fm/music/Seramic/_/Keep+On+Breaking+My+Heart), by Seramic (16 Dec 2021, 05:04)
@@ -48,9 +49,8 @@ Oh yeah, the latest and greatest songs listened to!
 - [Hooked on a Feeling](https://www.last.fm/music/Blue+Swede/_/Hooked+on+a+Feeling), by Blue Swede (15 Dec 2021, 23:19)
 - [Yesterday](https://www.last.fm/music/Imagine+Dragons/_/Yesterday), by Imagine Dragons (15 Dec 2021, 23:11)
 - [brave as a noun](https://www.last.fm/music/AJJ/_/brave+as+a+noun), by AJJ (15 Dec 2021, 23:10)
+- [Ni Tú Ni Nadie](https://www.last.fm/music/M%C5%93nia/_/Ni+T%C3%BA+Ni+Nadie), by Mœnia (15 Dec 2021, 23:03)
 - [Dream Sweet in Sea Major](https://www.last.fm/music/Miracle+Musical/_/Dream+Sweet+in+Sea+Major), by Miracle Musical (15 Dec 2021, 23:03)
 - [Ni Tú Ni Nadie](https://www.last.fm/music/M%C5%93nia/_/Ni+T%C3%BA+Ni+Nadie), by Mœnia (15 Dec 2021, 22:58)
 - [Little Talks](https://www.last.fm/music/Of+Monsters+and+Men/_/Little+Talks), by Of Monsters and Men (15 Dec 2021, 22:54)
 - [Runaway Baby](https://www.last.fm/music/Bruno+Mars/_/Runaway+Baby), by Bruno Mars (15 Dec 2021, 22:51)
-- [onion boy](https://www.last.fm/music/Isaac+Dunbar/_/onion+boy), by Isaac Dunbar (15 Dec 2021, 22:49)
-- [The Party Troll](https://www.last.fm/music/D1ofaquavibe/_/The+Party+Troll), by D1ofaquavibe (15 Dec 2021, 22:46)
