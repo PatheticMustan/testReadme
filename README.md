@@ -1,10 +1,17 @@
 
 # Spotify Stats
-## Last Updated Fri Dec 17 2021 04:54:28 GMT+0000 (Coordinated Universal Time))
+## Last Updated Fri Dec 17 2021 05:43:26 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Scotland](https://www.last.fm/music/MCCAFFERTY/_/Scotland), by MCCAFFERTY (streaming now)
+- [Lost in Ikea](https://www.last.fm/music/Cliffdiver/_/Lost+in+Ikea), by Cliffdiver (17 Dec 2021, 05:15)
+- [Doubt](https://www.last.fm/music/Hippo+Campus/_/Doubt), by Hippo Campus (17 Dec 2021, 05:12)
+- [Panic Machine](https://www.last.fm/music/Trophy+Scars/_/Panic+Machine), by Trophy Scars (17 Dec 2021, 05:07)
+- [Skyfalling](https://www.last.fm/music/The+Adjective/_/Skyfalling), by The Adjective (17 Dec 2021, 05:04)
+- [BROKEN BEARINGS](https://www.last.fm/music/Atlas/_/BROKEN+BEARINGS), by Atlas (17 Dec 2021, 05:02)
+- [Hyperactive](https://www.last.fm/music/Forrest+Day/_/Hyperactive), by Forrest Day (17 Dec 2021, 04:59)
+- [The Anthem of Mr. Dark](https://www.last.fm/music/The+Arcadian+Wild/_/The+Anthem+of+Mr.+Dark), by The Arcadian Wild (17 Dec 2021, 04:54)
+- [Scotland](https://www.last.fm/music/MCCAFFERTY/_/Scotland), by MCCAFFERTY (17 Dec 2021, 04:51)
 - [Georgia Peach](https://www.last.fm/music/MANWOLVES/_/Georgia+Peach), by MANWOLVES (17 Dec 2021, 04:47)
 - [Hullabaloo](https://www.last.fm/music/Rare+Americans/_/Hullabaloo), by Rare Americans (17 Dec 2021, 04:44)
 - [American Love](https://www.last.fm/music/Smallpools/_/American+Love), by Smallpools (17 Dec 2021, 04:41)
@@ -47,11 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Roaring 20s](https://www.last.fm/music/Panic!+at+the+Disco/_/Roaring+20s), by Panic! at the Disco (16 Dec 2021, 05:14)
 - [Death of a Bachelor](https://www.last.fm/music/Panic!+at+the+Disco/_/Death+of+a+Bachelor), by Panic! at the Disco (16 Dec 2021, 05:11)
 - [you were good to me](https://www.last.fm/music/Jeremy+Zucker/_/you+were+good+to+me), by Jeremy Zucker (16 Dec 2021, 05:07)
-- [Keep On Breaking My Heart](https://www.last.fm/music/Seramic/_/Keep+On+Breaking+My+Heart), by Seramic (16 Dec 2021, 05:04)
-- [Fireworks - Recorded at Spotify Studios Stockholm](https://www.last.fm/music/First+Aid+Kit/_/Fireworks+-+Recorded+at+Spotify+Studios+Stockholm), by First Aid Kit (16 Dec 2021, 04:59)
-- [Lua](https://www.last.fm/music/Bright+Eyes/_/Lua), by Bright Eyes (16 Dec 2021, 04:55)
-- [i want it](https://www.last.fm/music/Two+Feet/_/i+want+it), by Two Feet (16 Dec 2021, 04:50)
-- [Hope](https://www.last.fm/music/The+Chainsmokers/_/Hope), by The Chainsmokers (16 Dec 2021, 04:47)
-- [Control](https://www.last.fm/music/Halsey/_/Control), by Halsey (16 Dec 2021, 04:44)
-- [Asphyxia](https://www.last.fm/music/Master+Andross/_/Asphyxia), by Master Andross (16 Dec 2021, 04:40)
-- [Smoke and Mirrors](https://www.last.fm/music/Jayn/_/Smoke+and+Mirrors), by Jayn (16 Dec 2021, 04:34)
