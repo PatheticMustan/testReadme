@@ -1,9 +1,14 @@
 
 # Spotify Stats
-## Last Updated Thu Dec 16 2021 22:43:46 GMT+0000 (Coordinated Universal Time))
+## Last Updated Fri Dec 17 2021 01:47:29 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Kool Girl](https://www.last.fm/music/Seasalt/_/Kool+Girl), by Seasalt (16 Dec 2021, 23:59)
+- [suicide romantics](https://www.last.fm/music/Des+Rocs/_/suicide+romantics), by Des Rocs (16 Dec 2021, 23:56)
+- [Pass the Vino](https://www.last.fm/music/Mathien/_/Pass+the+Vino), by Mathien (16 Dec 2021, 23:50)
+- [Bremen](https://www.last.fm/music/Pigpen+Theatre+Co./_/Bremen), by Pigpen Theatre Co. (16 Dec 2021, 23:47)
+- [TRAVIS](https://www.last.fm/music/Killboy/_/TRAVIS), by Killboy (16 Dec 2021, 23:23)
 - [Roaring 20s](https://www.last.fm/music/Panic!+at+the+Disco/_/Roaring+20s), by Panic! at the Disco (16 Dec 2021, 05:14)
 - [Death of a Bachelor](https://www.last.fm/music/Panic!+at+the+Disco/_/Death+of+a+Bachelor), by Panic! at the Disco (16 Dec 2021, 05:11)
 - [you were good to me](https://www.last.fm/music/Jeremy+Zucker/_/you+were+good+to+me), by Jeremy Zucker (16 Dec 2021, 05:07)
@@ -47,10 +52,5 @@ Oh yeah, the latest and greatest songs listened to!
 - [The Way That I Love U Has Changed](https://www.last.fm/music/Chris+Farren/_/The+Way+That+I+Love+U+Has+Changed), by Chris Farren (15 Dec 2021, 23:26)
 - [Sweet Talk](https://www.last.fm/music/Saint+Motel/_/Sweet+Talk), by Saint Motel (15 Dec 2021, 23:22)
 - [Hooked on a Feeling](https://www.last.fm/music/Blue+Swede/_/Hooked+on+a+Feeling), by Blue Swede (15 Dec 2021, 23:19)
+- [brave as a noun](https://www.last.fm/music/AJJ/_/brave+as+a+noun), by AJJ (15 Dec 2021, 23:11)
 - [Yesterday](https://www.last.fm/music/Imagine+Dragons/_/Yesterday), by Imagine Dragons (15 Dec 2021, 23:11)
-- [brave as a noun](https://www.last.fm/music/AJJ/_/brave+as+a+noun), by AJJ (15 Dec 2021, 23:10)
-- [Ni Tú Ni Nadie](https://www.last.fm/music/M%C5%93nia/_/Ni+T%C3%BA+Ni+Nadie), by Mœnia (15 Dec 2021, 23:03)
-- [Dream Sweet in Sea Major](https://www.last.fm/music/Miracle+Musical/_/Dream+Sweet+in+Sea+Major), by Miracle Musical (15 Dec 2021, 23:03)
-- [Ni Tú Ni Nadie](https://www.last.fm/music/M%C5%93nia/_/Ni+T%C3%BA+Ni+Nadie), by Mœnia (15 Dec 2021, 22:58)
-- [Little Talks](https://www.last.fm/music/Of+Monsters+and+Men/_/Little+Talks), by Of Monsters and Men (15 Dec 2021, 22:54)
-- [Runaway Baby](https://www.last.fm/music/Bruno+Mars/_/Runaway+Baby), by Bruno Mars (15 Dec 2021, 22:51)
