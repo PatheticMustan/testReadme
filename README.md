@@ -1,9 +1,15 @@
 
 # Spotify Stats
-## Last Updated Fri Dec 17 2021 11:43:19 GMT+0000 (Coordinated Universal Time))
+## Last Updated Fri Dec 17 2021 13:02:15 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [I Think I Like When It Rains](https://www.last.fm/music/Willis/_/I+Think+I+Like+When+It+Rains), by Willis (17 Dec 2021, 12:53)
+- [The Louisville Shuffle (RIP)](https://www.last.fm/music/Sarah+and+the+Safe+Word/_/The+Louisville+Shuffle+(RIP)), by Sarah and the Safe Word (17 Dec 2021, 12:50)
+- [Stand Up Tragedy](https://www.last.fm/music/The+Fratellis/_/Stand+Up+Tragedy), by The Fratellis (17 Dec 2021, 12:46)
+- [hug all ur friends](https://www.last.fm/music/Cavetown/_/hug+all+ur+friends), by Cavetown (17 Dec 2021, 12:41)
+- [Anxiety, My Best Friend](https://www.last.fm/music/La+Bouquet/_/Anxiety,+My+Best+Friend), by La Bouquet (17 Dec 2021, 12:39)
+- [sophie](https://www.last.fm/music/Black+Polish/_/sophie), by Black Polish (17 Dec 2021, 05:20)
 - [Lost in Ikea](https://www.last.fm/music/Cliffdiver/_/Lost+in+Ikea), by Cliffdiver (17 Dec 2021, 05:15)
 - [Doubt](https://www.last.fm/music/Hippo+Campus/_/Doubt), by Hippo Campus (17 Dec 2021, 05:12)
 - [Panic Machine](https://www.last.fm/music/Trophy+Scars/_/Panic+Machine), by Trophy Scars (17 Dec 2021, 05:07)
@@ -48,9 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Girl](https://www.last.fm/music/Jukebox+the+Ghost/_/Girl), by Jukebox the Ghost (17 Dec 2021, 00:03)
 - [Kool Girl](https://www.last.fm/music/Seasalt/_/Kool+Girl), by Seasalt (16 Dec 2021, 23:59)
 - [suicide romantics](https://www.last.fm/music/Des+Rocs/_/suicide+romantics), by Des Rocs (16 Dec 2021, 23:56)
-- [Pass the Vino](https://www.last.fm/music/Mathien/_/Pass+the+Vino), by Mathien (16 Dec 2021, 23:50)
-- [Bremen](https://www.last.fm/music/Pigpen+Theatre+Co./_/Bremen), by Pigpen Theatre Co. (16 Dec 2021, 23:47)
-- [TRAVIS](https://www.last.fm/music/Killboy/_/TRAVIS), by Killboy (16 Dec 2021, 23:23)
-- [Roaring 20s](https://www.last.fm/music/Panic!+at+the+Disco/_/Roaring+20s), by Panic! at the Disco (16 Dec 2021, 05:14)
-- [Death of a Bachelor](https://www.last.fm/music/Panic!+at+the+Disco/_/Death+of+a+Bachelor), by Panic! at the Disco (16 Dec 2021, 05:11)
-- [you were good to me](https://www.last.fm/music/Jeremy+Zucker/_/you+were+good+to+me), by Jeremy Zucker (16 Dec 2021, 05:07)
