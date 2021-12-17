@@ -1,9 +1,12 @@
 
 # Spotify Stats
-## Last Updated Fri Dec 17 2021 01:47:29 GMT+0000 (Coordinated Universal Time))
+## Last Updated Fri Dec 17 2021 02:56:37 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Mother Mary](https://www.last.fm/music/Tom+Auton/_/Mother+Mary), by Tom Auton (17 Dec 2021, 02:08)
+- [Sweet Talk](https://www.last.fm/music/Saint+Motel/_/Sweet+Talk), by Saint Motel (17 Dec 2021, 02:05)
+- [Girl](https://www.last.fm/music/Jukebox+the+Ghost/_/Girl), by Jukebox the Ghost (17 Dec 2021, 00:03)
 - [Kool Girl](https://www.last.fm/music/Seasalt/_/Kool+Girl), by Seasalt (16 Dec 2021, 23:59)
 - [suicide romantics](https://www.last.fm/music/Des+Rocs/_/suicide+romantics), by Des Rocs (16 Dec 2021, 23:56)
 - [Pass the Vino](https://www.last.fm/music/Mathien/_/Pass+the+Vino), by Mathien (16 Dec 2021, 23:50)
@@ -51,6 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Sarah Smiles](https://www.last.fm/music/Panic!+at+the+Disco/_/Sarah+Smiles), by Panic! at the Disco (15 Dec 2021, 23:29)
 - [The Way That I Love U Has Changed](https://www.last.fm/music/Chris+Farren/_/The+Way+That+I+Love+U+Has+Changed), by Chris Farren (15 Dec 2021, 23:26)
 - [Sweet Talk](https://www.last.fm/music/Saint+Motel/_/Sweet+Talk), by Saint Motel (15 Dec 2021, 23:22)
-- [Hooked on a Feeling](https://www.last.fm/music/Blue+Swede/_/Hooked+on+a+Feeling), by Blue Swede (15 Dec 2021, 23:19)
-- [brave as a noun](https://www.last.fm/music/AJJ/_/brave+as+a+noun), by AJJ (15 Dec 2021, 23:11)
-- [Yesterday](https://www.last.fm/music/Imagine+Dragons/_/Yesterday), by Imagine Dragons (15 Dec 2021, 23:11)
