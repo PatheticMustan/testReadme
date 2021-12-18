@@ -1,10 +1,12 @@
 
 # Spotify Stats
-## Last Updated Sat Dec 18 2021 02:59:51 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sat Dec 18 2021 03:46:55 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Rich (feat. Andrea Vargas) - Radio Edit](https://www.last.fm/music/Cosmo+Sheldrake/_/Rich+(feat.+Andrea+Vargas)+-+Radio+Edit), by Cosmo Sheldrake (streaming now)
+- [Necromancin Dancin](https://www.last.fm/music/Bear+Ghost/_/Necromancin+Dancin), by Bear Ghost (18 Dec 2021, 03:05)
+- [Every Word](https://www.last.fm/music/Animal+Sun/_/Every+Word), by Animal Sun (18 Dec 2021, 03:02)
+- [Rich (feat. Andrea Vargas) - Radio Edit](https://www.last.fm/music/Cosmo+Sheldrake/_/Rich+(feat.+Andrea+Vargas)+-+Radio+Edit), by Cosmo Sheldrake (18 Dec 2021, 02:59)
 - [Achey Bones](https://www.last.fm/music/The+Happy+Fits/_/Achey+Bones), by The Happy Fits (18 Dec 2021, 02:57)
 - [Monsters](https://www.last.fm/music/Run+River+North/_/Monsters), by Run River North (18 Dec 2021, 02:54)
 - [What Do You Want From Me Tonight?](https://www.last.fm/music/Sidney+Gish/_/What+Do+You+Want+From+Me+Tonight%3F), by Sidney Gish (18 Dec 2021, 02:52)
@@ -52,6 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Some](https://www.last.fm/music/Steve+Lacy/_/Some), by Steve Lacy (17 Dec 2021, 03:18)
 - [Case for You](https://www.last.fm/music/Early+Eyes/_/Case+for+You), by Early Eyes (17 Dec 2021, 03:15)
 - [Pleasantries (With Your Lover)](https://www.last.fm/music/Mustard+Service/_/Pleasantries+(With+Your+Lover)), by Mustard Service (17 Dec 2021, 03:12)
-- [Fear & Delight](https://www.last.fm/music/The+Correspondents/_/Fear+&+Delight), by The Correspondents (17 Dec 2021, 03:09)
-- [Noises](https://www.last.fm/music/Mike+Mains+&+The+Branches/_/Noises), by Mike Mains & The Branches (17 Dec 2021, 03:06)
-- [Smokey Eyes](https://www.last.fm/music/Lincoln/_/Smokey+Eyes), by Lincoln (17 Dec 2021, 03:02)
