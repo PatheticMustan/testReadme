@@ -1,6 +1,6 @@
 
 # Spotify Stats
-## Last Updated Sat Dec 18 2021 18:50:05 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sat Dec 18 2021 19:43:46 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
@@ -31,6 +31,7 @@ Oh yeah, the latest and greatest songs listened to!
 - [End of It](https://www.last.fm/music/Friday+Pilots+Club/_/End+of+It), by Friday Pilots Club (18 Dec 2021, 16:13)
 - [Sometimes](https://www.last.fm/music/Nick+Lutsko/_/Sometimes), by Nick Lutsko (18 Dec 2021, 16:09)
 - [Downhill](https://www.last.fm/music/Lincoln/_/Downhill), by Lincoln (18 Dec 2021, 16:05)
+- [Turn The Lights Off](https://www.last.fm/music/Tally+Hall/_/Turn+The+Lights+Off), by Tally Hall (18 Dec 2021, 04:35)
 - [Necromancin Dancin](https://www.last.fm/music/Bear+Ghost/_/Necromancin+Dancin), by Bear Ghost (18 Dec 2021, 03:05)
 - [Every Word](https://www.last.fm/music/Animal+Sun/_/Every+Word), by Animal Sun (18 Dec 2021, 03:02)
 - [Rich (feat. Andrea Vargas) - Radio Edit](https://www.last.fm/music/Cosmo+Sheldrake/_/Rich+(feat.+Andrea+Vargas)+-+Radio+Edit), by Cosmo Sheldrake (18 Dec 2021, 02:59)
@@ -53,4 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [BROKEN BEARINGS](https://www.last.fm/music/Atlas/_/BROKEN+BEARINGS), by Atlas (17 Dec 2021, 05:02)
 - [Hyperactive](https://www.last.fm/music/Forrest+Day/_/Hyperactive), by Forrest Day (17 Dec 2021, 04:59)
 - [The Anthem of Mr. Dark](https://www.last.fm/music/The+Arcadian+Wild/_/The+Anthem+of+Mr.+Dark), by The Arcadian Wild (17 Dec 2021, 04:54)
-- [Scotland](https://www.last.fm/music/MCCAFFERTY/_/Scotland), by MCCAFFERTY (17 Dec 2021, 04:51)
