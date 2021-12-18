@@ -1,9 +1,16 @@
 
 # Spotify Stats
-## Last Updated Sat Dec 18 2021 01:48:46 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sat Dec 18 2021 02:59:51 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Rich (feat. Andrea Vargas) - Radio Edit](https://www.last.fm/music/Cosmo+Sheldrake/_/Rich+(feat.+Andrea+Vargas)+-+Radio+Edit), by Cosmo Sheldrake (streaming now)
+- [Achey Bones](https://www.last.fm/music/The+Happy+Fits/_/Achey+Bones), by The Happy Fits (18 Dec 2021, 02:57)
+- [Monsters](https://www.last.fm/music/Run+River+North/_/Monsters), by Run River North (18 Dec 2021, 02:54)
+- [What Do You Want From Me Tonight?](https://www.last.fm/music/Sidney+Gish/_/What+Do+You+Want+From+Me+Tonight%3F), by Sidney Gish (18 Dec 2021, 02:52)
+- [Some Nights](https://www.last.fm/music/fun./_/Some+Nights), by fun. (18 Dec 2021, 02:47)
+- [Runaway Man](https://www.last.fm/music/Olivia+Willhite/_/Runaway+Man), by Olivia Willhite (18 Dec 2021, 02:44)
+- [Sleep with a Baseball Bat](https://www.last.fm/music/Cosmic+Johnny/_/Sleep+with+a+Baseball+Bat), by Cosmic Johnny (17 Dec 2021, 12:58)
 - [I Think I Like When It Rains](https://www.last.fm/music/Willis/_/I+Think+I+Like+When+It+Rains), by Willis (17 Dec 2021, 12:53)
 - [The Louisville Shuffle (RIP)](https://www.last.fm/music/Sarah+and+the+Safe+Word/_/The+Louisville+Shuffle+(RIP)), by Sarah and the Safe Word (17 Dec 2021, 12:50)
 - [Stand Up Tragedy](https://www.last.fm/music/The+Fratellis/_/Stand+Up+Tragedy), by The Fratellis (17 Dec 2021, 12:46)
@@ -48,9 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Fear & Delight](https://www.last.fm/music/The+Correspondents/_/Fear+&+Delight), by The Correspondents (17 Dec 2021, 03:09)
 - [Noises](https://www.last.fm/music/Mike+Mains+&+The+Branches/_/Noises), by Mike Mains & The Branches (17 Dec 2021, 03:06)
 - [Smokey Eyes](https://www.last.fm/music/Lincoln/_/Smokey+Eyes), by Lincoln (17 Dec 2021, 03:02)
-- [Breezeblocks](https://www.last.fm/music/alt-J/_/Breezeblocks), by alt-J (17 Dec 2021, 02:12)
-- [Mother Mary](https://www.last.fm/music/Tom+Auton/_/Mother+Mary), by Tom Auton (17 Dec 2021, 02:08)
-- [Sweet Talk](https://www.last.fm/music/Saint+Motel/_/Sweet+Talk), by Saint Motel (17 Dec 2021, 02:05)
-- [Girl](https://www.last.fm/music/Jukebox+the+Ghost/_/Girl), by Jukebox the Ghost (17 Dec 2021, 00:03)
-- [Kool Girl](https://www.last.fm/music/Seasalt/_/Kool+Girl), by Seasalt (16 Dec 2021, 23:59)
-- [suicide romantics](https://www.last.fm/music/Des+Rocs/_/suicide+romantics), by Des Rocs (16 Dec 2021, 23:56)
