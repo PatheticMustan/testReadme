@@ -1,6 +1,6 @@
 
 # Spotify Stats
-## Last Updated Sat Dec 18 2021 05:43:24 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sat Dec 18 2021 06:52:33 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
