@@ -1,10 +1,9 @@
 
 # Spotify Stats
-## Last Updated Sat Dec 18 2021 17:47:28 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sat Dec 18 2021 18:50:05 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [You Don't Know](https://www.last.fm/music/The+Gromble/_/You+Don%27t+Know), by The Gromble (streaming now)
 - [The Room Is Filled With People That Love You](https://www.last.fm/music/Foresight/_/The+Room+Is+Filled+With+People+That+Love+You), by Foresight (18 Dec 2021, 17:39)
 - [See Below](https://www.last.fm/music/The+Ghost+Club/_/See+Below), by The Ghost Club (18 Dec 2021, 17:35)
 - [onion boy](https://www.last.fm/music/Isaac+Dunbar/_/onion+boy), by Isaac Dunbar (18 Dec 2021, 17:33)
