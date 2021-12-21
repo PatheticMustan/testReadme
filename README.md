@@ -1,10 +1,19 @@
 
 # Spotify Stats
-## Last Updated Tue Dec 21 2021 22:44:38 GMT+0000 (Coordinated Universal Time))
+## Last Updated Tue Dec 21 2021 23:44:43 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Would You Mind](https://www.last.fm/music/Friday+Pilots+Club/_/Would+You+Mind), by Friday Pilots Club (streaming now)
+- [Close Your Eyes](https://www.last.fm/music/The+Midnight+Club/_/Close+Your+Eyes), by The Midnight Club (21 Dec 2021, 21:02)
+- [Can't Feel the Distance](https://www.last.fm/music/Floyd%27s+Boys/_/Can%27t+Feel+the+Distance), by Floyd's Boys (21 Dec 2021, 20:57)
+- [Cryptid](https://www.last.fm/music/LUCAS+LEX/_/Cryptid), by LUCAS LEX (21 Dec 2021, 20:55)
+- [Bayonnettes](https://www.last.fm/music/Shayfer+James/_/Bayonnettes), by Shayfer James (21 Dec 2021, 20:51)
+- [Alter ego](https://www.last.fm/music/Caramel+Column/_/Alter+ego), by Caramel Column (21 Dec 2021, 20:49)
+- [L.V.S. (Your Lady Waits)](https://www.last.fm/music/Shayfer+James/_/L.V.S.+(Your+Lady+Waits)), by Shayfer James (21 Dec 2021, 20:45)
+- [Impress Your Creators](https://www.last.fm/music/Tub+Ring/_/Impress+Your+Creators), by Tub Ring (21 Dec 2021, 20:43)
+- [Horny Hippies](https://www.last.fm/music/The+Dodos/_/Horny+Hippies), by The Dodos (21 Dec 2021, 20:40)
+- [Mary](https://www.last.fm/music/The+Happy+Fits/_/Mary), by The Happy Fits (21 Dec 2021, 20:36)
+- [Would You Mind](https://www.last.fm/music/Friday+Pilots+Club/_/Would+You+Mind), by Friday Pilots Club (21 Dec 2021, 20:27)
 - [Reasons](https://www.last.fm/music/Civilian/_/Reasons), by Civilian (21 Dec 2021, 20:24)
 - [What You Say](https://www.last.fm/music/Cold+War+Kids/_/What+You+Say), by Cold War Kids (21 Dec 2021, 20:20)
 - [Owo You're So Warm](https://www.last.fm/music/senzawa/_/Owo+You%27re+So+Warm), by senzawa (21 Dec 2021, 20:20)
@@ -45,13 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [i don't really mind](https://www.last.fm/music/DJ+PoolBoi/_/i+don%27t+really+mind), by DJ PoolBoi (18 Dec 2021, 22:40)
 - [Stand Up Tragedy](https://www.last.fm/music/The+Fratellis/_/Stand+Up+Tragedy), by The Fratellis (18 Dec 2021, 22:34)
 - [Sweet Talk](https://www.last.fm/music/Saint+Motel/_/Sweet+Talk), by Saint Motel (18 Dec 2021, 22:30)
-- [Curl up & Die](https://www.last.fm/music/Matt+Maltese/_/Curl+up+&+Die), by Matt Maltese (18 Dec 2021, 22:27)
-- [Smokey Eyes](https://www.last.fm/music/Lincoln/_/Smokey+Eyes), by Lincoln (18 Dec 2021, 22:24)
-- [Playing Catch With .22](https://www.last.fm/music/I+the+Mighty/_/Playing+Catch+With+.22), by I the Mighty (18 Dec 2021, 22:19)
-- [HandClap](https://www.last.fm/music/Fitz+and+the+Tantrums/_/HandClap), by Fitz and the Tantrums (18 Dec 2021, 22:16)
-- [Expert](https://www.last.fm/music/Pretoria/_/Expert), by Pretoria (18 Dec 2021, 22:13)
-- [Case for You](https://www.last.fm/music/Early+Eyes/_/Case+for+You), by Early Eyes (18 Dec 2021, 22:10)
-- [On Ex-Husbands and Wives](https://www.last.fm/music/Quiet+Company/_/On+Ex-Husbands+and+Wives), by Quiet Company (18 Dec 2021, 22:07)
-- [High](https://www.last.fm/music/Lokki/_/High), by Lokki (18 Dec 2021, 22:02)
-- [Tree House](https://www.last.fm/music/Cinders/_/Tree+House), by Cinders (18 Dec 2021, 21:59)
-- [Fear & Delight](https://www.last.fm/music/The+Correspondents/_/Fear+&+Delight), by The Correspondents (18 Dec 2021, 21:56)
