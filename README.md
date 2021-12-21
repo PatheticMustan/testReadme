@@ -1,9 +1,14 @@
 
 # Spotify Stats
-## Last Updated Tue Dec 21 2021 21:43:36 GMT+0000 (Coordinated Universal Time))
+## Last Updated Tue Dec 21 2021 22:44:38 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Would You Mind](https://www.last.fm/music/Friday+Pilots+Club/_/Would+You+Mind), by Friday Pilots Club (streaming now)
+- [Reasons](https://www.last.fm/music/Civilian/_/Reasons), by Civilian (21 Dec 2021, 20:24)
+- [What You Say](https://www.last.fm/music/Cold+War+Kids/_/What+You+Say), by Cold War Kids (21 Dec 2021, 20:20)
+- [Owo You're So Warm](https://www.last.fm/music/senzawa/_/Owo+You%27re+So+Warm), by senzawa (21 Dec 2021, 20:20)
+- [Used to the Darkness](https://www.last.fm/music/Des+Rocs/_/Used+to+the+Darkness), by Des Rocs (21 Dec 2021, 20:15)
 - [New Flesh](https://www.last.fm/music/Current+Joys/_/New+Flesh), by Current Joys (19 Dec 2021, 00:40)
 - [Mother Mary](https://www.last.fm/music/Tom+Auton/_/Mother+Mary), by Tom Auton (19 Dec 2021, 00:38)
 - [R U Mine?](https://www.last.fm/music/Arctic+Monkeys/_/R+U+Mine%3F), by Arctic Monkeys (19 Dec 2021, 00:34)
@@ -50,7 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [High](https://www.last.fm/music/Lokki/_/High), by Lokki (18 Dec 2021, 22:02)
 - [Tree House](https://www.last.fm/music/Cinders/_/Tree+House), by Cinders (18 Dec 2021, 21:59)
 - [Fear & Delight](https://www.last.fm/music/The+Correspondents/_/Fear+&+Delight), by The Correspondents (18 Dec 2021, 21:56)
-- [Alright](https://www.last.fm/music/Johnny+Manchild+and+the+Poor+Bastards/_/Alright), by Johnny Manchild and the Poor Bastards (18 Dec 2021, 21:51)
-- [One Big Beautiful Sound](https://www.last.fm/music/Johnny+Manchild+and+the+Poor+Bastards/_/One+Big+Beautiful+Sound), by Johnny Manchild and the Poor Bastards (18 Dec 2021, 21:47)
-- [You Don't Know](https://www.last.fm/music/The+Gromble/_/You+Don%27t+Know), by The Gromble (18 Dec 2021, 17:43)
-- [The Room Is Filled With People That Love You](https://www.last.fm/music/Foresight/_/The+Room+Is+Filled+With+People+That+Love+You), by Foresight (18 Dec 2021, 17:39)
