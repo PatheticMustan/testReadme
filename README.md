@@ -1,9 +1,17 @@
 
 # Spotify Stats
-## Last Updated Wed Dec 22 2021 19:43:20 GMT+0000 (Coordinated Universal Time))
+## Last Updated Wed Dec 22 2021 20:45:38 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Cryptid](https://www.last.fm/music/LUCAS+LEX/_/Cryptid), by LUCAS LEX (22 Dec 2021, 20:21)
+- [Bayonnettes](https://www.last.fm/music/Shayfer+James/_/Bayonnettes), by Shayfer James (22 Dec 2021, 20:17)
+- [Alter ego](https://www.last.fm/music/Caramel+Column/_/Alter+ego), by Caramel Column (22 Dec 2021, 20:15)
+- [L.V.S. (Your Lady Waits)](https://www.last.fm/music/Shayfer+James/_/L.V.S.+(Your+Lady+Waits)), by Shayfer James (22 Dec 2021, 20:11)
+- [Impress Your Creators](https://www.last.fm/music/Tub+Ring/_/Impress+Your+Creators), by Tub Ring (22 Dec 2021, 20:10)
+- [Horny Hippies](https://www.last.fm/music/The+Dodos/_/Horny+Hippies), by The Dodos (22 Dec 2021, 20:07)
+- [My Smile is Extinct](https://www.last.fm/music/Kane+Strang/_/My+Smile+is+Extinct), by Kane Strang (22 Dec 2021, 20:04)
+- [The Night We Met](https://www.last.fm/music/Lord+Huron/_/The+Night+We+Met), by Lord Huron (22 Dec 2021, 12:58)
 - [Wisdom](https://www.last.fm/music/Mother+Mother/_/Wisdom), by Mother Mother (22 Dec 2021, 12:55)
 - [Turn The Lights Off](https://www.last.fm/music/Tally+Hall/_/Turn+The+Lights+Off), by Tally Hall (22 Dec 2021, 12:52)
 - [Mary](https://www.last.fm/music/The+Happy+Fits/_/Mary), by The Happy Fits (22 Dec 2021, 05:17)
@@ -46,11 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Reasons](https://www.last.fm/music/Civilian/_/Reasons), by Civilian (21 Dec 2021, 20:24)
 - [What You Say](https://www.last.fm/music/Cold+War+Kids/_/What+You+Say), by Cold War Kids (21 Dec 2021, 20:20)
 - [Owo You're So Warm](https://www.last.fm/music/senzawa/_/Owo+You%27re+So+Warm), by senzawa (21 Dec 2021, 20:20)
-- [Used to the Darkness](https://www.last.fm/music/Des+Rocs/_/Used+to+the+Darkness), by Des Rocs (21 Dec 2021, 20:15)
-- [New Flesh](https://www.last.fm/music/Current+Joys/_/New+Flesh), by Current Joys (19 Dec 2021, 00:40)
-- [Mother Mary](https://www.last.fm/music/Tom+Auton/_/Mother+Mary), by Tom Auton (19 Dec 2021, 00:38)
-- [R U Mine?](https://www.last.fm/music/Arctic+Monkeys/_/R+U+Mine%3F), by Arctic Monkeys (19 Dec 2021, 00:34)
-- [suicide romantics](https://www.last.fm/music/Des+Rocs/_/suicide+romantics), by Des Rocs (19 Dec 2021, 00:31)
-- [The Room Is Filled With People That Love You](https://www.last.fm/music/Foresight/_/The+Room+Is+Filled+With+People+That+Love+You), by Foresight (19 Dec 2021, 00:27)
-- [Soulless Friends](https://www.last.fm/music/Peter+Cat+Recording+Co./_/Soulless+Friends), by Peter Cat Recording Co. (19 Dec 2021, 00:23)
-- [Sunshine](https://www.last.fm/music/The+Brummies/_/Sunshine), by The Brummies (19 Dec 2021, 00:20)
