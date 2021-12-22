@@ -1,10 +1,14 @@
 
 # Spotify Stats
-## Last Updated Wed Dec 22 2021 04:56:00 GMT+0000 (Coordinated Universal Time))
+## Last Updated Wed Dec 22 2021 05:43:29 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Reasons](https://www.last.fm/music/Civilian/_/Reasons), by Civilian (streaming now)
+- [Mary](https://www.last.fm/music/The+Happy+Fits/_/Mary), by The Happy Fits (22 Dec 2021, 05:17)
+- [Would You Mind](https://www.last.fm/music/Friday+Pilots+Club/_/Would+You+Mind), by Friday Pilots Club (22 Dec 2021, 05:11)
+- [Would You Mind](https://www.last.fm/music/Friday+Pilots+Club/_/Would+You+Mind), by Friday Pilots Club (22 Dec 2021, 05:04)
+- [Cut & Run](https://www.last.fm/music/Civilian/_/Cut+&+Run), by Civilian (22 Dec 2021, 04:59)
+- [Reasons](https://www.last.fm/music/Civilian/_/Reasons), by Civilian (22 Dec 2021, 04:55)
 - [What You Say](https://www.last.fm/music/Cold+War+Kids/_/What+You+Say), by Cold War Kids (22 Dec 2021, 04:51)
 - [Owo You're So Warm](https://www.last.fm/music/senzawa/_/Owo+You%27re+So+Warm), by senzawa (22 Dec 2021, 04:50)
 - [Horns](https://www.last.fm/music/Bryce+Fox/_/Horns), by Bryce Fox (22 Dec 2021, 04:47)
@@ -50,8 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [I Am Steve](https://www.last.fm/music/Hey+Steve/_/I+Am+Steve), by Hey Steve (19 Dec 2021, 00:13)
 - [Sing When No One's Around](https://www.last.fm/music/The+Reign+Of+Kindo/_/Sing+When+No+One%27s+Around), by The Reign Of Kindo (19 Dec 2021, 00:09)
 - [Distance](https://www.last.fm/music/The+Velvet+Cab/_/Distance), by The Velvet Cab (19 Dec 2021, 00:06)
-- [Nice House](https://www.last.fm/music/Joywave/_/Nice+House), by Joywave (19 Dec 2021, 00:00)
-- [pretty poison](https://www.last.fm/music/Nessa+Barrett/_/pretty+poison), by Nessa Barrett (18 Dec 2021, 23:58)
-- [Lies](https://www.last.fm/music/Will+Jay/_/Lies), by Will Jay (18 Dec 2021, 23:55)
-- [Breezeblocks](https://www.last.fm/music/alt-J/_/Breezeblocks), by alt-J (18 Dec 2021, 23:51)
-- [All the Best](https://www.last.fm/music/Siames/_/All+the+Best), by Siames (18 Dec 2021, 23:48)
