@@ -1,9 +1,11 @@
 
 # Spotify Stats
-## Last Updated Wed Dec 22 2021 11:43:18 GMT+0000 (Coordinated Universal Time))
+## Last Updated Wed Dec 22 2021 13:04:20 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Wisdom](https://www.last.fm/music/Mother+Mother/_/Wisdom), by Mother Mother (22 Dec 2021, 12:55)
+- [Turn The Lights Off](https://www.last.fm/music/Tally+Hall/_/Turn+The+Lights+Off), by Tally Hall (22 Dec 2021, 12:52)
 - [Mary](https://www.last.fm/music/The+Happy+Fits/_/Mary), by The Happy Fits (22 Dec 2021, 05:17)
 - [Would You Mind](https://www.last.fm/music/Friday+Pilots+Club/_/Would+You+Mind), by Friday Pilots Club (22 Dec 2021, 05:11)
 - [Would You Mind](https://www.last.fm/music/Friday+Pilots+Club/_/Would+You+Mind), by Friday Pilots Club (22 Dec 2021, 05:04)
@@ -52,5 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Sunshine](https://www.last.fm/music/The+Brummies/_/Sunshine), by The Brummies (19 Dec 2021, 00:20)
 - [Horny Hippies](https://www.last.fm/music/The+Dodos/_/Horny+Hippies), by The Dodos (19 Dec 2021, 00:17)
 - [I Am Steve](https://www.last.fm/music/Hey+Steve/_/I+Am+Steve), by Hey Steve (19 Dec 2021, 00:13)
-- [Sing When No One's Around](https://www.last.fm/music/The+Reign+Of+Kindo/_/Sing+When+No+One%27s+Around), by The Reign Of Kindo (19 Dec 2021, 00:09)
-- [Distance](https://www.last.fm/music/The+Velvet+Cab/_/Distance), by The Velvet Cab (19 Dec 2021, 00:06)
