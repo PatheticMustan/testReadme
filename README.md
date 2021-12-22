@@ -1,9 +1,12 @@
 
 # Spotify Stats
-## Last Updated Tue Dec 21 2021 23:44:43 GMT+0000 (Coordinated Universal Time))
+## Last Updated Wed Dec 22 2021 01:47:43 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Close Your Eyes](https://www.last.fm/music/The+Midnight+Club/_/Close+Your+Eyes), by The Midnight Club (21 Dec 2021, 22:20)
+- [Can't Feel the Distance](https://www.last.fm/music/Floyd%27s+Boys/_/Can%27t+Feel+the+Distance), by Floyd's Boys (21 Dec 2021, 22:15)
+- [Bayonnettes](https://www.last.fm/music/Shayfer+James/_/Bayonnettes), by Shayfer James (21 Dec 2021, 21:48)
 - [Close Your Eyes](https://www.last.fm/music/The+Midnight+Club/_/Close+Your+Eyes), by The Midnight Club (21 Dec 2021, 21:02)
 - [Can't Feel the Distance](https://www.last.fm/music/Floyd%27s+Boys/_/Can%27t+Feel+the+Distance), by Floyd's Boys (21 Dec 2021, 20:57)
 - [Cryptid](https://www.last.fm/music/LUCAS+LEX/_/Cryptid), by LUCAS LEX (21 Dec 2021, 20:55)
@@ -51,6 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [So Long](https://www.last.fm/music/Fleece/_/So+Long), by Fleece (18 Dec 2021, 22:54)
 - [Once upon Another Time](https://www.last.fm/music/Sara+Bareilles/_/Once+upon+Another+Time), by Sara Bareilles (18 Dec 2021, 22:48)
 - [People and Their Bits](https://www.last.fm/music/Shoe/_/People+and+Their+Bits), by Shoe (18 Dec 2021, 22:44)
-- [i don't really mind](https://www.last.fm/music/DJ+PoolBoi/_/i+don%27t+really+mind), by DJ PoolBoi (18 Dec 2021, 22:40)
-- [Stand Up Tragedy](https://www.last.fm/music/The+Fratellis/_/Stand+Up+Tragedy), by The Fratellis (18 Dec 2021, 22:34)
-- [Sweet Talk](https://www.last.fm/music/Saint+Motel/_/Sweet+Talk), by Saint Motel (18 Dec 2021, 22:30)
