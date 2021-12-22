@@ -1,6 +1,6 @@
 
 # Spotify Stats
-## Last Updated Wed Dec 22 2021 13:45:46 GMT+0000 (Coordinated Universal Time))
+## Last Updated Wed Dec 22 2021 14:43:20 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
@@ -27,10 +27,12 @@ Oh yeah, the latest and greatest songs listened to!
 - [i don't really mind](https://www.last.fm/music/DJ+PoolBoi/_/i+don%27t+really+mind), by DJ PoolBoi (22 Dec 2021, 04:02)
 - [All the Best](https://www.last.fm/music/Siames/_/All+the+Best), by Siames (22 Dec 2021, 03:59)
 - [Curl up & Die](https://www.last.fm/music/Matt+Maltese/_/Curl+up+&+Die), by Matt Maltese (22 Dec 2021, 02:02)
+- [Better Off Without You](https://www.last.fm/music/Mallory+Knox/_/Better+Off+Without+You), by Mallory Knox (22 Dec 2021, 02:02)
 - [Misery](https://www.last.fm/music/Attica+Riots/_/Misery), by Attica Riots (21 Dec 2021, 22:23)
 - [Close Your Eyes](https://www.last.fm/music/The+Midnight+Club/_/Close+Your+Eyes), by The Midnight Club (21 Dec 2021, 22:20)
 - [Can't Feel the Distance](https://www.last.fm/music/Floyd%27s+Boys/_/Can%27t+Feel+the+Distance), by Floyd's Boys (21 Dec 2021, 22:15)
 - [Bayonnettes](https://www.last.fm/music/Shayfer+James/_/Bayonnettes), by Shayfer James (21 Dec 2021, 21:48)
+- [Misery](https://www.last.fm/music/Attica+Riots/_/Misery), by Attica Riots (21 Dec 2021, 21:18)
 - [Close Your Eyes](https://www.last.fm/music/The+Midnight+Club/_/Close+Your+Eyes), by The Midnight Club (21 Dec 2021, 21:02)
 - [Can't Feel the Distance](https://www.last.fm/music/Floyd%27s+Boys/_/Can%27t+Feel+the+Distance), by Floyd's Boys (21 Dec 2021, 20:57)
 - [Cryptid](https://www.last.fm/music/LUCAS+LEX/_/Cryptid), by LUCAS LEX (21 Dec 2021, 20:55)
@@ -52,5 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [The Room Is Filled With People That Love You](https://www.last.fm/music/Foresight/_/The+Room+Is+Filled+With+People+That+Love+You), by Foresight (19 Dec 2021, 00:27)
 - [Soulless Friends](https://www.last.fm/music/Peter+Cat+Recording+Co./_/Soulless+Friends), by Peter Cat Recording Co. (19 Dec 2021, 00:23)
 - [Sunshine](https://www.last.fm/music/The+Brummies/_/Sunshine), by The Brummies (19 Dec 2021, 00:20)
-- [Horny Hippies](https://www.last.fm/music/The+Dodos/_/Horny+Hippies), by The Dodos (19 Dec 2021, 00:17)
-- [I Am Steve](https://www.last.fm/music/Hey+Steve/_/I+Am+Steve), by Hey Steve (19 Dec 2021, 00:13)
