@@ -1,9 +1,12 @@
 
 # Spotify Stats
-## Last Updated Wed Dec 22 2021 21:43:42 GMT+0000 (Coordinated Universal Time))
+## Last Updated Wed Dec 22 2021 22:44:53 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Don't Go](https://www.last.fm/music/The+Greeting+Committee/_/Don%27t+Go), by The Greeting Committee (22 Dec 2021, 21:50)
+- [High](https://www.last.fm/music/Lokki/_/High), by Lokki (22 Dec 2021, 21:45)
+- [Can't Feel the Distance](https://www.last.fm/music/Floyd%27s+Boys/_/Can%27t+Feel+the+Distance), by Floyd's Boys (22 Dec 2021, 20:23)
 - [Cryptid](https://www.last.fm/music/LUCAS+LEX/_/Cryptid), by LUCAS LEX (22 Dec 2021, 20:21)
 - [Bayonnettes](https://www.last.fm/music/Shayfer+James/_/Bayonnettes), by Shayfer James (22 Dec 2021, 20:17)
 - [Alter ego](https://www.last.fm/music/Caramel+Column/_/Alter+ego), by Caramel Column (22 Dec 2021, 20:15)
@@ -51,6 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Horny Hippies](https://www.last.fm/music/The+Dodos/_/Horny+Hippies), by The Dodos (21 Dec 2021, 20:40)
 - [Mary](https://www.last.fm/music/The+Happy+Fits/_/Mary), by The Happy Fits (21 Dec 2021, 20:36)
 - [Would You Mind](https://www.last.fm/music/Friday+Pilots+Club/_/Would+You+Mind), by Friday Pilots Club (21 Dec 2021, 20:27)
-- [Reasons](https://www.last.fm/music/Civilian/_/Reasons), by Civilian (21 Dec 2021, 20:24)
-- [What You Say](https://www.last.fm/music/Cold+War+Kids/_/What+You+Say), by Cold War Kids (21 Dec 2021, 20:20)
-- [Owo You're So Warm](https://www.last.fm/music/senzawa/_/Owo+You%27re+So+Warm), by senzawa (21 Dec 2021, 20:20)
