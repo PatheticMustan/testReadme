@@ -1,9 +1,10 @@
 
 # Spotify Stats
-## Last Updated Wed Dec 22 2021 02:58:41 GMT+0000 (Coordinated Universal Time))
+## Last Updated Wed Dec 22 2021 03:46:48 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Misery](https://www.last.fm/music/Attica+Riots/_/Misery), by Attica Riots (21 Dec 2021, 22:23)
 - [Close Your Eyes](https://www.last.fm/music/The+Midnight+Club/_/Close+Your+Eyes), by The Midnight Club (21 Dec 2021, 22:20)
 - [Can't Feel the Distance](https://www.last.fm/music/Floyd%27s+Boys/_/Can%27t+Feel+the+Distance), by Floyd's Boys (21 Dec 2021, 22:15)
 - [Bayonnettes](https://www.last.fm/music/Shayfer+James/_/Bayonnettes), by Shayfer James (21 Dec 2021, 21:48)
@@ -53,4 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Alrighty Aphrodite](https://www.last.fm/music/Peach+Pit/_/Alrighty+Aphrodite), by Peach Pit (18 Dec 2021, 22:57)
 - [So Long](https://www.last.fm/music/Fleece/_/So+Long), by Fleece (18 Dec 2021, 22:54)
 - [Once upon Another Time](https://www.last.fm/music/Sara+Bareilles/_/Once+upon+Another+Time), by Sara Bareilles (18 Dec 2021, 22:48)
-- [People and Their Bits](https://www.last.fm/music/Shoe/_/People+and+Their+Bits), by Shoe (18 Dec 2021, 22:44)
