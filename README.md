@@ -1,9 +1,15 @@
 
 # Spotify Stats
-## Last Updated Thu Dec 23 2021 01:46:12 GMT+0000 (Coordinated Universal Time))
+## Last Updated Thu Dec 23 2021 02:57:31 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Baby Shoe](https://www.last.fm/music/Forrest+Day/_/Baby+Shoe), by Forrest Day (streaming now)
+- [Without a Trace](https://www.last.fm/music/Forrest+Day/_/Without+a+Trace), by Forrest Day (23 Dec 2021, 02:52)
+- [River Rat](https://www.last.fm/music/Forrest+Day/_/River+Rat), by Forrest Day (23 Dec 2021, 02:49)
+- [Everybody's Fucking With My Mind](https://www.last.fm/music/Forrest+Day/_/Everybody%27s+Fucking+With+My+Mind), by Forrest Day (23 Dec 2021, 02:45)
+- [If You Do](https://www.last.fm/music/Forrest+Day/_/If+You+Do), by Forrest Day (23 Dec 2021, 02:42)
+- [Hyperactive](https://www.last.fm/music/Forrest+Day/_/Hyperactive), by Forrest Day (23 Dec 2021, 02:19)
 - [Don't Go](https://www.last.fm/music/The+Greeting+Committee/_/Don%27t+Go), by The Greeting Committee (22 Dec 2021, 21:50)
 - [High](https://www.last.fm/music/Lokki/_/High), by Lokki (22 Dec 2021, 21:45)
 - [Can't Feel the Distance](https://www.last.fm/music/Floyd%27s+Boys/_/Can%27t+Feel+the+Distance), by Floyd's Boys (22 Dec 2021, 20:23)
@@ -49,8 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Cryptid](https://www.last.fm/music/LUCAS+LEX/_/Cryptid), by LUCAS LEX (21 Dec 2021, 20:55)
 - [Bayonnettes](https://www.last.fm/music/Shayfer+James/_/Bayonnettes), by Shayfer James (21 Dec 2021, 20:51)
 - [Alter ego](https://www.last.fm/music/Caramel+Column/_/Alter+ego), by Caramel Column (21 Dec 2021, 20:49)
-- [L.V.S. (Your Lady Waits)](https://www.last.fm/music/Shayfer+James/_/L.V.S.+(Your+Lady+Waits)), by Shayfer James (21 Dec 2021, 20:45)
-- [Impress Your Creators](https://www.last.fm/music/Tub+Ring/_/Impress+Your+Creators), by Tub Ring (21 Dec 2021, 20:43)
-- [Horny Hippies](https://www.last.fm/music/The+Dodos/_/Horny+Hippies), by The Dodos (21 Dec 2021, 20:40)
-- [Mary](https://www.last.fm/music/The+Happy+Fits/_/Mary), by The Happy Fits (21 Dec 2021, 20:36)
-- [Would You Mind](https://www.last.fm/music/Friday+Pilots+Club/_/Would+You+Mind), by Friday Pilots Club (21 Dec 2021, 20:27)
