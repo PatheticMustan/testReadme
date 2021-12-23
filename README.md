@@ -1,9 +1,16 @@
 
 # Spotify Stats
-## Last Updated Thu Dec 23 2021 11:43:43 GMT+0000 (Coordinated Universal Time))
+## Last Updated Thu Dec 23 2021 13:04:20 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Human Sadness](https://www.last.fm/music/The+Voidz/_/Human+Sadness), by The Voidz (streaming now)
+- [Phantom](https://www.last.fm/music/Honors/_/Phantom), by Honors (23 Dec 2021, 12:53)
+- [Blue Lips](https://www.last.fm/music/Her%27s/_/Blue+Lips), by Her's (23 Dec 2021, 12:51)
+- [Brighter Than The Sun](https://www.last.fm/music/Brick%252BMortar/_/Brighter+Than+The+Sun), by Brick+Mortar (23 Dec 2021, 12:48)
+- [Perfect](https://www.last.fm/music/Rob+Cantor/_/Perfect), by Rob Cantor (23 Dec 2021, 12:43)
+- [Luxton](https://www.last.fm/music/Nonfiction/_/Luxton), by Nonfiction (23 Dec 2021, 12:39)
+- [Oh Brother](https://www.last.fm/music/Melt/_/Oh+Brother), by Melt (23 Dec 2021, 05:52)
 - [Conversations](https://www.last.fm/music/Marney/_/Conversations), by Marney (23 Dec 2021, 05:49)
 - [Growing Up](https://www.last.fm/music/Cinders/_/Growing+Up), by Cinders (23 Dec 2021, 05:46)
 - [Silo](https://www.last.fm/music/Richy+Mitch+&+The+Coal+Miners/_/Silo), by Richy Mitch & The Coal Miners (23 Dec 2021, 05:41)
@@ -48,9 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Hollywood](https://www.last.fm/music/Jukebox+the+Ghost/_/Hollywood), by Jukebox the Ghost (23 Dec 2021, 03:13)
 - [Sad Songs](https://www.last.fm/music/Kyd+the+Band/_/Sad+Songs), by Kyd the Band (23 Dec 2021, 03:10)
 - [What Have They Done To You Now](https://www.last.fm/music/Daniel+Knox/_/What+Have+They+Done+To+You+Now), by Daniel Knox (23 Dec 2021, 03:07)
-- [Assholes](https://www.last.fm/music/Forrest+Day/_/Assholes), by Forrest Day (23 Dec 2021, 03:04)
-- [Meds](https://www.last.fm/music/Forrest+Day/_/Meds), by Forrest Day (23 Dec 2021, 03:00)
-- [Baby Shoe](https://www.last.fm/music/Forrest+Day/_/Baby+Shoe), by Forrest Day (23 Dec 2021, 02:57)
-- [Without a Trace](https://www.last.fm/music/Forrest+Day/_/Without+a+Trace), by Forrest Day (23 Dec 2021, 02:52)
-- [River Rat](https://www.last.fm/music/Forrest+Day/_/River+Rat), by Forrest Day (23 Dec 2021, 02:49)
-- [Everybody's Fucking With My Mind](https://www.last.fm/music/Forrest+Day/_/Everybody%27s+Fucking+With+My+Mind), by Forrest Day (23 Dec 2021, 02:45)
