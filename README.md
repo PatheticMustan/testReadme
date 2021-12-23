@@ -1,9 +1,17 @@
 
 # Spotify Stats
-## Last Updated Thu Dec 23 2021 21:43:27 GMT+0000 (Coordinated Universal Time))
+## Last Updated Thu Dec 23 2021 22:44:23 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Sober To Death](https://www.last.fm/music/Car+Seat+Headrest/_/Sober+To+Death), by Car Seat Headrest (streaming now)
+- [Funky Galileo](https://www.last.fm/music/Sure+Sure/_/Funky+Galileo), by Sure Sure (23 Dec 2021, 22:40)
+- [Sum of My Cares](https://www.last.fm/music/The+Long+Faces/_/Sum+of+My+Cares), by The Long Faces (23 Dec 2021, 22:35)
+- [Pleasantries (With Your Lover)](https://www.last.fm/music/Mustard+Service/_/Pleasantries+(With+Your+Lover)), by Mustard Service (23 Dec 2021, 22:32)
+- [Like Or Like Like](https://www.last.fm/music/Miniature+Tigers/_/Like+Or+Like+Like), by Miniature Tigers (23 Dec 2021, 22:29)
+- [Human Sadness](https://www.last.fm/music/The+Voidz/_/Human+Sadness), by The Voidz (23 Dec 2021, 22:18)
+- [Oh Brother](https://www.last.fm/music/Melt/_/Oh+Brother), by Melt (23 Dec 2021, 22:15)
+- [Human Sadness](https://www.last.fm/music/The+Voidz/_/Human+Sadness), by The Voidz (23 Dec 2021, 12:55)
 - [Phantom](https://www.last.fm/music/Honors/_/Phantom), by Honors (23 Dec 2021, 12:53)
 - [Blue Lips](https://www.last.fm/music/Her%27s/_/Blue+Lips), by Her's (23 Dec 2021, 12:51)
 - [Brighter Than The Sun](https://www.last.fm/music/Brick%252BMortar/_/Brighter+Than+The+Sun), by Brick+Mortar (23 Dec 2021, 12:48)
@@ -47,10 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Sky Is a Bed](https://www.last.fm/music/The+Humble+Cheaters/_/Sky+Is+a+Bed), by The Humble Cheaters (23 Dec 2021, 03:38)
 - [Only One Not Smiling](https://www.last.fm/music/The+Correspondents/_/Only+One+Not+Smiling), by The Correspondents (23 Dec 2021, 03:36)
 - [Gold and Bones](https://www.last.fm/music/Friday+Pilots+Club/_/Gold+and+Bones), by Friday Pilots Club (23 Dec 2021, 03:32)
-- [People and Their Bits](https://www.last.fm/music/Shoe/_/People+and+Their+Bits), by Shoe (23 Dec 2021, 03:27)
-- [Parking Garage](https://www.last.fm/music/Tommy+Bravos/_/Parking+Garage), by Tommy Bravos (23 Dec 2021, 03:23)
-- [Miss Connection](https://www.last.fm/music/The+Keystones/_/Miss+Connection), by The Keystones (23 Dec 2021, 03:20)
-- [Girl](https://www.last.fm/music/Jukebox+the+Ghost/_/Girl), by Jukebox the Ghost (23 Dec 2021, 03:16)
-- [Hollywood](https://www.last.fm/music/Jukebox+the+Ghost/_/Hollywood), by Jukebox the Ghost (23 Dec 2021, 03:13)
-- [Sad Songs](https://www.last.fm/music/Kyd+the+Band/_/Sad+Songs), by Kyd the Band (23 Dec 2021, 03:10)
-- [What Have They Done To You Now](https://www.last.fm/music/Daniel+Knox/_/What+Have+They+Done+To+You+Now), by Daniel Knox (23 Dec 2021, 03:07)
