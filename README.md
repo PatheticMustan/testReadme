@@ -1,10 +1,9 @@
 
 # Spotify Stats
-## Last Updated Thu Dec 23 2021 13:04:20 GMT+0000 (Coordinated Universal Time))
+## Last Updated Thu Dec 23 2021 13:45:35 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Human Sadness](https://www.last.fm/music/The+Voidz/_/Human+Sadness), by The Voidz (streaming now)
 - [Phantom](https://www.last.fm/music/Honors/_/Phantom), by Honors (23 Dec 2021, 12:53)
 - [Blue Lips](https://www.last.fm/music/Her%27s/_/Blue+Lips), by Her's (23 Dec 2021, 12:51)
 - [Brighter Than The Sun](https://www.last.fm/music/Brick%252BMortar/_/Brighter+Than+The+Sun), by Brick+Mortar (23 Dec 2021, 12:48)
