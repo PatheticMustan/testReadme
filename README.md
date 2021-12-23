@@ -1,10 +1,11 @@
 
 # Spotify Stats
-## Last Updated Thu Dec 23 2021 22:44:23 GMT+0000 (Coordinated Universal Time))
+## Last Updated Thu Dec 23 2021 23:44:59 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Sober To Death](https://www.last.fm/music/Car+Seat+Headrest/_/Sober+To+Death), by Car Seat Headrest (streaming now)
+- [Funky Galileo](https://www.last.fm/music/Sure+Sure/_/Funky+Galileo), by Sure Sure (23 Dec 2021, 23:08)
+- [Sober To Death](https://www.last.fm/music/Car+Seat+Headrest/_/Sober+To+Death), by Car Seat Headrest (23 Dec 2021, 22:44)
 - [Funky Galileo](https://www.last.fm/music/Sure+Sure/_/Funky+Galileo), by Sure Sure (23 Dec 2021, 22:40)
 - [Sum of My Cares](https://www.last.fm/music/The+Long+Faces/_/Sum+of+My+Cares), by The Long Faces (23 Dec 2021, 22:35)
 - [Pleasantries (With Your Lover)](https://www.last.fm/music/Mustard+Service/_/Pleasantries+(With+Your+Lover)), by Mustard Service (23 Dec 2021, 22:32)
@@ -53,5 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Native Tongue](https://www.last.fm/music/My+Kid+Brother/_/Native+Tongue), by My Kid Brother (23 Dec 2021, 03:45)
 - [Absinthe](https://www.last.fm/music/I+DONT+KNOW+HOW+BUT+THEY+FOUND+ME/_/Absinthe), by I DONT KNOW HOW BUT THEY FOUND ME (23 Dec 2021, 03:42)
 - [Sky Is a Bed](https://www.last.fm/music/The+Humble+Cheaters/_/Sky+Is+a+Bed), by The Humble Cheaters (23 Dec 2021, 03:38)
-- [Only One Not Smiling](https://www.last.fm/music/The+Correspondents/_/Only+One+Not+Smiling), by The Correspondents (23 Dec 2021, 03:36)
-- [Gold and Bones](https://www.last.fm/music/Friday+Pilots+Club/_/Gold+and+Bones), by Friday Pilots Club (23 Dec 2021, 03:32)
