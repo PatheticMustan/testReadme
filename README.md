@@ -1,10 +1,12 @@
 
 # Spotify Stats
-## Last Updated Thu Dec 23 2021 05:43:19 GMT+0000 (Coordinated Universal Time))
+## Last Updated Thu Dec 23 2021 06:53:05 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Silo](https://www.last.fm/music/Richy+Mitch+&+The+Coal+Miners/_/Silo), by Richy Mitch & The Coal Miners (streaming now)
+- [Conversations](https://www.last.fm/music/Marney/_/Conversations), by Marney (23 Dec 2021, 05:49)
+- [Growing Up](https://www.last.fm/music/Cinders/_/Growing+Up), by Cinders (23 Dec 2021, 05:46)
+- [Silo](https://www.last.fm/music/Richy+Mitch+&+The+Coal+Miners/_/Silo), by Richy Mitch & The Coal Miners (23 Dec 2021, 05:41)
 - [A Place For Me](https://www.last.fm/music/I+Hate+Kate/_/A+Place+For+Me), by I Hate Kate (23 Dec 2021, 05:38)
 - [404](https://www.last.fm/music/One+South+Lark/_/404), by One South Lark (23 Dec 2021, 05:34)
 - [Burn](https://www.last.fm/music/Foxy+Shazam/_/Burn), by Foxy Shazam (23 Dec 2021, 05:31)
@@ -52,6 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Without a Trace](https://www.last.fm/music/Forrest+Day/_/Without+a+Trace), by Forrest Day (23 Dec 2021, 02:52)
 - [River Rat](https://www.last.fm/music/Forrest+Day/_/River+Rat), by Forrest Day (23 Dec 2021, 02:49)
 - [Everybody's Fucking With My Mind](https://www.last.fm/music/Forrest+Day/_/Everybody%27s+Fucking+With+My+Mind), by Forrest Day (23 Dec 2021, 02:45)
-- [If You Do](https://www.last.fm/music/Forrest+Day/_/If+You+Do), by Forrest Day (23 Dec 2021, 02:42)
-- [Hyperactive](https://www.last.fm/music/Forrest+Day/_/Hyperactive), by Forrest Day (23 Dec 2021, 02:19)
-- [Silver Platters](https://www.last.fm/music/Les+Gold/_/Silver+Platters), by Les Gold (22 Dec 2021, 22:07)
