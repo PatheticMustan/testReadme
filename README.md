@@ -1,10 +1,15 @@
 
 # Spotify Stats
-## Last Updated Fri Dec 24 2021 22:44:31 GMT+0000 (Coordinated Universal Time))
+## Last Updated Fri Dec 24 2021 23:44:52 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [You Know How It Is](https://www.last.fm/music/Kero+Kero+Bonito/_/You+Know+How+It+Is), by Kero Kero Bonito (streaming now)
+- [You Know How It Is](https://www.last.fm/music/Kero+Kero+Bonito/_/You+Know+How+It+Is), by Kero Kero Bonito (24 Dec 2021, 23:00)
+- [Your Graduation](https://www.last.fm/music/Modern+Baseball/_/Your+Graduation), by Modern Baseball (24 Dec 2021, 22:57)
+- [2010](https://www.last.fm/music/The+Keystones/_/2010), by The Keystones (24 Dec 2021, 22:54)
+- [Dust and Ashes](https://www.last.fm/music/Josh+Groban/_/Dust+and+Ashes), by Josh Groban (24 Dec 2021, 22:47)
+- [daydreaming](https://www.last.fm/music/Brandan+Chen/_/daydreaming), by Brandan Chen (24 Dec 2021, 22:45)
+- [You Know How It Is](https://www.last.fm/music/Kero+Kero+Bonito/_/You+Know+How+It+Is), by Kero Kero Bonito (24 Dec 2021, 22:43)
 - [I Just Wanna Feel](https://www.last.fm/music/Brandan+Chen/_/I+Just+Wanna+Feel), by Brandan Chen (24 Dec 2021, 22:40)
 - [Bodys](https://www.last.fm/music/Car+Seat+Headrest/_/Bodys), by Car Seat Headrest (24 Dec 2021, 22:32)
 - [Dark Red](https://www.last.fm/music/Steve+Lacy/_/Dark+Red), by Steve Lacy (24 Dec 2021, 22:29)
@@ -49,9 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Alrighty Aphrodite](https://www.last.fm/music/Peach+Pit/_/Alrighty+Aphrodite), by Peach Pit (24 Dec 2021, 20:08)
 - [Cut & Run](https://www.last.fm/music/Civilian/_/Cut+&+Run), by Civilian (24 Dec 2021, 20:03)
 - [Anxiety, My Best Friend](https://www.last.fm/music/La+Bouquet/_/Anxiety,+My+Best+Friend), by La Bouquet (24 Dec 2021, 20:00)
-- [What You Say](https://www.last.fm/music/Cold+War+Kids/_/What+You+Say), by Cold War Kids (24 Dec 2021, 19:56)
-- [Crawl](https://www.last.fm/music/Not+My+Weekend/_/Crawl), by Not My Weekend (24 Dec 2021, 19:47)
-- [Breezeblocks](https://www.last.fm/music/alt-J/_/Breezeblocks), by alt-J (24 Dec 2021, 19:41)
-- [Out Like a Light 2](https://www.last.fm/music/The+Honeysticks/_/Out+Like+a+Light+2), by The Honeysticks (24 Dec 2021, 19:37)
-- [Lies](https://www.last.fm/music/Will+Jay/_/Lies), by Will Jay (24 Dec 2021, 19:33)
-- [Death of a Bachelor](https://www.last.fm/music/Panic!+at+the+Disco/_/Death+of+a+Bachelor), by Panic! at the Disco (24 Dec 2021, 19:30)
