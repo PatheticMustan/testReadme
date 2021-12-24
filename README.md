@@ -1,9 +1,13 @@
 
 # Spotify Stats
-## Last Updated Thu Dec 23 2021 23:44:59 GMT+0000 (Coordinated Universal Time))
+## Last Updated Fri Dec 24 2021 01:45:09 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Bookstore Girl](https://www.last.fm/music/Charlie+Burg/_/Bookstore+Girl), by Charlie Burg (streaming now)
+- [Loretta](https://www.last.fm/music/Ginger+Root/_/Loretta), by Ginger Root (24 Dec 2021, 01:41)
+- [Alien Blues](https://www.last.fm/music/Vundabar/_/Alien+Blues), by Vundabar (24 Dec 2021, 01:39)
+- [Sober To Death](https://www.last.fm/music/Car+Seat+Headrest/_/Sober+To+Death), by Car Seat Headrest (23 Dec 2021, 23:12)
 - [Funky Galileo](https://www.last.fm/music/Sure+Sure/_/Funky+Galileo), by Sure Sure (23 Dec 2021, 23:08)
 - [Sober To Death](https://www.last.fm/music/Car+Seat+Headrest/_/Sober+To+Death), by Car Seat Headrest (23 Dec 2021, 22:44)
 - [Funky Galileo](https://www.last.fm/music/Sure+Sure/_/Funky+Galileo), by Sure Sure (23 Dec 2021, 22:40)
@@ -51,6 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Brighter Than The Sun](https://www.last.fm/music/Brick%252BMortar/_/Brighter+Than+The+Sun), by Brick+Mortar (23 Dec 2021, 03:57)
 - [Everything's Changin'](https://www.last.fm/music/St.Arnaud/_/Everything%27s+Changin%27), by St.Arnaud (23 Dec 2021, 03:52)
 - [Parrot](https://www.last.fm/music/Stepdad/_/Parrot), by Stepdad (23 Dec 2021, 03:49)
-- [Native Tongue](https://www.last.fm/music/My+Kid+Brother/_/Native+Tongue), by My Kid Brother (23 Dec 2021, 03:45)
-- [Absinthe](https://www.last.fm/music/I+DONT+KNOW+HOW+BUT+THEY+FOUND+ME/_/Absinthe), by I DONT KNOW HOW BUT THEY FOUND ME (23 Dec 2021, 03:42)
-- [Sky Is a Bed](https://www.last.fm/music/The+Humble+Cheaters/_/Sky+Is+a+Bed), by The Humble Cheaters (23 Dec 2021, 03:38)
