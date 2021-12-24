@@ -1,9 +1,15 @@
 
 # Spotify Stats
-## Last Updated Fri Dec 24 2021 06:52:59 GMT+0000 (Coordinated Universal Time))
+## Last Updated Fri Dec 24 2021 07:43:19 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Doubts](https://www.last.fm/music/c0nv0/_/Doubts), by c0nv0 (streaming now)
+- [Mr. Beat](https://www.last.fm/music/King+Gizzard+&+The+Lizard+Wizard/_/Mr.+Beat), by King Gizzard & The Lizard Wizard (24 Dec 2021, 07:36)
+- [Find Out](https://www.last.fm/music/khai+dreams/_/Find+Out), by khai dreams (24 Dec 2021, 07:33)
+- [Crawl](https://www.last.fm/music/Not+My+Weekend/_/Crawl), by Not My Weekend (24 Dec 2021, 07:30)
+- [Death of Me](https://www.last.fm/music/Saint+PHNX/_/Death+of+Me), by Saint PHNX (24 Dec 2021, 07:27)
+- [Morning Dreamers](https://www.last.fm/music/St.Arnaud/_/Morning+Dreamers), by St.Arnaud (24 Dec 2021, 06:04)
 - [Alarm](https://www.last.fm/music/Atlas/_/Alarm), by Atlas (24 Dec 2021, 06:02)
 - [Creep](https://www.last.fm/music/Radiohead/_/Creep), by Radiohead (24 Dec 2021, 05:58)
 - [That Distant Shore (feat. Jennifer Paz)](https://www.last.fm/music/Steven+Universe/_/That+Distant+Shore+(feat.+Jennifer+Paz)), by Steven Universe (24 Dec 2021, 05:56)
@@ -49,8 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Girl in Blue](https://www.last.fm/music/Animal+Sun/_/Girl+in+Blue), by Animal Sun (24 Dec 2021, 02:43)
 - [Gum](https://www.last.fm/music/Have+A+Good+Season/_/Gum), by Have A Good Season (24 Dec 2021, 02:38)
 - [Some](https://www.last.fm/music/Steve+Lacy/_/Some), by Steve Lacy (24 Dec 2021, 02:36)
-- [Bookstore Girl](https://www.last.fm/music/Charlie+Burg/_/Bookstore+Girl), by Charlie Burg (24 Dec 2021, 01:44)
-- [Loretta](https://www.last.fm/music/Ginger+Root/_/Loretta), by Ginger Root (24 Dec 2021, 01:41)
-- [Alien Blues](https://www.last.fm/music/Vundabar/_/Alien+Blues), by Vundabar (24 Dec 2021, 01:39)
-- [Sober To Death](https://www.last.fm/music/Car+Seat+Headrest/_/Sober+To+Death), by Car Seat Headrest (23 Dec 2021, 23:12)
-- [Funky Galileo](https://www.last.fm/music/Sure+Sure/_/Funky+Galileo), by Sure Sure (23 Dec 2021, 23:08)
