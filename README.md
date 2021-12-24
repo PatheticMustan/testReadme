@@ -1,10 +1,17 @@
 
 # Spotify Stats
-## Last Updated Fri Dec 24 2021 01:45:09 GMT+0000 (Coordinated Universal Time))
+## Last Updated Fri Dec 24 2021 02:56:50 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Bookstore Girl](https://www.last.fm/music/Charlie+Burg/_/Bookstore+Girl), by Charlie Burg (streaming now)
+- [So Long](https://www.last.fm/music/Fleece/_/So+Long), by Fleece (streaming now)
+- [Expert](https://www.last.fm/music/Pretoria/_/Expert), by Pretoria (24 Dec 2021, 02:52)
+- [Skulls](https://www.last.fm/music/Civilian/_/Skulls), by Civilian (24 Dec 2021, 02:48)
+- [the golden hour](https://www.last.fm/music/Louie+Zong/_/the+golden+hour), by Louie Zong (24 Dec 2021, 02:46)
+- [Girl in Blue](https://www.last.fm/music/Animal+Sun/_/Girl+in+Blue), by Animal Sun (24 Dec 2021, 02:43)
+- [Gum](https://www.last.fm/music/Have+A+Good+Season/_/Gum), by Have A Good Season (24 Dec 2021, 02:38)
+- [Some](https://www.last.fm/music/Steve+Lacy/_/Some), by Steve Lacy (24 Dec 2021, 02:36)
+- [Bookstore Girl](https://www.last.fm/music/Charlie+Burg/_/Bookstore+Girl), by Charlie Burg (24 Dec 2021, 01:44)
 - [Loretta](https://www.last.fm/music/Ginger+Root/_/Loretta), by Ginger Root (24 Dec 2021, 01:41)
 - [Alien Blues](https://www.last.fm/music/Vundabar/_/Alien+Blues), by Vundabar (24 Dec 2021, 01:39)
 - [Sober To Death](https://www.last.fm/music/Car+Seat+Headrest/_/Sober+To+Death), by Car Seat Headrest (23 Dec 2021, 23:12)
@@ -48,10 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Alrighty Aphrodite](https://www.last.fm/music/Peach+Pit/_/Alrighty+Aphrodite), by Peach Pit (23 Dec 2021, 04:23)
 - [Jane!](https://www.last.fm/music/The+Long+Faces/_/Jane!), by The Long Faces (23 Dec 2021, 04:20)
 - [Birch Tree](https://www.last.fm/music/Strawberry+Guy/_/Birch+Tree), by Strawberry Guy (23 Dec 2021, 04:16)
-- [She Needs Him](https://www.last.fm/music/Her%27s/_/She+Needs+Him), by Her's (23 Dec 2021, 04:10)
-- [Phantom](https://www.last.fm/music/Honors/_/Phantom), by Honors (23 Dec 2021, 04:08)
-- [Blue Lips](https://www.last.fm/music/Her%27s/_/Blue+Lips), by Her's (23 Dec 2021, 04:04)
-- [Karma](https://www.last.fm/music/AJR/_/Karma), by AJR (23 Dec 2021, 04:00)
-- [Brighter Than The Sun](https://www.last.fm/music/Brick%252BMortar/_/Brighter+Than+The+Sun), by Brick+Mortar (23 Dec 2021, 03:57)
-- [Everything's Changin'](https://www.last.fm/music/St.Arnaud/_/Everything%27s+Changin%27), by St.Arnaud (23 Dec 2021, 03:52)
-- [Parrot](https://www.last.fm/music/Stepdad/_/Parrot), by Stepdad (23 Dec 2021, 03:49)
