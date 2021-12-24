@@ -1,10 +1,16 @@
 
 # Spotify Stats
-## Last Updated Fri Dec 24 2021 05:43:15 GMT+0000 (Coordinated Universal Time))
+## Last Updated Fri Dec 24 2021 06:52:59 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [We're Beautiful](https://www.last.fm/music/ABSRDST/_/We%27re+Beautiful), by ABSRDST (streaming now)
+- [Alarm](https://www.last.fm/music/Atlas/_/Alarm), by Atlas (24 Dec 2021, 06:02)
+- [Creep](https://www.last.fm/music/Radiohead/_/Creep), by Radiohead (24 Dec 2021, 05:58)
+- [That Distant Shore (feat. Jennifer Paz)](https://www.last.fm/music/Steven+Universe/_/That+Distant+Shore+(feat.+Jennifer+Paz)), by Steven Universe (24 Dec 2021, 05:56)
+- [Propaganda](https://www.last.fm/music/Muse/_/Propaganda), by Muse (24 Dec 2021, 05:53)
+- [Tmrw.](https://www.last.fm/music/Milk+&+Bone/_/Tmrw.), by Milk & Bone (24 Dec 2021, 05:48)
+- [HandClap](https://www.last.fm/music/Fitz+and+the+Tantrums/_/HandClap), by Fitz and the Tantrums (24 Dec 2021, 05:45)
+- [We're Beautiful](https://www.last.fm/music/ABSRDST/_/We%27re+Beautiful), by ABSRDST (24 Dec 2021, 05:41)
 - [Static](https://www.last.fm/music/Oneski/_/Static), by Oneski (24 Dec 2021, 05:39)
 - [2010](https://www.last.fm/music/The+Keystones/_/2010), by The Keystones (24 Dec 2021, 05:36)
 - [Dust and Ashes](https://www.last.fm/music/Josh+Groban/_/Dust+and+Ashes), by Josh Groban (24 Dec 2021, 05:29)
@@ -48,10 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Alien Blues](https://www.last.fm/music/Vundabar/_/Alien+Blues), by Vundabar (24 Dec 2021, 01:39)
 - [Sober To Death](https://www.last.fm/music/Car+Seat+Headrest/_/Sober+To+Death), by Car Seat Headrest (23 Dec 2021, 23:12)
 - [Funky Galileo](https://www.last.fm/music/Sure+Sure/_/Funky+Galileo), by Sure Sure (23 Dec 2021, 23:08)
-- [Sober To Death](https://www.last.fm/music/Car+Seat+Headrest/_/Sober+To+Death), by Car Seat Headrest (23 Dec 2021, 22:44)
-- [Funky Galileo](https://www.last.fm/music/Sure+Sure/_/Funky+Galileo), by Sure Sure (23 Dec 2021, 22:40)
-- [Sum of My Cares](https://www.last.fm/music/The+Long+Faces/_/Sum+of+My+Cares), by The Long Faces (23 Dec 2021, 22:35)
-- [Pleasantries (With Your Lover)](https://www.last.fm/music/Mustard+Service/_/Pleasantries+(With+Your+Lover)), by Mustard Service (23 Dec 2021, 22:32)
-- [Like Or Like Like](https://www.last.fm/music/Miniature+Tigers/_/Like+Or+Like+Like), by Miniature Tigers (23 Dec 2021, 22:29)
-- [Human Sadness](https://www.last.fm/music/The+Voidz/_/Human+Sadness), by The Voidz (23 Dec 2021, 22:18)
-- [Oh Brother](https://www.last.fm/music/Melt/_/Oh+Brother), by Melt (23 Dec 2021, 22:15)
