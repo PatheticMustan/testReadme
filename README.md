@@ -1,9 +1,17 @@
 
 # Spotify Stats
-## Last Updated Fri Dec 24 2021 17:48:40 GMT+0000 (Coordinated Universal Time))
+## Last Updated Fri Dec 24 2021 18:50:40 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Wisdom](https://www.last.fm/music/Mother+Mother/_/Wisdom), by Mother Mother (streaming now)
+- [hug all ur friends](https://www.last.fm/music/Cavetown/_/hug+all+ur+friends), by Cavetown (24 Dec 2021, 18:42)
+- [Hustle](https://www.last.fm/music/Rocket+Surgeons/_/Hustle), by Rocket Surgeons (24 Dec 2021, 18:39)
+- [Me and My Broken Heart](https://www.last.fm/music/Rixton/_/Me+and+My+Broken+Heart), by Rixton (24 Dec 2021, 18:36)
+- [Bayonnettes](https://www.last.fm/music/Shayfer+James/_/Bayonnettes), by Shayfer James (24 Dec 2021, 18:32)
+- [Red Wine](https://www.last.fm/music/Follies+&+Vices/_/Red+Wine), by Follies & Vices (24 Dec 2021, 18:29)
+- [Skulls](https://www.last.fm/music/Civilian/_/Skulls), by Civilian (24 Dec 2021, 18:25)
+- [I Can't Handle Change](https://www.last.fm/music/Roar/_/I+Can%27t+Handle+Change), by Roar (24 Dec 2021, 08:29)
 - [Everyone Hates His Parents](https://www.last.fm/music/Brandon+Uranowitz/_/Everyone+Hates+His+Parents), by Brandon Uranowitz (24 Dec 2021, 08:25)
 - [Hope](https://www.last.fm/music/The+Chainsmokers/_/Hope), by The Chainsmokers (24 Dec 2021, 08:22)
 - [I’m So Sorry](https://www.last.fm/music/Imagine+Dragons/_/I%E2%80%99m+So+Sorry), by Imagine Dragons (24 Dec 2021, 08:19)
@@ -47,10 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Hey, Runner!](https://www.last.fm/music/The+Arcadian+Wild/_/Hey,+Runner!), by The Arcadian Wild (24 Dec 2021, 04:47)
 - [Televised](https://www.last.fm/music/Hunny/_/Televised), by Hunny (24 Dec 2021, 04:44)
 - [Green Jewels](https://www.last.fm/music/KRIILL/_/Green+Jewels), by KRIILL (24 Dec 2021, 04:40)
-- [Playing Catch With .22](https://www.last.fm/music/I+the+Mighty/_/Playing+Catch+With+.22), by I the Mighty (24 Dec 2021, 04:36)
-- [Tree House](https://www.last.fm/music/Cinders/_/Tree+House), by Cinders (24 Dec 2021, 04:33)
-- [Oh Brother](https://www.last.fm/music/Melt/_/Oh+Brother), by Melt (24 Dec 2021, 04:29)
-- [Conversations](https://www.last.fm/music/Marney/_/Conversations), by Marney (24 Dec 2021, 04:25)
-- [Growing Up](https://www.last.fm/music/Cinders/_/Growing+Up), by Cinders (24 Dec 2021, 04:22)
-- [Silo](https://www.last.fm/music/Richy+Mitch+&+The+Coal+Miners/_/Silo), by Richy Mitch & The Coal Miners (24 Dec 2021, 04:18)
-- [A Place For Me](https://www.last.fm/music/I+Hate+Kate/_/A+Place+For+Me), by I Hate Kate (24 Dec 2021, 04:14)
