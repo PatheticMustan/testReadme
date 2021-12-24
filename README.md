@@ -1,10 +1,13 @@
 
 # Spotify Stats
-## Last Updated Fri Dec 24 2021 02:56:50 GMT+0000 (Coordinated Universal Time))
+## Last Updated Fri Dec 24 2021 03:46:14 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [So Long](https://www.last.fm/music/Fleece/_/So+Long), by Fleece (streaming now)
+- [Loretta](https://www.last.fm/music/Ginger+Root/_/Loretta), by Ginger Root (24 Dec 2021, 03:04)
+- [Alien Blues](https://www.last.fm/music/Vundabar/_/Alien+Blues), by Vundabar (24 Dec 2021, 03:02)
+- [Taking Up Space](https://www.last.fm/music/Mustard+Service/_/Taking+Up+Space), by Mustard Service (24 Dec 2021, 02:58)
+- [So Long](https://www.last.fm/music/Fleece/_/So+Long), by Fleece (24 Dec 2021, 02:55)
 - [Expert](https://www.last.fm/music/Pretoria/_/Expert), by Pretoria (24 Dec 2021, 02:52)
 - [Skulls](https://www.last.fm/music/Civilian/_/Skulls), by Civilian (24 Dec 2021, 02:48)
 - [the golden hour](https://www.last.fm/music/Louie+Zong/_/the+golden+hour), by Louie Zong (24 Dec 2021, 02:46)
@@ -51,7 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Like Or Like Like](https://www.last.fm/music/Miniature+Tigers/_/Like+Or+Like+Like), by Miniature Tigers (23 Dec 2021, 04:46)
 - [Human Sadness](https://www.last.fm/music/The+Voidz/_/Human+Sadness), by The Voidz (23 Dec 2021, 04:35)
 - [I Think I Like When It Rains](https://www.last.fm/music/Willis/_/I+Think+I+Like+When+It+Rains), by Willis (23 Dec 2021, 04:30)
-- [Case for You](https://www.last.fm/music/Early+Eyes/_/Case+for+You), by Early Eyes (23 Dec 2021, 04:27)
-- [Alrighty Aphrodite](https://www.last.fm/music/Peach+Pit/_/Alrighty+Aphrodite), by Peach Pit (23 Dec 2021, 04:23)
-- [Jane!](https://www.last.fm/music/The+Long+Faces/_/Jane!), by The Long Faces (23 Dec 2021, 04:20)
-- [Birch Tree](https://www.last.fm/music/Strawberry+Guy/_/Birch+Tree), by Strawberry Guy (23 Dec 2021, 04:16)
