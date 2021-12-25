@@ -1,10 +1,14 @@
 
 # Spotify Stats
-## Last Updated Sat Dec 25 2021 05:43:18 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sat Dec 25 2021 06:51:58 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [The Night We Met](https://www.last.fm/music/Lord+Huron/_/The+Night+We+Met), by Lord Huron (streaming now)
+- [Moonlight/ Sunrise](https://www.last.fm/music/Rope+and+Ladder/_/Moonlight%2F+Sunrise), by Rope and Ladder (25 Dec 2021, 05:59)
+- [Bloody Shirt - Bastille Remix](https://www.last.fm/music/To+Kill+a+King/_/Bloody+Shirt+-+Bastille+Remix), by To Kill a King (25 Dec 2021, 05:55)
+- [Mercurial](https://www.last.fm/music/Picture+Atlantic/_/Mercurial), by Picture Atlantic (25 Dec 2021, 05:51)
+- [I’m So Sorry](https://www.last.fm/music/Imagine+Dragons/_/I%E2%80%99m+So+Sorry), by Imagine Dragons (25 Dec 2021, 05:45)
+- [The Night We Met](https://www.last.fm/music/Lord+Huron/_/The+Night+We+Met), by Lord Huron (25 Dec 2021, 05:42)
 - [That Distant Shore (feat. Jennifer Paz)](https://www.last.fm/music/Steven+Universe/_/That+Distant+Shore+(feat.+Jennifer+Paz)), by Steven Universe (25 Dec 2021, 05:40)
 - [SLOW DANCING IN THE DARK](https://www.last.fm/music/Joji/_/SLOW+DANCING+IN+THE+DARK), by Joji (25 Dec 2021, 01:29)
 - [i want it](https://www.last.fm/music/Two+Feet/_/i+want+it), by Two Feet (25 Dec 2021, 01:24)
@@ -50,8 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Miss Connection](https://www.last.fm/music/The+Keystones/_/Miss+Connection), by The Keystones (24 Dec 2021, 20:54)
 - [Hollywood](https://www.last.fm/music/Jukebox+the+Ghost/_/Hollywood), by Jukebox the Ghost (24 Dec 2021, 20:49)
 - [Sad Songs](https://www.last.fm/music/Kyd+the+Band/_/Sad+Songs), by Kyd the Band (24 Dec 2021, 20:46)
-- [What Have They Done To You Now](https://www.last.fm/music/Daniel+Knox/_/What+Have+They+Done+To+You+Now), by Daniel Knox (24 Dec 2021, 20:43)
-- [Smokey Eyes](https://www.last.fm/music/Lincoln/_/Smokey+Eyes), by Lincoln (24 Dec 2021, 20:37)
-- [Girl](https://www.last.fm/music/Jukebox+the+Ghost/_/Girl), by Jukebox the Ghost (24 Dec 2021, 20:33)
-- [Fool In The Heart](https://www.last.fm/music/Daniel+Knox/_/Fool+In+The+Heart), by Daniel Knox (24 Dec 2021, 20:27)
-- [Rich](https://www.last.fm/music/Mourners/_/Rich), by Mourners (24 Dec 2021, 20:22)
