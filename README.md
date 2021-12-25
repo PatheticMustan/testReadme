@@ -1,9 +1,13 @@
 
 # Spotify Stats
-## Last Updated Sat Dec 25 2021 22:44:06 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sat Dec 25 2021 23:44:11 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Good Lie](https://www.last.fm/music/Sammy+Copley/_/Good+Lie), by Sammy Copley (25 Dec 2021, 23:28)
+- [I Think I Like When It Rains](https://www.last.fm/music/Willis/_/I+Think+I+Like+When+It+Rains), by Willis (25 Dec 2021, 23:23)
+- [Starchild](https://www.last.fm/music/Ghost+Quartet/_/Starchild), by Ghost Quartet (25 Dec 2021, 23:20)
+- [I Don't Love You Anymore](https://www.last.fm/music/The+Honeysticks/_/I+Don%27t+Love+You+Anymore), by The Honeysticks (25 Dec 2021, 22:00)
 - [hug all ur friends](https://www.last.fm/music/Cavetown/_/hug+all+ur+friends), by Cavetown (25 Dec 2021, 21:54)
 - [Heat Waves](https://www.last.fm/music/Glass+Animals/_/Heat+Waves), by Glass Animals (25 Dec 2021, 21:50)
 - [Melancholyism.](https://www.last.fm/music/Super+Whatevr/_/Melancholyism.), by Super Whatevr (25 Dec 2021, 21:47)
@@ -50,7 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Heaven Knows I'm Miserable Now - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/Heaven+Knows+I%27m+Miserable+Now+-+2011+Remaster), by The Smiths (24 Dec 2021, 22:26)
 - [New Flesh](https://www.last.fm/music/Current+Joys/_/New+Flesh), by Current Joys (24 Dec 2021, 22:24)
 - [Kilby Girl](https://www.last.fm/music/The+Backseat+Lovers/_/Kilby+Girl), by The Backseat Lovers (24 Dec 2021, 22:19)
-- [kissing girls](https://www.last.fm/music/Grady/_/kissing+girls), by Grady (24 Dec 2021, 22:17)
-- [sex scenes and video games](https://www.last.fm/music/Grady/_/sex+scenes+and+video+games), by Grady (24 Dec 2021, 22:15)
-- [CAN YOU HEAR THE MOON](https://www.last.fm/music/Grady/_/CAN+YOU+HEAR+THE+MOON), by Grady (24 Dec 2021, 22:12)
-- [Freaks](https://www.last.fm/music/Surf+Curse/_/Freaks), by Surf Curse (24 Dec 2021, 22:09)
