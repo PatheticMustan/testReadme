@@ -1,9 +1,11 @@
 
 # Spotify Stats
-## Last Updated Sat Dec 25 2021 14:43:17 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sat Dec 25 2021 15:49:19 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Where Do I Begin](https://www.last.fm/music/Rick+Astley/_/Where+Do+I+Begin), by Rick Astley (streaming now)
+- [Tongue Tied Twisted](https://www.last.fm/music/Suit+Up,+Soldier/_/Tongue+Tied+Twisted), by Suit Up, Soldier (25 Dec 2021, 06:04)
 - [Moonlight/ Sunrise](https://www.last.fm/music/Rope+and+Ladder/_/Moonlight%2F+Sunrise), by Rope and Ladder (25 Dec 2021, 05:59)
 - [Bloody Shirt - Bastille Remix](https://www.last.fm/music/To+Kill+a+King/_/Bloody+Shirt+-+Bastille+Remix), by To Kill a King (25 Dec 2021, 05:55)
 - [Mercurial](https://www.last.fm/music/Picture+Atlantic/_/Mercurial), by Picture Atlantic (25 Dec 2021, 05:51)
@@ -53,4 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Parking Garage](https://www.last.fm/music/Tommy+Bravos/_/Parking+Garage), by Tommy Bravos (24 Dec 2021, 20:57)
 - [Miss Connection](https://www.last.fm/music/The+Keystones/_/Miss+Connection), by The Keystones (24 Dec 2021, 20:54)
 - [Hollywood](https://www.last.fm/music/Jukebox+the+Ghost/_/Hollywood), by Jukebox the Ghost (24 Dec 2021, 20:49)
-- [Sad Songs](https://www.last.fm/music/Kyd+the+Band/_/Sad+Songs), by Kyd the Band (24 Dec 2021, 20:46)
