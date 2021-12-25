@@ -1,9 +1,12 @@
 
 # Spotify Stats
-## Last Updated Sat Dec 25 2021 04:55:35 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sat Dec 25 2021 05:43:18 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [The Night We Met](https://www.last.fm/music/Lord+Huron/_/The+Night+We+Met), by Lord Huron (streaming now)
+- [That Distant Shore (feat. Jennifer Paz)](https://www.last.fm/music/Steven+Universe/_/That+Distant+Shore+(feat.+Jennifer+Paz)), by Steven Universe (25 Dec 2021, 05:40)
+- [SLOW DANCING IN THE DARK](https://www.last.fm/music/Joji/_/SLOW+DANCING+IN+THE+DARK), by Joji (25 Dec 2021, 01:29)
 - [i want it](https://www.last.fm/music/Two+Feet/_/i+want+it), by Two Feet (25 Dec 2021, 01:24)
 - [Bookstore Girl](https://www.last.fm/music/Charlie+Burg/_/Bookstore+Girl), by Charlie Burg (25 Dec 2021, 01:05)
 - [We're Beautiful](https://www.last.fm/music/ABSRDST/_/We%27re+Beautiful), by ABSRDST (25 Dec 2021, 00:18)
@@ -52,5 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Girl](https://www.last.fm/music/Jukebox+the+Ghost/_/Girl), by Jukebox the Ghost (24 Dec 2021, 20:33)
 - [Fool In The Heart](https://www.last.fm/music/Daniel+Knox/_/Fool+In+The+Heart), by Daniel Knox (24 Dec 2021, 20:27)
 - [Rich](https://www.last.fm/music/Mourners/_/Rich), by Mourners (24 Dec 2021, 20:22)
-- [Horns](https://www.last.fm/music/Bryce+Fox/_/Horns), by Bryce Fox (24 Dec 2021, 20:19)
-- [Who Are You Doing This For?](https://www.last.fm/music/wordsbyjuni/_/Who+Are+You+Doing+This+For%3F), by wordsbyjuni (24 Dec 2021, 20:15)
