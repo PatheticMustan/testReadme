@@ -1,10 +1,13 @@
 
 # Spotify Stats
-## Last Updated Sat Dec 25 2021 21:43:23 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sat Dec 25 2021 22:44:06 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Michael](https://www.last.fm/music/Civilian/_/Michael), by Civilian (streaming now)
+- [hug all ur friends](https://www.last.fm/music/Cavetown/_/hug+all+ur+friends), by Cavetown (25 Dec 2021, 21:54)
+- [Heat Waves](https://www.last.fm/music/Glass+Animals/_/Heat+Waves), by Glass Animals (25 Dec 2021, 21:50)
+- [Melancholyism.](https://www.last.fm/music/Super+Whatevr/_/Melancholyism.), by Super Whatevr (25 Dec 2021, 21:47)
+- [Michael](https://www.last.fm/music/Civilian/_/Michael), by Civilian (25 Dec 2021, 21:42)
 - [Little Words](https://www.last.fm/music/The+Happy+Fits/_/Little+Words), by The Happy Fits (25 Dec 2021, 21:38)
 - [Curl up & Die](https://www.last.fm/music/Matt+Maltese/_/Curl+up+&+Die), by Matt Maltese (25 Dec 2021, 21:34)
 - [Expert](https://www.last.fm/music/Pretoria/_/Expert), by Pretoria (25 Dec 2021, 21:32)
@@ -51,7 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [sex scenes and video games](https://www.last.fm/music/Grady/_/sex+scenes+and+video+games), by Grady (24 Dec 2021, 22:15)
 - [CAN YOU HEAR THE MOON](https://www.last.fm/music/Grady/_/CAN+YOU+HEAR+THE+MOON), by Grady (24 Dec 2021, 22:12)
 - [Freaks](https://www.last.fm/music/Surf+Curse/_/Freaks), by Surf Curse (24 Dec 2021, 22:09)
-- [Kids](https://www.last.fm/music/Current+Joys/_/Kids), by Current Joys (24 Dec 2021, 22:05)
-- [American River](https://www.last.fm/music/Destroy+Boys/_/American+River), by Destroy Boys (24 Dec 2021, 22:03)
-- [Doa](https://www.last.fm/music/Armors/_/Doa), by Armors (24 Dec 2021, 22:00)
-- [Hey, Runner!](https://www.last.fm/music/The+Arcadian+Wild/_/Hey,+Runner!), by The Arcadian Wild (24 Dec 2021, 21:56)
