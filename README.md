@@ -1,9 +1,13 @@
 
 # Spotify Stats
-## Last Updated Fri Dec 24 2021 23:44:52 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sat Dec 25 2021 01:43:58 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [i want it](https://www.last.fm/music/Two+Feet/_/i+want+it), by Two Feet (25 Dec 2021, 01:24)
+- [Bookstore Girl](https://www.last.fm/music/Charlie+Burg/_/Bookstore+Girl), by Charlie Burg (25 Dec 2021, 01:05)
+- [We're Beautiful](https://www.last.fm/music/ABSRDST/_/We%27re+Beautiful), by ABSRDST (25 Dec 2021, 00:18)
+- [Just](https://www.last.fm/music/Radiohead/_/Just), by Radiohead (24 Dec 2021, 23:02)
 - [You Know How It Is](https://www.last.fm/music/Kero+Kero+Bonito/_/You+Know+How+It+Is), by Kero Kero Bonito (24 Dec 2021, 23:00)
 - [Your Graduation](https://www.last.fm/music/Modern+Baseball/_/Your+Graduation), by Modern Baseball (24 Dec 2021, 22:57)
 - [2010](https://www.last.fm/music/The+Keystones/_/2010), by The Keystones (24 Dec 2021, 22:54)
@@ -50,7 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Rich](https://www.last.fm/music/Mourners/_/Rich), by Mourners (24 Dec 2021, 20:22)
 - [Horns](https://www.last.fm/music/Bryce+Fox/_/Horns), by Bryce Fox (24 Dec 2021, 20:19)
 - [Who Are You Doing This For?](https://www.last.fm/music/wordsbyjuni/_/Who+Are+You+Doing+This+For%3F), by wordsbyjuni (24 Dec 2021, 20:15)
-- [Kool Girl](https://www.last.fm/music/Seasalt/_/Kool+Girl), by Seasalt (24 Dec 2021, 20:11)
-- [Alrighty Aphrodite](https://www.last.fm/music/Peach+Pit/_/Alrighty+Aphrodite), by Peach Pit (24 Dec 2021, 20:08)
-- [Cut & Run](https://www.last.fm/music/Civilian/_/Cut+&+Run), by Civilian (24 Dec 2021, 20:03)
-- [Anxiety, My Best Friend](https://www.last.fm/music/La+Bouquet/_/Anxiety,+My+Best+Friend), by La Bouquet (24 Dec 2021, 20:00)
