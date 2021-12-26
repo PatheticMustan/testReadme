@@ -1,9 +1,16 @@
 
 # Spotify Stats
-## Last Updated Sun Dec 26 2021 19:43:28 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sun Dec 26 2021 20:44:39 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Runaway Goliath](https://www.last.fm/music/Mantaraybryn/_/Runaway+Goliath), by Mantaraybryn (26 Dec 2021, 20:29)
+- [In My Head](https://www.last.fm/music/Bedroom/_/In+My+Head), by Bedroom (26 Dec 2021, 20:23)
+- [Prime](https://www.last.fm/music/Roan+Martin/_/Prime), by Roan Martin (26 Dec 2021, 20:17)
+- [Static](https://www.last.fm/music/Oneski/_/Static), by Oneski (26 Dec 2021, 20:15)
+- [Die Like This](https://www.last.fm/music/Mourners/_/Die+Like+This), by Mourners (26 Dec 2021, 20:12)
+- [Dancing In The Moonlight](https://www.last.fm/music/King+Harvest/_/Dancing+In+The+Moonlight), by King Harvest (26 Dec 2021, 20:09)
+- [More Than Friends](https://www.last.fm/music/Meesh/_/More+Than+Friends), by Meesh (26 Dec 2021, 06:44)
 - [Acab for Cutie](https://www.last.fm/music/B.+Fraser/_/Acab+for+Cutie), by B. Fraser (26 Dec 2021, 06:42)
 - [Jena's New Favorite Color](https://www.last.fm/music/Noah+Nolastname/_/Jena%27s+New+Favorite+Color), by Noah Nolastname (26 Dec 2021, 06:38)
 - [I've Been](https://www.last.fm/music/Eric+Nakassa/_/I%27ve+Been), by Eric Nakassa (26 Dec 2021, 06:36)
@@ -47,10 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Starchild](https://www.last.fm/music/Ghost+Quartet/_/Starchild), by Ghost Quartet (25 Dec 2021, 23:20)
 - [I Don't Love You Anymore](https://www.last.fm/music/The+Honeysticks/_/I+Don%27t+Love+You+Anymore), by The Honeysticks (25 Dec 2021, 22:00)
 - [hug all ur friends](https://www.last.fm/music/Cavetown/_/hug+all+ur+friends), by Cavetown (25 Dec 2021, 21:54)
-- [Heat Waves](https://www.last.fm/music/Glass+Animals/_/Heat+Waves), by Glass Animals (25 Dec 2021, 21:50)
-- [Melancholyism.](https://www.last.fm/music/Super+Whatevr/_/Melancholyism.), by Super Whatevr (25 Dec 2021, 21:47)
-- [Michael](https://www.last.fm/music/Civilian/_/Michael), by Civilian (25 Dec 2021, 21:42)
-- [Little Words](https://www.last.fm/music/The+Happy+Fits/_/Little+Words), by The Happy Fits (25 Dec 2021, 21:38)
-- [Curl up & Die](https://www.last.fm/music/Matt+Maltese/_/Curl+up+&+Die), by Matt Maltese (25 Dec 2021, 21:34)
-- [Expert](https://www.last.fm/music/Pretoria/_/Expert), by Pretoria (25 Dec 2021, 21:32)
-- [You're Gonna Make Me Lonesome When You Go](https://www.last.fm/music/My+bubba/_/You%27re+Gonna+Make+Me+Lonesome+When+You+Go), by My bubba (25 Dec 2021, 21:27)
