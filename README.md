@@ -1,9 +1,12 @@
 
 # Spotify Stats
-## Last Updated Sun Dec 26 2021 03:46:46 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sun Dec 26 2021 04:55:41 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Hung Around](https://www.last.fm/music/King+Nun/_/Hung+Around), by King Nun (streaming now)
+- [Moonlight/ Sunrise](https://www.last.fm/music/Rope+and+Ladder/_/Moonlight%2F+Sunrise), by Rope and Ladder (26 Dec 2021, 04:44)
+- [Rush B](https://www.last.fm/music/Sheet+Music+Boss/_/Rush+B), by Sheet Music Boss (26 Dec 2021, 03:53)
 - [Relimerence](https://www.last.fm/music/The+Happy+Fits/_/Relimerence), by The Happy Fits (26 Dec 2021, 03:11)
 - [Could Have Been Me](https://www.last.fm/music/The+Struts/_/Could+Have+Been+Me), by The Struts (26 Dec 2021, 03:08)
 - [Mile Magnificent](https://www.last.fm/music/Molly+Ofgeography/_/Mile+Magnificent), by Molly Ofgeography (26 Dec 2021, 03:05)
@@ -52,5 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [2010](https://www.last.fm/music/The+Keystones/_/2010), by The Keystones (24 Dec 2021, 22:54)
 - [Dust and Ashes](https://www.last.fm/music/Josh+Groban/_/Dust+and+Ashes), by Josh Groban (24 Dec 2021, 22:47)
 - [daydreaming](https://www.last.fm/music/Brandan+Chen/_/daydreaming), by Brandan Chen (24 Dec 2021, 22:45)
-- [You Know How It Is](https://www.last.fm/music/Kero+Kero+Bonito/_/You+Know+How+It+Is), by Kero Kero Bonito (24 Dec 2021, 22:43)
-- [I Just Wanna Feel](https://www.last.fm/music/Brandan+Chen/_/I+Just+Wanna+Feel), by Brandan Chen (24 Dec 2021, 22:40)
