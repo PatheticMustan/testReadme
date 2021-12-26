@@ -1,9 +1,20 @@
 
 # Spotify Stats
-## Last Updated Sun Dec 26 2021 20:44:39 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sun Dec 26 2021 21:43:29 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Follow You](https://www.last.fm/music/Imagine+Dragons/_/Follow+You), by Imagine Dragons (streaming now)
+- [Dust and Ashes](https://www.last.fm/music/Josh+Groban/_/Dust+and+Ashes), by Josh Groban (26 Dec 2021, 21:35)
+- [Hope](https://www.last.fm/music/The+Chainsmokers/_/Hope), by The Chainsmokers (26 Dec 2021, 21:32)
+- [Horns](https://www.last.fm/music/Bryce+Fox/_/Horns), by Bryce Fox (26 Dec 2021, 21:29)
+- [Grilled Cheese](https://www.last.fm/music/Peach+Face/_/Grilled+Cheese), by Peach Face (26 Dec 2021, 21:24)
+- [Alright](https://www.last.fm/music/Johnny+Manchild+and+the+Poor+Bastards/_/Alright), by Johnny Manchild and the Poor Bastards (26 Dec 2021, 21:19)
+- [Blue Hoodie Baby](https://www.last.fm/music/brotherkenzie/_/Blue+Hoodie+Baby), by brotherkenzie (26 Dec 2021, 21:16)
+- [BROOKLYN](https://www.last.fm/music/brotherkenzie/_/BROOKLYN), by brotherkenzie (26 Dec 2021, 21:14)
+- [utah](https://www.last.fm/music/brotherkenzie/_/utah), by brotherkenzie (26 Dec 2021, 21:11)
+- [stick around](https://www.last.fm/music/brotherkenzie/_/stick+around), by brotherkenzie (26 Dec 2021, 21:08)
+- [Starchild](https://www.last.fm/music/Ghost+Quartet/_/Starchild), by Ghost Quartet (26 Dec 2021, 20:33)
 - [Runaway Goliath](https://www.last.fm/music/Mantaraybryn/_/Runaway+Goliath), by Mantaraybryn (26 Dec 2021, 20:29)
 - [In My Head](https://www.last.fm/music/Bedroom/_/In+My+Head), by Bedroom (26 Dec 2021, 20:23)
 - [Prime](https://www.last.fm/music/Roan+Martin/_/Prime), by Roan Martin (26 Dec 2021, 20:17)
@@ -44,13 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Moonlight/ Sunrise](https://www.last.fm/music/Rope+and+Ladder/_/Moonlight%2F+Sunrise), by Rope and Ladder (26 Dec 2021, 04:44)
 - [Rush B](https://www.last.fm/music/Sheet+Music+Boss/_/Rush+B), by Sheet Music Boss (26 Dec 2021, 03:53)
 - [Human](https://www.last.fm/music/Anavae/_/Human), by Anavae (26 Dec 2021, 03:28)
-- [Relimerence](https://www.last.fm/music/The+Happy+Fits/_/Relimerence), by The Happy Fits (26 Dec 2021, 03:11)
-- [Could Have Been Me](https://www.last.fm/music/The+Struts/_/Could+Have+Been+Me), by The Struts (26 Dec 2021, 03:08)
-- [Mile Magnificent](https://www.last.fm/music/Molly+Ofgeography/_/Mile+Magnificent), by Molly Ofgeography (26 Dec 2021, 03:05)
-- [Zombie](https://www.last.fm/music/Bad+Pony/_/Zombie), by Bad Pony (26 Dec 2021, 03:01)
-- [Life Is Lame](https://www.last.fm/music/jonah+renna/_/Life+Is+Lame), by jonah renna (25 Dec 2021, 23:42)
-- [Good Lie](https://www.last.fm/music/Sammy+Copley/_/Good+Lie), by Sammy Copley (25 Dec 2021, 23:28)
-- [I Think I Like When It Rains](https://www.last.fm/music/Willis/_/I+Think+I+Like+When+It+Rains), by Willis (25 Dec 2021, 23:23)
-- [Starchild](https://www.last.fm/music/Ghost+Quartet/_/Starchild), by Ghost Quartet (25 Dec 2021, 23:20)
-- [I Don't Love You Anymore](https://www.last.fm/music/The+Honeysticks/_/I+Don%27t+Love+You+Anymore), by The Honeysticks (25 Dec 2021, 22:00)
-- [hug all ur friends](https://www.last.fm/music/Cavetown/_/hug+all+ur+friends), by Cavetown (25 Dec 2021, 21:54)
