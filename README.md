@@ -1,9 +1,14 @@
 
 # Spotify Stats
-## Last Updated Sun Dec 26 2021 02:59:20 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sun Dec 26 2021 03:46:46 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Relimerence](https://www.last.fm/music/The+Happy+Fits/_/Relimerence), by The Happy Fits (26 Dec 2021, 03:11)
+- [Could Have Been Me](https://www.last.fm/music/The+Struts/_/Could+Have+Been+Me), by The Struts (26 Dec 2021, 03:08)
+- [Mile Magnificent](https://www.last.fm/music/Molly+Ofgeography/_/Mile+Magnificent), by Molly Ofgeography (26 Dec 2021, 03:05)
+- [Zombie](https://www.last.fm/music/Bad+Pony/_/Zombie), by Bad Pony (26 Dec 2021, 03:01)
+- [Life Is Lame](https://www.last.fm/music/jonah+renna/_/Life+Is+Lame), by jonah renna (25 Dec 2021, 23:42)
 - [Good Lie](https://www.last.fm/music/Sammy+Copley/_/Good+Lie), by Sammy Copley (25 Dec 2021, 23:28)
 - [I Think I Like When It Rains](https://www.last.fm/music/Willis/_/I+Think+I+Like+When+It+Rains), by Willis (25 Dec 2021, 23:23)
 - [Starchild](https://www.last.fm/music/Ghost+Quartet/_/Starchild), by Ghost Quartet (25 Dec 2021, 23:20)
@@ -49,8 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [daydreaming](https://www.last.fm/music/Brandan+Chen/_/daydreaming), by Brandan Chen (24 Dec 2021, 22:45)
 - [You Know How It Is](https://www.last.fm/music/Kero+Kero+Bonito/_/You+Know+How+It+Is), by Kero Kero Bonito (24 Dec 2021, 22:43)
 - [I Just Wanna Feel](https://www.last.fm/music/Brandan+Chen/_/I+Just+Wanna+Feel), by Brandan Chen (24 Dec 2021, 22:40)
-- [Bodys](https://www.last.fm/music/Car+Seat+Headrest/_/Bodys), by Car Seat Headrest (24 Dec 2021, 22:32)
-- [Dark Red](https://www.last.fm/music/Steve+Lacy/_/Dark+Red), by Steve Lacy (24 Dec 2021, 22:29)
-- [Heaven Knows I'm Miserable Now - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/Heaven+Knows+I%27m+Miserable+Now+-+2011+Remaster), by The Smiths (24 Dec 2021, 22:26)
-- [New Flesh](https://www.last.fm/music/Current+Joys/_/New+Flesh), by Current Joys (24 Dec 2021, 22:24)
-- [Kilby Girl](https://www.last.fm/music/The+Backseat+Lovers/_/Kilby+Girl), by The Backseat Lovers (24 Dec 2021, 22:19)
