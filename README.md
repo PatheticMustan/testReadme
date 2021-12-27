@@ -1,10 +1,19 @@
 
 # Spotify Stats
-## Last Updated Mon Dec 27 2021 22:44:25 GMT+0000 (Coordinated Universal Time))
+## Last Updated Mon Dec 27 2021 23:44:38 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [No Sleep](https://www.last.fm/music/Keepitinside/_/No+Sleep), by Keepitinside (streaming now)
+- [Glowing](https://www.last.fm/music/Slaughter+Beach,+Dog/_/Glowing), by Slaughter Beach, Dog (27 Dec 2021, 23:16)
+- [Eventualities](https://www.last.fm/music/Daddy%27s+Beemer/_/Eventualities), by Daddy's Beemer (27 Dec 2021, 23:12)
+- [Lotus Eater](https://www.last.fm/music/Foster+the+People/_/Lotus+Eater), by Foster the People (27 Dec 2021, 23:09)
+- [Iced Tea](https://www.last.fm/music/Milkpunch/_/Iced+Tea), by Milkpunch (27 Dec 2021, 23:04)
+- [Come Out](https://www.last.fm/music/Masek+Porter/_/Come+Out), by Masek Porter (27 Dec 2021, 23:00)
+- [Little Too Late](https://www.last.fm/music/Camino+84/_/Little+Too+Late), by Camino 84 (27 Dec 2021, 22:58)
+- [Illusion](https://www.last.fm/music/feelers/_/Illusion), by feelers (27 Dec 2021, 22:54)
+- [Lonely Mess](https://www.last.fm/music/Laundry/_/Lonely+Mess), by Laundry (27 Dec 2021, 22:50)
+- [Denim](https://www.last.fm/music/Stelth+Ulvang/_/Denim), by Stelth Ulvang (27 Dec 2021, 22:47)
+- [No Sleep](https://www.last.fm/music/Keepitinside/_/No+Sleep), by Keepitinside (27 Dec 2021, 22:43)
 - [S F D D](https://www.last.fm/music/Stacked+Like+Pancakes/_/S+F+D+D), by Stacked Like Pancakes (27 Dec 2021, 22:40)
 - [It's Not Real](https://www.last.fm/music/mabel+ye/_/It%27s+Not+Real), by mabel ye (27 Dec 2021, 22:37)
 - [Up All Night](https://www.last.fm/music/Kid+Freud/_/Up+All+Night), by Kid Freud (27 Dec 2021, 22:31)
@@ -45,13 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Fool In The Heart](https://www.last.fm/music/Daniel+Knox/_/Fool+In+The+Heart), by Daniel Knox (26 Dec 2021, 22:11)
 - [Lovescene](https://www.last.fm/music/Daniel+Knox/_/Lovescene), by Daniel Knox (26 Dec 2021, 22:09)
 - [Lovescene](https://www.last.fm/music/Daniel+Knox/_/Lovescene), by Daniel Knox (26 Dec 2021, 22:07)
-- [Curl up & Die](https://www.last.fm/music/Matt+Maltese/_/Curl+up+&+Die), by Matt Maltese (26 Dec 2021, 22:03)
-- [Look Like People](https://www.last.fm/music/Blue+Rain+Boots/_/Look+Like+People), by Blue Rain Boots (26 Dec 2021, 21:58)
-- [I want a dog](https://www.last.fm/music/Hobo+Johnson/_/I+want+a+dog), by Hobo Johnson (26 Dec 2021, 21:55)
-- [suicide romantics](https://www.last.fm/music/Des+Rocs/_/suicide+romantics), by Des Rocs (26 Dec 2021, 21:52)
-- [Medusa in Chains](https://www.last.fm/music/The+Fratellis/_/Medusa+in+Chains), by The Fratellis (26 Dec 2021, 21:48)
-- [Stand Up Tragedy](https://www.last.fm/music/The+Fratellis/_/Stand+Up+Tragedy), by The Fratellis (26 Dec 2021, 21:45)
-- [Follow You](https://www.last.fm/music/Imagine+Dragons/_/Follow+You), by Imagine Dragons (26 Dec 2021, 21:42)
-- [Dust and Ashes](https://www.last.fm/music/Josh+Groban/_/Dust+and+Ashes), by Josh Groban (26 Dec 2021, 21:35)
-- [Hope](https://www.last.fm/music/The+Chainsmokers/_/Hope), by The Chainsmokers (26 Dec 2021, 21:32)
-- [Horns](https://www.last.fm/music/Bryce+Fox/_/Horns), by Bryce Fox (26 Dec 2021, 21:29)
