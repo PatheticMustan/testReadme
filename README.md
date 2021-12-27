@@ -1,9 +1,14 @@
 
 # Spotify Stats
-## Last Updated Mon Dec 27 2021 01:46:22 GMT+0000 (Coordinated Universal Time))
+## Last Updated Mon Dec 27 2021 02:57:29 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Space Cadet](https://www.last.fm/music/The+Technicolors/_/Space+Cadet), by The Technicolors (27 Dec 2021, 01:58)
+- [Out Like a Light 2](https://www.last.fm/music/The+Honeysticks/_/Out+Like+a+Light+2), by The Honeysticks (27 Dec 2021, 01:54)
+- [She Likes Another Boy](https://www.last.fm/music/Oscar+Lang/_/She+Likes+Another+Boy), by Oscar Lang (27 Dec 2021, 01:50)
+- [YKWIM?](https://www.last.fm/music/Yot+Club/_/YKWIM%3F), by Yot Club (27 Dec 2021, 01:48)
+- [Dream Girl](https://www.last.fm/music/crisaunt/_/Dream+Girl), by crisaunt (27 Dec 2021, 01:41)
 - [Better Off Without You](https://www.last.fm/music/Mallory+Knox/_/Better+Off+Without+You), by Mallory Knox (27 Dec 2021, 01:29)
 - [Destruction](https://www.last.fm/music/Joywave/_/Destruction), by Joywave (27 Dec 2021, 01:26)
 - [All I Ever Wanted](https://www.last.fm/music/Futurist/_/All+I+Ever+Wanted), by Futurist (27 Dec 2021, 01:21)
@@ -49,8 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [stick around](https://www.last.fm/music/brotherkenzie/_/stick+around), by brotherkenzie (26 Dec 2021, 21:08)
 - [Starchild](https://www.last.fm/music/Ghost+Quartet/_/Starchild), by Ghost Quartet (26 Dec 2021, 20:33)
 - [Runaway Goliath](https://www.last.fm/music/Mantaraybryn/_/Runaway+Goliath), by Mantaraybryn (26 Dec 2021, 20:29)
-- [In My Head](https://www.last.fm/music/Bedroom/_/In+My+Head), by Bedroom (26 Dec 2021, 20:23)
-- [Prime](https://www.last.fm/music/Roan+Martin/_/Prime), by Roan Martin (26 Dec 2021, 20:17)
-- [Static](https://www.last.fm/music/Oneski/_/Static), by Oneski (26 Dec 2021, 20:15)
-- [Die Like This](https://www.last.fm/music/Mourners/_/Die+Like+This), by Mourners (26 Dec 2021, 20:12)
-- [Dancing In The Moonlight](https://www.last.fm/music/King+Harvest/_/Dancing+In+The+Moonlight), by King Harvest (26 Dec 2021, 20:09)
