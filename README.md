@@ -1,9 +1,18 @@
 
 # Spotify Stats
-## Last Updated Mon Dec 27 2021 21:43:36 GMT+0000 (Coordinated Universal Time))
+## Last Updated Mon Dec 27 2021 22:44:25 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [No Sleep](https://www.last.fm/music/Keepitinside/_/No+Sleep), by Keepitinside (streaming now)
+- [S F D D](https://www.last.fm/music/Stacked+Like+Pancakes/_/S+F+D+D), by Stacked Like Pancakes (27 Dec 2021, 22:40)
+- [It's Not Real](https://www.last.fm/music/mabel+ye/_/It%27s+Not+Real), by mabel ye (27 Dec 2021, 22:37)
+- [Up All Night](https://www.last.fm/music/Kid+Freud/_/Up+All+Night), by Kid Freud (27 Dec 2021, 22:31)
+- [Black Plastic](https://www.last.fm/music/Carver+Commodore/_/Black+Plastic), by Carver Commodore (27 Dec 2021, 22:29)
+- [Nothing Critical](https://www.last.fm/music/Cloudeater/_/Nothing+Critical), by Cloudeater (27 Dec 2021, 22:26)
+- [Pantherland](https://www.last.fm/music/Ghost+Soul+Trio/_/Pantherland), by Ghost Soul Trio (27 Dec 2021, 22:22)
+- [Sweet Tooth](https://www.last.fm/music/Cavetown/_/Sweet+Tooth), by Cavetown (27 Dec 2021, 22:11)
+- [Sophie](https://www.last.fm/music/The+Altogether/_/Sophie), by The Altogether (27 Dec 2021, 02:23)
 - [Space Cadet](https://www.last.fm/music/The+Technicolors/_/Space+Cadet), by The Technicolors (27 Dec 2021, 01:58)
 - [Out Like a Light 2](https://www.last.fm/music/The+Honeysticks/_/Out+Like+a+Light+2), by The Honeysticks (27 Dec 2021, 01:54)
 - [She Likes Another Boy](https://www.last.fm/music/Oscar+Lang/_/She+Likes+Another+Boy), by Oscar Lang (27 Dec 2021, 01:50)
@@ -46,11 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Dust and Ashes](https://www.last.fm/music/Josh+Groban/_/Dust+and+Ashes), by Josh Groban (26 Dec 2021, 21:35)
 - [Hope](https://www.last.fm/music/The+Chainsmokers/_/Hope), by The Chainsmokers (26 Dec 2021, 21:32)
 - [Horns](https://www.last.fm/music/Bryce+Fox/_/Horns), by Bryce Fox (26 Dec 2021, 21:29)
-- [Grilled Cheese](https://www.last.fm/music/Peach+Face/_/Grilled+Cheese), by Peach Face (26 Dec 2021, 21:24)
-- [Alright](https://www.last.fm/music/Johnny+Manchild+and+the+Poor+Bastards/_/Alright), by Johnny Manchild and the Poor Bastards (26 Dec 2021, 21:19)
-- [Blue Hoodie Baby](https://www.last.fm/music/brotherkenzie/_/Blue+Hoodie+Baby), by brotherkenzie (26 Dec 2021, 21:16)
-- [BROOKLYN](https://www.last.fm/music/brotherkenzie/_/BROOKLYN), by brotherkenzie (26 Dec 2021, 21:14)
-- [utah](https://www.last.fm/music/brotherkenzie/_/utah), by brotherkenzie (26 Dec 2021, 21:11)
-- [stick around](https://www.last.fm/music/brotherkenzie/_/stick+around), by brotherkenzie (26 Dec 2021, 21:08)
-- [Starchild](https://www.last.fm/music/Ghost+Quartet/_/Starchild), by Ghost Quartet (26 Dec 2021, 20:33)
-- [Runaway Goliath](https://www.last.fm/music/Mantaraybryn/_/Runaway+Goliath), by Mantaraybryn (26 Dec 2021, 20:29)
