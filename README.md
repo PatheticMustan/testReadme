@@ -1,9 +1,18 @@
 
 # Spotify Stats
-## Last Updated Mon Dec 27 2021 23:44:38 GMT+0000 (Coordinated Universal Time))
+## Last Updated Tue Dec 28 2021 01:45:41 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Drive Me Crazy](https://www.last.fm/music/Hate+Drugs/_/Drive+Me+Crazy), by Hate Drugs (28 Dec 2021, 00:31)
+- [Do It 4 Yrself (DI4Y)](https://www.last.fm/music/Human+Petting+Zoo/_/Do+It+4+Yrself+(DI4Y)), by Human Petting Zoo (28 Dec 2021, 00:30)
+- [Bad Set of Moods](https://www.last.fm/music/Soul+Low/_/Bad+Set+of+Moods), by Soul Low (28 Dec 2021, 00:27)
+- [Blame](https://www.last.fm/music/Andy+Leon/_/Blame), by Andy Leon (28 Dec 2021, 00:23)
+- [Let Yourself Go](https://www.last.fm/music/Haley+Blais/_/Let+Yourself+Go), by Haley Blais (28 Dec 2021, 00:18)
+- [Desaturate](https://www.last.fm/music/Area+11/_/Desaturate), by Area 11 (28 Dec 2021, 00:14)
+- [Last Chance At Love](https://www.last.fm/music/Pinc+Louds/_/Last+Chance+At+Love), by Pinc Louds (28 Dec 2021, 00:08)
+- [Caged / Escape](https://www.last.fm/music/R.I.P./_/Caged+%2F+Escape), by R.I.P. (28 Dec 2021, 00:07)
+- [Jean Jacket](https://www.last.fm/music/Isle+of+Eight/_/Jean+Jacket), by Isle of Eight (27 Dec 2021, 23:18)
 - [Glowing](https://www.last.fm/music/Slaughter+Beach,+Dog/_/Glowing), by Slaughter Beach, Dog (27 Dec 2021, 23:16)
 - [Eventualities](https://www.last.fm/music/Daddy%27s+Beemer/_/Eventualities), by Daddy's Beemer (27 Dec 2021, 23:12)
 - [Lotus Eater](https://www.last.fm/music/Foster+the+People/_/Lotus+Eater), by Foster the People (27 Dec 2021, 23:09)
@@ -45,12 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Moonlight/ Sunrise](https://www.last.fm/music/Rope+and+Ladder/_/Moonlight%2F+Sunrise), by Rope and Ladder (27 Dec 2021, 00:34)
 - [I Am Steve](https://www.last.fm/music/Hey+Steve/_/I+Am+Steve), by Hey Steve (27 Dec 2021, 00:30)
 - [At the Crossing Sign](https://www.last.fm/music/St.Arnaud/_/At+the+Crossing+Sign), by St.Arnaud (27 Dec 2021, 00:27)
-- [Girl in Blue](https://www.last.fm/music/Animal+Sun/_/Girl+in+Blue), by Animal Sun (27 Dec 2021, 00:23)
-- [Doa](https://www.last.fm/music/Armors/_/Doa), by Armors (26 Dec 2021, 22:30)
-- [Case for You](https://www.last.fm/music/Early+Eyes/_/Case+for+You), by Early Eyes (26 Dec 2021, 22:27)
-- [Welcome to the End of Your Life](https://www.last.fm/music/The+Driver+Era/_/Welcome+to+the+End+of+Your+Life), by The Driver Era (26 Dec 2021, 22:23)
-- [Songbird](https://www.last.fm/music/The+Brummies/_/Songbird), by The Brummies (26 Dec 2021, 22:21)
-- [Rollin' Around](https://www.last.fm/music/Nat+&+Alex+Wolff/_/Rollin%27+Around), by Nat & Alex Wolff (26 Dec 2021, 22:17)
-- [Fool In The Heart](https://www.last.fm/music/Daniel+Knox/_/Fool+In+The+Heart), by Daniel Knox (26 Dec 2021, 22:11)
-- [Lovescene](https://www.last.fm/music/Daniel+Knox/_/Lovescene), by Daniel Knox (26 Dec 2021, 22:09)
-- [Lovescene](https://www.last.fm/music/Daniel+Knox/_/Lovescene), by Daniel Knox (26 Dec 2021, 22:07)
