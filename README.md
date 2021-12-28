@@ -1,9 +1,19 @@
 
 # Spotify Stats
-## Last Updated Tue Dec 28 2021 04:55:49 GMT+0000 (Coordinated Universal Time))
+## Last Updated Tue Dec 28 2021 05:43:26 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Sophie](https://www.last.fm/music/The+Altogether/_/Sophie), by The Altogether (streaming now)
+- [Luxton](https://www.last.fm/music/Nonfiction/_/Luxton), by Nonfiction (28 Dec 2021, 05:39)
+- [Broken Bones](https://www.last.fm/music/CRX/_/Broken+Bones), by CRX (28 Dec 2021, 05:36)
+- [I Know It's Over - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/I+Know+It%27s+Over+-+2011+Remaster), by The Smiths (28 Dec 2021, 05:30)
+- [We Grew Up So Well](https://www.last.fm/music/Jack+Conte/_/We+Grew+Up+So+Well), by Jack Conte (28 Dec 2021, 05:27)
+- [Expert](https://www.last.fm/music/Pretoria/_/Expert), by Pretoria (28 Dec 2021, 05:24)
+- [Keep Two-Stepping](https://www.last.fm/music/Pretoria/_/Keep+Two-Stepping), by Pretoria (28 Dec 2021, 05:21)
+- [Money Sucks](https://www.last.fm/music/Stacked+Like+Pancakes/_/Money+Sucks), by Stacked Like Pancakes (28 Dec 2021, 05:19)
+- [S F D D](https://www.last.fm/music/Stacked+Like+Pancakes/_/S+F+D+D), by Stacked Like Pancakes (28 Dec 2021, 05:16)
+- [Hrglass](https://www.last.fm/music/The+Vernes/_/Hrglass), by The Vernes (28 Dec 2021, 04:46)
 - [Hrglass](https://www.last.fm/music/The+Vernes/_/Hrglass), by The Vernes (28 Dec 2021, 04:38)
 - [No One Likes You](https://www.last.fm/music/Smidley/_/No+One+Likes+You), by Smidley (28 Dec 2021, 04:35)
 - [Sail Away](https://www.last.fm/music/The+Long+Faces/_/Sail+Away), by The Long Faces (28 Dec 2021, 04:31)
@@ -45,12 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Destruction](https://www.last.fm/music/Joywave/_/Destruction), by Joywave (27 Dec 2021, 01:26)
 - [All I Ever Wanted](https://www.last.fm/music/Futurist/_/All+I+Ever+Wanted), by Futurist (27 Dec 2021, 01:21)
 - [Tongue Tied Twisted](https://www.last.fm/music/Suit+Up,+Soldier/_/Tongue+Tied+Twisted), by Suit Up, Soldier (27 Dec 2021, 01:18)
-- [Bayonnettes](https://www.last.fm/music/Shayfer+James/_/Bayonnettes), by Shayfer James (27 Dec 2021, 01:14)
-- [See You Again](https://www.last.fm/music/Jmsey/_/See+You+Again), by Jmsey (27 Dec 2021, 01:12)
-- [Wisdom](https://www.last.fm/music/Mother+Mother/_/Wisdom), by Mother Mother (27 Dec 2021, 01:08)
-- [Doubts](https://www.last.fm/music/c0nv0/_/Doubts), by c0nv0 (27 Dec 2021, 01:04)
-- [Whistle](https://www.last.fm/music/Rocket+Surgeons/_/Whistle), by Rocket Surgeons (27 Dec 2021, 01:01)
-- [New Flesh](https://www.last.fm/music/Current+Joys/_/New+Flesh), by Current Joys (27 Dec 2021, 00:58)
-- [Creep](https://www.last.fm/music/Radiohead/_/Creep), by Radiohead (27 Dec 2021, 00:54)
-- [Kool Girl](https://www.last.fm/music/Seasalt/_/Kool+Girl), by Seasalt (27 Dec 2021, 00:51)
-- [Starcrossed Losers](https://www.last.fm/music/The+Fratellis/_/Starcrossed+Losers), by The Fratellis (27 Dec 2021, 00:46)
