@@ -1,9 +1,10 @@
 
 # Spotify Stats
-## Last Updated Tue Dec 28 2021 21:43:36 GMT+0000 (Coordinated Universal Time))
+## Last Updated Tue Dec 28 2021 22:44:33 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Post Party Depression](https://www.last.fm/music/Night+Gaunts/_/Post+Party+Depression), by Night Gaunts (28 Dec 2021, 20:41)
 - [S F D D](https://www.last.fm/music/Stacked+Like+Pancakes/_/S+F+D+D), by Stacked Like Pancakes (28 Dec 2021, 19:57)
 - [Poor George](https://www.last.fm/music/James+Supercave/_/Poor+George), by James Supercave (28 Dec 2021, 07:21)
 - [Nothing Critical](https://www.last.fm/music/Cloudeater/_/Nothing+Critical), by Cloudeater (28 Dec 2021, 07:18)
@@ -53,4 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Let Yourself Go](https://www.last.fm/music/Haley+Blais/_/Let+Yourself+Go), by Haley Blais (28 Dec 2021, 00:18)
 - [Desaturate](https://www.last.fm/music/Area+11/_/Desaturate), by Area 11 (28 Dec 2021, 00:14)
 - [Last Chance At Love](https://www.last.fm/music/Pinc+Louds/_/Last+Chance+At+Love), by Pinc Louds (28 Dec 2021, 00:08)
-- [Caged / Escape](https://www.last.fm/music/R.I.P./_/Caged+%2F+Escape), by R.I.P. (28 Dec 2021, 00:07)
