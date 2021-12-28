@@ -1,10 +1,18 @@
 
 # Spotify Stats
-## Last Updated Tue Dec 28 2021 06:52:55 GMT+0000 (Coordinated Universal Time))
+## Last Updated Tue Dec 28 2021 07:43:28 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Should This Noose Unloosen](https://www.last.fm/music/Civilian/_/Should+This+Noose+Unloosen), by Civilian (streaming now)
+- [Nothing Critical](https://www.last.fm/music/Cloudeater/_/Nothing+Critical), by Cloudeater (28 Dec 2021, 07:18)
+- [Freaking Out](https://www.last.fm/music/The+Wrecks/_/Freaking+Out), by The Wrecks (28 Dec 2021, 07:14)
+- [Burning Pile](https://www.last.fm/music/Mother+Mother/_/Burning+Pile), by Mother Mother (28 Dec 2021, 07:10)
+- [Bloody Shirt - Bastille Remix](https://www.last.fm/music/To+Kill+a+King/_/Bloody+Shirt+-+Bastille+Remix), by To Kill a King (28 Dec 2021, 07:06)
+- [Underground](https://www.last.fm/music/Cody+Fry/_/Underground), by Cody Fry (28 Dec 2021, 07:03)
+- [Lost](https://www.last.fm/music/Kris+Allen/_/Lost), by Kris Allen (28 Dec 2021, 07:00)
+- [Typical Story](https://www.last.fm/music/Hobo+Johnson/_/Typical+Story), by Hobo Johnson (28 Dec 2021, 06:57)
+- [suicide romantics](https://www.last.fm/music/Des+Rocs/_/suicide+romantics), by Des Rocs (28 Dec 2021, 06:53)
+- [Should This Noose Unloosen](https://www.last.fm/music/Civilian/_/Should+This+Noose+Unloosen), by Civilian (28 Dec 2021, 06:47)
 - [Caroline](https://www.last.fm/music/Civilian/_/Caroline), by Civilian (28 Dec 2021, 06:42)
 - [Headache](https://www.last.fm/music/August+Kuper/_/Headache), by August Kuper (28 Dec 2021, 06:37)
 - [Good Lie](https://www.last.fm/music/Sammy+Copley/_/Good+Lie), by Sammy Copley (28 Dec 2021, 06:34)
@@ -46,12 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Caged / Escape](https://www.last.fm/music/R.I.P./_/Caged+%2F+Escape), by R.I.P. (28 Dec 2021, 00:07)
 - [Jean Jacket](https://www.last.fm/music/Isle+of+Eight/_/Jean+Jacket), by Isle of Eight (27 Dec 2021, 23:18)
 - [Glowing](https://www.last.fm/music/Slaughter+Beach,+Dog/_/Glowing), by Slaughter Beach, Dog (27 Dec 2021, 23:16)
-- [Eventualities](https://www.last.fm/music/Daddy%27s+Beemer/_/Eventualities), by Daddy's Beemer (27 Dec 2021, 23:12)
-- [Lotus Eater](https://www.last.fm/music/Foster+the+People/_/Lotus+Eater), by Foster the People (27 Dec 2021, 23:09)
-- [Iced Tea](https://www.last.fm/music/Milkpunch/_/Iced+Tea), by Milkpunch (27 Dec 2021, 23:04)
-- [Come Out](https://www.last.fm/music/Masek+Porter/_/Come+Out), by Masek Porter (27 Dec 2021, 23:00)
-- [Little Too Late](https://www.last.fm/music/Camino+84/_/Little+Too+Late), by Camino 84 (27 Dec 2021, 22:58)
-- [Illusion](https://www.last.fm/music/feelers/_/Illusion), by feelers (27 Dec 2021, 22:54)
-- [Lonely Mess](https://www.last.fm/music/Laundry/_/Lonely+Mess), by Laundry (27 Dec 2021, 22:50)
-- [Denim](https://www.last.fm/music/Stelth+Ulvang/_/Denim), by Stelth Ulvang (27 Dec 2021, 22:47)
-- [No Sleep](https://www.last.fm/music/Keepitinside/_/No+Sleep), by Keepitinside (27 Dec 2021, 22:43)
