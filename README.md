@@ -1,9 +1,11 @@
 
 # Spotify Stats
-## Last Updated Tue Dec 28 2021 19:43:16 GMT+0000 (Coordinated Universal Time))
+## Last Updated Tue Dec 28 2021 20:45:04 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [S F D D](https://www.last.fm/music/Stacked+Like+Pancakes/_/S+F+D+D), by Stacked Like Pancakes (28 Dec 2021, 19:57)
+- [Poor George](https://www.last.fm/music/James+Supercave/_/Poor+George), by James Supercave (28 Dec 2021, 07:21)
 - [Nothing Critical](https://www.last.fm/music/Cloudeater/_/Nothing+Critical), by Cloudeater (28 Dec 2021, 07:18)
 - [Freaking Out](https://www.last.fm/music/The+Wrecks/_/Freaking+Out), by The Wrecks (28 Dec 2021, 07:14)
 - [Burning Pile](https://www.last.fm/music/Mother+Mother/_/Burning+Pile), by Mother Mother (28 Dec 2021, 07:10)
@@ -52,5 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Desaturate](https://www.last.fm/music/Area+11/_/Desaturate), by Area 11 (28 Dec 2021, 00:14)
 - [Last Chance At Love](https://www.last.fm/music/Pinc+Louds/_/Last+Chance+At+Love), by Pinc Louds (28 Dec 2021, 00:08)
 - [Caged / Escape](https://www.last.fm/music/R.I.P./_/Caged+%2F+Escape), by R.I.P. (28 Dec 2021, 00:07)
-- [Jean Jacket](https://www.last.fm/music/Isle+of+Eight/_/Jean+Jacket), by Isle of Eight (27 Dec 2021, 23:18)
-- [Glowing](https://www.last.fm/music/Slaughter+Beach,+Dog/_/Glowing), by Slaughter Beach, Dog (27 Dec 2021, 23:16)
