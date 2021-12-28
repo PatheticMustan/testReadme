@@ -1,9 +1,14 @@
 
 # Spotify Stats
-## Last Updated Tue Dec 28 2021 03:46:15 GMT+0000 (Coordinated Universal Time))
+## Last Updated Tue Dec 28 2021 04:55:49 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Hrglass](https://www.last.fm/music/The+Vernes/_/Hrglass), by The Vernes (28 Dec 2021, 04:38)
+- [No One Likes You](https://www.last.fm/music/Smidley/_/No+One+Likes+You), by Smidley (28 Dec 2021, 04:35)
+- [Sail Away](https://www.last.fm/music/The+Long+Faces/_/Sail+Away), by The Long Faces (28 Dec 2021, 04:31)
+- [Young Adult](https://www.last.fm/music/Ritt+Momney/_/Young+Adult), by Ritt Momney (28 Dec 2021, 04:26)
+- [Young Adult](https://www.last.fm/music/Ritt+Momney/_/Young+Adult), by Ritt Momney (28 Dec 2021, 00:35)
 - [Drive Me Crazy](https://www.last.fm/music/Hate+Drugs/_/Drive+Me+Crazy), by Hate Drugs (28 Dec 2021, 00:31)
 - [Do It 4 Yrself (DI4Y)](https://www.last.fm/music/Human+Petting+Zoo/_/Do+It+4+Yrself+(DI4Y)), by Human Petting Zoo (28 Dec 2021, 00:30)
 - [Bad Set of Moods](https://www.last.fm/music/Soul+Low/_/Bad+Set+of+Moods), by Soul Low (28 Dec 2021, 00:27)
@@ -49,8 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Creep](https://www.last.fm/music/Radiohead/_/Creep), by Radiohead (27 Dec 2021, 00:54)
 - [Kool Girl](https://www.last.fm/music/Seasalt/_/Kool+Girl), by Seasalt (27 Dec 2021, 00:51)
 - [Starcrossed Losers](https://www.last.fm/music/The+Fratellis/_/Starcrossed+Losers), by The Fratellis (27 Dec 2021, 00:46)
-- [Close Your Eyes](https://www.last.fm/music/The+Midnight+Club/_/Close+Your+Eyes), by The Midnight Club (27 Dec 2021, 00:43)
-- [Bremen](https://www.last.fm/music/Pigpen+Theatre+Co./_/Bremen), by Pigpen Theatre Co. (27 Dec 2021, 00:39)
-- [Moonlight/ Sunrise](https://www.last.fm/music/Rope+and+Ladder/_/Moonlight%2F+Sunrise), by Rope and Ladder (27 Dec 2021, 00:34)
-- [I Am Steve](https://www.last.fm/music/Hey+Steve/_/I+Am+Steve), by Hey Steve (27 Dec 2021, 00:30)
-- [At the Crossing Sign](https://www.last.fm/music/St.Arnaud/_/At+the+Crossing+Sign), by St.Arnaud (27 Dec 2021, 00:27)
