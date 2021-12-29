@@ -1,10 +1,17 @@
 
 # Spotify Stats
-## Last Updated Wed Dec 29 2021 01:45:26 GMT+0000 (Coordinated Universal Time))
+## Last Updated Wed Dec 29 2021 02:56:40 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Sophie](https://www.last.fm/music/The+Altogether/_/Sophie), by The Altogether (streaming now)
+- [Nice House](https://www.last.fm/music/Joywave/_/Nice+House), by Joywave (29 Dec 2021, 02:07)
+- [I Wanna Get Better](https://www.last.fm/music/Bleachers/_/I+Wanna+Get+Better), by Bleachers (29 Dec 2021, 02:04)
+- [Good Lie](https://www.last.fm/music/Sammy+Copley/_/Good+Lie), by Sammy Copley (29 Dec 2021, 02:01)
+- [The Night We Met](https://www.last.fm/music/Lord+Huron/_/The+Night+We+Met), by Lord Huron (29 Dec 2021, 01:57)
+- [Downhill](https://www.last.fm/music/Lincoln/_/Downhill), by Lincoln (29 Dec 2021, 01:53)
+- [you were good to me](https://www.last.fm/music/Jeremy+Zucker/_/you+were+good+to+me), by Jeremy Zucker (29 Dec 2021, 01:49)
+- [Old Ghost](https://www.last.fm/music/Beatnik+Bandits/_/Old+Ghost), by Beatnik Bandits (29 Dec 2021, 01:45)
+- [Sophie](https://www.last.fm/music/The+Altogether/_/Sophie), by The Altogether (29 Dec 2021, 01:41)
 - [Don’t Touch Me](https://www.last.fm/music/Daniel+Knox/_/Don%E2%80%99t+Touch+Me), by Daniel Knox (29 Dec 2021, 01:39)
 - [Lost](https://www.last.fm/music/Kris+Allen/_/Lost), by Kris Allen (29 Dec 2021, 01:35)
 - [Nothing Critical](https://www.last.fm/music/Cloudeater/_/Nothing+Critical), by Cloudeater (29 Dec 2021, 01:32)
@@ -47,11 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Good Lie](https://www.last.fm/music/Sammy+Copley/_/Good+Lie), by Sammy Copley (28 Dec 2021, 06:34)
 - [My Smile is Extinct](https://www.last.fm/music/Kane+Strang/_/My+Smile+is+Extinct), by Kane Strang (28 Dec 2021, 06:31)
 - [You Spent All Your Love](https://www.last.fm/music/Mega+Mango/_/You+Spent+All+Your+Love), by Mega Mango (28 Dec 2021, 06:26)
-- [Sing When No One's Around](https://www.last.fm/music/The+Reign+Of+Kindo/_/Sing+When+No+One%27s+Around), by The Reign Of Kindo (28 Dec 2021, 06:22)
-- [Old Ghost](https://www.last.fm/music/Beatnik+Bandits/_/Old+Ghost), by Beatnik Bandits (28 Dec 2021, 06:18)
-- [idontknowman](https://www.last.fm/music/Casey+Mattson/_/idontknowman), by Casey Mattson (28 Dec 2021, 06:15)
-- [I Built A Friend (2020)](https://www.last.fm/music/Alec+Benjamin/_/I+Built+A+Friend+(2020)), by Alec Benjamin (28 Dec 2021, 06:12)
-- [Without Me](https://www.last.fm/music/Halsey/_/Without+Me), by Halsey (28 Dec 2021, 06:09)
-- [Closer](https://www.last.fm/music/The+Chainsmokers/_/Closer), by The Chainsmokers (28 Dec 2021, 06:05)
-- [Gasoline](https://www.last.fm/music/Halsey/_/Gasoline), by Halsey (28 Dec 2021, 06:01)
-- [hug all ur friends](https://www.last.fm/music/Cavetown/_/hug+all+ur+friends), by Cavetown (28 Dec 2021, 05:56)
