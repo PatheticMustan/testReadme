@@ -1,10 +1,21 @@
 
 # Spotify Stats
-## Last Updated Wed Dec 29 2021 04:55:59 GMT+0000 (Coordinated Universal Time))
+## Last Updated Wed Dec 29 2021 05:43:26 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [After Midnight](https://www.last.fm/music/The+Brummies/_/After+Midnight), by The Brummies (streaming now)
+- [Automatic World](https://www.last.fm/music/The+Brummies/_/Automatic+World), by The Brummies (streaming now)
+- [Burn It All](https://www.last.fm/music/Panicland/_/Burn+It+All), by Panicland (29 Dec 2021, 05:37)
+- [INEXPLICABLE](https://www.last.fm/music/The+Correspondents/_/INEXPLICABLE), by The Correspondents (29 Dec 2021, 05:32)
+- [Congratulations, You Survived Your Suicide](https://www.last.fm/music/Sycamore+Smith/_/Congratulations,+You+Survived+Your+Suicide), by Sycamore Smith (29 Dec 2021, 05:28)
+- [Whisper](https://www.last.fm/music/Burn+the+Ballroom/_/Whisper), by Burn the Ballroom (29 Dec 2021, 05:23)
+- [Eddie Baby](https://www.last.fm/music/Felix+Hagan+&+The+Family/_/Eddie+Baby), by Felix Hagan & The Family (29 Dec 2021, 05:20)
+- [Eddie Baby](https://www.last.fm/music/Felix+Hagan+&+The+Family/_/Eddie+Baby), by Felix Hagan & The Family (29 Dec 2021, 05:14)
+- [Island](https://www.last.fm/music/The+Brummies/_/Island), by The Brummies (29 Dec 2021, 05:06)
+- [Been Here Before](https://www.last.fm/music/The+Brummies/_/Been+Here+Before), by The Brummies (29 Dec 2021, 05:03)
+- [Tomorrow](https://www.last.fm/music/The+Brummies/_/Tomorrow), by The Brummies (29 Dec 2021, 05:00)
+- [Automatic World](https://www.last.fm/music/The+Brummies/_/Automatic+World), by The Brummies (29 Dec 2021, 04:56)
+- [After Midnight](https://www.last.fm/music/The+Brummies/_/After+Midnight), by The Brummies (29 Dec 2021, 04:53)
 - [That Night](https://www.last.fm/music/The+Brummies/_/That+Night), by The Brummies (29 Dec 2021, 04:50)
 - [Love Language](https://www.last.fm/music/The+Brummies/_/Love+Language), by The Brummies (29 Dec 2021, 04:47)
 - [Who Should I Be](https://www.last.fm/music/The+Brummies/_/Who+Should+I+Be), by The Brummies (29 Dec 2021, 04:42)
@@ -44,14 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Underground](https://www.last.fm/music/Cody+Fry/_/Underground), by Cody Fry (29 Dec 2021, 00:23)
 - [Dance You Back to Life](https://www.last.fm/music/Justin+Kuritzkes/_/Dance+You+Back+to+Life), by Justin Kuritzkes (29 Dec 2021, 00:18)
 - [Bitches in My Head](https://www.last.fm/music/Su+Lee/_/Bitches+in+My+Head), by Su Lee (29 Dec 2021, 00:15)
-- [Keep Two-Stepping](https://www.last.fm/music/Pretoria/_/Keep+Two-Stepping), by Pretoria (29 Dec 2021, 00:11)
-- [Keep Two-Stepping](https://www.last.fm/music/Pretoria/_/Keep+Two-Stepping), by Pretoria (29 Dec 2021, 00:07)
-- [Post Party Depression](https://www.last.fm/music/Night+Gaunts/_/Post+Party+Depression), by Night Gaunts (28 Dec 2021, 20:41)
-- [S F D D](https://www.last.fm/music/Stacked+Like+Pancakes/_/S+F+D+D), by Stacked Like Pancakes (28 Dec 2021, 19:57)
-- [Poor George](https://www.last.fm/music/James+Supercave/_/Poor+George), by James Supercave (28 Dec 2021, 07:21)
-- [Nothing Critical](https://www.last.fm/music/Cloudeater/_/Nothing+Critical), by Cloudeater (28 Dec 2021, 07:18)
-- [Freaking Out](https://www.last.fm/music/The+Wrecks/_/Freaking+Out), by The Wrecks (28 Dec 2021, 07:14)
-- [Burning Pile](https://www.last.fm/music/Mother+Mother/_/Burning+Pile), by Mother Mother (28 Dec 2021, 07:10)
-- [Bloody Shirt - Bastille Remix](https://www.last.fm/music/To+Kill+a+King/_/Bloody+Shirt+-+Bastille+Remix), by To Kill a King (28 Dec 2021, 07:06)
-- [Underground](https://www.last.fm/music/Cody+Fry/_/Underground), by Cody Fry (28 Dec 2021, 07:03)
-- [Lost](https://www.last.fm/music/Kris+Allen/_/Lost), by Kris Allen (28 Dec 2021, 07:00)
