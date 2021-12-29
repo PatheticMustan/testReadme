@@ -1,9 +1,18 @@
 
 # Spotify Stats
-## Last Updated Wed Dec 29 2021 03:46:08 GMT+0000 (Coordinated Universal Time))
+## Last Updated Wed Dec 29 2021 04:55:59 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [After Midnight](https://www.last.fm/music/The+Brummies/_/After+Midnight), by The Brummies (streaming now)
+- [That Night](https://www.last.fm/music/The+Brummies/_/That+Night), by The Brummies (29 Dec 2021, 04:50)
+- [Love Language](https://www.last.fm/music/The+Brummies/_/Love+Language), by The Brummies (29 Dec 2021, 04:47)
+- [Who Should I Be](https://www.last.fm/music/The+Brummies/_/Who+Should+I+Be), by The Brummies (29 Dec 2021, 04:42)
+- [Til It Happens Again](https://www.last.fm/music/The+Brummies/_/Til+It+Happens+Again), by The Brummies (29 Dec 2021, 04:38)
+- [Fever Dream](https://www.last.fm/music/The+Brummies/_/Fever+Dream), by The Brummies (29 Dec 2021, 04:34)
+- [Call Me](https://www.last.fm/music/The+Brummies/_/Call+Me), by The Brummies (29 Dec 2021, 04:30)
+- [Sunshine](https://www.last.fm/music/The+Brummies/_/Sunshine), by The Brummies (29 Dec 2021, 04:27)
+- [Cherry Blossom](https://www.last.fm/music/The+Brummies/_/Cherry+Blossom), by The Brummies (29 Dec 2021, 04:24)
 - [Nice House](https://www.last.fm/music/Joywave/_/Nice+House), by Joywave (29 Dec 2021, 02:07)
 - [I Wanna Get Better](https://www.last.fm/music/Bleachers/_/I+Wanna+Get+Better), by Bleachers (29 Dec 2021, 02:04)
 - [Good Lie](https://www.last.fm/music/Sammy+Copley/_/Good+Lie), by Sammy Copley (29 Dec 2021, 02:01)
@@ -46,11 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Bloody Shirt - Bastille Remix](https://www.last.fm/music/To+Kill+a+King/_/Bloody+Shirt+-+Bastille+Remix), by To Kill a King (28 Dec 2021, 07:06)
 - [Underground](https://www.last.fm/music/Cody+Fry/_/Underground), by Cody Fry (28 Dec 2021, 07:03)
 - [Lost](https://www.last.fm/music/Kris+Allen/_/Lost), by Kris Allen (28 Dec 2021, 07:00)
-- [Typical Story](https://www.last.fm/music/Hobo+Johnson/_/Typical+Story), by Hobo Johnson (28 Dec 2021, 06:57)
-- [suicide romantics](https://www.last.fm/music/Des+Rocs/_/suicide+romantics), by Des Rocs (28 Dec 2021, 06:53)
-- [Should This Noose Unloosen](https://www.last.fm/music/Civilian/_/Should+This+Noose+Unloosen), by Civilian (28 Dec 2021, 06:47)
-- [Caroline](https://www.last.fm/music/Civilian/_/Caroline), by Civilian (28 Dec 2021, 06:42)
-- [Headache](https://www.last.fm/music/August+Kuper/_/Headache), by August Kuper (28 Dec 2021, 06:37)
-- [Good Lie](https://www.last.fm/music/Sammy+Copley/_/Good+Lie), by Sammy Copley (28 Dec 2021, 06:34)
-- [My Smile is Extinct](https://www.last.fm/music/Kane+Strang/_/My+Smile+is+Extinct), by Kane Strang (28 Dec 2021, 06:31)
-- [You Spent All Your Love](https://www.last.fm/music/Mega+Mango/_/You+Spent+All+Your+Love), by Mega Mango (28 Dec 2021, 06:26)
