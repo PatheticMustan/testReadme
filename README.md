@@ -1,10 +1,18 @@
 
 # Spotify Stats
-## Last Updated Wed Dec 29 2021 06:53:01 GMT+0000 (Coordinated Universal Time))
+## Last Updated Wed Dec 29 2021 07:43:44 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [July](https://www.last.fm/music/Betcha/_/July), by Betcha (streaming now)
+- [Whistle](https://www.last.fm/music/Rocket+Surgeons/_/Whistle), by Rocket Surgeons (streaming now)
+- [Drive Away](https://www.last.fm/music/The+Brummies/_/Drive+Away), by The Brummies (29 Dec 2021, 07:37)
+- [What Have They Done To You Now](https://www.last.fm/music/Daniel+Knox/_/What+Have+They+Done+To+You+Now), by Daniel Knox (29 Dec 2021, 07:34)
+- [Me and My Broken Heart](https://www.last.fm/music/Rixton/_/Me+and+My+Broken+Heart), by Rixton (29 Dec 2021, 07:31)
+- [who sees you](https://www.last.fm/music/My+Bloody+Valentine/_/who+sees+you), by My Bloody Valentine (29 Dec 2021, 07:26)
+- [bangbangbang](https://www.last.fm/music/Deal+Casino/_/bangbangbang), by Deal Casino (29 Dec 2021, 07:01)
+- [Soapbox Sunday](https://www.last.fm/music/Courier+Club/_/Soapbox+Sunday), by Courier Club (29 Dec 2021, 06:58)
+- [Dying in a Hot Tub](https://www.last.fm/music/Palaye+Royale/_/Dying+in+a+Hot+Tub), by Palaye Royale (29 Dec 2021, 06:54)
+- [July](https://www.last.fm/music/Betcha/_/July), by Betcha (29 Dec 2021, 06:51)
 - [July](https://www.last.fm/music/Betcha/_/July), by Betcha (29 Dec 2021, 06:45)
 - [Seashore](https://www.last.fm/music/The+Regrettes/_/Seashore), by The Regrettes (29 Dec 2021, 06:42)
 - [Raspberry](https://www.last.fm/music/Grouplove/_/Raspberry), by Grouplove (29 Dec 2021, 06:39)
@@ -47,11 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Downhill](https://www.last.fm/music/Lincoln/_/Downhill), by Lincoln (29 Dec 2021, 01:53)
 - [you were good to me](https://www.last.fm/music/Jeremy+Zucker/_/you+were+good+to+me), by Jeremy Zucker (29 Dec 2021, 01:49)
 - [Old Ghost](https://www.last.fm/music/Beatnik+Bandits/_/Old+Ghost), by Beatnik Bandits (29 Dec 2021, 01:45)
-- [Sophie](https://www.last.fm/music/The+Altogether/_/Sophie), by The Altogether (29 Dec 2021, 01:41)
-- [Don’t Touch Me](https://www.last.fm/music/Daniel+Knox/_/Don%E2%80%99t+Touch+Me), by Daniel Knox (29 Dec 2021, 01:39)
-- [Lost](https://www.last.fm/music/Kris+Allen/_/Lost), by Kris Allen (29 Dec 2021, 01:35)
-- [Nothing Critical](https://www.last.fm/music/Cloudeater/_/Nothing+Critical), by Cloudeater (29 Dec 2021, 01:32)
-- [My Love - Y2K Remix](https://www.last.fm/music/Jack+Gilinsky/_/My+Love+-+Y2K+Remix), by Jack Gilinsky (29 Dec 2021, 01:29)
-- [It's Not Real](https://www.last.fm/music/mabel+ye/_/It%27s+Not+Real), by mabel ye (29 Dec 2021, 01:26)
-- [idontknowman](https://www.last.fm/music/Casey+Mattson/_/idontknowman), by Casey Mattson (29 Dec 2021, 01:23)
-- [As the World Caves in](https://www.last.fm/music/Matt+Maltese/_/As+the+World+Caves+in), by Matt Maltese (29 Dec 2021, 01:19)
