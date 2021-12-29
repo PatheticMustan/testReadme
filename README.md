@@ -1,10 +1,13 @@
 
 # Spotify Stats
-## Last Updated Wed Dec 29 2021 20:45:05 GMT+0000 (Coordinated Universal Time))
+## Last Updated Wed Dec 29 2021 21:43:18 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [The Adults Are Talking](https://www.last.fm/music/The+Strokes/_/The+Adults+Are+Talking), by The Strokes (streaming now)
+- [Reptilia](https://www.last.fm/music/The+Strokes/_/Reptilia), by The Strokes (29 Dec 2021, 20:54)
+- [What Ever Happened?](https://www.last.fm/music/The+Strokes/_/What+Ever+Happened%3F), by The Strokes (29 Dec 2021, 20:51)
+- [Selfless](https://www.last.fm/music/The+Strokes/_/Selfless), by The Strokes (29 Dec 2021, 20:48)
+- [The Adults Are Talking](https://www.last.fm/music/The+Strokes/_/The+Adults+Are+Talking), by The Strokes (29 Dec 2021, 20:43)
 - [Ode to the Mets](https://www.last.fm/music/The+Strokes/_/Ode+to+the+Mets), by The Strokes (29 Dec 2021, 20:37)
 - [Not the Same Anymore](https://www.last.fm/music/The+Strokes/_/Not+the+Same+Anymore), by The Strokes (29 Dec 2021, 20:32)
 - [Why Are Sundays So Depressing](https://www.last.fm/music/The+Strokes/_/Why+Are+Sundays+So+Depressing), by The Strokes (29 Dec 2021, 20:27)
@@ -51,7 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [I Want To Die Easy](https://www.last.fm/music/We+Is+Shore+Dedicated/_/I+Want+To+Die+Easy), by We Is Shore Dedicated (29 Dec 2021, 08:30)
 - [Lovescene](https://www.last.fm/music/Daniel+Knox/_/Lovescene), by Daniel Knox (29 Dec 2021, 08:26)
 - [Trying To Kill The Moon](https://www.last.fm/music/MotherFolk/_/Trying+To+Kill+The+Moon), by MotherFolk (29 Dec 2021, 08:23)
-- [Starchild](https://www.last.fm/music/Ghost+Quartet/_/Starchild), by Ghost Quartet (29 Dec 2021, 08:20)
-- [Sing When No One's Around](https://www.last.fm/music/The+Reign+Of+Kindo/_/Sing+When+No+One%27s+Around), by The Reign Of Kindo (29 Dec 2021, 08:16)
-- [Saint Bernard](https://www.last.fm/music/Lincoln/_/Saint+Bernard), by Lincoln (29 Dec 2021, 08:14)
-- [Dancing Devil](https://www.last.fm/music/Small+Leaks+Sink+Ships/_/Dancing+Devil), by Small Leaks Sink Ships (29 Dec 2021, 08:10)
