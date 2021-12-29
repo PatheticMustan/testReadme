@@ -1,9 +1,10 @@
 
 # Spotify Stats
-## Last Updated Wed Dec 29 2021 21:43:18 GMT+0000 (Coordinated Universal Time))
+## Last Updated Wed Dec 29 2021 22:44:29 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Automatic Stop](https://www.last.fm/music/The+Strokes/_/Automatic+Stop), by The Strokes (29 Dec 2021, 20:57)
 - [Reptilia](https://www.last.fm/music/The+Strokes/_/Reptilia), by The Strokes (29 Dec 2021, 20:54)
 - [What Ever Happened?](https://www.last.fm/music/The+Strokes/_/What+Ever+Happened%3F), by The Strokes (29 Dec 2021, 20:51)
 - [Selfless](https://www.last.fm/music/The+Strokes/_/Selfless), by The Strokes (29 Dec 2021, 20:48)
@@ -53,4 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [hug all ur friends](https://www.last.fm/music/Cavetown/_/hug+all+ur+friends), by Cavetown (29 Dec 2021, 08:34)
 - [I Want To Die Easy](https://www.last.fm/music/We+Is+Shore+Dedicated/_/I+Want+To+Die+Easy), by We Is Shore Dedicated (29 Dec 2021, 08:30)
 - [Lovescene](https://www.last.fm/music/Daniel+Knox/_/Lovescene), by Daniel Knox (29 Dec 2021, 08:26)
-- [Trying To Kill The Moon](https://www.last.fm/music/MotherFolk/_/Trying+To+Kill+The+Moon), by MotherFolk (29 Dec 2021, 08:23)
