@@ -1,10 +1,16 @@
 
 # Spotify Stats
-## Last Updated Thu Dec 30 2021 06:52:35 GMT+0000 (Coordinated Universal Time))
+## Last Updated Thu Dec 30 2021 07:43:41 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [What Are You Doing New Year’s Eve?](https://www.last.fm/music/The+Head+and+the+Heart/_/What+Are+You+Doing+New+Year%E2%80%99s+Eve%3F), by The Head and the Heart (streaming now)
+- [My Smile is Extinct](https://www.last.fm/music/Kane+Strang/_/My+Smile+is+Extinct), by Kane Strang (30 Dec 2021, 07:33)
+- [Tongue Tied Twisted](https://www.last.fm/music/Suit+Up,+Soldier/_/Tongue+Tied+Twisted), by Suit Up, Soldier (30 Dec 2021, 07:30)
+- [you're my world](https://www.last.fm/music/Atlas/_/you%27re+my+world), by Atlas (30 Dec 2021, 07:27)
+- [Sometimes](https://www.last.fm/music/Nick+Lutsko/_/Sometimes), by Nick Lutsko (30 Dec 2021, 07:23)
+- [Unstoppable](https://www.last.fm/music/The+Score/_/Unstoppable), by The Score (30 Dec 2021, 07:22)
+- [Begin Again](https://www.last.fm/music/Unknown+Brain/_/Begin+Again), by Unknown Brain (30 Dec 2021, 06:54)
+- [What Are You Doing New Year’s Eve?](https://www.last.fm/music/The+Head+and+the+Heart/_/What+Are+You+Doing+New+Year%E2%80%99s+Eve%3F), by The Head and the Heart (30 Dec 2021, 06:49)
 - [Perfect 10 - Unknown Brain & RudeLies VIP](https://www.last.fm/music/Unknown+Brain/_/Perfect+10+-+Unknown+Brain+&+RudeLies+VIP), by Unknown Brain (30 Dec 2021, 06:47)
 - [12:51](https://www.last.fm/music/The+Strokes/_/12:51), by The Strokes (29 Dec 2021, 23:52)
 - [Automatic Stop](https://www.last.fm/music/The+Strokes/_/Automatic+Stop), by The Strokes (29 Dec 2021, 20:57)
@@ -48,10 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Sweet Tangerine](https://www.last.fm/music/The+Hush+Sound/_/Sweet+Tangerine), by The Hush Sound (29 Dec 2021, 18:20)
 - [Gold and Bones](https://www.last.fm/music/Friday+Pilots+Club/_/Gold+and+Bones), by Friday Pilots Club (29 Dec 2021, 18:16)
 - [Thank you, my twilight (Fool on cool version)](https://www.last.fm/music/The+Pillows/_/Thank+you,+my+twilight+(Fool+on+cool+version)), by The Pillows (29 Dec 2021, 18:12)
-- [Strangers](https://www.last.fm/music/Fizzy+Blood/_/Strangers), by Fizzy Blood (29 Dec 2021, 18:08)
-- [Take Tonight](https://www.last.fm/music/The+Family+Crest/_/Take+Tonight), by The Family Crest (29 Dec 2021, 18:05)
-- [Alright](https://www.last.fm/music/Johnny+Manchild+and+the+Poor+Bastards/_/Alright), by Johnny Manchild and the Poor Bastards (29 Dec 2021, 18:00)
-- [Goat's Milk](https://www.last.fm/music/Ezra+Bell/_/Goat%27s+Milk), by Ezra Bell (29 Dec 2021, 17:57)
-- [Expert](https://www.last.fm/music/Pretoria/_/Expert), by Pretoria (29 Dec 2021, 08:44)
-- [Michael](https://www.last.fm/music/Civilian/_/Michael), by Civilian (29 Dec 2021, 08:39)
-- [hug all ur friends](https://www.last.fm/music/Cavetown/_/hug+all+ur+friends), by Cavetown (29 Dec 2021, 08:34)
