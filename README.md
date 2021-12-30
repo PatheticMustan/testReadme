@@ -1,9 +1,12 @@
 
 # Spotify Stats
-## Last Updated Thu Dec 30 2021 18:51:00 GMT+0000 (Coordinated Universal Time))
+## Last Updated Thu Dec 30 2021 19:43:32 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Benzos and Cigarettes](https://www.last.fm/music/Rad+Horror/_/Benzos+and+Cigarettes), by Rad Horror (30 Dec 2021, 19:10)
+- [I.F.L.Y.](https://www.last.fm/music/Bazzi/_/I.F.L.Y.), by Bazzi (30 Dec 2021, 19:06)
+- [Gum](https://www.last.fm/music/Have+A+Good+Season/_/Gum), by Have A Good Season (30 Dec 2021, 07:38)
 - [My Smile is Extinct](https://www.last.fm/music/Kane+Strang/_/My+Smile+is+Extinct), by Kane Strang (30 Dec 2021, 07:33)
 - [Tongue Tied Twisted](https://www.last.fm/music/Suit+Up,+Soldier/_/Tongue+Tied+Twisted), by Suit Up, Soldier (30 Dec 2021, 07:30)
 - [you're my world](https://www.last.fm/music/Atlas/_/you%27re+my+world), by Atlas (30 Dec 2021, 07:27)
@@ -51,6 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Old Ghost](https://www.last.fm/music/Beatnik+Bandits/_/Old+Ghost), by Beatnik Bandits (29 Dec 2021, 18:29)
 - [Pantherland](https://www.last.fm/music/Ghost+Soul+Trio/_/Pantherland), by Ghost Soul Trio (29 Dec 2021, 18:25)
 - [Escape Artist](https://www.last.fm/music/The+Zolas/_/Escape+Artist), by The Zolas (29 Dec 2021, 18:23)
-- [Sweet Tangerine](https://www.last.fm/music/The+Hush+Sound/_/Sweet+Tangerine), by The Hush Sound (29 Dec 2021, 18:20)
-- [Gold and Bones](https://www.last.fm/music/Friday+Pilots+Club/_/Gold+and+Bones), by Friday Pilots Club (29 Dec 2021, 18:16)
-- [Thank you, my twilight (Fool on cool version)](https://www.last.fm/music/The+Pillows/_/Thank+you,+my+twilight+(Fool+on+cool+version)), by The Pillows (29 Dec 2021, 18:12)
