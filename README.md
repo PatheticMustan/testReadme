@@ -1,9 +1,11 @@
 
 # Spotify Stats
-## Last Updated Thu Dec 30 2021 20:44:59 GMT+0000 (Coordinated Universal Time))
+## Last Updated Thu Dec 30 2021 21:43:32 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Kid Midnight](https://www.last.fm/music/Irontom/_/Kid+Midnight), by Irontom (30 Dec 2021, 21:19)
+- [Kid Midnight](https://www.last.fm/music/Irontom/_/Kid+Midnight), by Irontom (30 Dec 2021, 19:14)
 - [Benzos and Cigarettes](https://www.last.fm/music/Rad+Horror/_/Benzos+and+Cigarettes), by Rad Horror (30 Dec 2021, 19:10)
 - [I.F.L.Y.](https://www.last.fm/music/Bazzi/_/I.F.L.Y.), by Bazzi (30 Dec 2021, 19:06)
 - [Gum](https://www.last.fm/music/Have+A+Good+Season/_/Gum), by Have A Good Season (30 Dec 2021, 07:38)
@@ -46,11 +48,9 @@ Oh yeah, the latest and greatest songs listened to!
 - [Grow Back](https://www.last.fm/music/The+Happy+Fits/_/Grow+Back), by The Happy Fits (29 Dec 2021, 18:56)
 - [Sing When No One's Around](https://www.last.fm/music/The+Reign+Of+Kindo/_/Sing+When+No+One%27s+Around), by The Reign Of Kindo (29 Dec 2021, 18:52)
 - [you're my world](https://www.last.fm/music/Atlas/_/you%27re+my+world), by Atlas (29 Dec 2021, 18:50)
+- [I Wanna Get Better](https://www.last.fm/music/Bleachers/_/I+Wanna+Get+Better), by Bleachers (29 Dec 2021, 18:47)
 - [Songbird](https://www.last.fm/music/The+Brummies/_/Songbird), by The Brummies (29 Dec 2021, 18:47)
 - [I Wanna Get Better](https://www.last.fm/music/Bleachers/_/I+Wanna+Get+Better), by Bleachers (29 Dec 2021, 18:44)
 - [White Noise Boys](https://www.last.fm/music/Airways/_/White+Noise+Boys), by Airways (29 Dec 2021, 18:40)
 - [17](https://www.last.fm/music/Bekon/_/17), by Bekon (29 Dec 2021, 18:36)
 - [Close Enough](https://www.last.fm/music/Arrows+in+Action/_/Close+Enough), by Arrows in Action (29 Dec 2021, 18:33)
-- [Old Ghost](https://www.last.fm/music/Beatnik+Bandits/_/Old+Ghost), by Beatnik Bandits (29 Dec 2021, 18:29)
-- [Pantherland](https://www.last.fm/music/Ghost+Soul+Trio/_/Pantherland), by Ghost Soul Trio (29 Dec 2021, 18:25)
-- [Escape Artist](https://www.last.fm/music/The+Zolas/_/Escape+Artist), by The Zolas (29 Dec 2021, 18:23)
