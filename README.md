@@ -1,9 +1,21 @@
 
 # Spotify Stats
-## Last Updated Thu Dec 30 2021 22:44:28 GMT+0000 (Coordinated Universal Time))
+## Last Updated Thu Dec 30 2021 23:44:45 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [One More Time With Feeling](https://www.last.fm/music/Regina+Spektor/_/One+More+Time+With+Feeling), by Regina Spektor (streaming now)
+- [I Feel Like I'm Drowning](https://www.last.fm/music/Two+Feet/_/I+Feel+Like+I%27m+Drowning), by Two Feet (30 Dec 2021, 23:39)
+- [drive slow](https://www.last.fm/music/Addie/_/drive+slow), by Addie (30 Dec 2021, 23:33)
+- [Everything Black](https://www.last.fm/music/Unlike+Pluto/_/Everything+Black), by Unlike Pluto (30 Dec 2021, 23:29)
+- [Silence - Remix ver.](https://www.last.fm/music/Caramel+Column/_/Silence+-+Remix+ver.), by Caramel Column (30 Dec 2021, 23:26)
+- [Hope](https://www.last.fm/music/The+Chainsmokers/_/Hope), by The Chainsmokers (30 Dec 2021, 23:23)
+- [Factories](https://www.last.fm/music/Autoheart/_/Factories), by Autoheart (30 Dec 2021, 23:19)
+- [Slumber](https://www.last.fm/music/Sl%C3%B8tface/_/Slumber), by Sløtface (30 Dec 2021, 23:13)
+- [Desperate Youth](https://www.last.fm/music/Bel+Heir/_/Desperate+Youth), by Bel Heir (30 Dec 2021, 23:10)
+- [Without Repair](https://www.last.fm/music/Johnny+Manchild/_/Without+Repair), by Johnny Manchild (30 Dec 2021, 23:06)
+- [Mate](https://www.last.fm/music/Airways/_/Mate), by Airways (30 Dec 2021, 23:04)
+- [Holliday](https://www.last.fm/music/The+Weekend+Run+Club/_/Holliday), by The Weekend Run Club (30 Dec 2021, 21:21)
 - [Kid Midnight](https://www.last.fm/music/Irontom/_/Kid+Midnight), by Irontom (30 Dec 2021, 21:19)
 - [Kid Midnight](https://www.last.fm/music/Irontom/_/Kid+Midnight), by Irontom (30 Dec 2021, 19:14)
 - [Benzos and Cigarettes](https://www.last.fm/music/Rad+Horror/_/Benzos+and+Cigarettes), by Rad Horror (30 Dec 2021, 19:10)
@@ -43,14 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Sum of My Cares](https://www.last.fm/music/The+Long+Faces/_/Sum+of+My+Cares), by The Long Faces (29 Dec 2021, 19:23)
 - [Cadence](https://www.last.fm/music/The+Long+Faces/_/Cadence), by The Long Faces (29 Dec 2021, 19:18)
 - [Sum of My Cares](https://www.last.fm/music/The+Long+Faces/_/Sum+of+My+Cares), by The Long Faces (29 Dec 2021, 19:13)
-- [Mint Leaf](https://www.last.fm/music/Vincent+Mango/_/Mint+Leaf), by Vincent Mango (29 Dec 2021, 19:06)
-- [Pass the Vino](https://www.last.fm/music/Mathien/_/Pass+the+Vino), by Mathien (29 Dec 2021, 19:01)
-- [Grow Back](https://www.last.fm/music/The+Happy+Fits/_/Grow+Back), by The Happy Fits (29 Dec 2021, 18:56)
-- [Sing When No One's Around](https://www.last.fm/music/The+Reign+Of+Kindo/_/Sing+When+No+One%27s+Around), by The Reign Of Kindo (29 Dec 2021, 18:52)
-- [you're my world](https://www.last.fm/music/Atlas/_/you%27re+my+world), by Atlas (29 Dec 2021, 18:50)
-- [I Wanna Get Better](https://www.last.fm/music/Bleachers/_/I+Wanna+Get+Better), by Bleachers (29 Dec 2021, 18:47)
-- [Songbird](https://www.last.fm/music/The+Brummies/_/Songbird), by The Brummies (29 Dec 2021, 18:47)
-- [I Wanna Get Better](https://www.last.fm/music/Bleachers/_/I+Wanna+Get+Better), by Bleachers (29 Dec 2021, 18:44)
-- [White Noise Boys](https://www.last.fm/music/Airways/_/White+Noise+Boys), by Airways (29 Dec 2021, 18:40)
-- [17](https://www.last.fm/music/Bekon/_/17), by Bekon (29 Dec 2021, 18:36)
-- [Close Enough](https://www.last.fm/music/Arrows+in+Action/_/Close+Enough), by Arrows in Action (29 Dec 2021, 18:33)
