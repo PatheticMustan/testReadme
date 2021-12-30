@@ -1,9 +1,12 @@
 
 # Spotify Stats
-## Last Updated Thu Dec 30 2021 05:43:21 GMT+0000 (Coordinated Universal Time))
+## Last Updated Thu Dec 30 2021 06:52:35 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [What Are You Doing New Year’s Eve?](https://www.last.fm/music/The+Head+and+the+Heart/_/What+Are+You+Doing+New+Year%E2%80%99s+Eve%3F), by The Head and the Heart (streaming now)
+- [Perfect 10 - Unknown Brain & RudeLies VIP](https://www.last.fm/music/Unknown+Brain/_/Perfect+10+-+Unknown+Brain+&+RudeLies+VIP), by Unknown Brain (30 Dec 2021, 06:47)
+- [12:51](https://www.last.fm/music/The+Strokes/_/12:51), by The Strokes (29 Dec 2021, 23:52)
 - [Automatic Stop](https://www.last.fm/music/The+Strokes/_/Automatic+Stop), by The Strokes (29 Dec 2021, 20:57)
 - [Reptilia](https://www.last.fm/music/The+Strokes/_/Reptilia), by The Strokes (29 Dec 2021, 20:54)
 - [What Ever Happened?](https://www.last.fm/music/The+Strokes/_/What+Ever+Happened%3F), by The Strokes (29 Dec 2021, 20:51)
@@ -52,5 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Expert](https://www.last.fm/music/Pretoria/_/Expert), by Pretoria (29 Dec 2021, 08:44)
 - [Michael](https://www.last.fm/music/Civilian/_/Michael), by Civilian (29 Dec 2021, 08:39)
 - [hug all ur friends](https://www.last.fm/music/Cavetown/_/hug+all+ur+friends), by Cavetown (29 Dec 2021, 08:34)
-- [I Want To Die Easy](https://www.last.fm/music/We+Is+Shore+Dedicated/_/I+Want+To+Die+Easy), by We Is Shore Dedicated (29 Dec 2021, 08:30)
-- [Lovescene](https://www.last.fm/music/Daniel+Knox/_/Lovescene), by Daniel Knox (29 Dec 2021, 08:26)
