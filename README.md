@@ -1,10 +1,19 @@
 
 # Spotify Stats
-## Last Updated Fri Dec 31 2021 06:53:01 GMT+0000 (Coordinated Universal Time))
+## Last Updated Fri Dec 31 2021 07:43:32 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Stay Alive](https://www.last.fm/music/Original+Broadway+Cast+of+Hamilton/_/Stay+Alive), by Original Broadway Cast of Hamilton (streaming now)
+- [INEXPLICABLE](https://www.last.fm/music/The+Correspondents/_/INEXPLICABLE), by The Correspondents (streaming now)
+- [Happy Days](https://www.last.fm/music/Closure+in+Moscow/_/Happy+Days), by Closure in Moscow (31 Dec 2021, 07:34)
+- [What Comes Next?](https://www.last.fm/music/Jonathan+Groff/_/What+Comes+Next%3F), by Jonathan Groff (31 Dec 2021, 07:08)
+- [Yorktown (The World Turned Upside Down)](https://www.last.fm/music/Original+Broadway+Cast+of+Hamilton/_/Yorktown+(The+World+Turned+Upside+Down)), by Original Broadway Cast of Hamilton (31 Dec 2021, 07:04)
+- [History Has Its Eyes On You](https://www.last.fm/music/Christopher+Jackson/_/History+Has+Its+Eyes+On+You), by Christopher Jackson (31 Dec 2021, 07:02)
+- [Guns and Ships](https://www.last.fm/music/Leslie+Odom+Jr./_/Guns+and+Ships), by Leslie Odom Jr. (31 Dec 2021, 07:00)
+- [That Would Be Enough](https://www.last.fm/music/Phillipa+Soo/_/That+Would+Be+Enough), by Phillipa Soo (31 Dec 2021, 06:57)
+- [Meet Me Inside](https://www.last.fm/music/Lin-Manuel+Miranda/_/Meet+Me+Inside), by Lin-Manuel Miranda (31 Dec 2021, 06:56)
+- [Ten Duel Commandments](https://www.last.fm/music/Anthony+Ramos/_/Ten+Duel+Commandments), by Anthony Ramos (31 Dec 2021, 06:54)
+- [Stay Alive](https://www.last.fm/music/Original+Broadway+Cast+of+Hamilton/_/Stay+Alive), by Original Broadway Cast of Hamilton (31 Dec 2021, 06:51)
 - [Wait For It](https://www.last.fm/music/Leslie+Odom+Jr./_/Wait+For+It), by Leslie Odom Jr. (31 Dec 2021, 06:48)
 - [The Story of Tonight - Reprise](https://www.last.fm/music/Anthony+Ramos/_/The+Story+of+Tonight+-+Reprise), by Anthony Ramos (31 Dec 2021, 06:46)
 - [Satisfied](https://www.last.fm/music/Ren%C3%A9e+Elise+Goldsberry/_/Satisfied), by Renée Elise Goldsberry (31 Dec 2021, 06:41)
@@ -46,12 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [The Story of Tonight - Reprise](https://www.last.fm/music/Anthony+Ramos/_/The+Story+of+Tonight+-+Reprise), by Anthony Ramos (31 Dec 2021, 04:51)
 - [Satisfied](https://www.last.fm/music/Ren%C3%A9e+Elise+Goldsberry/_/Satisfied), by Renée Elise Goldsberry (31 Dec 2021, 04:45)
 - [Helpless](https://www.last.fm/music/Phillipa+Soo/_/Helpless), by Phillipa Soo (31 Dec 2021, 04:41)
-- [A Winter's Ball](https://www.last.fm/music/Leslie+Odom+Jr./_/A+Winter%27s+Ball), by Leslie Odom Jr. (31 Dec 2021, 04:40)
-- [Right Hand Man](https://www.last.fm/music/Lin-Manuel+Miranda/_/Right+Hand+Man), by Lin-Manuel Miranda (31 Dec 2021, 04:34)
-- [You'll Be Back](https://www.last.fm/music/Jonathan+Groff/_/You%27ll+Be+Back), by Jonathan Groff (31 Dec 2021, 04:31)
-- [Farmer Refuted](https://www.last.fm/music/Thayne+Jasperson/_/Farmer+Refuted), by Thayne Jasperson (31 Dec 2021, 04:29)
-- [The Schuyler Sisters](https://www.last.fm/music/Ren%C3%A9e+Elise+Goldsberry/_/The+Schuyler+Sisters), by Renée Elise Goldsberry (31 Dec 2021, 04:26)
-- [The Story Of Tonight](https://www.last.fm/music/Lin-Manuel+Miranda/_/The+Story+Of+Tonight), by Lin-Manuel Miranda (31 Dec 2021, 04:24)
-- [My Shot](https://www.last.fm/music/Lin-Manuel+Miranda/_/My+Shot), by Lin-Manuel Miranda (31 Dec 2021, 04:19)
-- [Aaron Burr, Sir](https://www.last.fm/music/Lin-Manuel+Miranda/_/Aaron+Burr,+Sir), by Lin-Manuel Miranda (31 Dec 2021, 04:17)
-- [Alexander Hamilton](https://www.last.fm/music/Leslie+Odom+Jr./_/Alexander+Hamilton), by Leslie Odom Jr. (31 Dec 2021, 04:12)
