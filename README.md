@@ -1,10 +1,11 @@
 
 # Spotify Stats
-## Last Updated Fri Dec 31 2021 17:48:33 GMT+0000 (Coordinated Universal Time))
+## Last Updated Fri Dec 31 2021 18:50:40 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Dance You Back to Life](https://www.last.fm/music/Justin+Kuritzkes/_/Dance+You+Back+to+Life), by Justin Kuritzkes (streaming now)
+- [Rest Of The Best (feat. DREAMERS)](https://www.last.fm/music/Micky+James/_/Rest+Of+The+Best+(feat.+DREAMERS)), by Micky James (31 Dec 2021, 17:50)
+- [Dance You Back to Life](https://www.last.fm/music/Justin+Kuritzkes/_/Dance+You+Back+to+Life), by Justin Kuritzkes (31 Dec 2021, 17:46)
 - [Ladyfingers](https://www.last.fm/music/Herb+Alpert+and+the+Tijuana+Brass/_/Ladyfingers), by Herb Alpert and the Tijuana Brass (31 Dec 2021, 17:42)
 - [Fool's Gold](https://www.last.fm/music/Alex+Ernst/_/Fool%27s+Gold), by Alex Ernst (31 Dec 2021, 17:40)
 - [Look Better In Gold](https://www.last.fm/music/Friday+Pilots+Club/_/Look+Better+In+Gold), by Friday Pilots Club (31 Dec 2021, 17:36)
@@ -53,5 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [After Dark](https://www.last.fm/music/Orangutang/_/After+Dark), by Orangutang (31 Dec 2021, 08:20)
 - [Chopsticks and Champagne](https://www.last.fm/music/First+in+Flight/_/Chopsticks+and+Champagne), by First in Flight (31 Dec 2021, 08:17)
 - [No More Love Songs](https://www.last.fm/music/Ottawa/_/No+More+Love+Songs), by Ottawa (31 Dec 2021, 08:14)
-- [The Earth](https://www.last.fm/music/Isaac+Turner/_/The+Earth), by Isaac Turner (31 Dec 2021, 08:11)
-- [Morticia - 2010 Original Cast Recording from The Addams Family Musical on Broadway](https://www.last.fm/music/Nathan+Lane/_/Morticia+-+2010+Original+Cast+Recording+from+The+Addams+Family+Musical+on+Broadway), by Nathan Lane (31 Dec 2021, 08:08)
