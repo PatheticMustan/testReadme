@@ -1,9 +1,18 @@
 
 # Spotify Stats
-## Last Updated Fri Dec 31 2021 18:50:40 GMT+0000 (Coordinated Universal Time))
+## Last Updated Fri Dec 31 2021 19:43:18 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Out Like a Light 2](https://www.last.fm/music/The+Honeysticks/_/Out+Like+a+Light+2), by The Honeysticks (31 Dec 2021, 19:23)
+- [Tongue Tied](https://www.last.fm/music/The+Faim/_/Tongue+Tied), by The Faim (31 Dec 2021, 19:21)
+- [All You Ever Wanted](https://www.last.fm/music/Rag%27n%27Bone+Man/_/All+You+Ever+Wanted), by Rag'n'Bone Man (31 Dec 2021, 19:17)
+- [Babushka-Yai Ya](https://www.last.fm/music/Fionn+Regan/_/Babushka-Yai+Ya), by Fionn Regan (31 Dec 2021, 19:16)
+- [Moonsetter](https://www.last.fm/music/SudoName/_/Moonsetter), by SudoName (31 Dec 2021, 19:13)
+- [Talking to the Mirror](https://www.last.fm/music/Woolf+and+the+Wondershow/_/Talking+to+the+Mirror), by Woolf and the Wondershow (31 Dec 2021, 19:09)
+- [I was in New York](https://www.last.fm/music/Shy+Kids/_/I+was+in+New+York), by Shy Kids (31 Dec 2021, 19:05)
+- [In a Little Second Hand Store](https://www.last.fm/music/Turner+Layton/_/In+a+Little+Second+Hand+Store), by Turner Layton (31 Dec 2021, 19:02)
+- [Obsession](https://www.last.fm/music/OK+Go/_/Obsession), by OK Go (31 Dec 2021, 17:55)
 - [Rest Of The Best (feat. DREAMERS)](https://www.last.fm/music/Micky+James/_/Rest+Of+The+Best+(feat.+DREAMERS)), by Micky James (31 Dec 2021, 17:50)
 - [Dance You Back to Life](https://www.last.fm/music/Justin+Kuritzkes/_/Dance+You+Back+to+Life), by Justin Kuritzkes (31 Dec 2021, 17:46)
 - [Ladyfingers](https://www.last.fm/music/Herb+Alpert+and+the+Tijuana+Brass/_/Ladyfingers), by Herb Alpert and the Tijuana Brass (31 Dec 2021, 17:42)
@@ -45,12 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Burnt](https://www.last.fm/music/James+DeAngelis/_/Burnt), by James DeAngelis (31 Dec 2021, 14:51)
 - [Burn](https://www.last.fm/music/Foxy+Shazam/_/Burn), by Foxy Shazam (31 Dec 2021, 14:48)
 - [Go Get Your Gun](https://www.last.fm/music/The+Dear+Hunter/_/Go+Get+Your+Gun), by The Dear Hunter (31 Dec 2021, 14:34)
-- [Esmeralda](https://www.last.fm/music/Adriel+Genet/_/Esmeralda), by Adriel Genet (31 Dec 2021, 08:42)
-- [Nobody Can Hear You](https://www.last.fm/music/alius/_/Nobody+Can+Hear+You), by alius (31 Dec 2021, 08:39)
-- [Hrglass](https://www.last.fm/music/The+Vernes/_/Hrglass), by The Vernes (31 Dec 2021, 08:35)
-- [Soul in My Body](https://www.last.fm/music/Pinc+Louds/_/Soul+in+My+Body), by Pinc Louds (31 Dec 2021, 08:30)
-- [What He Don't Know](https://www.last.fm/music/Anarbor/_/What+He+Don%27t+Know), by Anarbor (31 Dec 2021, 08:27)
-- [No One Likes You](https://www.last.fm/music/Smidley/_/No+One+Likes+You), by Smidley (31 Dec 2021, 08:24)
-- [After Dark](https://www.last.fm/music/Orangutang/_/After+Dark), by Orangutang (31 Dec 2021, 08:20)
-- [Chopsticks and Champagne](https://www.last.fm/music/First+in+Flight/_/Chopsticks+and+Champagne), by First in Flight (31 Dec 2021, 08:17)
-- [No More Love Songs](https://www.last.fm/music/Ottawa/_/No+More+Love+Songs), by Ottawa (31 Dec 2021, 08:14)
