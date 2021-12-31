@@ -1,9 +1,11 @@
 
 # Spotify Stats
-## Last Updated Fri Dec 31 2021 20:44:55 GMT+0000 (Coordinated Universal Time))
+## Last Updated Fri Dec 31 2021 21:43:17 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Cemetery](https://www.last.fm/music/Coin/_/Cemetery), by Coin (31 Dec 2021, 20:49)
+- [brittle (wake up)](https://www.last.fm/music/meltycanon/_/brittle+(wake+up)), by meltycanon (31 Dec 2021, 20:47)
 - [Out Like a Light 2](https://www.last.fm/music/The+Honeysticks/_/Out+Like+a+Light+2), by The Honeysticks (31 Dec 2021, 19:23)
 - [Tongue Tied](https://www.last.fm/music/The+Faim/_/Tongue+Tied), by The Faim (31 Dec 2021, 19:21)
 - [All You Ever Wanted](https://www.last.fm/music/Rag%27n%27Bone+Man/_/All+You+Ever+Wanted), by Rag'n'Bone Man (31 Dec 2021, 19:17)
@@ -52,5 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Shut Up: It's Showtime!](https://www.last.fm/music/Desert+Bloom/_/Shut+Up:+It%27s+Showtime!), by Desert Bloom (31 Dec 2021, 14:57)
 - [Bet It All](https://www.last.fm/music/Schmorgle/_/Bet+It+All), by Schmorgle (31 Dec 2021, 14:53)
 - [Burnt](https://www.last.fm/music/James+DeAngelis/_/Burnt), by James DeAngelis (31 Dec 2021, 14:51)
-- [Burn](https://www.last.fm/music/Foxy+Shazam/_/Burn), by Foxy Shazam (31 Dec 2021, 14:48)
-- [Go Get Your Gun](https://www.last.fm/music/The+Dear+Hunter/_/Go+Get+Your+Gun), by The Dear Hunter (31 Dec 2021, 14:34)
