@@ -1,10 +1,20 @@
 
 # Spotify Stats
-## Last Updated Fri Dec 31 2021 15:49:17 GMT+0000 (Coordinated Universal Time))
+## Last Updated Fri Dec 31 2021 17:04:16 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Prime](https://www.last.fm/music/Roan+Martin/_/Prime), by Roan Martin (streaming now)
+- [Feel a Little Closer](https://www.last.fm/music/silver+&+gold/_/Feel+a+Little+Closer), by silver & gold (streaming now)
+- [Take Tonight](https://www.last.fm/music/The+Family+Crest/_/Take+Tonight), by The Family Crest (31 Dec 2021, 17:00)
+- [no accident](https://www.last.fm/music/Daniel+Knox/_/no+accident), by Daniel Knox (31 Dec 2021, 16:57)
+- [Lucifer Yellow](https://www.last.fm/music/Choir+Vandals/_/Lucifer+Yellow), by Choir Vandals (31 Dec 2021, 16:53)
+- [On the Radio](https://www.last.fm/music/Regina+Spektor/_/On+the+Radio), by Regina Spektor (31 Dec 2021, 16:49)
+- [Hey Lover!](https://www.last.fm/music/Wabie/_/Hey+Lover!), by Wabie (31 Dec 2021, 16:47)
+- [Unicorns Die When You Leave](https://www.last.fm/music/Kishi+Bashi/_/Unicorns+Die+When+You+Leave), by Kishi Bashi (31 Dec 2021, 16:43)
+- [No Distance](https://www.last.fm/music/Morning+Teleportation/_/No+Distance), by Morning Teleportation (31 Dec 2021, 16:11)
+- [Crust Punk Queen](https://www.last.fm/music/Tor+Miller/_/Crust+Punk+Queen), by Tor Miller (31 Dec 2021, 15:56)
+- [Wine Red - Tommie Sunshine's Brooklyn Fire Retouch](https://www.last.fm/music/The+Hush+Sound/_/Wine+Red+-+Tommie+Sunshine%27s+Brooklyn+Fire+Retouch), by The Hush Sound (31 Dec 2021, 15:52)
+- [Prime](https://www.last.fm/music/Roan+Martin/_/Prime), by Roan Martin (31 Dec 2021, 15:47)
 - [Green Jewels](https://www.last.fm/music/KRIILL/_/Green+Jewels), by KRIILL (31 Dec 2021, 15:43)
 - [PHANTASM](https://www.last.fm/music/Jack+the+Stripper/_/PHANTASM), by Jack the Stripper (31 Dec 2021, 15:41)
 - [Selfless](https://www.last.fm/music/The+Strokes/_/Selfless), by The Strokes (31 Dec 2021, 15:37)
@@ -45,13 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [What Comes Next?](https://www.last.fm/music/Jonathan+Groff/_/What+Comes+Next%3F), by Jonathan Groff (31 Dec 2021, 07:08)
 - [Yorktown (The World Turned Upside Down)](https://www.last.fm/music/Original+Broadway+Cast+of+Hamilton/_/Yorktown+(The+World+Turned+Upside+Down)), by Original Broadway Cast of Hamilton (31 Dec 2021, 07:04)
 - [History Has Its Eyes On You](https://www.last.fm/music/Christopher+Jackson/_/History+Has+Its+Eyes+On+You), by Christopher Jackson (31 Dec 2021, 07:02)
-- [Guns and Ships](https://www.last.fm/music/Leslie+Odom+Jr./_/Guns+and+Ships), by Leslie Odom Jr. (31 Dec 2021, 07:00)
-- [That Would Be Enough](https://www.last.fm/music/Phillipa+Soo/_/That+Would+Be+Enough), by Phillipa Soo (31 Dec 2021, 06:57)
-- [Meet Me Inside](https://www.last.fm/music/Lin-Manuel+Miranda/_/Meet+Me+Inside), by Lin-Manuel Miranda (31 Dec 2021, 06:56)
-- [Ten Duel Commandments](https://www.last.fm/music/Anthony+Ramos/_/Ten+Duel+Commandments), by Anthony Ramos (31 Dec 2021, 06:54)
-- [Stay Alive](https://www.last.fm/music/Original+Broadway+Cast+of+Hamilton/_/Stay+Alive), by Original Broadway Cast of Hamilton (31 Dec 2021, 06:51)
-- [Wait For It](https://www.last.fm/music/Leslie+Odom+Jr./_/Wait+For+It), by Leslie Odom Jr. (31 Dec 2021, 06:48)
-- [The Story of Tonight - Reprise](https://www.last.fm/music/Anthony+Ramos/_/The+Story+of+Tonight+-+Reprise), by Anthony Ramos (31 Dec 2021, 06:46)
-- [Satisfied](https://www.last.fm/music/Ren%C3%A9e+Elise+Goldsberry/_/Satisfied), by Renée Elise Goldsberry (31 Dec 2021, 06:41)
-- [Helpless](https://www.last.fm/music/Phillipa+Soo/_/Helpless), by Phillipa Soo (31 Dec 2021, 06:37)
-- [A Winter's Ball](https://www.last.fm/music/Leslie+Odom+Jr./_/A+Winter%27s+Ball), by Leslie Odom Jr. (31 Dec 2021, 06:35)
