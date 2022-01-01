@@ -1,10 +1,14 @@
 
 # Spotify Stats
-## Last Updated Sat Jan 01 2022 06:52:14 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sat Jan 01 2022 07:43:28 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Closet Lunatic](https://www.last.fm/music/Caro/_/Closet+Lunatic), by Caro (streaming now)
+- [Everything's Changin'](https://www.last.fm/music/St.Arnaud/_/Everything%27s+Changin%27), by St.Arnaud (01 Jan 2022, 07:05)
+- [Me and My Broken Heart](https://www.last.fm/music/Rixton/_/Me+and+My+Broken+Heart), by Rixton (01 Jan 2022, 07:02)
+- [High](https://www.last.fm/music/Lokki/_/High), by Lokki (01 Jan 2022, 06:57)
+- [Starcrossed Losers](https://www.last.fm/music/The+Fratellis/_/Starcrossed+Losers), by The Fratellis (01 Jan 2022, 06:53)
+- [Closet Lunatic](https://www.last.fm/music/Caro/_/Closet+Lunatic), by Caro (01 Jan 2022, 06:49)
 - [Smokey Eyes](https://www.last.fm/music/Lincoln/_/Smokey+Eyes), by Lincoln (01 Jan 2022, 06:46)
 - [It's Not Like I Like You!!](https://www.last.fm/music/Static-P/_/It%27s+Not+Like+I+Like+You!!), by Static-P (01 Jan 2022, 06:23)
 - [the golden hour](https://www.last.fm/music/Louie+Zong/_/the+golden+hour), by Louie Zong (01 Jan 2022, 04:59)
@@ -50,8 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Selfless](https://www.last.fm/music/The+Strokes/_/Selfless), by The Strokes (31 Dec 2021, 15:37)
 - [Let Your Mother Know](https://www.last.fm/music/Rob+Cantor/_/Let+Your+Mother+Know), by Rob Cantor (31 Dec 2021, 15:32)
 - [Sex in My Head](https://www.last.fm/music/Moth+Wings/_/Sex+in+My+Head), by Moth Wings (31 Dec 2021, 15:28)
-- [Branded](https://www.last.fm/music/NateWantsToBattle/_/Branded), by NateWantsToBattle (31 Dec 2021, 15:25)
-- [Hoverboard](https://www.last.fm/music/Diveo/_/Hoverboard), by Diveo (31 Dec 2021, 15:18)
-- [Fvck Somebody](https://www.last.fm/music/The+Wrecks/_/Fvck+Somebody), by The Wrecks (31 Dec 2021, 15:15)
-- [23, Never Me](https://www.last.fm/music/Dead+Pony/_/23,+Never+Me), by Dead Pony (31 Dec 2021, 15:12)
-- [A Place For Me](https://www.last.fm/music/I+Hate+Kate/_/A+Place+For+Me), by I Hate Kate (31 Dec 2021, 15:09)
