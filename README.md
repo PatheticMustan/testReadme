@@ -1,10 +1,10 @@
 
 # Spotify Stats
-## Last Updated Sat Jan 01 2022 04:55:51 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sat Jan 01 2022 05:43:18 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Burn](https://www.last.fm/music/Foxy+Shazam/_/Burn), by Foxy Shazam (streaming now)
+- [Burn](https://www.last.fm/music/Foxy+Shazam/_/Burn), by Foxy Shazam (01 Jan 2022, 04:52)
 - [Slumber](https://www.last.fm/music/Sl%C3%B8tface/_/Slumber), by Sløtface (31 Dec 2021, 20:54)
 - [Cemetery](https://www.last.fm/music/Coin/_/Cemetery), by Coin (31 Dec 2021, 20:49)
 - [brittle (wake up)](https://www.last.fm/music/meltycanon/_/brittle+(wake+up)), by meltycanon (31 Dec 2021, 20:47)
@@ -54,4 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [creep](https://www.last.fm/music/mxmtoon/_/creep), by mxmtoon (31 Dec 2021, 15:05)
 - [Grilled Cheese](https://www.last.fm/music/Peach+Face/_/Grilled+Cheese), by Peach Face (31 Dec 2021, 15:01)
 - [Shut Up: It's Showtime!](https://www.last.fm/music/Desert+Bloom/_/Shut+Up:+It%27s+Showtime!), by Desert Bloom (31 Dec 2021, 14:57)
-- [Bet It All](https://www.last.fm/music/Schmorgle/_/Bet+It+All), by Schmorgle (31 Dec 2021, 14:53)
