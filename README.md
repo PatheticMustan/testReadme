@@ -1,9 +1,19 @@
 
 # Spotify Stats
-## Last Updated Sat Jan 01 2022 15:48:30 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sat Jan 01 2022 17:04:05 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Once upon Another Time](https://www.last.fm/music/Sara+Bareilles/_/Once+upon+Another+Time), by Sara Bareilles (01 Jan 2022, 16:34)
+- [Escape Artist](https://www.last.fm/music/The+Zolas/_/Escape+Artist), by The Zolas (01 Jan 2022, 16:31)
+- [Sober To Death](https://www.last.fm/music/Car+Seat+Headrest/_/Sober+To+Death), by Car Seat Headrest (01 Jan 2022, 16:26)
+- [Pitchfork Kids](https://www.last.fm/music/AJR/_/Pitchfork+Kids), by AJR (01 Jan 2022, 16:23)
+- [People and Their Bits](https://www.last.fm/music/Shoe/_/People+and+Their+Bits), by Shoe (01 Jan 2022, 16:18)
+- [R U Mine?](https://www.last.fm/music/Arctic+Monkeys/_/R+U+Mine%3F), by Arctic Monkeys (01 Jan 2022, 16:15)
+- [When Heaven Closes](https://www.last.fm/music/Shayfer+James/_/When+Heaven+Closes), by Shayfer James (01 Jan 2022, 16:08)
+- [Girls Like Me](https://www.last.fm/music/Will+Joseph+Cook/_/Girls+Like+Me), by Will Joseph Cook (01 Jan 2022, 16:02)
+- [One-Legged Girl](https://www.last.fm/music/Pain/_/One-Legged+Girl), by Pain (01 Jan 2022, 15:57)
+- [Girls Like Me](https://www.last.fm/music/Will+Joseph+Cook/_/Girls+Like+Me), by Will Joseph Cook (01 Jan 2022, 15:56)
 - [Girls Like Me](https://www.last.fm/music/Will+Joseph+Cook/_/Girls+Like+Me), by Will Joseph Cook (01 Jan 2022, 14:22)
 - [The Earth](https://www.last.fm/music/Isaac+Turner/_/The+Earth), by Isaac Turner (01 Jan 2022, 07:09)
 - [Everything's Changin'](https://www.last.fm/music/St.Arnaud/_/Everything%27s+Changin%27), by St.Arnaud (01 Jan 2022, 07:05)
@@ -44,13 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Ode to the Mets](https://www.last.fm/music/The+Strokes/_/Ode+to+the+Mets), by The Strokes (31 Dec 2021, 17:10)
 - [Ode to the Mets](https://www.last.fm/music/The+Strokes/_/Ode+to+the+Mets), by The Strokes (31 Dec 2021, 17:06)
 - [Feel a Little Closer](https://www.last.fm/music/silver+&+gold/_/Feel+a+Little+Closer), by silver & gold (31 Dec 2021, 17:03)
-- [Take Tonight](https://www.last.fm/music/The+Family+Crest/_/Take+Tonight), by The Family Crest (31 Dec 2021, 17:00)
-- [no accident](https://www.last.fm/music/Daniel+Knox/_/no+accident), by Daniel Knox (31 Dec 2021, 16:57)
-- [Lucifer Yellow](https://www.last.fm/music/Choir+Vandals/_/Lucifer+Yellow), by Choir Vandals (31 Dec 2021, 16:53)
-- [On the Radio](https://www.last.fm/music/Regina+Spektor/_/On+the+Radio), by Regina Spektor (31 Dec 2021, 16:49)
-- [Hey Lover!](https://www.last.fm/music/Wabie/_/Hey+Lover!), by Wabie (31 Dec 2021, 16:47)
-- [Unicorns Die When You Leave](https://www.last.fm/music/Kishi+Bashi/_/Unicorns+Die+When+You+Leave), by Kishi Bashi (31 Dec 2021, 16:43)
-- [No Distance](https://www.last.fm/music/Morning+Teleportation/_/No+Distance), by Morning Teleportation (31 Dec 2021, 16:11)
-- [Crust Punk Queen](https://www.last.fm/music/Tor+Miller/_/Crust+Punk+Queen), by Tor Miller (31 Dec 2021, 15:56)
-- [Wine Red - Tommie Sunshine's Brooklyn Fire Retouch](https://www.last.fm/music/The+Hush+Sound/_/Wine+Red+-+Tommie+Sunshine%27s+Brooklyn+Fire+Retouch), by The Hush Sound (31 Dec 2021, 15:52)
-- [Prime](https://www.last.fm/music/Roan+Martin/_/Prime), by Roan Martin (31 Dec 2021, 15:47)
