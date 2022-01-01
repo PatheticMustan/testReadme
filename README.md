@@ -1,9 +1,12 @@
 
 # Spotify Stats
-## Last Updated Sat Jan 01 2022 22:44:24 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sat Jan 01 2022 23:44:31 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Love Me Dead](https://www.last.fm/music/Ludo/_/Love+Me+Dead), by Ludo (01 Jan 2022, 22:58)
+- [Demons](https://www.last.fm/music/Isador/_/Demons), by Isador (01 Jan 2022, 22:53)
+- [At the Crossing Sign](https://www.last.fm/music/St.Arnaud/_/At+the+Crossing+Sign), by St.Arnaud (01 Jan 2022, 16:51)
 - [Once upon Another Time](https://www.last.fm/music/Sara+Bareilles/_/Once+upon+Another+Time), by Sara Bareilles (01 Jan 2022, 16:34)
 - [Escape Artist](https://www.last.fm/music/The+Zolas/_/Escape+Artist), by The Zolas (01 Jan 2022, 16:31)
 - [Sober To Death](https://www.last.fm/music/Car+Seat+Headrest/_/Sober+To+Death), by Car Seat Headrest (01 Jan 2022, 16:26)
@@ -51,6 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [The Logical Song](https://www.last.fm/music/Mindless+Self+Indulgence/_/The+Logical+Song), by Mindless Self Indulgence (31 Dec 2021, 17:23)
 - [Anxiety](https://www.last.fm/music/Fireworks/_/Anxiety), by Fireworks (31 Dec 2021, 17:19)
 - [I Can't Handle Change](https://www.last.fm/music/Roar/_/I+Can%27t+Handle+Change), by Roar (31 Dec 2021, 17:16)
-- [Ode to the Mets](https://www.last.fm/music/The+Strokes/_/Ode+to+the+Mets), by The Strokes (31 Dec 2021, 17:10)
-- [Ode to the Mets](https://www.last.fm/music/The+Strokes/_/Ode+to+the+Mets), by The Strokes (31 Dec 2021, 17:06)
-- [Feel a Little Closer](https://www.last.fm/music/silver+&+gold/_/Feel+a+Little+Closer), by silver & gold (31 Dec 2021, 17:03)
