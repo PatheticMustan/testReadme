@@ -1,9 +1,11 @@
 
 # Spotify Stats
-## Last Updated Sat Jan 01 2022 13:44:00 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sat Jan 01 2022 14:43:27 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Girls Like Me](https://www.last.fm/music/Will+Joseph+Cook/_/Girls+Like+Me), by Will Joseph Cook (01 Jan 2022, 14:22)
+- [The Earth](https://www.last.fm/music/Isaac+Turner/_/The+Earth), by Isaac Turner (01 Jan 2022, 07:09)
 - [Everything's Changin'](https://www.last.fm/music/St.Arnaud/_/Everything%27s+Changin%27), by St.Arnaud (01 Jan 2022, 07:05)
 - [Me and My Broken Heart](https://www.last.fm/music/Rixton/_/Me+and+My+Broken+Heart), by Rixton (01 Jan 2022, 07:02)
 - [High](https://www.last.fm/music/Lokki/_/High), by Lokki (01 Jan 2022, 06:57)
@@ -16,6 +18,9 @@ Oh yeah, the latest and greatest songs listened to!
 - [Slumber](https://www.last.fm/music/Sl%C3%B8tface/_/Slumber), by Sløtface (31 Dec 2021, 20:54)
 - [Cemetery](https://www.last.fm/music/Coin/_/Cemetery), by Coin (31 Dec 2021, 20:49)
 - [brittle (wake up)](https://www.last.fm/music/meltycanon/_/brittle+(wake+up)), by meltycanon (31 Dec 2021, 20:47)
+- [SOLO](https://www.last.fm/music/Jennie/_/SOLO), by Jennie (31 Dec 2021, 20:43)
+- [Esmeralda](https://www.last.fm/music/Adriel+Genet/_/Esmeralda), by Adriel Genet (31 Dec 2021, 20:43)
+- [hug all ur friends](https://www.last.fm/music/Cavetown/_/hug+all+ur+friends), by Cavetown (31 Dec 2021, 19:39)
 - [Out Like a Light 2](https://www.last.fm/music/The+Honeysticks/_/Out+Like+a+Light+2), by The Honeysticks (31 Dec 2021, 19:23)
 - [Tongue Tied](https://www.last.fm/music/The+Faim/_/Tongue+Tied), by The Faim (31 Dec 2021, 19:21)
 - [All You Ever Wanted](https://www.last.fm/music/Rag%27n%27Bone+Man/_/All+You+Ever+Wanted), by Rag'n'Bone Man (31 Dec 2021, 19:17)
@@ -49,8 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Crust Punk Queen](https://www.last.fm/music/Tor+Miller/_/Crust+Punk+Queen), by Tor Miller (31 Dec 2021, 15:56)
 - [Wine Red - Tommie Sunshine's Brooklyn Fire Retouch](https://www.last.fm/music/The+Hush+Sound/_/Wine+Red+-+Tommie+Sunshine%27s+Brooklyn+Fire+Retouch), by The Hush Sound (31 Dec 2021, 15:52)
 - [Prime](https://www.last.fm/music/Roan+Martin/_/Prime), by Roan Martin (31 Dec 2021, 15:47)
-- [Green Jewels](https://www.last.fm/music/KRIILL/_/Green+Jewels), by KRIILL (31 Dec 2021, 15:43)
-- [PHANTASM](https://www.last.fm/music/Jack+the+Stripper/_/PHANTASM), by Jack the Stripper (31 Dec 2021, 15:41)
-- [Selfless](https://www.last.fm/music/The+Strokes/_/Selfless), by The Strokes (31 Dec 2021, 15:37)
-- [Let Your Mother Know](https://www.last.fm/music/Rob+Cantor/_/Let+Your+Mother+Know), by Rob Cantor (31 Dec 2021, 15:32)
-- [Sex in My Head](https://www.last.fm/music/Moth+Wings/_/Sex+in+My+Head), by Moth Wings (31 Dec 2021, 15:28)
