@@ -1,9 +1,13 @@
 
 # Spotify Stats
-## Last Updated Sat Jan 01 2022 05:43:18 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sat Jan 01 2022 06:52:14 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Closet Lunatic](https://www.last.fm/music/Caro/_/Closet+Lunatic), by Caro (streaming now)
+- [Smokey Eyes](https://www.last.fm/music/Lincoln/_/Smokey+Eyes), by Lincoln (01 Jan 2022, 06:46)
+- [It's Not Like I Like You!!](https://www.last.fm/music/Static-P/_/It%27s+Not+Like+I+Like+You!!), by Static-P (01 Jan 2022, 06:23)
+- [the golden hour](https://www.last.fm/music/Louie+Zong/_/the+golden+hour), by Louie Zong (01 Jan 2022, 04:59)
 - [Burn](https://www.last.fm/music/Foxy+Shazam/_/Burn), by Foxy Shazam (01 Jan 2022, 04:52)
 - [Slumber](https://www.last.fm/music/Sl%C3%B8tface/_/Slumber), by Sløtface (31 Dec 2021, 20:54)
 - [Cemetery](https://www.last.fm/music/Coin/_/Cemetery), by Coin (31 Dec 2021, 20:49)
@@ -51,6 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Fvck Somebody](https://www.last.fm/music/The+Wrecks/_/Fvck+Somebody), by The Wrecks (31 Dec 2021, 15:15)
 - [23, Never Me](https://www.last.fm/music/Dead+Pony/_/23,+Never+Me), by Dead Pony (31 Dec 2021, 15:12)
 - [A Place For Me](https://www.last.fm/music/I+Hate+Kate/_/A+Place+For+Me), by I Hate Kate (31 Dec 2021, 15:09)
-- [creep](https://www.last.fm/music/mxmtoon/_/creep), by mxmtoon (31 Dec 2021, 15:05)
-- [Grilled Cheese](https://www.last.fm/music/Peach+Face/_/Grilled+Cheese), by Peach Face (31 Dec 2021, 15:01)
-- [Shut Up: It's Showtime!](https://www.last.fm/music/Desert+Bloom/_/Shut+Up:+It%27s+Showtime!), by Desert Bloom (31 Dec 2021, 14:57)
