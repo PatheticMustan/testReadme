@@ -1,9 +1,20 @@
 
 # Spotify Stats
-## Last Updated Sun Jan 02 2022 14:43:18 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sun Jan 02 2022 15:48:35 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Aint That Cool](https://www.last.fm/music/My+Kid+Brother/_/Aint+That+Cool), by My Kid Brother (streaming now)
+- [Lt. Headed](https://www.last.fm/music/M.A.G.S./_/Lt.+Headed), by M.A.G.S. (02 Jan 2022, 15:43)
+- [Woah There Kimmy](https://www.last.fm/music/Felix+Hagan+&+The+Family/_/Woah+There+Kimmy), by Felix Hagan & The Family (02 Jan 2022, 15:39)
+- [Saint Bernard 2](https://www.last.fm/music/Lincoln/_/Saint+Bernard+2), by Lincoln (02 Jan 2022, 15:37)
+- [Hungover in the City of Dust](https://www.last.fm/music/Autoheart/_/Hungover+in+the+City+of+Dust), by Autoheart (02 Jan 2022, 15:32)
+- [Kill The Lights](https://www.last.fm/music/Set+It+Off/_/Kill+The+Lights), by Set It Off (02 Jan 2022, 15:28)
+- [Wisdom](https://www.last.fm/music/Mother+Mother/_/Wisdom), by Mother Mother (02 Jan 2022, 15:24)
+- [Rough](https://www.last.fm/music/VIAL/_/Rough), by VIAL (02 Jan 2022, 15:21)
+- [Gypsy Woman](https://www.last.fm/music/Anarbor/_/Gypsy+Woman), by Anarbor (02 Jan 2022, 15:18)
+- [Give It Up](https://www.last.fm/music/CRX/_/Give+It+Up), by CRX (02 Jan 2022, 15:14)
+- [Can't Go To Hell](https://www.last.fm/music/Sin+Shake+Sin/_/Can%27t+Go+To+Hell), by Sin Shake Sin (02 Jan 2022, 06:36)
 - [Alrighty Aphrodite](https://www.last.fm/music/Peach+Pit/_/Alrighty+Aphrodite), by Peach Pit (02 Jan 2022, 06:33)
 - [Take Me to Church](https://www.last.fm/music/Hozier/_/Take+Me+to+Church), by Hozier (02 Jan 2022, 06:29)
 - [When I Die](https://www.last.fm/music/Pepper+Coyote/_/When+I+Die), by Pepper Coyote (02 Jan 2022, 06:25)
@@ -44,13 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Escape Artist](https://www.last.fm/music/The+Zolas/_/Escape+Artist), by The Zolas (01 Jan 2022, 16:31)
 - [Sober To Death](https://www.last.fm/music/Car+Seat+Headrest/_/Sober+To+Death), by Car Seat Headrest (01 Jan 2022, 16:26)
 - [Pitchfork Kids](https://www.last.fm/music/AJR/_/Pitchfork+Kids), by AJR (01 Jan 2022, 16:23)
-- [People and Their Bits](https://www.last.fm/music/Shoe/_/People+and+Their+Bits), by Shoe (01 Jan 2022, 16:18)
-- [R U Mine?](https://www.last.fm/music/Arctic+Monkeys/_/R+U+Mine%3F), by Arctic Monkeys (01 Jan 2022, 16:15)
-- [When Heaven Closes](https://www.last.fm/music/Shayfer+James/_/When+Heaven+Closes), by Shayfer James (01 Jan 2022, 16:08)
-- [Girls Like Me](https://www.last.fm/music/Will+Joseph+Cook/_/Girls+Like+Me), by Will Joseph Cook (01 Jan 2022, 16:02)
-- [One-Legged Girl](https://www.last.fm/music/Pain/_/One-Legged+Girl), by Pain (01 Jan 2022, 15:57)
-- [Girls Like Me](https://www.last.fm/music/Will+Joseph+Cook/_/Girls+Like+Me), by Will Joseph Cook (01 Jan 2022, 15:56)
-- [Girls Like Me](https://www.last.fm/music/Will+Joseph+Cook/_/Girls+Like+Me), by Will Joseph Cook (01 Jan 2022, 14:22)
-- [The Earth](https://www.last.fm/music/Isaac+Turner/_/The+Earth), by Isaac Turner (01 Jan 2022, 07:09)
-- [Everything's Changin'](https://www.last.fm/music/St.Arnaud/_/Everything%27s+Changin%27), by St.Arnaud (01 Jan 2022, 07:05)
-- [Me and My Broken Heart](https://www.last.fm/music/Rixton/_/Me+and+My+Broken+Heart), by Rixton (01 Jan 2022, 07:02)
