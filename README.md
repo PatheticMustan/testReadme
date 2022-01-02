@@ -1,10 +1,14 @@
 
 # Spotify Stats
-## Last Updated Sun Jan 02 2022 01:50:28 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sun Jan 02 2022 02:59:11 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Optimistic](https://www.last.fm/music/Radiohead/_/Optimistic), by Radiohead (streaming now)
+- [How Do You?](https://www.last.fm/music/Radiohead/_/How+Do+You%3F), by Radiohead (02 Jan 2022, 02:10)
+- [Creep](https://www.last.fm/music/Radiohead/_/Creep), by Radiohead (02 Jan 2022, 02:02)
+- [You](https://www.last.fm/music/Radiohead/_/You), by Radiohead (02 Jan 2022, 01:59)
+- [Idioteque](https://www.last.fm/music/Radiohead/_/Idioteque), by Radiohead (02 Jan 2022, 01:54)
+- [In Limbo](https://www.last.fm/music/Radiohead/_/In+Limbo), by Radiohead (02 Jan 2022, 01:51)
 - [Treefingers](https://www.last.fm/music/Radiohead/_/Treefingers), by Radiohead (02 Jan 2022, 01:44)
 - [How to Disappear Completely](https://www.last.fm/music/Radiohead/_/How+to+Disappear+Completely), by Radiohead (02 Jan 2022, 01:38)
 - [The National Anthem](https://www.last.fm/music/Radiohead/_/The+National+Anthem), by Radiohead (02 Jan 2022, 01:35)
@@ -50,8 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Obsession](https://www.last.fm/music/OK+Go/_/Obsession), by OK Go (31 Dec 2021, 17:55)
 - [Rest Of The Best (feat. DREAMERS)](https://www.last.fm/music/Micky+James/_/Rest+Of+The+Best+(feat.+DREAMERS)), by Micky James (31 Dec 2021, 17:50)
 - [Dance You Back to Life](https://www.last.fm/music/Justin+Kuritzkes/_/Dance+You+Back+to+Life), by Justin Kuritzkes (31 Dec 2021, 17:46)
-- [Ladyfingers](https://www.last.fm/music/Herb+Alpert+and+the+Tijuana+Brass/_/Ladyfingers), by Herb Alpert and the Tijuana Brass (31 Dec 2021, 17:42)
-- [Fool's Gold](https://www.last.fm/music/Alex+Ernst/_/Fool%27s+Gold), by Alex Ernst (31 Dec 2021, 17:40)
-- [Look Better In Gold](https://www.last.fm/music/Friday+Pilots+Club/_/Look+Better+In+Gold), by Friday Pilots Club (31 Dec 2021, 17:36)
-- [Boys Club](https://www.last.fm/music/Ivory+Hours/_/Boys+Club), by Ivory Hours (31 Dec 2021, 17:33)
-- [Obvious Guy](https://www.last.fm/music/Alfie+Templeman/_/Obvious+Guy), by Alfie Templeman (31 Dec 2021, 17:30)
