@@ -1,9 +1,21 @@
 
 # Spotify Stats
-## Last Updated Sun Jan 02 2022 04:55:49 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sun Jan 02 2022 05:43:22 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Sober To Death](https://www.last.fm/music/Car+Seat+Headrest/_/Sober+To+Death), by Car Seat Headrest (streaming now)
+- [Blow Out](https://www.last.fm/music/Radiohead/_/Blow+Out), by Radiohead (02 Jan 2022, 05:37)
+- [Lurgee](https://www.last.fm/music/Radiohead/_/Lurgee), by Radiohead (02 Jan 2022, 05:34)
+- [I Can't](https://www.last.fm/music/Radiohead/_/I+Can%27t), by Radiohead (02 Jan 2022, 05:31)
+- [Prove Yourself](https://www.last.fm/music/Radiohead/_/Prove+Yourself), by Radiohead (02 Jan 2022, 05:28)
+- [Vegetable](https://www.last.fm/music/Radiohead/_/Vegetable), by Radiohead (02 Jan 2022, 05:25)
+- [Ripcord](https://www.last.fm/music/Radiohead/_/Ripcord), by Radiohead (02 Jan 2022, 05:13)
+- [Anyone Can Play Guitar](https://www.last.fm/music/Radiohead/_/Anyone+Can+Play+Guitar), by Radiohead (02 Jan 2022, 05:10)
+- [Thinking About You](https://www.last.fm/music/Radiohead/_/Thinking+About+You), by Radiohead (02 Jan 2022, 05:07)
+- [Stop Whispering](https://www.last.fm/music/Radiohead/_/Stop+Whispering), by Radiohead (02 Jan 2022, 05:01)
+- [How Do You?](https://www.last.fm/music/Radiohead/_/How+Do+You%3F), by Radiohead (02 Jan 2022, 04:59)
+- [Stop Whispering](https://www.last.fm/music/Radiohead/_/Stop+Whispering), by Radiohead (02 Jan 2022, 02:13)
 - [How Do You?](https://www.last.fm/music/Radiohead/_/How+Do+You%3F), by Radiohead (02 Jan 2022, 02:10)
 - [Creep](https://www.last.fm/music/Radiohead/_/Creep), by Radiohead (02 Jan 2022, 02:02)
 - [You](https://www.last.fm/music/Radiohead/_/You), by Radiohead (02 Jan 2022, 01:59)
@@ -43,14 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [SOLO](https://www.last.fm/music/Jennie/_/SOLO), by Jennie (31 Dec 2021, 20:43)
 - [Esmeralda](https://www.last.fm/music/Adriel+Genet/_/Esmeralda), by Adriel Genet (31 Dec 2021, 20:43)
 - [hug all ur friends](https://www.last.fm/music/Cavetown/_/hug+all+ur+friends), by Cavetown (31 Dec 2021, 19:39)
-- [Out Like a Light 2](https://www.last.fm/music/The+Honeysticks/_/Out+Like+a+Light+2), by The Honeysticks (31 Dec 2021, 19:23)
-- [Tongue Tied](https://www.last.fm/music/The+Faim/_/Tongue+Tied), by The Faim (31 Dec 2021, 19:21)
-- [All You Ever Wanted](https://www.last.fm/music/Rag%27n%27Bone+Man/_/All+You+Ever+Wanted), by Rag'n'Bone Man (31 Dec 2021, 19:17)
-- [Babushka-Yai Ya](https://www.last.fm/music/Fionn+Regan/_/Babushka-Yai+Ya), by Fionn Regan (31 Dec 2021, 19:16)
-- [Moonsetter](https://www.last.fm/music/SudoName/_/Moonsetter), by SudoName (31 Dec 2021, 19:13)
-- [Talking to the Mirror](https://www.last.fm/music/Woolf+and+the+Wondershow/_/Talking+to+the+Mirror), by Woolf and the Wondershow (31 Dec 2021, 19:09)
-- [I was in New York](https://www.last.fm/music/Shy+Kids/_/I+was+in+New+York), by Shy Kids (31 Dec 2021, 19:05)
-- [In a Little Second Hand Store](https://www.last.fm/music/Turner+Layton/_/In+a+Little+Second+Hand+Store), by Turner Layton (31 Dec 2021, 19:02)
-- [Obsession](https://www.last.fm/music/OK+Go/_/Obsession), by OK Go (31 Dec 2021, 17:55)
-- [Rest Of The Best (feat. DREAMERS)](https://www.last.fm/music/Micky+James/_/Rest+Of+The+Best+(feat.+DREAMERS)), by Micky James (31 Dec 2021, 17:50)
-- [Dance You Back to Life](https://www.last.fm/music/Justin+Kuritzkes/_/Dance+You+Back+to+Life), by Justin Kuritzkes (31 Dec 2021, 17:46)
