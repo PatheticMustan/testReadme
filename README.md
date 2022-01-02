@@ -1,9 +1,14 @@
 
 # Spotify Stats
-## Last Updated Sat Jan 01 2022 23:44:31 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sun Jan 02 2022 01:50:28 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Optimistic](https://www.last.fm/music/Radiohead/_/Optimistic), by Radiohead (streaming now)
+- [Treefingers](https://www.last.fm/music/Radiohead/_/Treefingers), by Radiohead (02 Jan 2022, 01:44)
+- [How to Disappear Completely](https://www.last.fm/music/Radiohead/_/How+to+Disappear+Completely), by Radiohead (02 Jan 2022, 01:38)
+- [The National Anthem](https://www.last.fm/music/Radiohead/_/The+National+Anthem), by Radiohead (02 Jan 2022, 01:35)
+- [Everything in Its Right Place](https://www.last.fm/music/Radiohead/_/Everything+in+Its+Right+Place), by Radiohead (02 Jan 2022, 01:12)
 - [Love Me Dead](https://www.last.fm/music/Ludo/_/Love+Me+Dead), by Ludo (01 Jan 2022, 22:58)
 - [Demons](https://www.last.fm/music/Isador/_/Demons), by Isador (01 Jan 2022, 22:53)
 - [At the Crossing Sign](https://www.last.fm/music/St.Arnaud/_/At+the+Crossing+Sign), by St.Arnaud (01 Jan 2022, 16:51)
@@ -50,7 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Look Better In Gold](https://www.last.fm/music/Friday+Pilots+Club/_/Look+Better+In+Gold), by Friday Pilots Club (31 Dec 2021, 17:36)
 - [Boys Club](https://www.last.fm/music/Ivory+Hours/_/Boys+Club), by Ivory Hours (31 Dec 2021, 17:33)
 - [Obvious Guy](https://www.last.fm/music/Alfie+Templeman/_/Obvious+Guy), by Alfie Templeman (31 Dec 2021, 17:30)
-- [Demons](https://www.last.fm/music/Isador/_/Demons), by Isador (31 Dec 2021, 17:26)
-- [The Logical Song](https://www.last.fm/music/Mindless+Self+Indulgence/_/The+Logical+Song), by Mindless Self Indulgence (31 Dec 2021, 17:23)
-- [Anxiety](https://www.last.fm/music/Fireworks/_/Anxiety), by Fireworks (31 Dec 2021, 17:19)
-- [I Can't Handle Change](https://www.last.fm/music/Roar/_/I+Can%27t+Handle+Change), by Roar (31 Dec 2021, 17:16)
