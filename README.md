@@ -1,10 +1,13 @@
 
 # Spotify Stats
-## Last Updated Sun Jan 02 2022 17:03:52 GMT+0000 (Coordinated Universal Time))
+## Last Updated Sun Jan 02 2022 17:48:23 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Blackheart](https://www.last.fm/music/The+Keystones/_/Blackheart), by The Keystones (streaming now)
+- [A Child's Tale](https://www.last.fm/music/Bukahara/_/A+Child%27s+Tale), by Bukahara (02 Jan 2022, 17:15)
+- [A Wistful Waltz](https://www.last.fm/music/Teddy+Hyde/_/A+Wistful+Waltz), by Teddy Hyde (02 Jan 2022, 17:11)
+- [A Friend](https://www.last.fm/music/Say+Yes+Dog/_/A+Friend), by Say Yes Dog (02 Jan 2022, 17:05)
+- [Blackheart](https://www.last.fm/music/The+Keystones/_/Blackheart), by The Keystones (02 Jan 2022, 17:01)
 - [Disco! in the Panic Room](https://www.last.fm/music/Bug+Hunter/_/Disco!+in+the+Panic+Room), by Bug Hunter (02 Jan 2022, 16:57)
 - [Grand Romantic Life](https://www.last.fm/music/Mom+Rock/_/Grand+Romantic+Life), by Mom Rock (02 Jan 2022, 16:54)
 - [Summer](https://www.last.fm/music/Circadian+Clock/_/Summer), by Circadian Clock (02 Jan 2022, 16:51)
@@ -51,7 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Sober To Death](https://www.last.fm/music/Car+Seat+Headrest/_/Sober+To+Death), by Car Seat Headrest (02 Jan 2022, 05:42)
 - [Blow Out](https://www.last.fm/music/Radiohead/_/Blow+Out), by Radiohead (02 Jan 2022, 05:37)
 - [Lurgee](https://www.last.fm/music/Radiohead/_/Lurgee), by Radiohead (02 Jan 2022, 05:34)
-- [I Can't](https://www.last.fm/music/Radiohead/_/I+Can%27t), by Radiohead (02 Jan 2022, 05:31)
-- [Prove Yourself](https://www.last.fm/music/Radiohead/_/Prove+Yourself), by Radiohead (02 Jan 2022, 05:28)
-- [Vegetable](https://www.last.fm/music/Radiohead/_/Vegetable), by Radiohead (02 Jan 2022, 05:25)
-- [Ripcord](https://www.last.fm/music/Radiohead/_/Ripcord), by Radiohead (02 Jan 2022, 05:13)
