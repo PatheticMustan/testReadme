@@ -1,10 +1,11 @@
 
 # Spotify Stats
-## Last Updated Mon Jan 03 2022 21:43:35 GMT+0000 (Coordinated Universal Time))
+## Last Updated Mon Jan 03 2022 22:44:37 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [BC](https://www.last.fm/music/Hourglass/_/BC), by Hourglass (streaming now)
+- [This Feeling](https://www.last.fm/music/Alabama+Shakes/_/This+Feeling), by Alabama Shakes (03 Jan 2022, 21:45)
+- [BC](https://www.last.fm/music/Hourglass/_/BC), by Hourglass (03 Jan 2022, 21:42)
 - [creep](https://www.last.fm/music/mxmtoon/_/creep), by mxmtoon (03 Jan 2022, 20:47)
 - [Little Bird](https://www.last.fm/music/Livingmore/_/Little+Bird), by Livingmore (03 Jan 2022, 20:44)
 - [Freedom](https://www.last.fm/music/Teddy+Hyde/_/Freedom), by Teddy Hyde (03 Jan 2022, 20:37)
@@ -53,5 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Do as You're Told](https://www.last.fm/music/Statues+of+Cats/_/Do+as+You%27re+Told), by Statues of Cats (03 Jan 2022, 02:59)
 - [Seven Circles](https://www.last.fm/music/Statues+of+Cats/_/Seven+Circles), by Statues of Cats (03 Jan 2022, 02:53)
 - [You Can Put Your Dukes Down, Stringbean](https://www.last.fm/music/Teddy+Hyde/_/You+Can+Put+Your+Dukes+Down,+Stringbean), by Teddy Hyde (03 Jan 2022, 02:44)
-- [Tallboys](https://www.last.fm/music/Teddy+Hyde/_/Tallboys), by Teddy Hyde (03 Jan 2022, 02:44)
-- [Tallboys](https://www.last.fm/music/Teddy+Hyde/_/Tallboys), by Teddy Hyde (03 Jan 2022, 02:40)
