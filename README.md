@@ -1,9 +1,10 @@
 
 # Spotify Stats
-## Last Updated Sun Jan 02 2022 23:44:16 GMT+0000 (Coordinated Universal Time))
+## Last Updated Mon Jan 03 2022 01:47:05 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [The Room Is Filled With People That Love You](https://www.last.fm/music/Foresight/_/The+Room+Is+Filled+With+People+That+Love+You), by Foresight (streaming now)
 - [A Child's Tale](https://www.last.fm/music/Bukahara/_/A+Child%27s+Tale), by Bukahara (02 Jan 2022, 17:15)
 - [A Wistful Waltz](https://www.last.fm/music/Teddy+Hyde/_/A+Wistful+Waltz), by Teddy Hyde (02 Jan 2022, 17:11)
 - [A Friend](https://www.last.fm/music/Say+Yes+Dog/_/A+Friend), by Say Yes Dog (02 Jan 2022, 17:05)
