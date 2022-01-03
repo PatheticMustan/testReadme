@@ -1,10 +1,12 @@
 
 # Spotify Stats
-## Last Updated Mon Jan 03 2022 20:45:30 GMT+0000 (Coordinated Universal Time))
+## Last Updated Mon Jan 03 2022 21:43:35 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Little Bird](https://www.last.fm/music/Livingmore/_/Little+Bird), by Livingmore (streaming now)
+- [BC](https://www.last.fm/music/Hourglass/_/BC), by Hourglass (streaming now)
+- [creep](https://www.last.fm/music/mxmtoon/_/creep), by mxmtoon (03 Jan 2022, 20:47)
+- [Little Bird](https://www.last.fm/music/Livingmore/_/Little+Bird), by Livingmore (03 Jan 2022, 20:44)
 - [Freedom](https://www.last.fm/music/Teddy+Hyde/_/Freedom), by Teddy Hyde (03 Jan 2022, 20:37)
 - [You Can Put Your Dukes Down, Stringbean](https://www.last.fm/music/Teddy+Hyde/_/You+Can+Put+Your+Dukes+Down,+Stringbean), by Teddy Hyde (03 Jan 2022, 20:33)
 - [Everything Is Going Great](https://www.last.fm/music/Tiny+Stills/_/Everything+Is+Going+Great), by Tiny Stills (03 Jan 2022, 20:29)
@@ -53,5 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [You Can Put Your Dukes Down, Stringbean](https://www.last.fm/music/Teddy+Hyde/_/You+Can+Put+Your+Dukes+Down,+Stringbean), by Teddy Hyde (03 Jan 2022, 02:44)
 - [Tallboys](https://www.last.fm/music/Teddy+Hyde/_/Tallboys), by Teddy Hyde (03 Jan 2022, 02:44)
 - [Tallboys](https://www.last.fm/music/Teddy+Hyde/_/Tallboys), by Teddy Hyde (03 Jan 2022, 02:40)
-- [Other Drugs](https://www.last.fm/music/Brick%252BMortar/_/Other+Drugs), by Brick+Mortar (03 Jan 2022, 02:38)
-- [All I Ever Wanted](https://www.last.fm/music/Futurist/_/All+I+Ever+Wanted), by Futurist (03 Jan 2022, 02:34)
