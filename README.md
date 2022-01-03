@@ -1,9 +1,18 @@
 
 # Spotify Stats
-## Last Updated Mon Jan 03 2022 19:43:28 GMT+0000 (Coordinated Universal Time))
+## Last Updated Mon Jan 03 2022 20:45:30 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Little Bird](https://www.last.fm/music/Livingmore/_/Little+Bird), by Livingmore (streaming now)
+- [Freedom](https://www.last.fm/music/Teddy+Hyde/_/Freedom), by Teddy Hyde (03 Jan 2022, 20:37)
+- [You Can Put Your Dukes Down, Stringbean](https://www.last.fm/music/Teddy+Hyde/_/You+Can+Put+Your+Dukes+Down,+Stringbean), by Teddy Hyde (03 Jan 2022, 20:33)
+- [Everything Is Going Great](https://www.last.fm/music/Tiny+Stills/_/Everything+Is+Going+Great), by Tiny Stills (03 Jan 2022, 20:29)
+- [Saint Bernard 2](https://www.last.fm/music/Lincoln/_/Saint+Bernard+2), by Lincoln (03 Jan 2022, 20:27)
+- [Take Me to Church](https://www.last.fm/music/Hozier/_/Take+Me+to+Church), by Hozier (03 Jan 2022, 20:23)
+- [When I Die](https://www.last.fm/music/Pepper+Coyote/_/When+I+Die), by Pepper Coyote (03 Jan 2022, 20:19)
+- [The Wonder Of You](https://www.last.fm/music/Villagers/_/The+Wonder+Of+You), by Villagers (03 Jan 2022, 20:17)
+- [Sweet Dreams](https://www.last.fm/music/Sunday+Avenue/_/Sweet+Dreams), by Sunday Avenue (03 Jan 2022, 06:12)
 - [The Hound and the Fox](https://www.last.fm/music/I+the+Mighty/_/The+Hound+and+the+Fox), by I the Mighty (03 Jan 2022, 06:09)
 - [Stand Up Tragedy](https://www.last.fm/music/The+Fratellis/_/Stand+Up+Tragedy), by The Fratellis (03 Jan 2022, 06:05)
 - [Problems](https://www.last.fm/music/Mother+Mother/_/Problems), by Mother Mother (03 Jan 2022, 06:02)
@@ -19,6 +28,7 @@ Oh yeah, the latest and greatest songs listened to!
 - [Nobody](https://www.last.fm/music/Mitski/_/Nobody), by Mitski (03 Jan 2022, 05:28)
 - [The Business](https://www.last.fm/music/Ti%C3%ABsto/_/The+Business), by Tiësto (03 Jan 2022, 05:25)
 - [Gold](https://www.last.fm/music/Honorary+Astronaut/_/Gold), by Honorary Astronaut (03 Jan 2022, 05:22)
+- [Little Bird](https://www.last.fm/music/Livingmore/_/Little+Bird), by Livingmore (03 Jan 2022, 05:19)
 - [Belly Side Up](https://www.last.fm/music/Bent+Knee/_/Belly+Side+Up), by Bent Knee (03 Jan 2022, 05:16)
 - [Disconnected](https://www.last.fm/music/Joe+Hertler+&+the+Rainbow+Seekers/_/Disconnected), by Joe Hertler & the Rainbow Seekers (03 Jan 2022, 05:12)
 - [Kool Girl](https://www.last.fm/music/Seasalt/_/Kool+Girl), by Seasalt (03 Jan 2022, 05:08)
@@ -45,12 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Tallboys](https://www.last.fm/music/Teddy+Hyde/_/Tallboys), by Teddy Hyde (03 Jan 2022, 02:40)
 - [Other Drugs](https://www.last.fm/music/Brick%252BMortar/_/Other+Drugs), by Brick+Mortar (03 Jan 2022, 02:38)
 - [All I Ever Wanted](https://www.last.fm/music/Futurist/_/All+I+Ever+Wanted), by Futurist (03 Jan 2022, 02:34)
-- [Everything Is Going Great](https://www.last.fm/music/Tiny+Stills/_/Everything+Is+Going+Great), by Tiny Stills (03 Jan 2022, 02:30)
-- [Always Sayin'](https://www.last.fm/music/The+Littlest+Man+Band/_/Always+Sayin%27), by The Littlest Man Band (03 Jan 2022, 02:24)
-- [Animals Crying](https://www.last.fm/music/Statues+of+Cats/_/Animals+Crying), by Statues of Cats (03 Jan 2022, 02:19)
-- [No Surprises](https://www.last.fm/music/Radiohead/_/No+Surprises), by Radiohead (03 Jan 2022, 02:15)
-- [I Hate Everything About You](https://www.last.fm/music/Three+Days+Grace/_/I+Hate+Everything+About+You), by Three Days Grace (03 Jan 2022, 02:11)
-- [Californication](https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Californication), by Red Hot Chili Peppers (03 Jan 2022, 02:02)
-- [Alright](https://www.last.fm/music/Johnny+Manchild+and+the+Poor+Bastards/_/Alright), by Johnny Manchild and the Poor Bastards (03 Jan 2022, 01:57)
-- [Don't Wanna Fight](https://www.last.fm/music/Alabama+Shakes/_/Don%27t+Wanna+Fight), by Alabama Shakes (03 Jan 2022, 01:53)
-- [It gets better](https://www.last.fm/music/Aliceband/_/It+gets+better), by Aliceband (03 Jan 2022, 01:49)
