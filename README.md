@@ -1,10 +1,19 @@
 
 # Spotify Stats
-## Last Updated Mon Jan 03 2022 05:43:17 GMT+0000 (Coordinated Universal Time))
+## Last Updated Mon Jan 03 2022 06:53:14 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Breezeblocks](https://www.last.fm/music/alt-J/_/Breezeblocks), by alt-J (streaming now)
+- [The Hound and the Fox](https://www.last.fm/music/I+the+Mighty/_/The+Hound+and+the+Fox), by I the Mighty (03 Jan 2022, 06:09)
+- [Stand Up Tragedy](https://www.last.fm/music/The+Fratellis/_/Stand+Up+Tragedy), by The Fratellis (03 Jan 2022, 06:05)
+- [Problems](https://www.last.fm/music/Mother+Mother/_/Problems), by Mother Mother (03 Jan 2022, 06:02)
+- [Warm Bodies](https://www.last.fm/music/The+Clean+Tramps/_/Warm+Bodies), by The Clean Tramps (03 Jan 2022, 05:59)
+- [Hayloft](https://www.last.fm/music/Mother+Mother/_/Hayloft), by Mother Mother (03 Jan 2022, 05:56)
+- [Constellations](https://www.last.fm/music/The+Oh+Hellos/_/Constellations), by The Oh Hellos (03 Jan 2022, 05:53)
+- [Night Life](https://www.last.fm/music/Hello+Atlantic/_/Night+Life), by Hello Atlantic (03 Jan 2022, 05:50)
+- [Can't Stand The Rain](https://www.last.fm/music/The+Rescues/_/Can%27t+Stand+The+Rain), by The Rescues (03 Jan 2022, 05:46)
+- [Teenagers](https://www.last.fm/music/My+Chemical+Romance/_/Teenagers), by My Chemical Romance (03 Jan 2022, 05:43)
+- [Breezeblocks](https://www.last.fm/music/alt-J/_/Breezeblocks), by alt-J (03 Jan 2022, 05:39)
 - [Rooster](https://www.last.fm/music/Alice+in+Chains/_/Rooster), by Alice in Chains (03 Jan 2022, 05:33)
 - [I'll Be Home For Christmas](https://www.last.fm/music/Bing+Crosby/_/I%27ll+Be+Home+For+Christmas), by Bing Crosby (03 Jan 2022, 05:30)
 - [Nobody](https://www.last.fm/music/Mitski/_/Nobody), by Mitski (03 Jan 2022, 05:28)
@@ -45,13 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Alright](https://www.last.fm/music/Johnny+Manchild+and+the+Poor+Bastards/_/Alright), by Johnny Manchild and the Poor Bastards (03 Jan 2022, 01:57)
 - [Don't Wanna Fight](https://www.last.fm/music/Alabama+Shakes/_/Don%27t+Wanna+Fight), by Alabama Shakes (03 Jan 2022, 01:53)
 - [It gets better](https://www.last.fm/music/Aliceband/_/It+gets+better), by Aliceband (03 Jan 2022, 01:49)
-- [The Room Is Filled With People That Love You](https://www.last.fm/music/Foresight/_/The+Room+Is+Filled+With+People+That+Love+You), by Foresight (03 Jan 2022, 01:45)
-- [Blackheart](https://www.last.fm/music/The+Keystones/_/Blackheart), by The Keystones (03 Jan 2022, 01:36)
-- [Anxiety](https://www.last.fm/music/Arcerion/_/Anxiety), by Arcerion (02 Jan 2022, 21:56)
-- [Dystopia](https://www.last.fm/music/Arcerion/_/Dystopia), by Arcerion (02 Jan 2022, 21:44)
-- [Sky](https://www.last.fm/music/Arcerion/_/Sky), by Arcerion (02 Jan 2022, 21:39)
-- [Feral](https://www.last.fm/music/Arcerion/_/Feral), by Arcerion (02 Jan 2022, 21:36)
-- [God Syndrome](https://www.last.fm/music/Madame+Macabre/_/God+Syndrome), by Madame Macabre (02 Jan 2022, 18:10)
-- [Fallen Angel](https://www.last.fm/music/Arcerion/_/Fallen+Angel), by Arcerion (02 Jan 2022, 18:00)
-- [Obsession - Radio Edit](https://www.last.fm/music/Consoul+Trainin/_/Obsession+-+Radio+Edit), by Consoul Trainin (02 Jan 2022, 17:55)
-- [404](https://www.last.fm/music/One+South+Lark/_/404), by One South Lark (02 Jan 2022, 17:29)
