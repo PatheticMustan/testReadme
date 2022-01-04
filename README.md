@@ -1,9 +1,17 @@
 
 # Spotify Stats
-## Last Updated Tue Jan 04 2022 20:45:39 GMT+0000 (Coordinated Universal Time))
+## Last Updated Tue Jan 04 2022 21:43:19 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Keep Two-Stepping](https://www.last.fm/music/Pretoria/_/Keep+Two-Stepping), by Pretoria (streaming now)
+- [Alter ego](https://www.last.fm/music/Caramel+Column/_/Alter+ego), by Caramel Column (04 Jan 2022, 21:39)
+- [Nice House](https://www.last.fm/music/Joywave/_/Nice+House), by Joywave (04 Jan 2022, 21:33)
+- [Who Are You Doing This For?](https://www.last.fm/music/wordsbyjuni/_/Who+Are+You+Doing+This+For%3F), by wordsbyjuni (04 Jan 2022, 21:30)
+- [Love Like You (feat. Rebecca Sugar) - End Credits](https://www.last.fm/music/Steven+Universe/_/Love+Like+You+(feat.+Rebecca+Sugar)+-+End+Credits), by Steven Universe (04 Jan 2022, 21:27)
+- [Look Like People](https://www.last.fm/music/Blue+Rain+Boots/_/Look+Like+People), by Blue Rain Boots (04 Jan 2022, 21:22)
+- [Talking to the Mirror](https://www.last.fm/music/Woolf+and+the+Wondershow/_/Talking+to+the+Mirror), by Woolf and the Wondershow (04 Jan 2022, 21:15)
+- [Runaway Baby](https://www.last.fm/music/Bruno+Mars/_/Runaway+Baby), by Bruno Mars (04 Jan 2022, 07:02)
 - [6Am](https://www.last.fm/music/Fitz+and+the+Tantrums/_/6Am), by Fitz and the Tantrums (04 Jan 2022, 06:58)
 - [Sunshine](https://www.last.fm/music/The+Brummies/_/Sunshine), by The Brummies (04 Jan 2022, 06:55)
 - [California](https://www.last.fm/music/Clayton+James+Official/_/California), by Clayton James Official (04 Jan 2022, 06:52)
@@ -47,10 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Luka](https://www.last.fm/music/Suzanne+Vega/_/Luka), by Suzanne Vega (04 Jan 2022, 04:45)
 - [Tom's Diner](https://www.last.fm/music/Suzanne+Vega/_/Tom%27s+Diner), by Suzanne Vega (04 Jan 2022, 04:43)
 - [Exoskeleton](https://www.last.fm/music/Dan+Luke+and+the+Raid/_/Exoskeleton), by Dan Luke and the Raid (04 Jan 2022, 04:40)
-- [Strange](https://www.last.fm/music/The+Score/_/Strange), by The Score (04 Jan 2022, 04:37)
-- [Bust Your Knee Caps - Johnny Don't Leave Me](https://www.last.fm/music/Pomplamoose/_/Bust+Your+Knee+Caps+-+Johnny+Don%27t+Leave+Me), by Pomplamoose (04 Jan 2022, 04:31)
-- [Stray Italian Greyhound](https://www.last.fm/music/Vienna+Teng/_/Stray+Italian+Greyhound), by Vienna Teng (04 Jan 2022, 04:27)
-- [Headstone](https://www.last.fm/music/The+Orphan+The+Poet/_/Headstone), by The Orphan The Poet (04 Jan 2022, 04:23)
-- [Panic Attack](https://www.last.fm/music/Nicky+Blitz/_/Panic+Attack), by Nicky Blitz (04 Jan 2022, 04:21)
-- [Junebug](https://www.last.fm/music/Fencer/_/Junebug), by Fencer (04 Jan 2022, 04:18)
-- [Swim Naked](https://www.last.fm/music/Betcha/_/Swim+Naked), by Betcha (04 Jan 2022, 04:14)
