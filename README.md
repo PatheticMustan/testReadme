@@ -1,10 +1,15 @@
 
 # Spotify Stats
-## Last Updated Tue Jan 04 2022 21:43:19 GMT+0000 (Coordinated Universal Time))
+## Last Updated Tue Jan 04 2022 22:44:55 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Keep Two-Stepping](https://www.last.fm/music/Pretoria/_/Keep+Two-Stepping), by Pretoria (streaming now)
+- [Hyperactive](https://www.last.fm/music/Forrest+Day/_/Hyperactive), by Forrest Day (streaming now)
+- [A Place For Me](https://www.last.fm/music/I+Hate+Kate/_/A+Place+For+Me), by I Hate Kate (04 Jan 2022, 22:39)
+- [So Long](https://www.last.fm/music/Fleece/_/So+Long), by Fleece (04 Jan 2022, 22:36)
+- [Gently](https://www.last.fm/music/Pretoria/_/Gently), by Pretoria (04 Jan 2022, 22:33)
+- [Keep Two-Stepping](https://www.last.fm/music/Pretoria/_/Keep+Two-Stepping), by Pretoria (04 Jan 2022, 22:29)
+- [Keep Two-Stepping](https://www.last.fm/music/Pretoria/_/Keep+Two-Stepping), by Pretoria (04 Jan 2022, 21:41)
 - [Alter ego](https://www.last.fm/music/Caramel+Column/_/Alter+ego), by Caramel Column (04 Jan 2022, 21:39)
 - [Nice House](https://www.last.fm/music/Joywave/_/Nice+House), by Joywave (04 Jan 2022, 21:33)
 - [Who Are You Doing This For?](https://www.last.fm/music/wordsbyjuni/_/Who+Are+You+Doing+This+For%3F), by wordsbyjuni (04 Jan 2022, 21:30)
@@ -50,8 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Mr. Radioactive](https://www.last.fm/music/Bear+Hands/_/Mr.+Radioactive), by Bear Hands (04 Jan 2022, 05:01)
 - [I'm Okay](https://www.last.fm/music/Honest+Men/_/I%27m+Okay), by Honest Men (04 Jan 2022, 04:57)
 - [Heater](https://www.last.fm/music/Little+Car/_/Heater), by Little Car (04 Jan 2022, 04:55)
-- [The Woods](https://www.last.fm/music/San+Fermin/_/The+Woods), by San Fermin (04 Jan 2022, 04:51)
-- [Love Like You (feat. Rebecca Sugar) - End Credits](https://www.last.fm/music/Steven+Universe/_/Love+Like+You+(feat.+Rebecca+Sugar)+-+End+Credits), by Steven Universe (04 Jan 2022, 04:49)
-- [Luka](https://www.last.fm/music/Suzanne+Vega/_/Luka), by Suzanne Vega (04 Jan 2022, 04:45)
-- [Tom's Diner](https://www.last.fm/music/Suzanne+Vega/_/Tom%27s+Diner), by Suzanne Vega (04 Jan 2022, 04:43)
-- [Exoskeleton](https://www.last.fm/music/Dan+Luke+and+the+Raid/_/Exoskeleton), by Dan Luke and the Raid (04 Jan 2022, 04:40)
