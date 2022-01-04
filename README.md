@@ -1,10 +1,16 @@
 
 # Spotify Stats
-## Last Updated Tue Jan 04 2022 22:44:55 GMT+0000 (Coordinated Universal Time))
+## Last Updated Tue Jan 04 2022 23:45:09 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Hyperactive](https://www.last.fm/music/Forrest+Day/_/Hyperactive), by Forrest Day (streaming now)
+- [Lovesong (The Way) [feat. Bluets]](https://www.last.fm/music/Charlie+Burg/_/Lovesong+(The+Way)+%5Bfeat.+Bluets%5D), by Charlie Burg (04 Jan 2022, 23:02)
+- [Punk Rock Kids](https://www.last.fm/music/Huxlxy/_/Punk+Rock+Kids), by Huxlxy (04 Jan 2022, 22:59)
+- [Cryptid](https://www.last.fm/music/LUCAS+LEX/_/Cryptid), by LUCAS LEX (04 Jan 2022, 22:57)
+- [Dyin' when I See Ya](https://www.last.fm/music/Sleep+State/_/Dyin%27+when+I+See+Ya), by Sleep State (04 Jan 2022, 22:53)
+- [Fucked Up](https://www.last.fm/music/Camp+Howard/_/Fucked+Up), by Camp Howard (04 Jan 2022, 22:50)
+- [Georgia Peach](https://www.last.fm/music/MANWOLVES/_/Georgia+Peach), by MANWOLVES (04 Jan 2022, 22:46)
+- [Hyperactive](https://www.last.fm/music/Forrest+Day/_/Hyperactive), by Forrest Day (04 Jan 2022, 22:43)
 - [A Place For Me](https://www.last.fm/music/I+Hate+Kate/_/A+Place+For+Me), by I Hate Kate (04 Jan 2022, 22:39)
 - [So Long](https://www.last.fm/music/Fleece/_/So+Long), by Fleece (04 Jan 2022, 22:36)
 - [Gently](https://www.last.fm/music/Pretoria/_/Gently), by Pretoria (04 Jan 2022, 22:33)
@@ -48,10 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Spiders](https://www.last.fm/music/Run+River+North/_/Spiders), by Run River North (04 Jan 2022, 05:26)
 - [What Do You Want From Me Tonight?](https://www.last.fm/music/Sidney+Gish/_/What+Do+You+Want+From+Me+Tonight%3F), by Sidney Gish (04 Jan 2022, 05:24)
 - [Folklore and Tall Tales](https://www.last.fm/music/W.+C.+Lindsay/_/Folklore+and+Tall+Tales), by W. C. Lindsay (04 Jan 2022, 05:20)
-- [Silence - Remix ver.](https://www.last.fm/music/Caramel+Column/_/Silence+-+Remix+ver.), by Caramel Column (04 Jan 2022, 05:18)
-- [Anxiety](https://www.last.fm/music/Fireworks/_/Anxiety), by Fireworks (04 Jan 2022, 05:15)
-- [The Night We Met](https://www.last.fm/music/Lord+Huron/_/The+Night+We+Met), by Lord Huron (04 Jan 2022, 05:10)
-- [The Mind Electric](https://www.last.fm/music/Miracle+Musical/_/The+Mind+Electric), by Miracle Musical (04 Jan 2022, 05:04)
-- [Mr. Radioactive](https://www.last.fm/music/Bear+Hands/_/Mr.+Radioactive), by Bear Hands (04 Jan 2022, 05:01)
-- [I'm Okay](https://www.last.fm/music/Honest+Men/_/I%27m+Okay), by Honest Men (04 Jan 2022, 04:57)
-- [Heater](https://www.last.fm/music/Little+Car/_/Heater), by Little Car (04 Jan 2022, 04:55)
