@@ -1,10 +1,19 @@
 
 # Spotify Stats
-## Last Updated Tue Jan 04 2022 02:58:16 GMT+0000 (Coordinated Universal Time))
+## Last Updated Tue Jan 04 2022 03:45:51 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Lately I Haven't Been Sleeping](https://www.last.fm/music/Spirit+Club/_/Lately+I+Haven%27t+Been+Sleeping), by Spirit Club (streaming now)
+- [Desire](https://www.last.fm/music/Meg+Myers/_/Desire), by Meg Myers (streaming now)
+- [Girls Like Me](https://www.last.fm/music/Will+Joseph+Cook/_/Girls+Like+Me), by Will Joseph Cook (04 Jan 2022, 03:40)
+- [Lalala](https://www.last.fm/music/Y2K/_/Lalala), by Y2K (04 Jan 2022, 03:36)
+- [Mother](https://www.last.fm/music/Danzig/_/Mother), by Danzig (04 Jan 2022, 03:33)
+- [Dead Inside](https://www.last.fm/music/Younger+Hunger/_/Dead+Inside), by Younger Hunger (04 Jan 2022, 03:30)
+- [Heart of a Dancer](https://www.last.fm/music/The+Happy+Fits/_/Heart+of+a+Dancer), by The Happy Fits (04 Jan 2022, 03:08)
+- [Medicine](https://www.last.fm/music/Artist+vs.+Poet/_/Medicine), by Artist vs. Poet (04 Jan 2022, 03:05)
+- [Otherside](https://www.last.fm/music/Public+Theatre/_/Otherside), by Public Theatre (04 Jan 2022, 03:02)
+- [These Drugs](https://www.last.fm/music/Sugar+Pine+7/_/These+Drugs), by Sugar Pine 7 (04 Jan 2022, 02:58)
+- [Lately I Haven't Been Sleeping](https://www.last.fm/music/Spirit+Club/_/Lately+I+Haven%27t+Been+Sleeping), by Spirit Club (04 Jan 2022, 02:55)
 - [The Woods](https://www.last.fm/music/San+Fermin/_/The+Woods), by San Fermin (04 Jan 2022, 02:52)
 - [Love Like You (feat. Rebecca Sugar) - End Credits](https://www.last.fm/music/Steven+Universe/_/Love+Like+You+(feat.+Rebecca+Sugar)+-+End+Credits), by Steven Universe (04 Jan 2022, 02:50)
 - [Heater](https://www.last.fm/music/Little+Car/_/Heater), by Little Car (04 Jan 2022, 02:47)
@@ -46,12 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [The Greatest](https://www.last.fm/music/Alabama+Shakes/_/The+Greatest), by Alabama Shakes (03 Jan 2022, 23:23)
 - [Guess Who](https://www.last.fm/music/Alabama+Shakes/_/Guess+Who), by Alabama Shakes (03 Jan 2022, 23:19)
 - [This Feeling](https://www.last.fm/music/Alabama+Shakes/_/This+Feeling), by Alabama Shakes (03 Jan 2022, 23:07)
-- [Gimme All Your Love](https://www.last.fm/music/Alabama+Shakes/_/Gimme+All+Your+Love), by Alabama Shakes (03 Jan 2022, 23:02)
-- [Future People](https://www.last.fm/music/Alabama+Shakes/_/Future+People), by Alabama Shakes (03 Jan 2022, 22:59)
-- [Dunes](https://www.last.fm/music/Alabama+Shakes/_/Dunes), by Alabama Shakes (03 Jan 2022, 22:55)
-- [Don't Wanna Fight](https://www.last.fm/music/Alabama+Shakes/_/Don%27t+Wanna+Fight), by Alabama Shakes (03 Jan 2022, 22:50)
-- [Sound & Color](https://www.last.fm/music/Alabama+Shakes/_/Sound+&+Color), by Alabama Shakes (03 Jan 2022, 22:47)
-- [Death of a Bachelor](https://www.last.fm/music/Panic!+at+the+Disco/_/Death+of+a+Bachelor), by Panic! at the Disco (03 Jan 2022, 22:06)
-- [This Feeling](https://www.last.fm/music/Alabama+Shakes/_/This+Feeling), by Alabama Shakes (03 Jan 2022, 21:45)
-- [BC](https://www.last.fm/music/Hourglass/_/BC), by Hourglass (03 Jan 2022, 21:42)
-- [creep](https://www.last.fm/music/mxmtoon/_/creep), by mxmtoon (03 Jan 2022, 20:47)
