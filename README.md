@@ -1,10 +1,12 @@
 
 # Spotify Stats
-## Last Updated Tue Jan 04 2022 06:52:54 GMT+0000 (Coordinated Universal Time))
+## Last Updated Tue Jan 04 2022 07:43:23 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [California](https://www.last.fm/music/Clayton+James+Official/_/California), by Clayton James Official (streaming now)
+- [6Am](https://www.last.fm/music/Fitz+and+the+Tantrums/_/6Am), by Fitz and the Tantrums (04 Jan 2022, 06:58)
+- [Sunshine](https://www.last.fm/music/The+Brummies/_/Sunshine), by The Brummies (04 Jan 2022, 06:55)
+- [California](https://www.last.fm/music/Clayton+James+Official/_/California), by Clayton James Official (04 Jan 2022, 06:52)
 - [Blue Lips](https://www.last.fm/music/Her%27s/_/Blue+Lips), by Her's (04 Jan 2022, 06:48)
 - [Can You Keep Up](https://www.last.fm/music/Blue+Kid/_/Can+You+Keep+Up), by Blue Kid (04 Jan 2022, 06:45)
 - [Dancing In The Moonlight](https://www.last.fm/music/King+Harvest/_/Dancing+In+The+Moonlight), by King Harvest (04 Jan 2022, 06:42)
@@ -52,6 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Panic Attack](https://www.last.fm/music/Nicky+Blitz/_/Panic+Attack), by Nicky Blitz (04 Jan 2022, 04:21)
 - [Junebug](https://www.last.fm/music/Fencer/_/Junebug), by Fencer (04 Jan 2022, 04:18)
 - [Swim Naked](https://www.last.fm/music/Betcha/_/Swim+Naked), by Betcha (04 Jan 2022, 04:14)
-- [Thursday](https://www.last.fm/music/Desert+Bloom/_/Thursday), by Desert Bloom (04 Jan 2022, 04:11)
-- [Silence (voice)](https://www.last.fm/music/Caramel+Column/_/Silence+(voice)), by Caramel Column (04 Jan 2022, 04:08)
-- [Kombucha](https://www.last.fm/music/Winnetka+Bowling+League/_/Kombucha), by Winnetka Bowling League (04 Jan 2022, 03:56)
