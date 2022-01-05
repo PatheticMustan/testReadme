@@ -1,9 +1,10 @@
 
 # Spotify Stats
-## Last Updated Tue Jan 04 2022 23:45:09 GMT+0000 (Coordinated Universal Time))
+## Last Updated Wed Jan 05 2022 01:50:13 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [The Wonder Of You](https://www.last.fm/music/Villagers/_/The+Wonder+Of+You), by Villagers (04 Jan 2022, 23:06)
 - [Lovesong (The Way) [feat. Bluets]](https://www.last.fm/music/Charlie+Burg/_/Lovesong+(The+Way)+%5Bfeat.+Bluets%5D), by Charlie Burg (04 Jan 2022, 23:02)
 - [Punk Rock Kids](https://www.last.fm/music/Huxlxy/_/Punk+Rock+Kids), by Huxlxy (04 Jan 2022, 22:59)
 - [Cryptid](https://www.last.fm/music/LUCAS+LEX/_/Cryptid), by LUCAS LEX (04 Jan 2022, 22:57)
@@ -53,4 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Smoke You Out](https://www.last.fm/music/Teddy+Hyde/_/Smoke+You+Out), by Teddy Hyde (04 Jan 2022, 05:29)
 - [Spiders](https://www.last.fm/music/Run+River+North/_/Spiders), by Run River North (04 Jan 2022, 05:26)
 - [What Do You Want From Me Tonight?](https://www.last.fm/music/Sidney+Gish/_/What+Do+You+Want+From+Me+Tonight%3F), by Sidney Gish (04 Jan 2022, 05:24)
-- [Folklore and Tall Tales](https://www.last.fm/music/W.+C.+Lindsay/_/Folklore+and+Tall+Tales), by W. C. Lindsay (04 Jan 2022, 05:20)
