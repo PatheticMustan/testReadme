@@ -1,9 +1,21 @@
 
 # Spotify Stats
-## Last Updated Wed Jan 05 2022 02:58:54 GMT+0000 (Coordinated Universal Time))
+## Last Updated Wed Jan 05 2022 03:47:01 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Sleep with a Baseball Bat](https://www.last.fm/music/Cosmic+Johnny/_/Sleep+with+a+Baseball+Bat), by Cosmic Johnny (05 Jan 2022, 03:32)
+- [you're my world](https://www.last.fm/music/Atlas/_/you%27re+my+world), by Atlas (05 Jan 2022, 03:29)
+- [Handsome (But U Ugly!)](https://www.last.fm/music/Half+White+Full+Black/_/Handsome+(But+U+Ugly!)), by Half White Full Black (05 Jan 2022, 03:26)
+- [Follow You](https://www.last.fm/music/Imagine+Dragons/_/Follow+You), by Imagine Dragons (05 Jan 2022, 03:23)
+- [Perfect](https://www.last.fm/music/Rob+Cantor/_/Perfect), by Rob Cantor (05 Jan 2022, 03:20)
+- [I Hope You Die in a Fire](https://www.last.fm/music/Grand+Commander/_/I+Hope+You+Die+in+a+Fire), by Grand Commander (05 Jan 2022, 03:18)
+- [Black Plastic](https://www.last.fm/music/Carver+Commodore/_/Black+Plastic), by Carver Commodore (05 Jan 2022, 03:16)
+- [Never Wanna Fall in Love With U](https://www.last.fm/music/Nelward/_/Never+Wanna+Fall+in+Love+With+U), by Nelward (05 Jan 2022, 03:07)
+- [Point to Prove (I Was an Ugly Kid)](https://www.last.fm/music/Bug+Hunter/_/Point+to+Prove+(I+Was+an+Ugly+Kid)), by Bug Hunter (05 Jan 2022, 03:03)
+- [Vacation](https://www.last.fm/music/Attica+Riots/_/Vacation), by Attica Riots (05 Jan 2022, 03:00)
+- [Poor George](https://www.last.fm/music/James+Supercave/_/Poor+George), by James Supercave (05 Jan 2022, 02:55)
+- [Fever Dream](https://www.last.fm/music/The+Brummies/_/Fever+Dream), by The Brummies (05 Jan 2022, 02:52)
 - [Constellations](https://www.last.fm/music/The+Oh+Hellos/_/Constellations), by The Oh Hellos (05 Jan 2022, 01:47)
 - [The Wonder Of You](https://www.last.fm/music/Villagers/_/The+Wonder+Of+You), by Villagers (04 Jan 2022, 23:06)
 - [Lovesong (The Way) [feat. Bluets]](https://www.last.fm/music/Charlie+Burg/_/Lovesong+(The+Way)+%5Bfeat.+Bluets%5D), by Charlie Burg (04 Jan 2022, 23:02)
@@ -42,15 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Terrifyer](https://www.last.fm/music/AJJ/_/Terrifyer), by AJJ (04 Jan 2022, 06:13)
 - [Baby Hotline](https://www.last.fm/music/Jack+Stauber%27s+Micropop/_/Baby+Hotline), by Jack Stauber's Micropop (04 Jan 2022, 06:09)
 - [Runaway Goliath](https://www.last.fm/music/Mantaraybryn/_/Runaway+Goliath), by Mantaraybryn (04 Jan 2022, 06:05)
-- [Mate Um Bonito Hoje Mesmo!](https://www.last.fm/music/Marcioz/_/Mate+Um+Bonito+Hoje+Mesmo!), by Marcioz (04 Jan 2022, 06:02)
-- [Junebug](https://www.last.fm/music/Fencer/_/Junebug), by Fencer (04 Jan 2022, 05:59)
-- [eating my computer](https://www.last.fm/music/elliotly/_/eating+my+computer), by elliotly (04 Jan 2022, 05:55)
-- [Avenues](https://www.last.fm/music/Drive45/_/Avenues), by Drive45 (04 Jan 2022, 05:52)
-- [Runaway](https://www.last.fm/music/Tyto+Grey/_/Runaway), by Tyto Grey (04 Jan 2022, 05:49)
-- [Unicorns Die When You Leave](https://www.last.fm/music/Kishi+Bashi/_/Unicorns+Die+When+You+Leave), by Kishi Bashi (04 Jan 2022, 05:46)
-- [W.U.G.](https://www.last.fm/music/Chris+Fleming/_/W.U.G.), by Chris Fleming (04 Jan 2022, 05:42)
-- [So I Go](https://www.last.fm/music/Feed+The+Biirds/_/So+I+Go), by Feed The Biirds (04 Jan 2022, 05:39)
-- [Entangled Life](https://www.last.fm/music/Merlin+Sheldrake/_/Entangled+Life), by Merlin Sheldrake (04 Jan 2022, 05:38)
-- [Dancin (feat. Luvli) - Krono Remix](https://www.last.fm/music/Aaron+Smith/_/Dancin+(feat.+Luvli)+-+Krono+Remix), by Aaron Smith (04 Jan 2022, 05:35)
-- [Absentee](https://www.last.fm/music/Jack+Campbell/_/Absentee), by Jack Campbell (04 Jan 2022, 05:32)
-- [Smoke You Out](https://www.last.fm/music/Teddy+Hyde/_/Smoke+You+Out), by Teddy Hyde (04 Jan 2022, 05:29)
