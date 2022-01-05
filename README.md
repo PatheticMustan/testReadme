@@ -1,9 +1,18 @@
 
 # Spotify Stats
-## Last Updated Wed Jan 05 2022 04:56:10 GMT+0000 (Coordinated Universal Time))
+## Last Updated Wed Jan 05 2022 05:43:16 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Gimme All Your Love](https://www.last.fm/music/Alabama+Shakes/_/Gimme+All+Your+Love), by Alabama Shakes (05 Jan 2022, 05:30)
+- [Brooklyn Bridge to Chorus](https://www.last.fm/music/The+Strokes/_/Brooklyn+Bridge+to+Chorus), by The Strokes (05 Jan 2022, 05:26)
+- [I Hope You Die in a Fire](https://www.last.fm/music/Grand+Commander/_/I+Hope+You+Die+in+a+Fire), by Grand Commander (05 Jan 2022, 05:24)
+- [Kids](https://www.last.fm/music/Current+Joys/_/Kids), by Current Joys (05 Jan 2022, 05:20)
+- [Free the Beautiful](https://www.last.fm/music/Harletson/_/Free+the+Beautiful), by Harletson (05 Jan 2022, 05:17)
+- [CAN YOU HEAR THE MOON](https://www.last.fm/music/Grady/_/CAN+YOU+HEAR+THE+MOON), by Grady (05 Jan 2022, 05:14)
+- [Feel a Little Closer](https://www.last.fm/music/silver+&+gold/_/Feel+a+Little+Closer), by silver & gold (05 Jan 2022, 05:10)
+- [Ode to the Mets](https://www.last.fm/music/The+Strokes/_/Ode+to+the+Mets), by The Strokes (05 Jan 2022, 05:04)
+- [LoveSick](https://www.last.fm/music/boywithuke/_/LoveSick), by boywithuke (05 Jan 2022, 04:13)
 - [Sleep with a Baseball Bat](https://www.last.fm/music/Cosmic+Johnny/_/Sleep+with+a+Baseball+Bat), by Cosmic Johnny (05 Jan 2022, 03:32)
 - [you're my world](https://www.last.fm/music/Atlas/_/you%27re+my+world), by Atlas (05 Jan 2022, 03:29)
 - [Handsome (But U Ugly!)](https://www.last.fm/music/Half+White+Full+Black/_/Handsome+(But+U+Ugly!)), by Half White Full Black (05 Jan 2022, 03:26)
@@ -11,6 +20,8 @@ Oh yeah, the latest and greatest songs listened to!
 - [Perfect](https://www.last.fm/music/Rob+Cantor/_/Perfect), by Rob Cantor (05 Jan 2022, 03:20)
 - [I Hope You Die in a Fire](https://www.last.fm/music/Grand+Commander/_/I+Hope+You+Die+in+a+Fire), by Grand Commander (05 Jan 2022, 03:18)
 - [Black Plastic](https://www.last.fm/music/Carver+Commodore/_/Black+Plastic), by Carver Commodore (05 Jan 2022, 03:16)
+- [All the Best](https://www.last.fm/music/Siames/_/All+the+Best), by Siames (05 Jan 2022, 03:16)
+- [Chopsticks and Champagne](https://www.last.fm/music/First+in+Flight/_/Chopsticks+and+Champagne), by First in Flight (05 Jan 2022, 03:13)
 - [Never Wanna Fall in Love With U](https://www.last.fm/music/Nelward/_/Never+Wanna+Fall+in+Love+With+U), by Nelward (05 Jan 2022, 03:07)
 - [Point to Prove (I Was an Ugly Kid)](https://www.last.fm/music/Bug+Hunter/_/Point+to+Prove+(I+Was+an+Ugly+Kid)), by Bug Hunter (05 Jan 2022, 03:03)
 - [Vacation](https://www.last.fm/music/Attica+Riots/_/Vacation), by Attica Riots (05 Jan 2022, 03:00)
@@ -43,14 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [California](https://www.last.fm/music/Clayton+James+Official/_/California), by Clayton James Official (04 Jan 2022, 06:52)
 - [Blue Lips](https://www.last.fm/music/Her%27s/_/Blue+Lips), by Her's (04 Jan 2022, 06:48)
 - [Can You Keep Up](https://www.last.fm/music/Blue+Kid/_/Can+You+Keep+Up), by Blue Kid (04 Jan 2022, 06:45)
-- [Dancing In The Moonlight](https://www.last.fm/music/King+Harvest/_/Dancing+In+The+Moonlight), by King Harvest (04 Jan 2022, 06:42)
-- [Fever Dream](https://www.last.fm/music/The+Brummies/_/Fever+Dream), by The Brummies (04 Jan 2022, 06:38)
-- [As the World Caves in](https://www.last.fm/music/Matt+Maltese/_/As+the+World+Caves+in), by Matt Maltese (04 Jan 2022, 06:35)
-- [Me and My Broken Heart](https://www.last.fm/music/Rixton/_/Me+and+My+Broken+Heart), by Rixton (04 Jan 2022, 06:31)
-- [Fly in My Room](https://www.last.fm/music/Kerrin+Connolly/_/Fly+in+My+Room), by Kerrin Connolly (04 Jan 2022, 06:29)
-- [Grilled Cheese](https://www.last.fm/music/Peach+Face/_/Grilled+Cheese), by Peach Face (04 Jan 2022, 06:24)
-- [Denim](https://www.last.fm/music/Stelth+Ulvang/_/Denim), by Stelth Ulvang (04 Jan 2022, 06:21)
-- [Champagne Drops](https://www.last.fm/music/My+bubba/_/Champagne+Drops), by My bubba (04 Jan 2022, 06:18)
-- [Terrifyer](https://www.last.fm/music/AJJ/_/Terrifyer), by AJJ (04 Jan 2022, 06:13)
-- [Baby Hotline](https://www.last.fm/music/Jack+Stauber%27s+Micropop/_/Baby+Hotline), by Jack Stauber's Micropop (04 Jan 2022, 06:09)
-- [Runaway Goliath](https://www.last.fm/music/Mantaraybryn/_/Runaway+Goliath), by Mantaraybryn (04 Jan 2022, 06:05)
