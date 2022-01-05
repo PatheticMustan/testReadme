@@ -1,9 +1,10 @@
 
 # Spotify Stats
-## Last Updated Wed Jan 05 2022 01:50:13 GMT+0000 (Coordinated Universal Time))
+## Last Updated Wed Jan 05 2022 02:58:54 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Constellations](https://www.last.fm/music/The+Oh+Hellos/_/Constellations), by The Oh Hellos (05 Jan 2022, 01:47)
 - [The Wonder Of You](https://www.last.fm/music/Villagers/_/The+Wonder+Of+You), by Villagers (04 Jan 2022, 23:06)
 - [Lovesong (The Way) [feat. Bluets]](https://www.last.fm/music/Charlie+Burg/_/Lovesong+(The+Way)+%5Bfeat.+Bluets%5D), by Charlie Burg (04 Jan 2022, 23:02)
 - [Punk Rock Kids](https://www.last.fm/music/Huxlxy/_/Punk+Rock+Kids), by Huxlxy (04 Jan 2022, 22:59)
@@ -16,6 +17,7 @@ Oh yeah, the latest and greatest songs listened to!
 - [So Long](https://www.last.fm/music/Fleece/_/So+Long), by Fleece (04 Jan 2022, 22:36)
 - [Gently](https://www.last.fm/music/Pretoria/_/Gently), by Pretoria (04 Jan 2022, 22:33)
 - [Keep Two-Stepping](https://www.last.fm/music/Pretoria/_/Keep+Two-Stepping), by Pretoria (04 Jan 2022, 22:29)
+- [Runaway Baby](https://www.last.fm/music/Bruno+Mars/_/Runaway+Baby), by Bruno Mars (04 Jan 2022, 22:18)
 - [Keep Two-Stepping](https://www.last.fm/music/Pretoria/_/Keep+Two-Stepping), by Pretoria (04 Jan 2022, 21:41)
 - [Alter ego](https://www.last.fm/music/Caramel+Column/_/Alter+ego), by Caramel Column (04 Jan 2022, 21:39)
 - [Nice House](https://www.last.fm/music/Joywave/_/Nice+House), by Joywave (04 Jan 2022, 21:33)
@@ -52,5 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Dancin (feat. Luvli) - Krono Remix](https://www.last.fm/music/Aaron+Smith/_/Dancin+(feat.+Luvli)+-+Krono+Remix), by Aaron Smith (04 Jan 2022, 05:35)
 - [Absentee](https://www.last.fm/music/Jack+Campbell/_/Absentee), by Jack Campbell (04 Jan 2022, 05:32)
 - [Smoke You Out](https://www.last.fm/music/Teddy+Hyde/_/Smoke+You+Out), by Teddy Hyde (04 Jan 2022, 05:29)
-- [Spiders](https://www.last.fm/music/Run+River+North/_/Spiders), by Run River North (04 Jan 2022, 05:26)
-- [What Do You Want From Me Tonight?](https://www.last.fm/music/Sidney+Gish/_/What+Do+You+Want+From+Me+Tonight%3F), by Sidney Gish (04 Jan 2022, 05:24)
