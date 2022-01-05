@@ -1,9 +1,15 @@
 
 # Spotify Stats
-## Last Updated Wed Jan 05 2022 19:43:23 GMT+0000 (Coordinated Universal Time))
+## Last Updated Wed Jan 05 2022 20:45:42 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Love Like You (feat. Rebecca Sugar) - End Credits](https://www.last.fm/music/Steven+Universe/_/Love+Like+You+(feat.+Rebecca+Sugar)+-+End+Credits), by Steven Universe (05 Jan 2022, 20:37)
+- [1984](https://www.last.fm/music/Devarrow/_/1984), by Devarrow (05 Jan 2022, 20:33)
+- [Televised](https://www.last.fm/music/Hunny/_/Televised), by Hunny (05 Jan 2022, 20:30)
+- [HandClap](https://www.last.fm/music/Fitz+and+the+Tantrums/_/HandClap), by Fitz and the Tantrums (05 Jan 2022, 20:27)
+- [Doubts](https://www.last.fm/music/c0nv0/_/Doubts), by c0nv0 (05 Jan 2022, 20:23)
+- [Talking to the Mirror](https://www.last.fm/music/Woolf+and+the+Wondershow/_/Talking+to+the+Mirror), by Woolf and the Wondershow (05 Jan 2022, 12:44)
 - [I Think I Like When It Rains](https://www.last.fm/music/Willis/_/I+Think+I+Like+When+It+Rains), by Willis (05 Jan 2022, 12:39)
 - [Pantherland](https://www.last.fm/music/Ghost+Soul+Trio/_/Pantherland), by Ghost Soul Trio (05 Jan 2022, 12:36)
 - [Pantherland](https://www.last.fm/music/Ghost+Soul+Trio/_/Pantherland), by Ghost Soul Trio (05 Jan 2022, 07:16)
@@ -48,9 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Constellations](https://www.last.fm/music/The+Oh+Hellos/_/Constellations), by The Oh Hellos (05 Jan 2022, 01:47)
 - [The Wonder Of You](https://www.last.fm/music/Villagers/_/The+Wonder+Of+You), by Villagers (04 Jan 2022, 23:06)
 - [Lovesong (The Way) [feat. Bluets]](https://www.last.fm/music/Charlie+Burg/_/Lovesong+(The+Way)+%5Bfeat.+Bluets%5D), by Charlie Burg (04 Jan 2022, 23:02)
-- [Punk Rock Kids](https://www.last.fm/music/Huxlxy/_/Punk+Rock+Kids), by Huxlxy (04 Jan 2022, 22:59)
-- [Cryptid](https://www.last.fm/music/LUCAS+LEX/_/Cryptid), by LUCAS LEX (04 Jan 2022, 22:57)
-- [Dyin' when I See Ya](https://www.last.fm/music/Sleep+State/_/Dyin%27+when+I+See+Ya), by Sleep State (04 Jan 2022, 22:53)
-- [Fucked Up](https://www.last.fm/music/Camp+Howard/_/Fucked+Up), by Camp Howard (04 Jan 2022, 22:50)
-- [Georgia Peach](https://www.last.fm/music/MANWOLVES/_/Georgia+Peach), by MANWOLVES (04 Jan 2022, 22:46)
-- [Hyperactive](https://www.last.fm/music/Forrest+Day/_/Hyperactive), by Forrest Day (04 Jan 2022, 22:43)
