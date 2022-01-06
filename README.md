@@ -1,10 +1,11 @@
 
 # Spotify Stats
-## Last Updated Wed Jan 05 2022 23:45:22 GMT+0000 (Coordinated Universal Time))
+## Last Updated Thu Jan 06 2022 01:55:42 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
-- [Space Cadet](https://www.last.fm/music/The+Technicolors/_/Space+Cadet), by The Technicolors (streaming now)
+- [Idk](https://www.last.fm/music/Breakup+Shoes/_/Idk), by Breakup Shoes (05 Jan 2022, 23:49)
+- [Space Cadet](https://www.last.fm/music/The+Technicolors/_/Space+Cadet), by The Technicolors (05 Jan 2022, 23:44)
 - [Pale Blue Eyes](https://www.last.fm/music/The+Velvet+Underground/_/Pale+Blue+Eyes), by The Velvet Underground (05 Jan 2022, 23:39)
 - [The Louisville Shuffle (RIP)](https://www.last.fm/music/Sarah+and+the+Safe+Word/_/The+Louisville+Shuffle+(RIP)), by Sarah and the Safe Word (05 Jan 2022, 23:36)
 - [Parking Garage](https://www.last.fm/music/Tommy+Bravos/_/Parking+Garage), by Tommy Bravos (05 Jan 2022, 23:32)
@@ -53,5 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Talking to the Mirror](https://www.last.fm/music/Woolf+and+the+Wondershow/_/Talking+to+the+Mirror), by Woolf and the Wondershow (05 Jan 2022, 12:44)
 - [I Think I Like When It Rains](https://www.last.fm/music/Willis/_/I+Think+I+Like+When+It+Rains), by Willis (05 Jan 2022, 12:39)
 - [Pantherland](https://www.last.fm/music/Ghost+Soul+Trio/_/Pantherland), by Ghost Soul Trio (05 Jan 2022, 12:36)
-- [Pantherland](https://www.last.fm/music/Ghost+Soul+Trio/_/Pantherland), by Ghost Soul Trio (05 Jan 2022, 07:16)
-- [All I Ever Wanted](https://www.last.fm/music/Futurist/_/All+I+Ever+Wanted), by Futurist (05 Jan 2022, 07:06)
