@@ -1,9 +1,12 @@
 
 # Spotify Stats
-## Last Updated Thu Jan 06 2022 03:00:52 GMT+0000 (Coordinated Universal Time))
+## Last Updated Thu Jan 06 2022 03:48:13 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [I want a dog](https://www.last.fm/music/Hobo+Johnson/_/I+want+a+dog), by Hobo Johnson (06 Jan 2022, 03:11)
+- [Sing When No One's Around](https://www.last.fm/music/The+Reign+Of+Kindo/_/Sing+When+No+One%27s+Around), by The Reign Of Kindo (06 Jan 2022, 03:07)
+- [What Have They Done To You Now](https://www.last.fm/music/Daniel+Knox/_/What+Have+They+Done+To+You+Now), by Daniel Knox (05 Jan 2022, 23:57)
 - [Idk](https://www.last.fm/music/Breakup+Shoes/_/Idk), by Breakup Shoes (05 Jan 2022, 23:49)
 - [Space Cadet](https://www.last.fm/music/The+Technicolors/_/Space+Cadet), by The Technicolors (05 Jan 2022, 23:44)
 - [Pale Blue Eyes](https://www.last.fm/music/The+Velvet+Underground/_/Pale+Blue+Eyes), by The Velvet Underground (05 Jan 2022, 23:39)
@@ -51,6 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Animals Crying](https://www.last.fm/music/Statues+of+Cats/_/Animals+Crying), by Statues of Cats (05 Jan 2022, 20:06)
 - [Me and My Broken Heart](https://www.last.fm/music/Rixton/_/Me+and+My+Broken+Heart), by Rixton (05 Jan 2022, 12:54)
 - [Be Better At Listening](https://www.last.fm/music/Pomplamoose/_/Be+Better+At+Listening), by Pomplamoose (05 Jan 2022, 12:51)
-- [Talking to the Mirror](https://www.last.fm/music/Woolf+and+the+Wondershow/_/Talking+to+the+Mirror), by Woolf and the Wondershow (05 Jan 2022, 12:44)
-- [I Think I Like When It Rains](https://www.last.fm/music/Willis/_/I+Think+I+Like+When+It+Rains), by Willis (05 Jan 2022, 12:39)
-- [Pantherland](https://www.last.fm/music/Ghost+Soul+Trio/_/Pantherland), by Ghost Soul Trio (05 Jan 2022, 12:36)
