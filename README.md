@@ -1,9 +1,12 @@
 
 # Spotify Stats
-## Last Updated Fri Jan 07 2022 03:48:37 GMT+0000 (Coordinated Universal Time))
+## Last Updated Fri Jan 07 2022 04:56:07 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Alright](https://www.last.fm/music/Johnny+Manchild+and+the+Poor+Bastards/_/Alright), by Johnny Manchild and the Poor Bastards (streaming now)
+- [A Friend](https://www.last.fm/music/Say+Yes+Dog/_/A+Friend), by Say Yes Dog (07 Jan 2022, 04:48)
+- [Fucked Up](https://www.last.fm/music/Camp+Howard/_/Fucked+Up), by Camp Howard (07 Jan 2022, 03:20)
 - [Nice House](https://www.last.fm/music/Joywave/_/Nice+House), by Joywave (07 Jan 2022, 01:25)
 - [Vacation](https://www.last.fm/music/Attica+Riots/_/Vacation), by Attica Riots (07 Jan 2022, 01:01)
 - [Kids](https://www.last.fm/music/Current+Joys/_/Kids), by Current Joys (07 Jan 2022, 00:56)
@@ -52,5 +55,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [High Enough](https://www.last.fm/music/K.Flay/_/High+Enough), by K.Flay (06 Jan 2022, 05:33)
 - [Anxiety, My Best Friend](https://www.last.fm/music/La+Bouquet/_/Anxiety,+My+Best+Friend), by La Bouquet (06 Jan 2022, 05:29)
 - [Gently](https://www.last.fm/music/Pretoria/_/Gently), by Pretoria (06 Jan 2022, 05:26)
-- [Look Like People](https://www.last.fm/music/Blue+Rain+Boots/_/Look+Like+People), by Blue Rain Boots (06 Jan 2022, 05:23)
-- [eating my computer](https://www.last.fm/music/elliotly/_/eating+my+computer), by elliotly (06 Jan 2022, 05:17)
