@@ -1,9 +1,10 @@
 
 # Spotify Stats
-## Last Updated Fri Jan 07 2022 03:01:23 GMT+0000 (Coordinated Universal Time))
+## Last Updated Fri Jan 07 2022 03:48:37 GMT+0000 (Coordinated Universal Time))
 
 Oh yeah, the latest and greatest songs listened to!
 
+- [Nice House](https://www.last.fm/music/Joywave/_/Nice+House), by Joywave (07 Jan 2022, 01:25)
 - [Vacation](https://www.last.fm/music/Attica+Riots/_/Vacation), by Attica Riots (07 Jan 2022, 01:01)
 - [Kids](https://www.last.fm/music/Current+Joys/_/Kids), by Current Joys (07 Jan 2022, 00:56)
 - [Sing When No One's Around](https://www.last.fm/music/The+Reign+Of+Kindo/_/Sing+When+No+One%27s+Around), by The Reign Of Kindo (07 Jan 2022, 00:52)
@@ -18,6 +19,7 @@ Oh yeah, the latest and greatest songs listened to!
 - [Nude](https://www.last.fm/music/Radiohead/_/Nude), by Radiohead (07 Jan 2022, 00:12)
 - [Bodysnatchers](https://www.last.fm/music/Radiohead/_/Bodysnatchers), by Radiohead (07 Jan 2022, 00:02)
 - [15 Step](https://www.last.fm/music/Radiohead/_/15+Step), by Radiohead (06 Jan 2022, 23:58)
+- [The Louisville Shuffle (RIP)](https://www.last.fm/music/Sarah+and+the+Safe+Word/_/The+Louisville+Shuffle+(RIP)), by Sarah and the Safe Word (06 Jan 2022, 22:57)
 - [Static](https://www.last.fm/music/Oneski/_/Static), by Oneski (06 Jan 2022, 22:11)
 - [Dust and Ashes](https://www.last.fm/music/Josh+Groban/_/Dust+and+Ashes), by Josh Groban (06 Jan 2022, 22:04)
 - [Dust and Ashes](https://www.last.fm/music/Josh+Groban/_/Dust+and+Ashes), by Josh Groban (06 Jan 2022, 21:57)
@@ -52,5 +54,3 @@ Oh yeah, the latest and greatest songs listened to!
 - [Gently](https://www.last.fm/music/Pretoria/_/Gently), by Pretoria (06 Jan 2022, 05:26)
 - [Look Like People](https://www.last.fm/music/Blue+Rain+Boots/_/Look+Like+People), by Blue Rain Boots (06 Jan 2022, 05:23)
 - [eating my computer](https://www.last.fm/music/elliotly/_/eating+my+computer), by elliotly (06 Jan 2022, 05:17)
-- [Hyperactive](https://www.last.fm/music/Forrest+Day/_/Hyperactive), by Forrest Day (06 Jan 2022, 05:13)
-- [It's Not Like I Like You!!](https://www.last.fm/music/Static-P/_/It%27s+Not+Like+I+Like+You!!), by Static-P (06 Jan 2022, 05:10)
